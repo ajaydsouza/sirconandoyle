@@ -19,24 +19,36 @@ const novels = [
 <Base title="Home">
   <div class="max-w-4xl mx-auto px-4 py-12">
     <div class="text-center mb-14">
-      <h1 class="font-serif text-4xl font-semibold text-stone-900 mb-3">Sir Arthur Conan Doyle</h1>
-      <p class="text-stone-600 text-lg max-w-xl mx-auto">His Life, All His Works and More</p>
+      <h1 class="font-serif text-4xl font-semibold text-black mb-3">Sir Arthur Conan Doyle</h1>
+      <p class="text-amber-900 text-lg max-w-xl mx-auto">His Life, All His Works and More</p>
     </div>
 
-    <section class="mb-14">
-      <p class="text-stone-700 mb-6 text-base leading-relaxed">Welcome to Sir Arthur Conan Doyle – His Life, All His Works and More, a leading website bringing you the works of Sir Arthur Conan Doyle including his most popular creation Sherlock Holmes.</p>
+    <section class="mb-14 bg-white bg-opacity-80 rounded-lg p-8">
+      <h2 class="font-serif text-2xl text-black mb-4">About the Author</h2>
+      <div class="text-black text-base leading-relaxed space-y-4">
+        <p>Sir Arthur Ignatius Conan Doyle (1859–1930) was a Scottish writer best known for creating Sherlock Holmes, literature's most famous detective. Born in Edinburgh to Roman Catholic parents, Doyle studied medicine at Edinburgh University and qualified as a doctor in 1885, practicing as an eye specialist before becoming a full-time writer in 1891.</p>
 
-      <h2 class="font-serif text-2xl text-stone-800 mb-1">The Sherlock Holmes Canon</h2>
-      <p class="text-sm text-stone-500 mb-6">4 novels · 56 short stories</p>
+        <p><strong>Literary Career:</strong> Doyle's first Holmes story, <em>A Study in Scarlet</em>, appeared in 1887 and introduced Dr. Watson and the iconic 221B Baker Street address. Though he grew weary of the detective by 1893, killing Holmes off in "The Final Problem," public demand led him to resurrect the character in 1903's "The Empty House." Holmes stories appeared in five collections spanning 1892–1927.</p>
+
+        <p><strong>Other Works & Interests:</strong> Beyond Holmes, Doyle wrote historical novels, plays, and the <em>Professor Challenger</em> series, including <em>The Lost World</em>. He served as a physician during the Boer War and was knighted in 1902. His later life centered on spiritualism—a pursuit sparked by his son Kingsley's death in World War I. He spent over a million dollars investigating fairies and the supernatural.</p>
+
+        <p><strong>Legacy:</strong> By 1920, Doyle ranked among the world's highest-paid writers. Holmes stories have been translated into 50+ languages and adapted extensively for stage, film, and television, cementing Doyle's enduring cultural impact.</p>
+      </div>
+    </section>
+
+    <section class="mb-14">
+
+      <h2 class="font-serif text-2xl text-black mb-1">The Sherlock Holmes Canon</h2>
+      <p class="text-sm text-amber-900 mb-6">4 novels · 56 short stories</p>
 
       <div class="mb-6">
-        <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-400 mb-3">Novels</h3>
+        <h3 class="text-xs font-semibold uppercase tracking-widest text-amber-900 mb-3">Novels</h3>
         <ul class="grid grid-cols-1 sm:grid-cols-2 gap-2">
           {novels.map(n => (
             <li>
-              <a href={`/canon/${n.slug}/`} class="flex justify-between items-baseline px-4 py-3 rounded-lg border border-stone-200 hover:border-amber-300 hover:bg-amber-50 transition-colors group">
-                <span class="font-serif text-stone-800 group-hover:text-amber-900">{n.title}</span>
-                <span class="text-xs text-stone-400 ml-3 shrink-0">{n.year}</span>
+              <a href={`/canon/${n.slug}/`} class="flex justify-between items-baseline px-4 py-3 rounded-lg border border-amber-300 bg-white hover:bg-amber-100 transition-colors group">
+                <span class="font-serif text-black group-hover:text-amber-900">{n.title}</span>
+                <span class="text-xs text-amber-800 ml-3 shrink-0">{n.year}</span>
               </a>
             </li>
           ))}
@@ -44,13 +56,13 @@ const novels = [
       </div>
 
       <div>
-        <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-400 mb-3">Short Story Collections</h3>
+        <h3 class="text-xs font-semibold uppercase tracking-widest text-amber-900 mb-3">Short Story Collections</h3>
         <ul class="grid grid-cols-1 sm:grid-cols-2 gap-2">
           {collections.map(c => (
             <li>
-              <a href={`/canon/${c.slug}/`} class="flex justify-between items-baseline px-4 py-3 rounded-lg border border-stone-200 hover:border-amber-300 hover:bg-amber-50 transition-colors group">
-                <span class="font-serif text-stone-800 group-hover:text-amber-900">{c.title}</span>
-                <span class="text-xs text-stone-400 ml-3 shrink-0">{c.count} stories</span>
+              <a href={`/canon/${c.slug}/`} class="flex justify-between items-baseline px-4 py-3 rounded-lg border border-amber-300 bg-white hover:bg-amber-100 transition-colors group">
+                <span class="font-serif text-black group-hover:text-amber-900">{c.title}</span>
+                <span class="text-xs text-amber-800 ml-3 shrink-0">{c.count} stories</span>
               </a>
             </li>
           ))}
@@ -58,10 +70,10 @@ const novels = [
       </div>
     </section>
 
-    <section>
-      <h2 class="font-serif text-2xl text-stone-800 mb-1">Other Works</h2>
-      <p class="text-sm text-stone-500 mb-4">Novels, novellas, and short story collections beyond Holmes</p>
-      <a href="/novels/" class="inline-block px-4 py-2 border border-stone-300 rounded-lg text-stone-700 hover:border-amber-400 hover:text-amber-900 transition-colors text-sm">
+    <section class="bg-white bg-opacity-80 rounded-lg p-8">
+      <h2 class="font-serif text-2xl text-black mb-1">Other Works</h2>
+      <p class="text-sm text-amber-900 mb-4">Novels, novellas, and short story collections beyond Holmes</p>
+      <a href="/novels/" class="inline-block px-4 py-2 border border-amber-900 rounded-lg text-black hover:bg-amber-100 transition-colors text-sm font-medium">
         Browse all novels &amp; collections →
       </a>
     </section>
