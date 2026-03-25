@@ -1,0 +1,10 @@
+---
+import Base from '../layouts/Base.astro';
+import { Search } from 'astro-pagefind';
+---
+<Base title="Search">
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <h1 class="font-serif text-3xl font-semibold text-black mb-6">Search</h1>
+    <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} />
+  </div>
+</Base>
