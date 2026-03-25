@@ -7,6 +7,7 @@ rm -rf dist
 echo "Building the site..."
 npm run build
 
-echo "Previewing the site using a static server..."
-echo "You can now test the search at http://localhost:4321/search/"
+echo "Previewing the site..."
+echo "Test search at:  http://localhost:4321/search/"
+echo "View sitemap at: http://localhost:4321/sitemap-index.xml"
 npx serve dist/client -l 4321

@@ -21,7 +21,7 @@
     "@tailwindcss/vite": "^4.2.2",
     "astro": "^6.0.8",
     "astro-google-fonts-optimizer": "^0.2.2",
-    "astro-pagefind": "^1.8.5",
+    "astro-pagefind": "^1.8.6",
     "tailwindcss": "^4.2.2",
     "wrangler": "^4.77.0"
   }
