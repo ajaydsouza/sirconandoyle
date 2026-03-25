@@ -16,10 +16,10 @@ Tales of Terror and Mystery is a collection of 12 stories written by Sir Arthur
 
 ## Tales of Terror
 
-[The Horror of the Heights](https://sirconandoyle.com/the-horror-of-the-heights/) [The Leather Funnel](https://sirconandoyle.com/the-leather-funnel/) [The New Catacomb](https://sirconandoyle.com/the-new-catacomb/) [The Case of Lady Sannox](https://sirconandoyle.com/case-lady-sannox/) [The Terror of Blue John Gap](https://sirconandoyle.com/terror-blue-john-gap/) [The Brazilian Cat](https://sirconandoyle.com/the-brazilian-cat/)
+[The Horror of the Heights](/novels/tales-of-terror-and-mystery/the-horror-of-the-heights/) [The Leather Funnel](/novels/tales-of-terror-and-mystery/the-leather-funnel/) [The New Catacomb](/novels/tales-of-terror-and-mystery/the-new-catacomb/) [The Case of Lady Sannox](/novels/tales-of-terror-and-mystery/case-lady-sannox/) [The Terror of Blue John Gap](/novels/tales-of-terror-and-mystery/terror-blue-john-gap/) [The Brazilian Cat](/novels/tales-of-terror-and-mystery/the-brazilian-cat/)
 
 ## Tales of Mystery
 
-[The Lost Special](https://sirconandoyle.com/the-lost-special/) [The Beetle-Hunter](https://sirconandoyle.com/the-beetle-hunter/) [The Man with the Watches](https://sirconandoyle.com/the-man-with-the-watches/) [The Japanned Box](https://sirconandoyle.com/the-japanned-box/) [The Black Doctor](https://sirconandoyle.com/black-doctor/) [The Jew's Breastplate](https://sirconandoyle.com/jews-breastplate/)
+[The Lost Special](/novels/tales-of-terror-and-mystery/the-lost-special/) [The Beetle-Hunter](/novels/tales-of-terror-and-mystery/the-beetle-hunter/) [The Man with the Watches](/novels/tales-of-terror-and-mystery/the-man-with-the-watches/) [The Japanned Box](/novels/tales-of-terror-and-mystery/the-japanned-box/) [The Black Doctor](/novels/tales-of-terror-and-mystery/black-doctor/) [The Jew's Breastplate](/novels/tales-of-terror-and-mystery/jews-breastplate/)
 
 Get this on your Kindle from [Amazon.co.uk](http://amzn.to/2oPIHX9) | [Amazon.com](http://amzn.to/2nvbXCE)

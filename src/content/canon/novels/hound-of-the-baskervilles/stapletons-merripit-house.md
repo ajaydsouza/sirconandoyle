@@ -9,7 +9,7 @@ tags:
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](http://sirconandoyle.com/the-hound-of-the-baskervilles/ "The Hound of the Baskervilles by Sir Arthur Conan Doyle")
+[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 The fresh beauty of the following morning did something to efface from our minds the grim and gray impression which had been left upon both of us by our first experience of Baskerville Hall. As Sir Henry and I sat at breakfast the sunlight flooded in through the high mullioned windows, throwing watery patches of colour from the coats of arms which covered them. The dark panelling glowed like bronze in the golden rays, and it was hard to realize that this was indeed the chamber which had struck such a gloom into our souls upon the evening before.
 

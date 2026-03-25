@@ -9,7 +9,7 @@ tags:
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](http://sirconandoyle.com/the-valley-of-fear/ "The Valley of Fear by Sir Arthur Conan Doyle")
+[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 On the day following the evening which had contained so many exciting events, McMurdo moved his lodgings from old Jacob Shafter's and took up his quarters at the Widow MacNamara's on the extreme outskirts of the town. Scanlan, his original acquaintance aboard the train, had occasion shortly afterwards to move into Vermissa, and the two lodged together. There was no other boarder, and the hostess was an easy-going old Irishwoman who left them to themselves; so that they had a freedom for speech and action welcome to men who had secrets in common.
 

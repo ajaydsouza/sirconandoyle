@@ -8,34 +8,34 @@ tags:
   - "sign-of-four"
 ---
 
-**The Sign of Four**, was written for the **Lippincott's Magazine** by [Sir Arthur Conan Doyle](http://sirconandoyle.com/biography-of-sir-arthur-conan-doyle/) in 1890. This was the second Sherlock Holmes novel.
+**The Sign of Four**, was written for the **Lippincott's Magazine** by [Sir Arthur Conan Doyle](/about/) in 1890. This was the second Sherlock Holmes novel.
 
 The story collects a colorful group of people together, among them Jonathan Small who has a wooden leg and a dwarf from Tonga islands.
 
 ![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg "The Sign Of The Four")
 
-Chapter 1 - [The Science of Deduction](http://sirconandoyle.com/science-deduction-2/ "The Sign of Four – Chapter 1: The Science of Deduction")
+Chapter 1 - [The Science of Deduction](/science-deduction-2/%20%22The%20Sign%20of%20Four%20%E2%80%93%20Chapter%201:%20The%20Science%20of%20Deduction%22/)
 
-Chapter 2 - [The Statement of the Case](http://sirconandoyle.com/statement-case/ "The Sign of Four – Chapter 2: The Statement of the Case")
+Chapter 2 - [The Statement of the Case](/statement-case/%20%22The%20Sign%20of%20Four%20%E2%80%93%20Chapter%202:%20The%20Statement%20of%20the%20Case%22/)
 
-Chapter 3 - [In Quest of a Solution](http://sirconandoyle.com/quest-solution/ "The Sign of Four – Chapter 3: In Quest of a Solution")
+Chapter 3 - [In Quest of a Solution](/quest-solution/%20%22The%20Sign%20of%20Four%20%E2%80%93%20Chapter%203:%20In%20Quest%20of%20a%20Solution%22/)
 
-Chapter 4 - [The Story of the Bald-headed Man](http://sirconandoyle.com/story-bald-headed-man/ "The Sign of Four – Chapter 4: The Story of the Bald-headed Man")
+Chapter 4 - [The Story of the Bald-headed Man](/story-bald-headed-man/%20%22The%20Sign%20of%20Four%20%E2%80%93%20Chapter%204:%20The%20Story%20of%20the%20Bald-headed%20Man%22/)
 
-Chapter 5 - [The Tragedy of Pondicherry Lodge](http://sirconandoyle.com/tragedy-pondicherry-lodge/ "The Sign of Four – Chapter 5: The Tragedy of Pondicherry Lodge")
+Chapter 5 - [The Tragedy of Pondicherry Lodge](/tragedy-pondicherry-lodge/%20%22The%20Sign%20of%20Four%20%E2%80%93%20Chapter%205:%20The%20Tragedy%20of%20Pondicherry%20Lodge%22/)
 
-Chapter 6 - [Sherlock Holmes gives a demonstration](http://sirconandoyle.com/sherlock-holmes-demonstration/ "The Sign of Four – Chapter 6: Sherlock Holmes gives a Demonstration")
+Chapter 6 - [Sherlock Holmes gives a demonstration](/sherlock-holmes-demonstration/%20%22The%20Sign%20of%20Four%20%E2%80%93%20Chapter%206:%20Sherlock%20Holmes%20gives%20a%20Demonstration%22/)
 
-Chapter 7 - [The Episode of the Barrel](http://sirconandoyle.com/episode-barrel/ "The Sign of Four – Chapter 7: The Episode of the Barrel")
+Chapter 7 - [The Episode of the Barrel](/episode-barrel/%20%22The%20Sign%20of%20Four%20%E2%80%93%20Chapter%207:%20The%20Episode%20of%20the%20Barrel%22/)
 
-Chapter 8 - [The Baker Street Irregulars](http://sirconandoyle.com/baker-street-irregulars/ "The Sign of Four – Chapter 8: The Baker Street Irregulars")
+Chapter 8 - [The Baker Street Irregulars](/baker-street-irregulars/%20%22The%20Sign%20of%20Four%20%E2%80%93%20Chapter%208:%20The%20Baker%20Street%20Irregulars%22/)
 
-Chapter 9 - [A Break in the Chain](http://sirconandoyle.com/break-chain/ "The Sign of Four – Chapter 9: Break in the Chain")
+Chapter 9 - [A Break in the Chain](/break-chain/%20%22The%20Sign%20of%20Four%20%E2%80%93%20Chapter%209:%20Break%20in%20the%20Chain%22/)
 
-Chapter 10 - [The End of the Islander](http://sirconandoyle.com/islander/ "The Sign of Four – Chapter 10: The End of the Islander")
+Chapter 10 - [The End of the Islander](/islander/%20%22The%20Sign%20of%20Four%20%E2%80%93%20Chapter%2010:%20The%20End%20of%20the%20Islander%22/)
 
-Chapter 11 - [The Great Agra Treasure](http://sirconandoyle.com/great-agra-treasure/ "The Sign of Four – Chapter 11: The Great Agra Treasure")
+Chapter 11 - [The Great Agra Treasure](/great-agra-treasure/%20%22The%20Sign%20of%20Four%20%E2%80%93%20Chapter%2011:%20The%20Great%20Agra%20Treasure%22/)
 
-Chapter 12 - [The Strange Story of Jonathan Small](http://sirconandoyle.com/strange-story-jonathan-small/ "The Sign of Four – Chapter 12: The Strange Story of Jonathan Small")
+Chapter 12 - [The Strange Story of Jonathan Small](/strange-story-jonathan-small/%20%22The%20Sign%20of%20Four%20%E2%80%93%20Chapter%2012:%20The%20Strange%20Story%20of%20Jonathan%20Small%22/)
 
 \[Image source: [Wikipedia](http://en.wikipedia.org/wiki/File:TheSignOfTheFour.jpg)\]

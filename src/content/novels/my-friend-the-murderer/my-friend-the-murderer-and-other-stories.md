@@ -14,29 +14,29 @@ tags:
 
 ## Table of Contents
 
-[My Friend the Murderer](https://sirconandoyle.com/my-friend-the-murderer/)
+[My Friend the Murderer](/novels/my-friend-the-murderer/my-friend-the-murderer/)
 
-[The Gully of Bluemansdyke](https://sirconandoyle.com/the-gully-of-bluemansdyke/)
+[The Gully of Bluemansdyke](/novels/my-friend-the-murderer/the-gully-of-bluemansdyke/)
 
-[The Parson of Jackman’s Gulch](https://sirconandoyle.com/the-parson-at-jackmans-gulch/)
+[The Parson of Jackman’s Gulch](/novels/my-friend-the-murderer/the-parson-at-jackmans-gulch/)
 
-[The Silver Hatchet](https://sirconandoyle.com/the-silver-hatchet/)
+[The Silver Hatchet](/novels/my-friend-the-murderer/the-silver-hatchet/)
 
-[The Man from Archangel](https://sirconandoyle.com/the-man-from-archangel/)
+[The Man from Archangel](/novels/my-friend-the-murderer/the-man-from-archangel/)
 
-[That Little Square Box](https://sirconandoyle.com/that-little-square-box/)
+[That Little Square Box](/novels/my-friend-the-murderer/that-little-square-box/)
 
-[A Night among the Nihilists](https://sirconandoyle.com/a-night-among-the-nihilists/)
+[A Night among the Nihilists](/novels/my-friend-the-murderer/a-night-among-the-nihilists/)
 
-[Bones, the April Fool of Harvey’s Sluice](https://sirconandoyle.com/bones-the-april-fool-of-harveys-sluice/)
+[Bones, the April Fool of Harvey’s Sluice](/novels/my-friend-the-murderer/bones-the-april-fool-of-harveys-sluice/)
 
-[Selecting a Ghost](https://sirconandoyle.com/selecting-a-ghost/)
+[Selecting a Ghost](/novels/my-friend-the-murderer/selecting-a-ghost/)
 
-[The Mystery of Sasassa Valley](https://sirconandoyle.com/the-mystery-of-sasassa-valley/)
+[The Mystery of Sasassa Valley](/novels/my-friend-the-murderer/the-mystery-of-sasassa-valley/)
 
-[The American’s Tale](https://sirconandoyle.com/the-americans-tale/)
+[The American’s Tale](/novels/my-friend-the-murderer/the-americans-tale/)
 
-[Our Derby Sweepstakes](https://sirconandoyle.com/our-derby-sweepstakes/)
+[Our Derby Sweepstakes](/novels/my-friend-the-murderer/our-derby-sweepstakes/)
 
 ## Download or Purchase from Amazon
 

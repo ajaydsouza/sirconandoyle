@@ -9,7 +9,7 @@ tags:
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](http://sirconandoyle.com/a-study-in-scarlet/ "A Study in Scarlet by Sir Arthur Conan Doyle")
+[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 I confess that I was considerably startled by this fresh proof of the practical nature of my companion's theories. My respect for his powers of analysis increased wondrously. There still remained some lurking suspicion in my mind, however, that the whole thing was a prearranged episode, intended to dazzle me, though what earthly object he could have in taking me in was past my comprehension. When I looked at him, he had finished reading the note, and his eyes had assumed the vacant, lack-lustre expression which showed mental abstraction.
 

@@ -9,7 +9,7 @@ tags:
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](http://sirconandoyle.com/a-study-in-scarlet/ "A Study in Scarlet by Sir Arthur Conan Doyle")
+[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 We had all been warned to appear before the magistrates upon the Thursday; but when the Thursday came there was no occasion for our testimony. A higher Judge had taken the matter in hand, and Jefferson Hope had been summoned before a tribunal where strict justice would be meted out to him. On the very night after his capture the aneurism burst, and he was found in the morning stretched upon the floor of the cell, with a placid smile upon his face, as though he had been able in his dying moments to look back upon a useful life, and on work well done.
 

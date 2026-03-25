@@ -24,102 +24,102 @@ I cannot let this small romance go to press without prefacing it with a word of 
 
 ## Contents
 
-[I. Mr. John Harston Keeps An Appointment.](http://sirconandoyle.com/mr-john-harston-appointment/ "Chapter I: Mr. John Harston Keeps an Appointment")
+[I. Mr. John Harston Keeps An Appointment.](/mr-john-harston-appointment/%20%22Chapter%20I:%20Mr.%20John%20Harston%20Keeps%20an%20Appointment%22/)
 
-[II. Charity A La Mode.](http://sirconandoyle.com/charity-la-mode/ "Chapter II: Charity a La Mode")
+[II. Charity A La Mode.](/charity-la-mode/%20%22Chapter%20II:%20Charity%20a%20La%20Mode%22/)
 
-[III. Thomas Gilray Makes An Investment.](http://sirconandoyle.com/thomas-gilray-investment/ "Chapter III: Thomas Gilray makes an Investment")
+[III. Thomas Gilray Makes An Investment.](/thomas-gilray-investment/%20%22Chapter%20III:%20Thomas%20Gilray%20makes%20an%20Investment%22/)
 
-[IV. Captain Hamilton Miggs of The "Black Eagle".](http://sirconandoyle.com/captain-hamilton-miggs-black-eagle/ "Chapter IV: Captain Hamilton Miggs of the “Black Eagle”")
+[IV. Captain Hamilton Miggs of The "Black Eagle".](/captain-hamilton-miggs-black-eagle/%20%22Chapter%20IV:%20Captain%20Hamilton%20Miggs%20of%20the%20%E2%80%9CBlack%20Eagle%E2%80%9D%22/)
 
-[V. Modern Athenians.](http://sirconandoyle.com/modern-athenians/ "Chapter V: Modern Athenians")
+[V. Modern Athenians.](/modern-athenians/%20%22Chapter%20V:%20Modern%20Athenians%22/)
 
-[VI. A Rectorial Election.](http://sirconandoyle.com/chapter-vi-rectorial-election/ "Chapter VI: A Rectorial Election")
+[VI. A Rectorial Election.](/chapter-vi-rectorial-election/%20%22Chapter%20VI:%20A%20Rectorial%20Election%22/)
 
-[VII. England Versus Scotland.](http://sirconandoyle.com/chapter-vii-england-scotland/ "Chapter VII: England versus Scotland")
+[VII. England Versus Scotland.](/chapter-vii-england-scotland/%20%22Chapter%20VII:%20England%20versus%20Scotland%22/)
 
-[VIII. A First Professional.](http://sirconandoyle.com/professional/ "Chapter VIII: A First Professional")
+[VIII. A First Professional.](/professional/%20%22Chapter%20VIII:%20A%20First%20Professional%22/)
 
-[IX. A Nasty Cropper.](http://sirconandoyle.com/nasty-cropper/ "Chapter IX: A Nasty Cropper")
+[IX. A Nasty Cropper.](/nasty-cropper/%20%22Chapter%20IX:%20A%20Nasty%20Cropper%22/)
 
-[X. Dwellers in Bohemia.](http://sirconandoyle.com/dwellers-bohemia/ "Chapter X: Dwellers in Bohemia")
+[X. Dwellers in Bohemia.](/dwellers-bohemia/%20%22Chapter%20X:%20Dwellers%20in%20Bohemia%22/)
 
-[XI. Senior and Junior.](http://sirconandoyle.com/senior-junior/ "Chapter XI: Senior and Junior")
+[XI. Senior and Junior.](/senior-junior/%20%22Chapter%20XI:%20Senior%20and%20Junior%22/)
 
-[XII. A Corner in Diamonds.](http://sirconandoyle.com/corner-diamonds/ "Chapter XII: A Corner in Diamonds")
+[XII. A Corner in Diamonds.](/corner-diamonds/%20%22Chapter%20XII:%20A%20Corner%20in%20Diamonds%22/)
 
-[XIII. Shadow and Light.](http://sirconandoyle.com/shadow-light/ "Chapter XIII: Shadow and Light")
+[XIII. Shadow and Light.](/shadow-light/%20%22Chapter%20XIII:%20Shadow%20and%20Light%22/)
 
-[XIV. A Slight Misunderstanding](http://sirconandoyle.com/slight-misunderstanding/ "Chapter XIV: A Slight Misunderstanding")
+[XIV. A Slight Misunderstanding](/slight-misunderstanding/%20%22Chapter%20XIV:%20A%20Slight%20Misunderstanding%22/)
 
-[XV. An Addition to the House.](http://sirconandoyle.com/addition-house/ "Chapter XV: An Addition to the House")
+[XV. An Addition to the House.](/addition-house/%20%22Chapter%20XV:%20An%20Addition%20to%20the%20House%22/)
 
-[XVI. The First Step.](http://sirconandoyle.com/first-step/ "Chapter XVI: The First Step")
+[XVI. The First Step.](/first-step/%20%22Chapter%20XVI:%20The%20First%20Step%22/)
 
-[XVII. The Land of Diamonds.](http://sirconandoyle.com/land-diamonds/ "Chapter XVII: The Land of Diamonds")
+[XVII. The Land of Diamonds.](/land-diamonds/%20%22Chapter%20XVII:%20The%20Land%20of%20Diamonds%22/)
 
-[XVIII. Major Tobias Clutterbuck Comes In For A Thousand Pounds.](http://sirconandoyle.com/major-tobias-clutterbuck-thousand-pounds/ "Chapter XVIII: Major Tobias Clutterbuck comes in for a thousand pounds")
+[XVIII. Major Tobias Clutterbuck Comes In For A Thousand Pounds.](/major-tobias-clutterbuck-thousand-pounds/%20%22Chapter%20XVIII:%20Major%20Tobias%20Clutterbuck%20comes%20in%20for%20a%20thousand%20pounds%22/)
 
-[XIX. News from the Urals.](http://sirconandoyle.com/news-urals/ "Chapter XIX: News from the Urals")
+[XIX. News from the Urals.](/news-urals/%20%22Chapter%20XIX:%20News%20from%20the%20Urals%22/)
 
-[XX. Mr. Hector O'flaherty Finds Something In The Paper.](http://sirconandoyle.com/mr-hector-oflaherty-finds-paper/ "Chapter XX: Mr. Hector O’Flaherty finds something in the Paper")
+[XX. Mr. Hector O'flaherty Finds Something In The Paper.](/mr-hector-oflaherty-finds-paper/%20%22Chapter%20XX:%20Mr.%20Hector%20O%E2%80%99Flaherty%20finds%20something%20in%20the%20Paper%22/)
 
-[XXI. An Unexpected Blow.](http://sirconandoyle.com/unexpected-blow/ "Chapter XXI: An Unexpected Blow")
+[XXI. An Unexpected Blow.](/unexpected-blow/%20%22Chapter%20XXI:%20An%20Unexpected%20Blow%22/)
 
-[XXII. Robbers and Robbed.](http://sirconandoyle.com/robbers-robbed/ "Chapter XXII: Robbers and Robbed")
+[XXII. Robbers and Robbed.](/robbers-robbed/%20%22Chapter%20XXII:%20Robbers%20and%20Robbed%22/)
 
-[XXIII. A Momentous Resolution.](http://sirconandoyle.com/momentous-resolution/ "Chapter XXIII: A Momentous Resolution")
+[XXIII. A Momentous Resolution.](/momentous-resolution/%20%22Chapter%20XXIII:%20A%20Momentous%20Resolution%22/)
 
-[XXIV. A Dangerous Promise.](http://sirconandoyle.com/dangerous-promise/ "Chapter XXIV: A Dangerous Promise")
+[XXIV. A Dangerous Promise.](/dangerous-promise/%20%22Chapter%20XXIV:%20A%20Dangerous%20Promise%22/)
 
-[XXV. A Change Of Front.](http://sirconandoyle.com/change-front/ "Chapter XXV: A Change of Front")
+[XXV. A Change Of Front.](/change-front/%20%22Chapter%20XXV:%20A%20Change%20of%20Front%22/)
 
-[XXVI. Breaking Ground.](http://sirconandoyle.com/breaking-ground/ "Chapter XXVI: Breaking Ground")
+[XXVI. Breaking Ground.](/breaking-ground/%20%22Chapter%20XXVI:%20Breaking%20Ground%22/)
 
-[XXVII. Mrs. Scully Of Morrison's.](http://sirconandoyle.com/mrs-scully-morrisons/ "Chapter XXVII: Mrs. Scully of Morrison’s")
+[XXVII. Mrs. Scully Of Morrison's.](/mrs-scully-morrisons/%20%22Chapter%20XXVII:%20Mrs.%20Scully%20of%20Morrison%E2%80%99s%22/)
 
-[XXVIII. Back in Bohemia.](http://sirconandoyle.com/bohemia/ "Chapter XXVIII: Back in Bohemia")
+[XXVIII. Back in Bohemia.](/bohemia/%20%22Chapter%20XXVIII:%20Back%20in%20Bohemia%22/)
 
-[XXIX. The Great Dance at Morrison's.](http://sirconandoyle.com/great-dance-morrisons/ "Chapter XXIX: The Great Dance at Morrison’s")
+[XXIX. The Great Dance at Morrison's.](/great-dance-morrisons/%20%22Chapter%20XXIX:%20The%20Great%20Dance%20at%20Morrison%E2%80%99s%22/)
 
-[XXX. At The "Cock and Cowslip".](http://sirconandoyle.com/cock-cowslip/ "Chapter XXX: At the “Cock and Cowslip”")
+[XXX. At The "Cock and Cowslip".](/cock-cowslip/%20%22Chapter%20XXX:%20At%20the%20%E2%80%9CCock%20and%20Cowslip%E2%80%9D%22/)
 
-[XXXI. A Crisis at Eccleston Square.](http://sirconandoyle.com/crisis-eccleston-square/ "Chapter XXXI: A Crisis at Eccleston Square")
+[XXXI. A Crisis at Eccleston Square.](/crisis-eccleston-square/%20%22Chapter%20XXXI:%20A%20Crisis%20at%20Eccleston%20Square%22/)
 
-[XXXII. A Conversation in The Eccleston Square Library.](http://sirconandoyle.com/conversation-eccleston-square-library/ "Chapter XXXII: A Conversation in the Eccleston Square Library")
+[XXXII. A Conversation in The Eccleston Square Library.](/conversation-eccleston-square-library/%20%22Chapter%20XXXII:%20A%20Conversation%20in%20the%20Eccleston%20Square%20Library%22/)
 
-[XXXIII. The Journey to the Priory.](http://sirconandoyle.com/journey-priory/ "Chapter XXXIII: The Journey to the Priory")
+[XXXIII. The Journey to the Priory.](/journey-priory/%20%22Chapter%20XXXIII:%20The%20Journey%20to%20the%20Priory%22/)
 
-[XXXIV. The Man with the Camp-Stool.](http://sirconandoyle.com/man-camp-stool/ "Chapter XXXIV: The Man with the Camp Stool")
+[XXXIV. The Man with the Camp-Stool.](/man-camp-stool/%20%22Chapter%20XXXIV:%20The%20Man%20with%20the%20Camp%20Stool%22/)
 
-[XXXV. A Talk on the Lawn.](http://sirconandoyle.com/talk-lawn/ "Chapter XXXV: A Talk on the Lawn")
+[XXXV. A Talk on the Lawn.](/talk-lawn/%20%22Chapter%20XXXV:%20A%20Talk%20on%20the%20Lawn%22/)
 
-[XXXVI. The Incident of the Corridor.](http://sirconandoyle.com/incident-corridor/ "Chapter XXXVI: The Incident of the Corridor")
+[XXXVI. The Incident of the Corridor.](/incident-corridor/%20%22Chapter%20XXXVI:%20The%20Incident%20of%20the%20Corridor%22/)
 
-[XXXVII. A Chase and A Brawl.](http://sirconandoyle.com/chase-brawl/ "Chapter XXXVII: A Chase and a Brawl")
+[XXXVII. A Chase and A Brawl.](/chase-brawl/%20%22Chapter%20XXXVII:%20A%20Chase%20and%20a%20Brawl%22/)
 
-[XXXVIII. Girdlestone Sends for the Doctor.](http://sirconandoyle.com/girdlestone-sends-doctor/ "Chapter XXXVIII: Girdlestone sends for the Doctor")
+[XXXVIII. Girdlestone Sends for the Doctor.](/girdlestone-sends-doctor/%20%22Chapter%20XXXVIII:%20Girdlestone%20sends%20for%20the%20Doctor%22/)
 
-[XXXIX. A Gleam of Light.](http://sirconandoyle.com/gleam-light/ "Chapter XXXIX: A Gleam of Light")
+[XXXIX. A Gleam of Light.](/gleam-light/%20%22Chapter%20XXXIX:%20A%20Gleam%20of%20Light%22/)
 
-[XL. The Major Has a Letter.](http://sirconandoyle.com/major-letter/ "Chapter XL: The Major has a Letter")
+[XL. The Major Has a Letter.](/major-letter/%20%22Chapter%20XL:%20The%20Major%20has%20a%20Letter%22/)
 
-[XLI. The Clouds Grow Darker.](http://sirconandoyle.com/clouds-grow-darker/ "Chapter XLI: The Clouds grow Darker")
+[XLI. The Clouds Grow Darker.](/clouds-grow-darker/%20%22Chapter%20XLI:%20The%20Clouds%20grow%20Darker%22/)
 
-[XLII. The Three Faces at the Window.](http://sirconandoyle.com/faces-window/ "Chapter XLII: The Three Faces at the Window")
+[XLII. The Three Faces at the Window.](/faces-window/%20%22Chapter%20XLII:%20The%20Three%20Faces%20at%20the%20Window%22/)
 
-[XLIII. The Bait on the Hook.](http://sirconandoyle.com/bait-hook/ "Chapter XLIII: The Bait on the Hook")
+[XLIII. The Bait on the Hook.](/bait-hook/%20%22Chapter%20XLIII:%20The%20Bait%20on%20the%20Hook%22/)
 
-[XLIV. The Shadow of Death.](http://sirconandoyle.com/shadow-death/ "Chapter XLIV: The Shadow of Death")
+[XLIV. The Shadow of Death.](/shadow-death/%20%22Chapter%20XLIV:%20The%20Shadow%20of%20Death%22/)
 
-[XLV. The Invasion Of Hampshire.](http://sirconandoyle.com/invasion-hampshire/ "Chapter XLV: The Invasion of Hampshire")
+[XLV. The Invasion Of Hampshire.](/invasion-hampshire/%20%22Chapter%20XLV:%20The%20Invasion%20of%20Hampshire%22/)
 
-[XLVI. A Midnight Cruise.](http://sirconandoyle.com/midnight-cruise/ "Chapter XLVI: A Midnight Cruise")
+[XLVI. A Midnight Cruise.](/midnight-cruise/%20%22Chapter%20XLVI:%20A%20Midnight%20Cruise%22/)
 
-[XLVII. Law and Order.](http://sirconandoyle.com/law-order/ "Chapter XLVII: Law and Order")
+[XLVII. Law and Order.](/law-order/%20%22Chapter%20XLVII:%20Law%20and%20Order%22/)
 
-[XLVIII. Captain Hamilton Miggs sees a Vision.](http://sirconandoyle.com/captain-hamilton-miggs-sees-vision/ "Chapter XLVIII: Captain Hamilton Miggs sees a Vision")
+[XLVIII. Captain Hamilton Miggs sees a Vision.](/captain-hamilton-miggs-sees-vision/%20%22Chapter%20XLVIII:%20Captain%20Hamilton%20Miggs%20sees%20a%20Vision%22/)
 
-[XLIX. A Voyage in a Coffin Ship.](http://sirconandoyle.com/voyage-coffin-ship/ "Chapter XLIX: A Voyage in a Coffin Ship")
+[XLIX. A Voyage in a Coffin Ship.](/voyage-coffin-ship/%20%22Chapter%20XLIX:%20A%20Voyage%20in%20a%20Coffin%20Ship%22/)
 
-[L. Winds up the Thread and ties Two Knots at the End.](http://sirconandoyle.com/winds-thread-ties-knots/ "Chapter L: Winds up the Thread and Ties Two Knots at the End")
+[L. Winds up the Thread and ties Two Knots at the End.](/winds-thread-ties-knots/%20%22Chapter%20L:%20Winds%20up%20the%20Thread%20and%20Ties%20Two%20Knots%20at%20the%20End%22/)

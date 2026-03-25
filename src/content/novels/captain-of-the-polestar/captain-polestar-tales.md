@@ -20,16 +20,16 @@ A. Conan Doyle, M.D.
 
 ## Contents:
 
-- [The Captain Of The Pole-star](http://sirconandoyle.com/captain-polestar/ "The Captain of the Polestar")
-- [J. Habakuk Jephson's Statement](http://sirconandoyle.com/f-habakuk-jephsons-statement/ "F. Habakuk Jephson’s Statement")
-- [The Great Keinplatz Experiment](http://sirconandoyle.com/great-keinplatz-experiment/ "The Great Keinplatz Experiment")
-- [The Man From Archangel](http://sirconandoyle.com/man-archangel/ "The Man From Archangel")
-- [That Little Square Box](http://sirconandoyle.com/square-box/ "That Little Square Box")
-- [John Huxford's Hiatus](http://sirconandoyle.com/john-huxfords-hiatus/ "John Huxford’s Hiatus")
-- [A Literary Mosaic](http://sirconandoyle.com/literary-mosaic/ "A Literary Mosaic")
-- [John Barrington Cowles](http://sirconandoyle.com/john-barrington-cowles/ "John Barrington Cowles")
-- [The Parson Of Jackman's Gulch](http://sirconandoyle.com/parson-jackmans-gulch/ "The Parson Of Jackman’s Gulch")
-- [The Ring Of Thoth](http://sirconandoyle.com/ring-thoth/ "The Ring Of Thoth")
+- [The Captain Of The Pole-star](/captain-polestar/%20%22The%20Captain%20of%20the%20Polestar%22/)
+- [J. Habakuk Jephson's Statement](/f-habakuk-jephsons-statement/%20%22F.%20Habakuk%20Jephson%E2%80%99s%20Statement%22/)
+- [The Great Keinplatz Experiment](/great-keinplatz-experiment/%20%22The%20Great%20Keinplatz%20Experiment%22/)
+- [The Man From Archangel](/man-archangel/%20%22The%20Man%20From%20Archangel%22/)
+- [That Little Square Box](/square-box/%20%22That%20Little%20Square%20Box%22/)
+- [John Huxford's Hiatus](/john-huxfords-hiatus/%20%22John%20Huxford%E2%80%99s%20Hiatus%22/)
+- [A Literary Mosaic](/literary-mosaic/%20%22A%20Literary%20Mosaic%22/)
+- [John Barrington Cowles](/john-barrington-cowles/%20%22John%20Barrington%20Cowles%22/)
+- [The Parson Of Jackman's Gulch](/parson-jackmans-gulch/%20%22The%20Parson%20Of%20Jackman%E2%80%99s%20Gulch%22/)
+- [The Ring Of Thoth](/ring-thoth/%20%22The%20Ring%20Of%20Thoth%22/)
 
 ## Download or Purchase from Amazon
 

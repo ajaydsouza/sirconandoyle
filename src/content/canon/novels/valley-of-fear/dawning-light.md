@@ -9,7 +9,7 @@ tags:
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](http://sirconandoyle.com/the-valley-of-fear/ "The Valley of Fear by Sir Arthur Conan Doyle")
+[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 The three detectives had many matters of detail into which to inquire; so I returned alone to our modest quarters at the village inn. But before doing so I took a stroll in the curious old-world garden which flanked the house. Rows of very ancient yew trees cut into strange designs girded it round. Inside was a beautiful stretch of lawn with an old sundial in the middle, the whole effect so soothing and restful that it was welcome to my somewhat jangled nerves.
 

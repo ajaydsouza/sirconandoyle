@@ -18,32 +18,32 @@ There are many of us in England who consider the crime which has been wrought in
 
 ## Table of Contents
 
-[Preface & Introduction](http://sirconandoyle.com/crime-congo-preface-introduction/ "The Crime of the Congo – Preface and Introduction")
+[Preface & Introduction](/crime-congo-preface-introduction/%20%22The%20Crime%20of%20the%20Congo%20%E2%80%93%20Preface%20and%20Introduction%22/)
 
-[How the Congo Free State Came to be Founded](http://sirconandoyle.com/congo-free-state-founded/ "How the Congo Free State Came To Be Founded")
+[How the Congo Free State Came to be Founded](/congo-free-state-founded/%20%22How%20the%20Congo%20Free%20State%20Came%20To%20Be%20Founded%22/)
 
-[The Development of the Congo State](http://sirconandoyle.com/development-congo-state/ "The Development of the Congo State")
+[The Development of the Congo State](/development-congo-state/%20%22The%20Development%20of%20the%20Congo%20State%22/)
 
-[The Working of the System](http://sirconandoyle.com/working-system/ "The Working of the System")
+[The Working of the System](/working-system/%20%22The%20Working%20of%20the%20System%22/)
 
-[First Fruits of the System](http://sirconandoyle.com/fruits-system/ "First Fruits of the System")
+[First Fruits of the System](/fruits-system/%20%22First%20Fruits%20of%20the%20System%22/)
 
-[Further Fruits of the System](http://sirconandoyle.com/fruits-system-2/ "Further Fruits of the System")
+[Further Fruits of the System](/fruits-system-2/%20%22Further%20Fruits%20of%20the%20System%22/)
 
-[Voices from the Darkness](http://sirconandoyle.com/voices-darkness/ "Voices from the Darkness")
+[Voices from the Darkness](/voices-darkness/%20%22Voices%20from%20the%20Darkness%22/)
 
-[Consul Roger Casement’s Report](http://sirconandoyle.com/consul-roger-casements-report/ "Consul Roger Casement’s Report")
+[Consul Roger Casement’s Report](/consul-roger-casements-report/%20%22Consul%20Roger%20Casement%E2%80%99s%20Report%22/)
 
-[King Leopold’s Commission and Its Report](http://sirconandoyle.com/king-leopolds-commission-report/ "King Leopold’s Commission and Its Report")
+[King Leopold’s Commission and Its Report](/king-leopolds-commission-report/%20%22King%20Leopold%E2%80%99s%20Commission%20and%20Its%20Report%22/)
 
-[The Congo After the Commission](http://sirconandoyle.com/congo-commission/ "The Congo After the Commission")
+[The Congo After the Commission](/congo-commission/%20%22The%20Congo%20After%20the%20Commission%22/)
 
-[Some Catholic Testimony as to the Congo](http://sirconandoyle.com/catholic-testimony-congo/ "Some Catholic Testimony as to the Congo")
+[Some Catholic Testimony as to the Congo](/catholic-testimony-congo/%20%22Some%20Catholic%20Testimony%20as%20to%20the%20Congo%22/)
 
-[The Evidence Up to Date](http://sirconandoyle.com/evidence-date/ "The Evidence Up to Date")
+[The Evidence Up to Date](/evidence-date/%20%22The%20Evidence%20Up%20to%20Date%22/)
 
-[The Political Situation](http://sirconandoyle.com/political-situation/ "The Political Situation")
+[The Political Situation](/political-situation/%20%22The%20Political%20Situation%22/)
 
-[Some Congolese Apologies](http://sirconandoyle.com/congolese-apologies/ "Some Congolese Apologies")
+[Some Congolese Apologies](/congolese-apologies/%20%22Some%20Congolese%20Apologies%22/)
 
-[Solutions & Appendix](http://sirconandoyle.com/solutions-appendix/ "Solutions and Appendix")
+[Solutions & Appendix](/solutions-appendix/%20%22Solutions%20and%20Appendix%22/)

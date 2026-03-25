@@ -15,11 +15,11 @@ tags:
 
 ## Table of Contents
 
-- [The Adventure of Wisteria Lodge](http://sirconandoyle.com/adventure-wisteria-lodge/ "The Adventure of Wisteria Lodge")
-- [The Adventure of the Cardboard Box](http://sirconandoyle.com/adventure-cardboard-box/ "The Adventure of the Cardboard Box")
-- [The Adventure of the Red Circle](http://sirconandoyle.com/adventure-red-circle/ "The Adventure of the Red Circle")
-- [The Adventure of the Bruce-Partington Plans](http://sirconandoyle.com/adventure-bruce-partington-plans/ "The Adventure of the Bruce-Partington Plans")
-- [The Adventure of the Dying Detective](http://sirconandoyle.com/adventure-dying-detective/ "The Adventure of the Dying Detective")
-- [The Disappearance of Lady Francis Carfax](http://sirconandoyle.com/disappearance-lady-frances-carfax/ "The Disappearance of Lady Frances Carfax")
-- [The Adventure of the Devil's Foot](http://sirconandoyle.com/adventure-devils-foot/ "The Adventure of the Devil’s Foot")
-- [His Last Bow](http://sirconandoyle.com/bow-epilogue-sherlock-holmes/ "His Last Bow: An Epilogue of Sherlock Holmes")
+- [The Adventure of Wisteria Lodge](/adventure-wisteria-lodge/%20%22The%20Adventure%20of%20Wisteria%20Lodge%22/)
+- [The Adventure of the Cardboard Box](/adventure-cardboard-box/%20%22The%20Adventure%20of%20the%20Cardboard%20Box%22/)
+- [The Adventure of the Red Circle](/adventure-red-circle/%20%22The%20Adventure%20of%20the%20Red%20Circle%22/)
+- [The Adventure of the Bruce-Partington Plans](/adventure-bruce-partington-plans/%20%22The%20Adventure%20of%20the%20Bruce-Partington%20Plans%22/)
+- [The Adventure of the Dying Detective](/adventure-dying-detective/%20%22The%20Adventure%20of%20the%20Dying%20Detective%22/)
+- [The Disappearance of Lady Francis Carfax](/disappearance-lady-frances-carfax/%20%22The%20Disappearance%20of%20Lady%20Frances%20Carfax%22/)
+- [The Adventure of the Devil's Foot](/adventure-devils-foot/%20%22The%20Adventure%20of%20the%20Devil%E2%80%99s%20Foot%22/)
+- [His Last Bow](/bow-epilogue-sherlock-holmes/%20%22His%20Last%20Bow:%20An%20Epilogue%20of%20Sherlock%20Holmes%22/)

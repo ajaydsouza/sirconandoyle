@@ -8,40 +8,40 @@ tags:
   - "valley-of-fear"
 ---
 
-**The Valley of Fear**, was written by [Sir Arthur Conan Doyle](http://sirconandoyle.com/oldsite/html/index.php) and was first published in 1915 in the **Strand Magazine**. This was the fourth and last novel about Sherlock Holmes.
+**The Valley of Fear**, was written by Sir Arthur Conan Doyle and was first published in 1915 in the **Strand Magazine**. This was the fourth and last novel about Sherlock Holmes.
 
 ![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")
 
 ### Part I - The Tragedy of Birlstone
 
-Chapter 1 - [The Warning](http://sirconandoyle.com/warning/ "The Valley of Fear – Part I – Chapter 1: The Warning")
+Chapter 1 - [The Warning](/warning/%20%22The%20Valley%20of%20Fear%20%E2%80%93%20Part%20I%20%E2%80%93%20Chapter%201:%20The%20Warning%22/)
 
-Chapter 2 - [Sherlock Holmes Discourses](http://sirconandoyle.com/sherlock-holmes-discourses/ "The Valley of Fear – Part I – Chapter 2: Sherlock Holmes Discourses")
+Chapter 2 - [Sherlock Holmes Discourses](/sherlock-holmes-discourses/%20%22The%20Valley%20of%20Fear%20%E2%80%93%20Part%20I%20%E2%80%93%20Chapter%202:%20Sherlock%20Holmes%20Discourses%22/)
 
-Chapter 3 - [The Tragedy of Birlstone](http://sirconandoyle.com/tragedy-birlstone/ "The Valley of Fear – Part I – Chapter 3: The Tragedy of Birlstone")
+Chapter 3 - [The Tragedy of Birlstone](/tragedy-birlstone/%20%22The%20Valley%20of%20Fear%20%E2%80%93%20Part%20I%20%E2%80%93%20Chapter%203:%20The%20Tragedy%20of%20Birlstone%22/)
 
-Chapter 4 - [Darkness](http://sirconandoyle.com/darkness/ "The Valley of Fear – Part I – Chapter 4: Darkness")
+Chapter 4 - [Darkness](/darkness/%20%22The%20Valley%20of%20Fear%20%E2%80%93%20Part%20I%20%E2%80%93%20Chapter%204:%20Darkness%22/)
 
-Chapter 5 - [The People of the Drama](http://sirconandoyle.com/people-drama/ "The Valley of Fear – Part I – Chapter 5: The People of the Drama")
+Chapter 5 - [The People of the Drama](/people-drama/%20%22The%20Valley%20of%20Fear%20%E2%80%93%20Part%20I%20%E2%80%93%20Chapter%205:%20The%20People%20of%20the%20Drama%22/)
 
-Chapter 6 - [A Dawning Light](http://sirconandoyle.com/dawning-light/ "The Valley of Fear – Part I – Chapter 6: A Dawning Light")
+Chapter 6 - [A Dawning Light](/dawning-light/%20%22The%20Valley%20of%20Fear%20%E2%80%93%20Part%20I%20%E2%80%93%20Chapter%206:%20A%20Dawning%20Light%22/)
 
-Chapter 7 - [The Solution](http://sirconandoyle.com/solution/ "The Valley of Fear – Part I – Chapter 7: The Solution")
+Chapter 7 - [The Solution](/solution/%20%22The%20Valley%20of%20Fear%20%E2%80%93%20Part%20I%20%E2%80%93%20Chapter%207:%20The%20Solution%22/)
 
 ### Part II - Scowrers
 
-Chapter 1 - [The Man](http://sirconandoyle.com/the-man/ "The Valley of Fear – Part II – Chapter 1: The Man")
+Chapter 1 - [The Man](/the-man/%20%22The%20Valley%20of%20Fear%20%E2%80%93%20Part%20II%20%E2%80%93%20Chapter%201:%20The%20Man%22/)
 
-Chapter 2 - [The Bodymaster](http://sirconandoyle.com/bodymaster/ "The Valley of Fear – Part II – Chapter 2: The Bodymaster")
+Chapter 2 - [The Bodymaster](/bodymaster/%20%22The%20Valley%20of%20Fear%20%E2%80%93%20Part%20II%20%E2%80%93%20Chapter%202:%20The%20Bodymaster%22/)
 
-Chapter 3 - [Lodge 341, Vermissa](http://sirconandoyle.com/lodge-341-vermissa/ "The Valley of Fear – Part II – Chapter 3: Lodge 341, Vermissa")
+Chapter 3 - [Lodge 341, Vermissa](/lodge-341-vermissa/%20%22The%20Valley%20of%20Fear%20%E2%80%93%20Part%20II%20%E2%80%93%20Chapter%203:%20Lodge%20341,%20Vermissa%22/)
 
-Chapter 4 - [The Valley of Fear](http://sirconandoyle.com/valley-fear/ "The Valley of Fear – Part II – Chapter 4: The Valley of Fear")
+Chapter 4 - [The Valley of Fear](/valley-fear/%20%22The%20Valley%20of%20Fear%20%E2%80%93%20Part%20II%20%E2%80%93%20Chapter%204:%20The%20Valley%20of%20Fear%22/)
 
-Chapter 5 - [The Darkest Hour](http://sirconandoyle.com/darkest-hour/ "The Valley of Fear – Part II – Chapter 5: The Darkest Hour")
+Chapter 5 - [The Darkest Hour](/darkest-hour/%20%22The%20Valley%20of%20Fear%20%E2%80%93%20Part%20II%20%E2%80%93%20Chapter%205:%20The%20Darkest%20Hour%22/)
 
-Chapter 6 - [Danger](http://sirconandoyle.com/danger/ "The Valley of Fear – Part II – Chapter 6: Danger")
+Chapter 6 - [Danger](/danger/%20%22The%20Valley%20of%20Fear%20%E2%80%93%20Part%20II%20%E2%80%93%20Chapter%206:%20Danger%22/)
 
-Chapter 7 - [The Trapping of Birdy Edwards](http://sirconandoyle.com/trapping-birdy-edwards/ "The Valley of Fear – Part II – Chapter 7: The Trapping of Birdy Edwards")
+Chapter 7 - [The Trapping of Birdy Edwards](/trapping-birdy-edwards/%20%22The%20Valley%20of%20Fear%20%E2%80%93%20Part%20II%20%E2%80%93%20Chapter%207:%20The%20Trapping%20of%20Birdy%20Edwards%22/)
 
 \[Image source: [Wikipedia](http://en.wikipedia.org/wiki/File:Valley_of_fear.jpg)\]

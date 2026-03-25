@@ -18,34 +18,34 @@ Mr. E. D. Malone desires to state that both the injunction for restraint and the
 
 ### Table of Contents
 
-Chapter 1 - [THERE ARE HEROISMS ALL ROUND US](http://sirconandoyle.com/there-are-heroisms-all-round-us/ "The Lost World: Chapter 1 – There Are Heroisms All Round Us")
+Chapter 1 - [THERE ARE HEROISMS ALL ROUND US](/there-are-heroisms-all-round-us/%20%22The%20Lost%20World:%20Chapter%201%20%E2%80%93%20There%20Are%20Heroisms%20All%20Round%20Us%22/)
 
-Chapter 2 - [TRY YOUR LUCK WITH PROFESSOR CHALLENGER](http://sirconandoyle.com/try-your-luck-with-professor-challenger/ "The Lost World: Chapter 2 – Try your luck with Professor Challenger")
+Chapter 2 - [TRY YOUR LUCK WITH PROFESSOR CHALLENGER](/try-your-luck-with-professor-challenger/%20%22The%20Lost%20World:%20Chapter%202%20%E2%80%93%20Try%20your%20luck%20with%20Professor%20Challenger%22/)
 
-Chapter 3 - [HE IS A PERFECTLY IMPOSSIBLE PERSON](http://sirconandoyle.com/he-is-a-perfectly-impossible-person/ "The Lost World: Chapter 3 – He is a Perfectly Impossible Person")
+Chapter 3 - [HE IS A PERFECTLY IMPOSSIBLE PERSON](/he-is-a-perfectly-impossible-person/%20%22The%20Lost%20World:%20Chapter%203%20%E2%80%93%20He%20is%20a%20Perfectly%20Impossible%20Person%22/)
 
-Chapter 4 - [IT'S JUST THE VERY BIGGEST THING IN THE WORLD](http://sirconandoyle.com/its-just-the-very-biggest-thing-in-the-world/ "The Lost World: Chapter 4 – It’s just the very biggest thing in the World")
+Chapter 4 - [IT'S JUST THE VERY BIGGEST THING IN THE WORLD](/its-just-the-very-biggest-thing-in-the-world/%20%22The%20Lost%20World:%20Chapter%204%20%E2%80%93%20It%E2%80%99s%20just%20the%20very%20biggest%20thing%20in%20the%20World%22/)
 
-Chapter 5 - [QUESTION!](http://sirconandoyle.com/lw-question/ "The Lost World: Chapter 5 – Question!")
+Chapter 5 - [QUESTION!](/lw-question/%20%22The%20Lost%20World:%20Chapter%205%20%E2%80%93%20Question!%22/)
 
-Chapter 6 - [I WAS THE FLAIL OF THE LORD](http://sirconandoyle.com/i-was-the-flail-of-the-lord/ "The Lost World: Chapter 6 – I was the Flail of the Lord")
+Chapter 6 - [I WAS THE FLAIL OF THE LORD](/i-was-the-flail-of-the-lord/%20%22The%20Lost%20World:%20Chapter%206%20%E2%80%93%20I%20was%20the%20Flail%20of%20the%20Lord%22/)
 
-Chapter 7 - [TOMORROW WE DISAPPEAR INTO THE UNKNOWN](http://sirconandoyle.com/tomorrow-we-disappear-into-the-unknown/ "The Lost World: Chapter 7 – Tomorrow we disappear into the Unknown")
+Chapter 7 - [TOMORROW WE DISAPPEAR INTO THE UNKNOWN](/tomorrow-we-disappear-into-the-unknown/%20%22The%20Lost%20World:%20Chapter%207%20%E2%80%93%20Tomorrow%20we%20disappear%20into%20the%20Unknown%22/)
 
-Chapter 8 - [THE OUTLYING PICKETS OF THE NEW WORLD](http://sirconandoyle.com/the-outlying-pickets-of-the-new-world/ "The Lost World: Chapter 8 – The Outlying Pickets of the New World")
+Chapter 8 - [THE OUTLYING PICKETS OF THE NEW WORLD](/the-outlying-pickets-of-the-new-world/%20%22The%20Lost%20World:%20Chapter%208%20%E2%80%93%20The%20Outlying%20Pickets%20of%20the%20New%20World%22/)
 
-Chapter 9 - [WHO COULD HAVE FORESEEN IT?](http://sirconandoyle.com/who-could-have-foreseen-it/ "The Lost World: Chapter 9 – Who could have foreseen it?")
+Chapter 9 - [WHO COULD HAVE FORESEEN IT?](/who-could-have-foreseen-it/%20%22The%20Lost%20World:%20Chapter%209%20%E2%80%93%20Who%20could%20have%20foreseen%20it/)
 
-Chapter 10 - [THE MOST WONDERFUL THINGS HAVE HAPPENED](http://sirconandoyle.com/the-most-wonderful-things-have-happened/ "The Lost World: Chapter 10 – The most Wonderful Things have Happened")
+Chapter 10 - [THE MOST WONDERFUL THINGS HAVE HAPPENED](/the-most-wonderful-things-have-happened/%20%22The%20Lost%20World:%20Chapter%2010%20%E2%80%93%20The%20most%20Wonderful%20Things%20have%20Happened%22/)
 
-Chapter 11 - [FOR ONCE I WAS THE HERO](http://sirconandoyle.com/for-once-i-was-the-hero/ "The Lost World: Chapter 11 – For Once I was the Hero")
+Chapter 11 - [FOR ONCE I WAS THE HERO](/for-once-i-was-the-hero/%20%22The%20Lost%20World:%20Chapter%2011%20%E2%80%93%20For%20Once%20I%20was%20the%20Hero%22/)
 
-Chapter 12 - [IT WAS DREADFUL IN THE FOREST](http://sirconandoyle.com/it-was-dreadful-in-the-forest/ "The Lost World: Chapter 12 – It was dreadful in the Forest")
+Chapter 12 - [IT WAS DREADFUL IN THE FOREST](/it-was-dreadful-in-the-forest/%20%22The%20Lost%20World:%20Chapter%2012%20%E2%80%93%20It%20was%20dreadful%20in%20the%20Forest%22/)
 
-Chapter 13 - [A SIGHT I SHALL NEVER FORGET](http://sirconandoyle.com/a-sight-which-i-shall-never-forget/ "The Lost World: Chapter 13 – A Sight which I shall Never Forget")
+Chapter 13 - [A SIGHT I SHALL NEVER FORGET](/a-sight-which-i-shall-never-forget/%20%22The%20Lost%20World:%20Chapter%2013%20%E2%80%93%20A%20Sight%20which%20I%20shall%20Never%20Forget%22/)
 
-Chapter 14 - [THOSE WERE THE REAL CONQUESTS](http://sirconandoyle.com/real-conquests/ "The Lost World: Chapter 14 – Those were the Real Conquests")
+Chapter 14 - [THOSE WERE THE REAL CONQUESTS](/real-conquests/%20%22The%20Lost%20World:%20Chapter%2014%20%E2%80%93%20Those%20were%20the%20Real%20Conquests%22/)
 
-Chapter 15 - [OUR EYES HAVE SEEN GREAT WONDERS](http://sirconandoyle.com/eyes-great-wonders/ "The Lost World: Chapter 15 – Our Eyes have seen Great Wonders")
+Chapter 15 - [OUR EYES HAVE SEEN GREAT WONDERS](/eyes-great-wonders/%20%22The%20Lost%20World:%20Chapter%2015%20%E2%80%93%20Our%20Eyes%20have%20seen%20Great%20Wonders%22/)
 
-Chapter 16 - [A PROCESSION! A PROCESSION!](http://sirconandoyle.com/procession-procession/ "The Lost World: Chapter 16 – A Procession! A Procession!")
+Chapter 16 - [A PROCESSION! A PROCESSION!](/procession-procession/%20%22The%20Lost%20World:%20Chapter%2016%20%E2%80%93%20A%20Procession!%20A%20Procession!%22/)

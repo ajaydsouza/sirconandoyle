@@ -9,7 +9,7 @@ tags:
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](http://sirconandoyle.com/the-valley-of-fear/ "The Valley of Fear by Sir Arthur Conan Doyle")
+[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 When McMurdo awoke next morning he had good reason to remember his initiation into the lodge. His head ached with the effect of the drink, and his arm, where he had been branded, was hot and swollen. Having his own peculiar source of income, he was irregular in his attendance at his work; so he had a late breakfast, and remained at home for the morning writing a long letter to a friend. Afterwards he read the Daily Herald. In a special column put in at the last moment he read:
 

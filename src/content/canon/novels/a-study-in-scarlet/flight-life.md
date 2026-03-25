@@ -9,7 +9,7 @@ tags:
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](http://sirconandoyle.com/a-study-in-scarlet/ "A Study in Scarlet by Sir Arthur Conan Doyle")
+[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 On the morning which followed his interview with the Mormon Prophet, John Ferrier went in to Salt Lake City, and having found his acquaintance, who was bound for the Nevada Mountains, he entrusted him with his message to Jefferson Hope. In it he told the young man of the imminent danger which threatened them, and how necessary it was that he should return. Having done thus he felt easier in his mind, and returned home with a lighter heart.
 

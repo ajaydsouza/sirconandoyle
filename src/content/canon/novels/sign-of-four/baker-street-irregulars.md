@@ -8,7 +8,7 @@ tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](http://sirconandoyle.com/the-sign-of-four/ "The Sign of Four by Sir Arthur Conan Doyle")
+[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 "What now?" I asked. "Toby has lost his character for infallibility. "
 

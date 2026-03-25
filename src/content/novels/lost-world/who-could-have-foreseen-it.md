@@ -8,7 +8,7 @@ tags:
   - "lost-world"
 ---
 
-[![The Lost World by Sir Arthur Conan Doyle](/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](http://sirconandoyle.com/the-lost-world/)A dreadful thing has happened to us. Who could have foreseen it? I cannot foresee any end to our troubles. It may be that we are condemned to spend our whole lives in this strange, inaccessible place. I am still so confused that I can hardly think clearly of the facts of the present or of the chances of the future. To my astounded senses the one seems most terrible and the other as black as night.
+[![The Lost World by Sir Arthur Conan Doyle](/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/novels/lost-world/the-lost-world/)A dreadful thing has happened to us. Who could have foreseen it? I cannot foresee any end to our troubles. It may be that we are condemned to spend our whole lives in this strange, inaccessible place. I am still so confused that I can hardly think clearly of the facts of the present or of the chances of the future. To my astounded senses the one seems most terrible and the other as black as night.
 
 No men have ever found themselves in a worse position; nor is there any use in disclosing to you our exact geographical situation and asking our friends for a relief party. Even if they could send one, our fate will in all human probability be decided long before it could arrive in South America.
 

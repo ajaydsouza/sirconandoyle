@@ -9,7 +9,7 @@ tags:
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](http://sirconandoyle.com/the-hound-of-the-baskervilles/ "The Hound of the Baskervilles by Sir Arthur Conan Doyle")
+[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 "We're at close grips at last," said Holmes as we walked together across the moor. "What a nerve the fellow has! How he pulled himself together in the face of what must have been a paralyzing shock when he found that the wrong man had fallen a victim to his plot. I told you in London, Watson, and I tell you now again, that we have never had a foeman more worthy of our steel."
 

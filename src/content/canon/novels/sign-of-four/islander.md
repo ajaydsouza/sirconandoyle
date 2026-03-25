@@ -8,7 +8,7 @@ tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](http://sirconandoyle.com/the-sign-of-four/ "The Sign of Four by Sir Arthur Conan Doyle")
+[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 Our meal was a merry one. Holmes could talk exceedingly well when he chose, and that night he did choose. He appeared to be in a state of nervous exaltation. I have never known him so brilliant. He spoke on a quick succession of subjects -- on miracle plays, on medieval pottery, on Stradivarius violins, on the Buddhism of Ceylon, and on the warships of the future -- handling each as though he had made a special study of it. His bright humour marked the reaction from his black depression of the preceding days. Athelney Jones proved to be a sociable soul in his hours of relaxation and faced his dinner with the air of a bon vivant. For myself, I felt elated at the thought that we were nearing the end of our task, and I caught something of Holmes's gaiety. None of us alluded during dinner to the cause which had brought us together.
 

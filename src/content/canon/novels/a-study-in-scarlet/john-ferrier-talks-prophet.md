@@ -9,7 +9,7 @@ tags:
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](http://sirconandoyle.com/a-study-in-scarlet/ "A Study in Scarlet by Sir Arthur Conan Doyle")
+[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 Three weeks had passed since Jefferson Hope and his comrades had departed from Salt Lake City. John Ferrier's heart was sore within him when he thought of the young man's return, and of the impending loss of his adopted child. Yet her bright and happy face reconciled him to the arrangement more than any argument could have done. He had always determined, deep down in his resolute heart, that nothing would ever induce him to allow his daughter to wed a Mormon. Such marriage he regarded as no marriage at all, but as a shame and a disgrace. Whatever he might think of the Mormon doctrines, upon that one point he was inflexible. He had to seal his mouth on the subject, however, for to express an unorthodox opinion was a dangerous matter in those days in the Land of the Saints.
 

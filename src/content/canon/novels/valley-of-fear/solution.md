@@ -9,7 +9,7 @@ tags:
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](http://sirconandoyle.com/the-valley-of-fear/ "The Valley of Fear by Sir Arthur Conan Doyle")
+[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 Next morning, after breakfast, we found Inspector MacDonald and White Mason seated in close consultation in the small parlour of the local police sergeant. On the table in front of them were piled a number of letters and telegrams, which they were carefully sorting and docketing. Three had been placed on one side.
 

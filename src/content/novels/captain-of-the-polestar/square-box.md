@@ -8,7 +8,7 @@ tags:
   - "captain-of-the-polestar"
 ---
 
-[![That Little Square Box](/images/posts/That-Little-Square-Box-198x300.png)](http://sirconandoyle.com/?attachment_id=969)
+[![That Little Square Box](/images/posts/That-Little-Square-Box-198x300.png)]
 
 All aboard?" said the captain.
 

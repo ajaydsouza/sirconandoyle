@@ -8,7 +8,7 @@ tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](http://sirconandoyle.com/the-sign-of-four/ "The Sign of Four by Sir Arthur Conan Doyle")
+[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 It was half-past five before Holmes returned. He was bright, eager, and in excellent spirits, a mood which in his case alternated with fits of the blackest depression.
 
