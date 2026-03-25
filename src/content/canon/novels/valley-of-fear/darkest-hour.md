@@ -9,7 +9,7 @@ tags:
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/sirconandoyle/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 If anything had been needed to give an impetus to Jack McMurdo's popularity among his fellows it would have been his arrest and acquittal. That a man on the very night of joining the lodge should have done something which brought him before the magistrate was a new record in the annals of the society. Already he had earned the reputation of a good boon companion, a cheery reveller, and withal a man of high temper, who would not take an insult even from the all-powerful Boss himself. But in addition to this he impressed his comrades with the idea that among them all there was not one whose brain was so ready to devise a bloodthirsty scheme, or whose hand would be more capable of carrying it out. "He'll be the boy for the clean job," said the oldsters to one another, and waited their time until they could set him to his work.
 
@@ -55,7 +55,7 @@ She felt that he was telling the truth. He gathered her into his arms and kissed
 
 "Well, dear, it's not so bad as you think. We are but poor men that are trying in our own way to get our rights."
 
-!["Give it up, Jack! For my sake, for God's sake, give it up!"](/images/posts/valley25.jpg ""Give it up, Jack! For my sake, for God's sake, give it up!"")
+!["Give it up, Jack! For my sake, for God's sake, give it up!"](/sirconandoyle/images/posts/valley25.jpg ""Give it up, Jack! For my sake, for God's sake, give it up!"")
 
 Ettie threw her arms round her lover's neck. "Give it up, Jack! For my sake, for God's sake, give it up! It was to ask you that I came here to-day. Oh, Jack, see -- I beg it of you on my bended knees! Kneeling here before you I implore you to give it up!"
 

@@ -29,8 +29,8 @@ export async function getStaticPaths() {
         props: {
           entry,
           novelLabel: NOVEL_LABELS[novel],
-          prev: i > 0 ? { title: entries[i - 1].data.title, href: `/canon/novels/${novel}/${entries[i - 1].id.split('/').pop()}/` } : null,
-          next: i < entries.length - 1 ? { title: entries[i + 1].data.title, href: `/canon/novels/${novel}/${entries[i + 1].id.split('/').pop()}/` } : null,
+          prev: i > 0 ? { title: entries[i - 1].data.title, href: `${import.meta.env.BASE_URL}canon/novels/${novel}/${entries[i - 1].id.split('/').pop()}/` } : null,
+          next: i < entries.length - 1 ? { title: entries[i + 1].data.title, href: `${import.meta.env.BASE_URL}canon/novels/${novel}/${entries[i + 1].id.split('/').pop()}/` } : null,
         },
       });
     }
@@ -45,10 +45,10 @@ const { Content } = await render(entry);
 <Base title={entry.data.title}>
   <div class="max-w-[70ch] mx-auto px-4 py-10">
     <Breadcrumb crumbs={[
-      { label: 'Home', href: '/' },
-      { label: 'The Canon', href: '/canon/' },
-      { label: 'Novels', href: '/canon/novels/' },
-      { label: novelLabel, href: `/canon/novels/${novel}/` },
+      { label: 'Home', href: import.meta.env.BASE_URL },
+      { label: 'The Canon', href: `${import.meta.env.BASE_URL}canon/` },
+      { label: 'Novels', href: `${import.meta.env.BASE_URL}canon/novels/` },
+      { label: novelLabel, href: `${import.meta.env.BASE_URL}canon/novels/${novel}/` },
       { label: entry.data.title },
     ]} />
 

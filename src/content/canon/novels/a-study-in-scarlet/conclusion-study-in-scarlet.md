@@ -9,7 +9,7 @@ tags:
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/sirconandoyle/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 We had all been warned to appear before the magistrates upon the Thursday; but when the Thursday came there was no occasion for our testimony. A higher Judge had taken the matter in hand, and Jefferson Hope had been summoned before a tribunal where strict justice would be meted out to him. On the very night after his capture the aneurism burst, and he was found in the morning stretched upon the floor of the cell, with a placid smile upon his face, as though he had been able in his dying moments to look back upon a useful life, and on work well done.
 
@@ -53,7 +53,7 @@ We had all been warned to appear before the magistrates upon the Thursday; but w
 
 It was the Echo for the day, and the paragraph to which he pointed was devoted to the case in question.
 
-!["Didn't I tell you so when we started?" cried Sherlock Holmes with a laugh](/images/posts/scarlet27.gif ""Didn't I tell you so when we started?" cried Sherlock Holmes with a laugh")
+!["Didn't I tell you so when we started?" cried Sherlock Holmes with a laugh](/sirconandoyle/images/posts/scarlet27.gif ""Didn't I tell you so when we started?" cried Sherlock Holmes with a laugh")
 
 "The public," it said, "have lost a sensational treat through the sudden death of the man Hope, who was suspected of the murder of Mr. Enoch Drebber and of Mr. Joseph Stangerson. The details of the case will probably be never known now, though we are informed upon good authority that the crime was the result of an old-standing and romantic feud, in which love and Mormonism bore a part. It seems that both the victims belonged, in their younger days, to the Latter Day Saints, and Hope, the deceased prisoner, hails also from Salt Lake City. If the case has had no other effect, it, at least, brings out in the most striking manner the efficiency of our detective police force, and will serve as a lesson to all foreigners that they will do wisely to settle their feuds at home, and not to carry them on to British soil. It is an open secret that the credit of this smart capture belongs entirely to the well-known Scotland Yard officials, Messrs. Lestrade and Gregson. The man was apprehended, it appears, in the rooms of a certain Mr. Sherlock Holmes, who has himself, as an amateur, shown some talent in the detective line and who, with such instructors, may hope in time to attain to some degree of their skill. It is expected that a testimonial of some sort will be presented to the two officers as a fitting recognition of their services."
 

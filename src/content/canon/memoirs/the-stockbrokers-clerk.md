@@ -37,7 +37,7 @@ For three months after taking over the practice I was kept very closely at work 
 
 "I do my neighbour's when he goes. He is always ready to work off the debt."
 
-!["Nothing could be better", said Holmes](/images/posts/clerk.jpg ""Nothing could be better", said Holmes")
+!["Nothing could be better", said Holmes](/sirconandoyle/images/posts/clerk.jpg ""Nothing could be better", said Holmes")
 
 "Ha! nothing could be better," said Holmes, leaning back in his chair and looking keenly at me from under his half-closed lids. "I perceive that you have been unwell lately. Summer colds are always a little trying."
 

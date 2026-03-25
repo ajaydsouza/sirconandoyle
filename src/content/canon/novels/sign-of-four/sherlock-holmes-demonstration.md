@@ -8,7 +8,7 @@ tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/sirconandoyle/canon/novels/sign-of-four/the-sign-of-four/)
 
 "Now, Watson," said Holmes, rubbing his hands, "we have half an hour to ourselves. Let us make good use of it. My case is, as I have told you, almost complete; but we must not err on the side of overconfidence. Simple as the case seems now, there may be something deeper underlying it."
 

@@ -18,4 +18,4 @@ And so, reader, farewell to Sherlock Holmes! I thank you for your past constancy
 
 ARTHUR CONAN DOYLE.
 
-[Return to The Case-Book of Sherlock Holmes »](/canon/casebook/the-case-book-of-sherlock-holmes/)
+[Return to The Case-Book of Sherlock Holmes »](/sirconandoyle/canon/casebook/the-case-book-of-sherlock-holmes/)

@@ -35,8 +35,8 @@ export async function getStaticPaths() {
           entry,
           collectionLabel: label,
           // Overview post has storyIndex -1 — no prev/next
-          prev: storyIndex > 0 ? { title: stories[storyIndex - 1].data.title, href: `/canon/${collection}/${stories[storyIndex - 1].id.split('/').pop()}/` } : null,
-          next: storyIndex >= 0 && storyIndex < stories.length - 1 ? { title: stories[storyIndex + 1].data.title, href: `/canon/${collection}/${stories[storyIndex + 1].id.split('/').pop()}/` } : null,
+          prev: storyIndex > 0 ? { title: stories[storyIndex - 1].data.title, href: `${import.meta.env.BASE_URL}canon/${collection}/${stories[storyIndex - 1].id.split('/').pop()}/` } : null,
+          next: storyIndex >= 0 && storyIndex < stories.length - 1 ? { title: stories[storyIndex + 1].data.title, href: `${import.meta.env.BASE_URL}canon/${collection}/${stories[storyIndex + 1].id.split('/').pop()}/` } : null,
         },
       });
     }
@@ -51,9 +51,9 @@ const { Content } = await render(entry);
 <Base title={entry.data.title}>
   <div class="max-w-[70ch] mx-auto px-4 py-10">
     <Breadcrumb crumbs={[
-      { label: 'Home', href: '/' },
-      { label: 'The Canon', href: '/canon/' },
-      { label: collectionLabel, href: `/canon/${collection}/` },
+      { label: 'Home', href: import.meta.env.BASE_URL },
+      { label: 'The Canon', href: `${import.meta.env.BASE_URL}canon/` },
+      { label: collectionLabel, href: `${import.meta.env.BASE_URL}canon/${collection}/` },
       { label: entry.data.title },
     ]} />
 

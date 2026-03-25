@@ -20,7 +20,7 @@ const novels = [
 <Base title="Other Novels &amp; Collections">
   <div class="max-w-3xl mx-auto px-4 py-10">
     <Breadcrumb crumbs={[
-      { label: 'Home', href: '/' },
+      { label: 'Home', href: import.meta.env.BASE_URL },
       { label: 'Novels' },
     ]} />
 
@@ -30,7 +30,7 @@ const novels = [
     <ul class="space-y-2">
       {novels.map(n => (
         <li>
-          <a href={`/novels/${n.slug}/`} class="flex justify-between items-baseline px-4 py-3 rounded-lg border border-stone-200 hover:border-amber-300 hover:bg-amber-50 transition-colors group">
+          <a href={`${import.meta.env.BASE_URL}novels/${n.slug}/`} class="flex justify-between items-baseline px-4 py-3 rounded-lg border border-stone-200 hover:border-amber-300 hover:bg-amber-50 transition-colors group">
             <span class="font-serif text-stone-800 group-hover:text-amber-900">{n.title}</span>
             <span class="text-sm text-stone-400 ml-4 shrink-0">{n.year}</span>
           </a>

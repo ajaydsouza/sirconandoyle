@@ -6,21 +6,10 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, '..');
 const CONTENT_DIR = path.join(ROOT, 'src/content');
+const REDIRECTS_FILE = path.join(ROOT, 'public/_redirects');
 
-function parseFrontmatter(raw) {
-  const match = raw.match(/^---\n([\s\S]*?)\n---/);
-  if (!match) return {};
-  const yaml = match[1];
-  const get = (key) => yaml.match(new RegExp(`^${key}:\\s*(.+)`, 'm'))?.[1]?.trim().replace(/^"|"$/g, '');
-  return {
-    collection: get('collection'),
-    novel: get('novel'),
-  };
-}
-
-const lines = [
-  '# sirconandoyle.com redirects — old WordPress flat URLs → new Astro paths',
-  '',
+// Manual redirects and aliases that don't follow a simple pattern
+const manualRedirects = [
   '# Collection indexes',
   '/the-adventures-of-sherlock-holmes/   /canon/adventures/   301',
   '/the-memoirs-of-sherlock-holmes/      /canon/memoirs/      301',
@@ -32,41 +21,79 @@ const lines = [
   '/the-canon/                           /canon/              301',
   '/biography-of-sir-arthur-conan-doyle/ /about/              301',
   '',
-  '# Individual content pages',
+  '# Individual content mappings',
 ];
 
-// Walk canon directory
-function walkDir(dir, handler) {
-  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+const redirects = new Map();
+
+function walkDir(dir, callback) {
+  if (!fs.existsSync(dir)) return;
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  for (const entry of entries) {
     const fullPath = path.join(dir, entry.name);
-    if (entry.isDirectory()) walkDir(fullPath, handler);
-    else if (entry.name.endsWith('.md')) handler(fullPath);
+    if (entry.isDirectory()) {
+      walkDir(fullPath, callback);
+    } else if (entry.name.endsWith('.md')) {
+      callback(fullPath);
+    }
   }
 }
 
+// 1. Process 'canon' collection
 walkDir(path.join(CONTENT_DIR, 'canon'), (filePath) => {
-  const raw = fs.readFileSync(filePath, 'utf8');
-  const { collection, novel } = parseFrontmatter(raw);
+  const relPath = path.relative(path.join(CONTENT_DIR, 'canon'), filePath);
+  const parts = relPath.split(path.sep);
   const slug = path.basename(filePath, '.md');
-
-  if (collection) {
-    lines.push(`/${slug}/  /canon/${collection}/${slug}/  301`);
-  } else if (novel) {
-    // Determine subfolder (e.g. canon/novels/a-study-in-scarlet/)
-    const novelDir = path.basename(path.dirname(filePath));
-    lines.push(`/${slug}/  /canon/novels/${novelDir}/${slug}/  301`);
+  
+  if (parts.length >= 2) {
+    const collection = parts[0];
+    // Special case for canon novels which are nested deeper
+    if (collection === 'novels' && parts.length >= 3) {
+      const novelDir = parts[1];
+      redirects.set(slug, `/canon/novels/${novelDir}/${slug}/`);
+    } else {
+      redirects.set(slug, `/canon/${collection}/${slug}/`);
+    }
   }
 });
 
+// 2. Process 'novels' collection (non-Holmes)
 walkDir(path.join(CONTENT_DIR, 'novels'), (filePath) => {
-  const raw = fs.readFileSync(filePath, 'utf8');
-  const { novel } = parseFrontmatter(raw);
+  const relPath = path.relative(path.join(CONTENT_DIR, 'novels'), filePath);
+  const parts = relPath.split(path.sep);
   const slug = path.basename(filePath, '.md');
-  if (novel) {
-    lines.push(`/${slug}/  /novels/${novel}/${slug}/  301`);
+
+  if (parts.length >= 2) {
+    const novel = parts[0];
+    redirects.set(slug, `/novels/${novel}/${slug}/`);
   }
 });
 
-const output = lines.join('\n') + '\n';
-fs.writeFileSync(path.join(ROOT, 'public/_redirects'), output);
-console.log(`Written public/_redirects (${lines.length} lines)`);
+// 3. Process 'pages' collection
+walkDir(path.join(CONTENT_DIR, 'pages'), (filePath) => {
+  const slug = path.basename(filePath, '.md');
+  // Pages are already at the root, so no redirect needed UNLESS we want to ensure it
+  // But WordPress was also at root. So /about/ -> /about/ is a no-op 301.
+  // We only add it if it's NOT a no-op.
+  // However, WordPress %postname% urls were /slug/ and Astro is /slug/ by default.
+});
+
+// Generate the file content
+const lines = [
+  '# sirconandoyle.com redirects — generated on ' + new Date().toISOString(),
+  '',
+  ...manualRedirects,
+];
+
+// Add automated redirects, avoiding duplicates and no-ops
+for (const [slug, newPath] of redirects) {
+  const oldPath = `/${slug}/`;
+  // Avoid no-ops and ensure 301
+  if (oldPath !== newPath) {
+    lines.push(`${oldPath.padEnd(40)} ${newPath.padEnd(50)} 301`);
+  }
+}
+
+fs.writeFileSync(REDIRECTS_FILE, lines.join('\n') + '\n');
+console.log(`Successfully generated ${REDIRECTS_FILE} (${lines.length} lines)`);
+

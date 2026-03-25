@@ -100,7 +100,7 @@ Of course you are responsible for keeping your password and user details confide
 
 We reserve the right to make changes to this policy. You will always find the latest version of the policy on this page. We might also send you an email telling you about the update.
 
-If you have any questions, please [contact me](/contact/).
+If you have any questions, please [contact me](/sirconandoyle/contact/).
 
 Thanks,  
 **Ajay D'Souza**

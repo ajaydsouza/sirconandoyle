@@ -8,7 +8,7 @@ tags:
   - "lost-world"
 ---
 
-[![The Lost World by Sir Arthur Conan Doyle](../../../assets/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/the-lost-world/)Hardly was it shut when Mrs. Challenger darted out from the dining-room. The small woman was in a furious temper. She barred her husband's way like an enraged chicken in front of a bulldog. It was evident that she had seen my exit, but had not observed my return.
+[![The Lost World by Sir Arthur Conan Doyle](../../../assets/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/sirconandoyle/the-lost-world/)Hardly was it shut when Mrs. Challenger darted out from the dining-room. The small woman was in a furious temper. She barred her husband's way like an enraged chicken in front of a bulldog. It was evident that she had seen my exit, but had not observed my return.
 
 "You brute, George!" she screamed. "You've hurt that nice young man."
 

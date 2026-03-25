@@ -9,7 +9,7 @@ tags:
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/sirconandoyle/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 As McMurdo had said, the house in which he lived was a lonely one and very well suited for such a crime as they had planned. It was on the extreme fringe of the town and stood well back from the road. In any other case the conspirators would have simply called out their man, as they had many a time before, and emptied their pistols into his body; but in this instance it was very necessary to find out how much he knew how he knew it, and what had been passed on to his employers.
 

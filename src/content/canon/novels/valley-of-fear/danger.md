@@ -9,7 +9,7 @@ tags:
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/sirconandoyle/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 It was the height of the reign of terror. McMurdo, who had already been appointed Inner Deacon, with every prospect of some day succeeding McGinty as Bodymaster, was now so necessary to the councils of his comrades that nothing was done without his help and advice. The more popular he became, however, with the Freemen, the blacker were the scowls which greeted him as he passed along the streets of Vermissa. In spite of their terror the citizens were taking heart to band themselves together against their oppressors. Rumours had reached the lodge of secret gatherings in the Herald office and of distribution of firearms among the law-abiding people. But McGinty and his men were undisturbed by such reports. They were numerous, resolute, and well armed. Their opponents were scattered and powerless. It would all end, as it had done in the past, in aimless talk and possibly in impotent arrests. So said McGinty, McMurdo, and all the bolder spirits.
 

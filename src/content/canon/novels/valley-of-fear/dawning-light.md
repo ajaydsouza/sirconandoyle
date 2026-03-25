@@ -9,7 +9,7 @@ tags:
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/sirconandoyle/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 The three detectives had many matters of detail into which to inquire; so I returned alone to our modest quarters at the village inn. But before doing so I took a stroll in the curious old-world garden which flanked the house. Rows of very ancient yew trees cut into strange designs girded it round. Inside was a beautiful stretch of lawn with an old sundial in the middle, the whole effect so soothing and restful that it was welcome to my somewhat jangled nerves.
 
@@ -187,7 +187,7 @@ The two detectives shook their heads.
 
 It was late that night when Holmes returned from his solitary excursion. We slept in a double-bedded room, which was the best that the little country inn could do for us. I was already asleep when I was partly awakened by his entrance.
 
-!["Well, Holmes," I murmured, "have you found anything out?"](/images/posts/valley16.jpg ""Well, Holmes," I murmured, "have you found anything out?"")
+!["Well, Holmes," I murmured, "have you found anything out?"](/sirconandoyle/images/posts/valley16.jpg ""Well, Holmes," I murmured, "have you found anything out?"")
 
 "Well, Holmes," I murmured, "have you found anything out?"
 

@@ -26,8 +26,8 @@ const novelTitle = entries[0]?.data.title ?? novel;
 <Base title={novelTitle}>
   <div class="max-w-3xl mx-auto px-4 py-10">
     <Breadcrumb crumbs={[
-      { label: 'Home', href: '/' },
-      { label: 'Novels', href: '/novels/' },
+      { label: 'Home', href: import.meta.env.BASE_URL },
+      { label: 'Novels', href: `${import.meta.env.BASE_URL}novels/` },
       { label: novelTitle },
     ]} />
 
@@ -39,7 +39,7 @@ const novelTitle = entries[0]?.data.title ?? novel;
         return (
           <li>
             <a
-              href={`/novels/${novel}/${slug}/`}
+              href={`${import.meta.env.BASE_URL}novels/${novel}/${slug}/`}
               class="flex items-baseline gap-3 px-4 py-3 rounded-lg hover:bg-amber-50 group transition-colors"
             >
               <span class="text-stone-400 text-sm w-6 shrink-0 text-right">{i + 1}.</span>

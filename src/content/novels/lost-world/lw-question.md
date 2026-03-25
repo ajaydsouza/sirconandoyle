@@ -8,7 +8,7 @@ tags:
   - "lost-world"
 ---
 
-[![The Lost World by Sir Arthur Conan Doyle](../../../assets/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/novels/lost-world/the-lost-world/)What with the physical shocks incidental to my first interview with Professor Challenger and the mental ones which accompanied the second, I was a somewhat demoralized journalist by the time I found myself in Enmore Park once more.  In my aching head the one thought was throbbing that there really was truth in this man's story, that it was of tremendous consequence, and that it would work up into inconceivable copy for the Gazette when I could obtain permission to use it.  A taxicab was waiting at the end of the road, so I sprang into it and drove down to the office. McArdle was at his post as usual.
+[![The Lost World by Sir Arthur Conan Doyle](../../../assets/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/sirconandoyle/novels/lost-world/the-lost-world/)What with the physical shocks incidental to my first interview with Professor Challenger and the mental ones which accompanied the second, I was a somewhat demoralized journalist by the time I found myself in Enmore Park once more.  In my aching head the one thought was throbbing that there really was truth in this man's story, that it was of tremendous consequence, and that it would work up into inconceivable copy for the Gazette when I could obtain permission to use it.  A taxicab was waiting at the end of the road, so I sprang into it and drove down to the office. McArdle was at his post as usual.
 
 "Well," he cried, expectantly, "what may it run to?  I'm thinking, young man, you have been in the wars.  Don't tell me that he assaulted you."
 

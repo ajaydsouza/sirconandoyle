@@ -19,7 +19,7 @@ const novels = [
 ---
 <Base title="The Canon">
   <div class="max-w-3xl mx-auto px-4 py-10">
-    <Breadcrumb crumbs={[{ label: 'Home', href: '/' }, { label: 'The Canon' }]} />
+    <Breadcrumb crumbs={[{ label: 'Home', href: import.meta.env.BASE_URL }, { label: 'The Canon' }]} />
 
     <h1 class="font-serif text-3xl font-semibold text-black mb-2">The Sherlock Holmes Canon</h1>
     <p class="text-amber-900 mb-10">The complete works of Sherlock Holmes — four novels and five short story collections by Sir Arthur Conan Doyle.</p>
@@ -29,7 +29,7 @@ const novels = [
       <ul class="space-y-2">
         {novels.map(n => (
           <li>
-            <a href={`/canon/${n.slug}/`} class="flex gap-4 px-4 py-4 rounded-lg border border-amber-300 hover:bg-amber-50 transition-colors group">
+            <a href={`${import.meta.env.BASE_URL}canon/${n.slug}/`} class="flex gap-4 px-4 py-4 rounded-lg border border-amber-300 hover:bg-amber-50 transition-colors group">
               <div class="flex-1">
                 <span class="font-serif text-lg text-black group-hover:text-amber-900">{n.title}</span>
                 <p class="text-sm text-amber-800 mt-0.5">{n.description}</p>
@@ -46,7 +46,7 @@ const novels = [
       <ul class="space-y-2">
         {collections.map(c => (
           <li>
-            <a href={`/canon/${c.slug}/`} class="flex gap-4 px-4 py-4 rounded-lg border border-amber-300 hover:bg-amber-50 transition-colors group">
+            <a href={`${import.meta.env.BASE_URL}canon/${c.slug}/`} class="flex gap-4 px-4 py-4 rounded-lg border border-amber-300 hover:bg-amber-50 transition-colors group">
               <div class="flex-1">
                 <span class="font-serif text-lg text-black group-hover:text-amber-900">{c.title}</span>
                 <p class="text-sm text-amber-800 mt-0.5">{c.description}</p>

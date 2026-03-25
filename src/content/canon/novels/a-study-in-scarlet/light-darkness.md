@@ -9,7 +9,7 @@ tags:
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/sirconandoyle/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 The intelligence with which Lestrade greeted us was so momentous and so unexpected that we were all three fairly dumfounded. Gregson sprang out of his chair and upset the remainder of his whisky and water. I stared in silence at Sherlock Holmes, whose lips were compressed and his brows drawn down over his eyes.
 

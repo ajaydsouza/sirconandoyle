@@ -87,7 +87,7 @@ We had left the fertile country behind and beneath us. We looked back on it now,
 
 Two high, narrow towers rose over the trees. The driver pointed with his whip.
 
-!["Baskerville Hall", said he](/images/posts/hound06.jpg ""Baskerville Hall", said he")
+!["Baskerville Hall", said he](/sirconandoyle/images/posts/hound06.jpg ""Baskerville Hall", said he")
 
 "Baskerville Hall," said he.
 

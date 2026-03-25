@@ -34,7 +34,7 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
     <header class="bg-white border-b border-stone-200 shadow-sm relative z-50">
       <div class="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
         <!-- Logo: portrait + site name + tagline -->
-        <a href="/" class="flex items-center gap-3 shrink-0">
+        <a href={import.meta.env.BASE_URL} class="flex items-center gap-3 shrink-0">
           <img src={logo.src} alt="Sir Arthur Conan Doyle" class="h-16 w-16 object-cover rounded shadow-sm" loading="eager" fetchpriority="high" />
           <div class="hidden sm:block">
             <span class="block text-3xl leading-tight text-[#3a5f8a]" style="font-family: 'Great Vibes', cursive;">Sir Arthur Conan Doyle</span>
@@ -58,10 +58,10 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
 
         <!-- Desktop Navigation -->
         <nav class="hidden lg:flex items-center gap-6 text-sm text-stone-600 font-medium">
-          <a href="/" class="hover:text-stone-900 transition-colors">Home</a>
-          <a href="/canon/" class="hover:text-stone-900 transition-colors">The Canon</a>
-          <a href="/novels/" class="hover:text-stone-900 transition-colors">Novels</a>
-          <a href="/who-is-doyle/" class="hover:text-stone-900 transition-colors whitespace-nowrap">Who is Doyle?</a>
+          <a href={import.meta.env.BASE_URL} class="hover:text-stone-900 transition-colors">Home</a>
+          <a href={`${import.meta.env.BASE_URL}canon/`} class="hover:text-stone-900 transition-colors">The Canon</a>
+          <a href={`${import.meta.env.BASE_URL}novels/`} class="hover:text-stone-900 transition-colors">Novels</a>
+          <a href={`${import.meta.env.BASE_URL}who-is-doyle/`} class="hover:text-stone-900 transition-colors whitespace-nowrap">Who is Doyle?</a>
           <!-- Search toggle button -->
           <button id="search-toggle-desktop" aria-label="Search" class="hover:text-stone-900 transition-colors cursor-pointer ml-2">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -79,11 +79,11 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
             <button id="mobile-menu-close" aria-label="Close menu" class="text-stone-400 hover:text-stone-900 text-3xl leading-none cursor-pointer">&times;</button>
           </div>
           <nav class="flex flex-col gap-5 text-lg text-stone-700 font-medium font-serif">
-            <a href="/" class="hover:text-stone-900 transition-colors border-b border-stone-50 pb-2">Home</a>
-            <a href="/canon/" class="hover:text-stone-900 transition-colors border-b border-stone-50 pb-2">The Canon</a>
-            <a href="/novels/" class="hover:text-stone-900 transition-colors border-b border-stone-50 pb-2">Novels</a>
-            <a href="/who-is-doyle/" class="hover:text-stone-900 transition-colors border-b border-stone-50 pb-2">Who is Doyle?</a>
-            <a href="/search/" class="hover:text-stone-900 transition-colors pb-2">Search Site</a>
+            <a href={import.meta.env.BASE_URL} class="hover:text-stone-900 transition-colors border-b border-stone-50 pb-2">Home</a>
+            <a href={`${import.meta.env.BASE_URL}canon/`} class="hover:text-stone-900 transition-colors border-b border-stone-50 pb-2">The Canon</a>
+            <a href={`${import.meta.env.BASE_URL}novels/`} class="hover:text-stone-900 transition-colors border-b border-stone-50 pb-2">Novels</a>
+            <a href={`${import.meta.env.BASE_URL}who-is-doyle/`} class="hover:text-stone-900 transition-colors border-b border-stone-50 pb-2">Who is Doyle?</a>
+            <a href={`${import.meta.env.BASE_URL}search/`} class="hover:text-stone-900 transition-colors pb-2">Search Site</a>
           </nav>
           
           <div class="mt-20 pt-8 border-t border-stone-100 italic text-stone-400 text-xs text-center leading-relaxed px-4">
@@ -95,10 +95,9 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
       <!-- Backdrop -->
       <div id="mobile-menu-backdrop" class="fixed inset-0 bg-stone-900/50 backdrop-blur-sm z-[55] hidden opacity-0 transition-opacity duration-300 lg:hidden"></div>
 
-      <!-- Collapsible Search Bar -->
       <div id="search-bar" class="hidden border-t border-stone-100 bg-stone-50 relative z-[50]">
         <div class="max-w-5xl mx-auto px-4 py-3">
-          <form action="/search/" method="get" class="flex items-center gap-3">
+          <form action={`${import.meta.env.BASE_URL}search/`} method="get" class="flex items-center gap-3">
             <div class="relative flex-1">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 absolute left-3 top-1/2 -translate-y-1/2 text-stone-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z" />
@@ -130,14 +129,14 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
     <footer class="border-t-2 border-amber-900 bg-white text-amber-900 py-8 mt-4">
       <div class="max-w-5xl mx-auto px-4">
         <nav class="flex flex-wrap justify-center gap-6 text-sm mb-6 pb-6 border-b border-amber-200">
-          <a href="/" class="hover:text-amber-700">Home</a>
-          <a href="/canon/" class="hover:text-amber-700">The Canon</a>
-          <a href="/novels/" class="hover:text-amber-700">Novels</a>
-          <a href="/who-is-doyle/" class="hover:text-amber-700">Who is Doyle?</a>
-          <a href="/search/" class="hover:text-amber-700">Search</a>
-          <a href="/privacy-policy/" class="hover:text-amber-700">Privacy Policy</a>
-          <a href="/disclaimer/" class="hover:text-amber-700">Disclaimer</a>
-          <a href="/sitemap-index.xml" class="hover:text-amber-700">Sitemap</a>
+          <a href={import.meta.env.BASE_URL} class="hover:text-amber-700">Home</a>
+          <a href={`${import.meta.env.BASE_URL}canon/`} class="hover:text-amber-700">The Canon</a>
+          <a href={`${import.meta.env.BASE_URL}novels/`} class="hover:text-amber-700">Novels</a>
+          <a href={`${import.meta.env.BASE_URL}who-is-doyle/`} class="hover:text-amber-700">Who is Doyle?</a>
+          <a href={`${import.meta.env.BASE_URL}search/`} class="hover:text-amber-700">Search</a>
+          <a href={`${import.meta.env.BASE_URL}privacy-policy/`} class="hover:text-amber-700">Privacy Policy</a>
+          <a href={`${import.meta.env.BASE_URL}disclaimer/`} class="hover:text-amber-700">Disclaimer</a>
+          <a href={`${import.meta.env.BASE_URL}sitemap-index.xml`} class="hover:text-amber-700">Sitemap</a>
         </nav>
         <p class="text-center text-xs leading-relaxed">This is an unofficial fan site dedicated to Sir Arthur Conan Doyle and his works. This site is not affiliated with, endorsed by, or connected to the Arthur Conan Doyle Estate Ltd. All Sherlock Holmes stories, characters, and related elements are the intellectual property of the Arthur Conan Doyle Estate Ltd and/or their respective copyright holders. Content from the original works is used under fair use principles for commentary, criticism, research, and appreciation purposes only. All original content created for this fan site is the property of sirconandoyle.com. This website is maintained by a fan for fans and is intended for informational and entertainment purposes only.</p>
       </div>

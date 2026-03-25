@@ -3,7 +3,7 @@ import Base from '../layouts/Base.astro';
 const query = Astro.url.searchParams.get('q') ?? '';
 ---
 <Base title="Search">
-  <link slot="head" rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+  <link slot="head" rel="stylesheet" href={`${import.meta.env.BASE_URL}pagefind/pagefind-ui.css`} />
   <div class="max-w-3xl mx-auto px-4 py-10">
     <h1 class="font-serif text-3xl font-semibold text-black mb-6">Search</h1>
     <div id="search"></div>
@@ -36,10 +36,10 @@ const query = Astro.url.searchParams.get('q') ?? '';
 
   // Handle script loading
   const script = document.createElement('script');
-  script.src = '/pagefind/pagefind-ui.js';
+  script.src = `${import.meta.env.BASE_URL}pagefind/pagefind-ui.js`;
   script.onload = initSearch;
   script.onerror = () => {
-    console.error('Failed to load /pagefind/pagefind-ui.js');
+    console.error(`Failed to load ${import.meta.env.BASE_URL}pagefind/pagefind-ui.js`);
     initSearch(); // Trigger catch block
   };
   document.head.appendChild(script);
