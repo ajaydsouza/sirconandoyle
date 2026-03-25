@@ -22,7 +22,8 @@ export async function getStaticPaths() {
 
     for (let i = 0; i < entries.length; i++) {
       const entry = entries[i];
-      const slug = entry.id.split('/').pop()!;
+      const slug = entry.id.split('/').pop();
+      if (!slug) continue;
       paths.push({
         params: { novel, slug },
         props: {

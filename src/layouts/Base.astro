@@ -20,25 +20,39 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
   </head>
   <body class="min-h-screen flex flex-col bg-[#d4c5a9]" style="background-image: repeating-linear-gradient(90deg, transparent, transparent 2px, rgba(0,0,0,.03) 2px, rgba(0,0,0,.03) 4px), repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,.03) 2px, rgba(0,0,0,.03) 4px); background-size: 50px 50px;">
 
-    <header class="bg-white border-b border-stone-200 shadow-sm">
-      <div class="max-w-5xl mx-auto px-4 py-3 flex items-center gap-6">
+    <header class="bg-white border-b border-stone-200 shadow-sm relative z-50">
+      <div class="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
         <!-- Logo: portrait + site name + tagline -->
         <a href="/" class="flex items-center gap-3 shrink-0">
           <img src="/images/posts/SACD.jpg" alt="Sir Arthur Conan Doyle" class="h-16 w-16 object-cover rounded shadow-sm" />
-          <div>
+          <div class="hidden sm:block">
             <span class="block text-3xl leading-tight text-[#3a5f8a]" style="font-family: 'Great Vibes', cursive;">Sir Arthur Conan Doyle</span>
             <span class="block text-xs text-stone-500 tracking-wide mt-0.5">His Life, All His Works and more...</span>
           </div>
         </a>
 
-        <!-- Navigation -->
-        <nav class="ml-auto flex items-center gap-6 text-sm text-stone-600 font-medium">
+        <!-- Mobile Controls -->
+        <div class="flex items-center gap-2 lg:hidden">
+          <button id="search-toggle-mobile" aria-label="Search" class="p-2 text-stone-600 hover:text-stone-900 cursor-pointer">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z" />
+            </svg>
+          </button>
+          <button id="mobile-menu-toggle" aria-label="Toggle menu" class="p-2 text-stone-600 hover:text-stone-900 cursor-pointer">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+          </button>
+        </div>
+
+        <!-- Desktop Navigation -->
+        <nav class="hidden lg:flex items-center gap-6 text-sm text-stone-600 font-medium">
           <a href="/" class="hover:text-stone-900 transition-colors">Home</a>
           <a href="/canon/" class="hover:text-stone-900 transition-colors">The Canon</a>
           <a href="/novels/" class="hover:text-stone-900 transition-colors">Novels</a>
           <a href="/who-is-doyle/" class="hover:text-stone-900 transition-colors whitespace-nowrap">Who is Doyle?</a>
           <!-- Search toggle button -->
-          <button id="search-toggle" aria-label="Search" class="hover:text-stone-900 transition-colors cursor-pointer">
+          <button id="search-toggle-desktop" aria-label="Search" class="hover:text-stone-900 transition-colors cursor-pointer ml-2">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z" />
             </svg>
@@ -46,20 +60,49 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
         </nav>
       </div>
 
-      <!-- Collapsible search bar -->
-      <div id="search-bar" class="hidden border-t border-stone-100">
-        <div class="max-w-5xl mx-auto px-4 py-2">
-          <form action="/search/" method="get" class="flex items-center gap-2">
-            <input
-              type="text"
-              name="q"
-              id="search-input"
-              placeholder="Search Sir Arthur Conan Doyle…"
-              autocomplete="off"
-              class="flex-1 border border-stone-300 rounded px-3 py-1.5 text-sm focus:outline-none focus:border-stone-500"
-            />
-            <button type="submit" class="px-3 py-1.5 bg-stone-800 text-white text-sm rounded hover:bg-stone-700 transition-colors">Search</button>
-            <button type="button" id="search-close" aria-label="Close search" class="text-stone-400 hover:text-stone-700 px-1 text-lg leading-none transition-colors">&times;</button>
+      <!-- Mobile Menu Drawer -->
+      <div id="mobile-menu-drawer" class="fixed inset-y-0 right-0 w-72 bg-white shadow-2xl z-[60] transform translate-x-full transition-transform duration-300 ease-in-out lg:hidden h-screen overflow-y-auto">
+        <div class="p-6">
+          <div class="flex items-center justify-between mb-8 pb-4 border-b border-stone-100">
+            <span class="font-serif text-xl text-stone-900">Navigation</span>
+            <button id="mobile-menu-close" aria-label="Close menu" class="text-stone-400 hover:text-stone-900 text-3xl leading-none cursor-pointer">&times;</button>
+          </div>
+          <nav class="flex flex-col gap-5 text-lg text-stone-700 font-medium font-serif">
+            <a href="/" class="hover:text-stone-900 transition-colors border-b border-stone-50 pb-2">Home</a>
+            <a href="/canon/" class="hover:text-stone-900 transition-colors border-b border-stone-50 pb-2">The Canon</a>
+            <a href="/novels/" class="hover:text-stone-900 transition-colors border-b border-stone-50 pb-2">Novels</a>
+            <a href="/who-is-doyle/" class="hover:text-stone-900 transition-colors border-b border-stone-50 pb-2">Who is Doyle?</a>
+            <a href="/search/" class="hover:text-stone-900 transition-colors pb-2">Search Site</a>
+          </nav>
+          
+          <div class="mt-20 pt-8 border-t border-stone-100 italic text-stone-400 text-xs text-center leading-relaxed px-4">
+            "Eliminate all other factors, and the one which remains must be the truth."
+          </div>
+        </div>
+      </div>
+
+      <!-- Backdrop -->
+      <div id="mobile-menu-backdrop" class="fixed inset-0 bg-stone-900/50 backdrop-blur-sm z-[55] hidden opacity-0 transition-opacity duration-300 lg:hidden"></div>
+
+      <!-- Collapsible Search Bar -->
+      <div id="search-bar" class="hidden border-t border-stone-100 bg-stone-50 relative z-[50]">
+        <div class="max-w-5xl mx-auto px-4 py-3">
+          <form action="/search/" method="get" class="flex items-center gap-3">
+            <div class="relative flex-1">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 absolute left-3 top-1/2 -translate-y-1/2 text-stone-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z" />
+              </svg>
+              <input
+                type="text"
+                name="q"
+                id="search-input"
+                placeholder="Search Sir Arthur Conan Doyle…"
+                autocomplete="off"
+                class="w-full border border-stone-200 rounded-full pl-9 pr-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 bg-white shadow-inner transition-all"
+              />
+            </div>
+            <button type="submit" class="px-5 py-2 bg-stone-800 text-white text-sm font-medium rounded-full hover:bg-stone-700 transition-all shadow-sm">Search</button>
+            <button type="button" id="search-close" aria-label="Close search" class="text-stone-400 hover:text-stone-700 px-1 text-2xl leading-none transition-colors hidden sm:block">&times;</button>
           </form>
         </div>
       </div>
@@ -92,19 +135,51 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
 </html>
 
 <script>
-  const toggle = document.getElementById('search-toggle');
+  const toggleDesktop = document.getElementById('search-toggle-desktop');
+  const toggleMobile = document.getElementById('search-toggle-mobile');
   const bar = document.getElementById('search-bar');
   const input = /** @type {HTMLInputElement|null} */ (document.getElementById('search-input'));
   const closeBtn = document.getElementById('search-close');
+  
+  const mobileToggle = document.getElementById('mobile-menu-toggle');
+  const mobileClose = document.getElementById('mobile-menu-close');
+  const drawer = document.getElementById('mobile-menu-drawer');
+  const backdrop = document.getElementById('mobile-menu-backdrop');
 
-  toggle?.addEventListener('click', () => {
+  const toggleSearch = () => {
     const hidden = bar?.classList.toggle('hidden');
     if (!hidden) input?.focus();
-  });
+    // Close mobile drawer if search is opened
+    closeDrawer();
+  };
 
+  toggleDesktop?.addEventListener('click', toggleSearch);
+  toggleMobile?.addEventListener('click', toggleSearch);
   closeBtn?.addEventListener('click', () => bar?.classList.add('hidden'));
 
+  const openDrawer = () => {
+    drawer?.classList.remove('translate-x-full');
+    backdrop?.classList.remove('hidden');
+    setTimeout(() => backdrop?.classList.add('opacity-100'), 10);
+    document.body.style.overflow = 'hidden';
+    bar?.classList.add('hidden');
+  };
+
+  const closeDrawer = () => {
+    drawer?.classList.add('translate-x-full');
+    backdrop?.classList.remove('opacity-100');
+    setTimeout(() => backdrop?.classList.add('hidden'), 300);
+    document.body.style.overflow = '';
+  };
+
+  mobileToggle?.addEventListener('click', openDrawer);
+  mobileClose?.addEventListener('click', closeDrawer);
+  backdrop?.addEventListener('click', closeDrawer);
+
   document.addEventListener('keydown', e => {
-    if (e.key === 'Escape') bar?.classList.add('hidden');
+    if (e.key === 'Escape') {
+      bar?.classList.add('hidden');
+      closeDrawer();
+    }
   });
 </script>

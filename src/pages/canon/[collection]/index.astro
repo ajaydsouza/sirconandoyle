@@ -43,6 +43,7 @@ const stories = entries.filter(e => e.data.title !== label);
     <ol class="space-y-1">
       {stories.map((entry, i) => {
         const slug = entry.id.split('/').pop();
+        if (!slug) return null;
         return (
           <li>
             <a

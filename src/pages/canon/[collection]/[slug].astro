@@ -26,7 +26,8 @@ export async function getStaticPaths() {
     const stories = allInCollection.filter(e => e.data.title !== label);
 
     for (const entry of allInCollection) {
-      const slug = entry.id.split('/').pop()!;
+      const slug = entry.id.split('/').pop();
+      if (!slug) continue;
       const storyIndex = stories.indexOf(entry);
       paths.push({
         params: { collection, slug },

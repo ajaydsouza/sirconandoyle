@@ -41,6 +41,7 @@ const { entries, label } = Astro.props;
     <ol class="space-y-1">
       {entries.map((entry, i) => {
         const slug = entry.id.split('/').pop();
+        if (!slug) return null;
         return (
           <li>
             <a

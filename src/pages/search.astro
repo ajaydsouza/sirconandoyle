@@ -10,28 +10,37 @@ const query = Astro.url.searchParams.get('q') ?? '';
   </div>
 </Base>
 
-<script define:vars={{ query }}>
-  async function initSearch() {
+<script is:inline>
+  function initSearch() {
+    const query = new URLSearchParams(window.location.search).get('q');
     try {
-      const { PagefindUI } = await import('/pagefind/pagefind-ui.js');
+      if (typeof PagefindUI === 'undefined') {
+        throw new Error('PagefindUI is not defined. Ensure /pagefind/pagefind-ui.js is loaded.');
+      }
       const ui = new PagefindUI({ element: '#search', showImages: false });
       if (query) {
-        await new Promise(r => setTimeout(r, 150));
-        const input = document.querySelector('#search input[type="text"]');
-        if (input) {
-          input.value = query;
-          input.dispatchEvent(new Event('input', { bubbles: true }));
-        }
+        setTimeout(() => {
+          const input = document.querySelector('#search input[type="text"]');
+          if (input) {
+            input.value = query;
+            input.dispatchEvent(new Event('input', { bubbles: true }));
+          }
+        }, 150);
       }
-    } catch {
+    } catch (e) {
+      console.error('Pagefind failed to load:', e);
       const el = document.getElementById('search');
-      if (el) el.innerHTML = '<p class="text-stone-500 text-sm py-4">Search is only available in the production build. Run <code class="bg-stone-100 px-1 rounded">npm run build &amp;&amp; npm run preview</code> to test search locally.</p>';
+      if (el) el.innerHTML = '<p class="text-stone-500 text-sm py-4">Search is only available in the production build. Please wait for <code>./scripts/test-search.sh</code> to complete and then refresh.</p>';
     }
   }
 
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initSearch);
-  } else {
-    initSearch();
-  }
+  // Handle script loading
+  const script = document.createElement('script');
+  script.src = '/pagefind/pagefind-ui.js';
+  script.onload = initSearch;
+  script.onerror = () => {
+    console.error('Failed to load /pagefind/pagefind-ui.js');
+    initSearch(); // Trigger catch block
+  };
+  document.head.appendChild(script);
 </script>
