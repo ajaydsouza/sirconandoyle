@@ -171,7 +171,7 @@ As they approached the centre of the town the scene was brightened by a row of w
 
 "Why, I seem to have read of the Scowrers in Chicago. A gang of murderers, are they not?"
 
-!["Hush, on your life!" cried the miner](/sirconandoyle/images/posts/valley21.jpg ""Hush, on your life!" cried the miner")
+!["Hush, on your life!" cried the miner](../../../../assets/images/posts/valley21.jpg)
 
 "Hush, on your life!" cried the miner, standing still in alarm, and gazing in amazement at his companion. "Man, you won't live long in these parts if you speak in the open street like that. Many a man has had the life beaten out of him for less."
 

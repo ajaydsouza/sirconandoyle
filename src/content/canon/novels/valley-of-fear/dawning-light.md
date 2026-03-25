@@ -187,7 +187,7 @@ The two detectives shook their heads.
 
 It was late that night when Holmes returned from his solitary excursion. We slept in a double-bedded room, which was the best that the little country inn could do for us. I was already asleep when I was partly awakened by his entrance.
 
-!["Well, Holmes," I murmured, "have you found anything out?"](/sirconandoyle/images/posts/valley16.jpg ""Well, Holmes," I murmured, "have you found anything out?"")
+!["Well, Holmes," I murmured, "have you found anything out?"](../../../../assets/images/posts/valley16.jpg)
 
 "Well, Holmes," I murmured, "have you found anything out?"
 

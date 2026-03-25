@@ -15,7 +15,7 @@ It was the end of November, and Holmes and I sat, upon a raw and foggy night, on
 
 "The whole course of events," said Holmes, "from the point of view of the man who called himself Stapleton was simple and direct, although to us, who had no means in the beginning of knowing the motives of his actions and could only learn part of the facts, it all appeared exceedingly complex. I have had the advantage of two conversations with Mrs. Stapleton, and the case has now been so entirely cleared up that I am not aware that there is anything which has remained a secret to us. You will find a few notes upon the matter under the heading B in my indexed list of cases."
 
-!["PERHAPS YOU WOULD KINDLY GIVE ME A SKETCH OF THE COURSE OF EVENTS FROM MEMORY."](/sirconandoyle/images/posts/hound15.jpg ""PERHAPS YOU WOULD KINDLY GIVE ME A SKETCH OF THE COURSE OF EVENTS FROM MEMORY."")
+!["PERHAPS YOU WOULD KINDLY GIVE ME A SKETCH OF THE COURSE OF EVENTS FROM MEMORY."](../../../../assets/images/posts/hound15.jpg)
 
 "Perhaps you would kindly give me a sketch of the course of events from memory."
 

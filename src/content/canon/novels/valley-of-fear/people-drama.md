@@ -23,7 +23,7 @@ Mr. Douglas seldom went to London or left the village; but on the day before the
 
 As they reached the bottom of the stair he had seen Mrs. Douglas coming down it. No, she was not hurrying; it did not seem to him that she was particularly agitated. Just as she reached the bottom of the stair Mr. Barker had rushed out of the study. He had stopped Mrs. Douglas and begged her to go back.
 
-!["For God's sake, go back to your room!" he cried.](/sirconandoyle/images/posts/valley15.jpg ""For God's sake, go back to your room!" he cried.")
+!["For God's sake, go back to your room!" he cried.](../../../../assets/images/posts/valley15.jpg)
 
 "For God's sake, go back to your room!" he cried. "Poor Jack is dead! You can do nothing. For God's sake, go back!"
 

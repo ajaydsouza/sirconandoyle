@@ -41,7 +41,7 @@ One fine morning John Ferrier was about to set out to his wheatfields, when he h
 
 "You will give us time," he said at last. "My daughter is very young -- she is scarce of an age to marry."
 
-!["It were better for you, John Ferrier," he thundered, "that you and she were now lying blanched skeletons upon the Sierra Blanco, than that you should put your weak wills against the orders of the Holy Four!"](/sirconandoyle/images/posts/scarlet23.gif ""It were better for you, John Ferrier," he thundered, "that you and she were now lying blanched skeletons upon the Sierra Blanco, than that you should put your weak wills against the orders of the Holy Four!"")
+!["It were better for you, John Ferrier," he thundered, "that you and she were now lying blanched skeletons upon the Sierra Blanco, than that you should put your weak wills against the orders of the Holy Four!"](../../../../assets/images/posts/scarlet23.gif)
 
 "She shall have a month to choose," said Young, rising from his seat. "At the end of that time she shall give her answer." He was passing through the door, when he turned with flushed face and flashing eyes. "It were better for you, John Ferrier," he thundered, "that you and she were now lying blanched skeletons upon the Sierra Blanco, than that you should put your weak wills against the orders of the Holy Four!"
 

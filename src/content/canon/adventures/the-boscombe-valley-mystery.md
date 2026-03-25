@@ -432,7 +432,7 @@ Holmes rose and sat down at the table with his pen in his hand and a bundle of p
 
 "In view of your health, nothing. You are yourself aware that you will soon have to answer for your deed at a higher court than the Assizes. I will keep your confession, and if McCarthy is condemned I shall be forced to use it. If not, it shall never be seen by mortal eye; and your secret, whether you be alive or dead, shall be safe with us."
 
-!["Farewell then", said the old man](/sirconandoyle/images/posts/boscombe.jpg ""Farewell then", said the old man") "Farewell, then," said the old man solemnly. "Your own deathbeds, when they come, will be the easier for the thought of the peace which you have given to mine." Tottering and shaking in all his giant frame, he stumbled slowly from the room.
+!["Farewell then", said the old man](../../../assets/images/posts/boscombe.jpg) "Farewell, then," said the old man solemnly. "Your own deathbeds, when they come, will be the easier for the thought of the peace which you have given to mine." Tottering and shaking in all his giant frame, he stumbled slowly from the room.
 
 "God help us!" said Holmes after a long silence. "Why does fate play such tricks with poor, helpless worms? I never hear of such a case as this that I do not think of Baxter's words, and say, 'There, but for the grace of God, goes Sherlock Holmes.' "
 

@@ -169,7 +169,7 @@ I had often endeavoured to elicit from my companion what had first turned his mi
 
 " ' "You're not going away in an unkind spirit, Hudson, I hope," said my father with a tameness which made my blood boil.
 
-!["I've not had my 'pology," said he sulkily, glancing in my direction](/sirconandoyle/images/posts/scott.jpg ""I've not had my 'pology," said he sulkily, glancing in my direction")
+!["I've not had my 'pology," said he sulkily, glancing in my direction](../../../assets/images/posts/scott.jpg)
 
 " ' "I've not had my 'pology," said he sulkily, glancing in my direction.
 

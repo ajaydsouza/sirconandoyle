@@ -99,7 +99,7 @@ Hope slapped the revolver butt which protruded from the front of his tunic. "If 
 
 "It is well," returned the other. "Shall I tell Brother Drebber?"
 
-!["NINE TO SEVEN",CRIED THE SENTINEL](/sirconandoyle/images/posts/scarlet24.gif ""NINE TO SEVEN",CRIED THE SENTINEL")
+!["NINE TO SEVEN",CRIED THE SENTINEL](../../../../assets/images/posts/scarlet24.gif)
 
 "Pass it on to him, and from him to the others. Nine to seven!"
 
