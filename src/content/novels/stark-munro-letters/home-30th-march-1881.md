@@ -3,14 +3,14 @@ title: "I. HOME. 30th March, 1881"
 date: 2013-07-29
 novel: "stark-munro-letters"
 order: 2
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 I have missed you very much since your return to America, my dear Bertie, for you are the one man upon this earth to whom I have ever been able to unreservedly open my whole mind. I don't know why it is; for, now that I come to think of it, I have never enjoyed very much of your confidence in return. But that may be my fault. Perhaps you don't find me sympathetic, even though I have every wish to be. I can only say that I find you intensely so, and perhaps I presume too much upon the fact. But no, every instinct in my nature tells me that I don't bore you by my confidences.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 Can you remember Cullingworth at the University? You never were in the athletic set, and so it is possible that you don't. Anyway, I'll take it for granted that you don't, and explain it all from the beginning. I'm sure that you would know his photograph, however, for the reason that he was the ugliest and queerest-looking man of our year.
 

@@ -3,14 +3,14 @@ title: "The Captain of the \"Polestar\""
 date: 2013-05-26
 novel: "captain-sharkey"
 order: 9
-coverImage: "/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
+coverImage: "../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
 tags:
   - "captain-sharkey"
 ---
 
 ### (BEING AN EXTRACT FROM THE SINGULAR JOURNAL OF JOHN M'ALISTER RAY, STUDENT OF MEDICINE.)
 
-![The Dealings of Captain Sharkey and Other Tales of Pirates](/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates-200x300.jpg)
+![The Dealings of Captain Sharkey and Other Tales of Pirates](../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg)
 
 _September 11th._—Lat. 81° 40' N.; long. 2° E. Still lying-to amid enormous ice fields. The one which stretches away to the north of us, and to which our ice-anchor is attached, cannot be smaller than an English county. To the right and left unbroken sheets extend to the horizon. This morning the mate reported that there were signs of pack ice to the southward. Should this form of sufficient thickness to bar our return, we shall be in a position of danger, as the food, I hear, is already running somewhat short. It is late in the season, and the nights are beginning to reappear. This morning I saw a star twinkling just over the fore-yard, the first since the beginning of May. There is considerable discontent among the crew, many of whom are anxious to get back home to be in time for the herring season, when labour always commands a high price upon the Scotch coast. As yet their displeasure is only signified by sullen countenances and black looks, but I heard from the second mate this afternoon that they contemplated sending a deputation to the Captain to explain their grievance. I much doubt how he will receive it, as he is a man of fierce temper, and very sensitive about anything approaching to an infringement of his rights. I shall venture after dinner to say a few words to him upon the subject. I have always found that he will tolerate from me what he would resent from any other member of the crew. Amsterdam Island, at the north-west corner of Spitzbergen, is visible upon our starboard quarter—a rugged line of volcanic rocks, intersected by white seams, which represent glaciers. It is curious to think that at the present moment there is probably no human being nearer to us than the Danish settlements in the south of Greenland—a good nine hundred miles as the crow flies. A captain takes a great responsibility upon himself when he risks his vessel under such circumstances. No whaler has ever remained in these latitudes till so advanced a period of the year.
 

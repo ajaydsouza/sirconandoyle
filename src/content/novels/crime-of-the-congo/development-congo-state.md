@@ -3,7 +3,7 @@ title: "The Development of the Congo State"
 date: 2013-06-15
 novel: "crime-of-the-congo"
 order: 4
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
@@ -12,7 +12,7 @@ Having received his mandate from the civilized world King Leopold proceeded to o
 
 One of the early acts was enough to make observers a little thoughtful. It was the announcement of the right to issue laws by arbitrary decrees without publishing them in Europe. There should be secret laws, which could, at any instant, be altered. The Bulletin Officiel announced that “Tous les Actes du Gouvernement qu’il y a intérêt à rendre publics seront insérés au Bulletin Officiel.” Already it is clear that something was in the wind which might shock the rather leathery conscience of a European Concert. Meanwhile, the organization of the State went forward. A Governor-General was elected, who should live at Boma, which was made the capital. Under him were fifteen District Commissaries, who should govern so many districts into which the whole country was divided. The only portion which was at that time at all developed was the semi-civilized Lower Congo at the mouth of the river. There lay the white population. The upper reaches of the stream and of its great tributaries were known only to a few devoted missionaries and enterprising explorers. Grenfell and Bentley, of the Missions, with Von Wissman, the German, and the ever-energetic Stanley, were the pioneers who, during the few years which followed, opened up the great hinterland which was to be the scene of such atrocious events.
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 But the work of the explorer had soon to be supplemented and extended by the soldier. Whilst the Belgians had been entering the Congo land from the west, the slave-dealing Arabs had penetrated from the east, passing down the river as far as Stanley Falls. There could be no compromise between such opposite forces, though some attempt was made to find one by electing the Arab leader as Free State Governor. There followed a long scrambling campaign, carried on for many years between the Arab slavers on the one side and the Congo forces upon the other—the latter consisting largely of cannibal tribes—men of the Stone Age, armed with the weapons of the nineteenth century. The suppression of the slave trade is a good cause, but the means by which it was effected, and the use of Barbarians who ate in the evening those whom they had slain during the day, are as bad as the evil itself. Yet there is no denying the energy and ability of the Congo leaders, especially of Baron Dhanis. By the year 1894 the Belgian expeditions had been pushed as far as Lake Tanganyika, the Arab strongholds had fallen, and Dhanis was able to report to Brussels that the campaign was at an end, and that slave-raiding was no more. The new State could claim that they had saved a part of the natives from slavery. How they proceeded to impose upon all of them a yoke, compared to which the old slavery was merciful, will be shown in these pages. From the time of the fall of the Arab power the Congo Free State was only called upon to use military force in the case of mutinies of its own black troops, and of occasional risings of its own tormented “citizens.” Master of its own house, it could settle down to exploit the country which it had won.
 

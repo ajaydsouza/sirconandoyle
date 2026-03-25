@@ -3,14 +3,14 @@ title: "How Four of Us came to be under the Shadow of Cloomber"
 date: 2013-09-22
 novel: "mystery-of-cloomber"
 order: 6
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 I trust that my readers will not set me down as an inquisitive busybody when I say that as the days and weeks went by I found my attention and my thoughts more and more attracted to General Heatherstone and the mystery which surrounded him.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 It was in vain that I endeavoured by hard work and a strict attention to the laird's affairs to direct my mind into some more healthy channel. Do what I would, on land or on the water, I would still find myself puzzling over this one question, until it obtained such a hold upon me that I felt it was useless for me to attempt to apply myself to anything until I had come to some satisfactory solution of it.
 

@@ -3,7 +3,7 @@ title: "F. Habakuk Jephson's Statement"
 date: 2013-03-28
 novel: "captain-of-the-polestar"
 order: 3
-coverImage: "/images/posts/F.-Habakuk-Jephsons-Statement.png"
+coverImage: "../../../assets/images/posts/F.-Habakuk-Jephsons-Statement.png"
 tags:
   - "captain-of-the-polestar"
 ---

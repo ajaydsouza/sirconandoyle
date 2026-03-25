@@ -3,12 +3,12 @@ title: "Chapter XVIII: Major Tobias Clutterbuck comes in for a thousand pounds"
 date: 2014-04-13
 novel: "girdlestone"
 order: 19
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 John Girdlestone had frequently heard his son speak of the major in the days when they had been intimate, and had always attributed some of the young man's more obvious vices to the effects of this ungodly companionship. He had also heard from Ezra a mangled version of the interview and quarrel in the private room of Nelson's Restaurant. Hence, as may be imagined, his feelings towards his visitor were far from friendly, and he greeted him as he entered with the coldest of possible bows. The major, however, was by no means abashed by this chilling reception, but stumped forward with beaming face and his pudgy hand outstretched, so that the other had no alternative but to shake it, which he did very gingerly and reluctantly.
 

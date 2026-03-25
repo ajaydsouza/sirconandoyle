@@ -3,7 +3,7 @@ title: "The Adventure of the Missing Three-Quarter"
 date: 2013-03-03
 collection: "return"
 order: 12
-coverImage: "/images/posts/miss-01.jpg"
+coverImage: "../../../assets/images/posts/miss-01.jpg"
 tags:
   - "the-return-of-sherlock-holmes"
 ---
@@ -34,7 +34,7 @@ My friend had listened with amused surprise to this long speech, which was poure
 
 It was our visitor's turn to look surprised.
 
-![“WHY, MR. HOLMES, I THOUGHT YOU KNEW THINGS,” SAID HE.](/images/posts/miss-01-292x300.jpg)
+![“WHY, MR. HOLMES, I THOUGHT YOU KNEW THINGS,” SAID HE.](../../../assets/images/posts/miss-01.jpg)
 
 "Why, Mr. Holmes, I thought you knew things," said he. "I suppose, then, if you have never heard of Godfrey Staunton, you don't know Cyril Overton either?"
 
@@ -150,13 +150,13 @@ Holmes rose. Taking the forms, he carried them over to the window and carefully 
 
 He tore off a strip of the blotting-paper and turned towards us the following hieroglyphic:
 
-![Cyril Overton was much excited](/images/posts/Cyril-Overton-was-much-excited-300x92.png)
+![Cyril Overton was much excited](../../../assets/images/posts/Cyril-Overton-was-much-excited.png)
 
 Cyril Overton was much excited. "Hold it to the glass!" he cried.
 
 "That is unnecessary," said Holmes. "The paper is thin, and the reverse will give the message. Here it is." He turned it over, and we read:
 
-![He turned it over](/images/posts/He-turned-it-over-300x92.png)
+![He turned it over](../../../assets/images/posts/He-turned-it-over.png)
 
 "So that is the tail end of the telegram which Godfrey Staunton dispatched within a few hours of his disappearance. There are at least six words of the message which have escaped us; but what remains—'Stand by us for God's sake!'—proves that this young man saw a formidable danger which approached him, and from which someone else could protect him. 'US,' mark you! Another person was involved. Who should it be but the pale-faced, bearded man, who seemed himself in so nervous a state? What, then, is the connection between Godfrey Staunton and the bearded man? And what is the third source from which each of them sought for help against pressing danger? Our inquiry has already narrowed down to that."
 
@@ -264,7 +264,7 @@ It was already dark when we reached the old university city. Holmes took a cab a
 
 It argues the degree in which I had lost touch with my profession that the name of Leslie Armstrong was unknown to me. Now I am aware that he is not only one of the heads of the medical school of the university, but a thinker of European reputation in more than one branch of science. Yet even without knowing his brilliant record one could not fail to be impressed by a mere glance at the man, the square, massive face, the brooding eyes under the thatched brows, and the granite moulding of the inflexible jaw. A man of deep character, a man with an alert mind, grim, ascetic, self-contained, formidable—so I read Dr. Leslie Armstrong. He held my friend's card in his hand, and he looked up with no very pleased expression upon his dour features.
 
-![HE LOOKED UP WITH NO VERY PLEASED EXPRESSION UPON HIS DOUR FEATURES.](/images/posts/miss-04-233x300.jpg)
+![HE LOOKED UP WITH NO VERY PLEASED EXPRESSION UPON HIS DOUR FEATURES.](../../../assets/images/posts/miss-04.jpg)
 
 "I have heard your name, Mr. Sherlock Holmes, and I am aware of your profession—one of which I by no means approve."
 
@@ -410,7 +410,7 @@ There could be no doubt that we had reached the end of our journey. Pompey ran a
 
 He opened the door, and we stepped into the hall. The droning sound swelled louder upon our ears until it became one long, deep wail of distress. It came from upstairs. Holmes darted up, and I followed him. He pushed open a half-closed door, and we both stood appalled at the sight before us.
 
-![HE NEVER LOOKED UP UNTIL HOLMES’ HAND WAS ON HIS SHOULDER.](/images/posts/miss-07-275x300.jpg)
+![HE NEVER LOOKED UP UNTIL HOLMES’ HAND WAS ON HIS SHOULDER.](../../../assets/images/posts/miss-07.jpg)
 
 A woman, young and beautiful, was lying dead upon the bed. Her calm pale face, with dim, wide-opened blue eyes, looked upward from amid a great tangle of golden hair. At the foot of the bed, half sitting, half kneeling, his face buried in the clothes, was a young man, whose frame was racked by his sobs. So absorbed was he by his bitter grief, that he never looked up until Holmes's hand was on his shoulder.
 

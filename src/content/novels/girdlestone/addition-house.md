@@ -3,12 +3,12 @@ title: "Chapter XV: An Addition to the House"
 date: 2014-03-31
 novel: "girdlestone"
 order: 16
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 There were rejoicings in Phillimore Gardens over Tom's engagement, for the two old people were both heartily fond of Kate—"our Kate," as they were wont proudly to call her. The physician chafed at first over the idea of keeping the matter a secret from Girdlestone. A little reflection served to show him, however, that there was nothing to be gained by informing him, while Kate's life, during the time that she was forced to remain under his roof, would be more tolerable as long as he was kept in ignorance of it. In the meanwhile the lovers saw little of each other, and Tom was only consoled by the thought that every day which passed brought him nearer to the time when he could claim his prize without concealment or fear. He went about as happy and as light-hearted a man as any in all London. His mother was delighted at his high spirits, but his bluff old father was not so well satisfied. "Confound the lad!" he said to himself. "He is settling down to a life of idleness. It suits him too well. We must get him to choose one way or the other."
 

@@ -3,14 +3,14 @@ title: "IX. THE PARADE, BRADFIELD, 23rd April, 1882"
 date: 2013-08-06
 novel: "stark-munro-letters"
 order: 10
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 I have some recollection, my dear Bertie, that when I wrote you a rambling disconnected sort of letter about three weeks ago, I wound up by saying that I might have something more interesting to tell you next time. Well, so it has turned out! The whole game is up here, and I am off upon a fresh line of rails altogether. Cullingworth is to go one way and I another; and yet I am glad to say that there has not been any quarrel between us. As usual, I have begun my letter at the end, but I'll work up to it more deliberately now, and let you know exactly how it came about.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 And first of all, a thousand thanks for your two long letters, which lie before me as I write. There is little enough personal news in them, but I can quite understand that the quiet happy routine of your life reels off very smoothly from week to week. On the other hand, you give me plenty of proof of that inner life which is to me so very much more interesting. After all, we may very well agree to differ. You think some things are proved which I don't believe in. You think some things edifying which do not appear to me to be so. Well, I know that you are perfectly honest in your belief. I am sure you give me credit for being the same. The future wilt decide which of us is right. The survival of the truest is a constant law, I fancy, though it must be acknowledged that it is very slow in action.
 

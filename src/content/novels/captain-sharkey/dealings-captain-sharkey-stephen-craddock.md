@@ -3,12 +3,12 @@ title: "The Dealings Of Captain Sharkey With Stephen Craddock"
 date: 2013-05-10
 novel: "captain-sharkey"
 order: 3
-coverImage: "/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
+coverImage: "../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
 tags:
   - "captain-sharkey"
 ---
 
-![The Dealings of Captain Sharkey and Other Tales of Pirates](/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates-200x300.jpg)
+![The Dealings of Captain Sharkey and Other Tales of Pirates](../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg)
 
 Careening was a very necessary operation for the old pirate. On his superior speed he depended both for overhauling the trader and escaping the man-of-war. But it was impossible to retain his sailing qualities unless he periodically—once a year, at the least—cleared his vessel's bottom from the long, trailing plants and crusting barnacles which gather so rapidly in the tropical seas.
 

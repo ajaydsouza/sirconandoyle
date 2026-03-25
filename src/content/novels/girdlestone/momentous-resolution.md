@@ -3,12 +3,12 @@ title: "Chapter XXIII: A Momentous Resolution"
 date: 2014-05-14
 novel: "girdlestone"
 order: 24
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 During the months which Ezra Girdlestone had spent in Africa the affairs of the firm in Fenchurch Street had been exceedingly prosperous. Trade upon the coast had been brisker than usual, and three of the company's ships had come in at short intervals with excellent cargoes. Among these was the Black Eagle which, to the astonishment of Captain Hamilton Miggs and the disgust of his employer, had weathered a severe gale in the Channel, and had arrived safe and sound once more. This run of luck, supplemented by the business capacity of the old merchant and the indomitable energy of young Dimsdale, made the concern look so flourishing that the former felt more than ever convinced that if he could but stave off the immediate danger things would soon right themselves. Hence he read with delight the letters from Africa, in which his son narrated the success of the conspiracy and the manner in which the miners had been hoodwinked. The old man's figure grew straighter and his step more firm as the conviction grew upon him that the company would soon return once again to its former condition of affluence.
 

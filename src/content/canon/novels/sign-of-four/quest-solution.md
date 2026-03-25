@@ -3,12 +3,12 @@ title: "Chapter 3: In Quest of a Solution"
 date: 2012-12-23
 novel: "sign-of-four"
 order: 4
-coverImage: "/images/posts/sign03.gif"
+coverImage: "../../../../assets/images/posts/sign03.gif"
 tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 It was half-past five before Holmes returned. He was bright, eager, and in excellent spirits, a mood which in his case alternated with fits of the blackest depression.
 
@@ -44,7 +44,7 @@ He leaned back in the cab, and I could see by his drawn brow and his vacant eye 
 
 It was a September evening and not yet seven o'clock, but the day had been a dreary one, and a dense drizzly fog lay low upon the great city. Mud-coloured clouds drooped sadly over the muddy streets. Down the Strand the lamps were but misty splotches of diffused light which threw a feeble circular glimmer upon the slimy pavement. The yellow glare from the shop-windows streamed out into the steamy, vaporous air and threw a murky, shifting radiance across the crowded thoroughfare. There was, to my mind, something eerie and ghostlike in the endless procession of faces which flitted across these narrow bars of light -- sad faces and glad, haggard and merry. Like all humankind, they flitted from the gloom into the light and so back into the gloom once more. I am not subject to impressions, but the dull, heavy evening, with the strange business upon which we were engaged, combined to make me nervous and depressed. I could see from Miss Morstan's manner that she was suffering from the same feeling. Holmes alone could rise superior to petty influences. He held his open notebook upon his knee, and from time to time he jotted down figures and memoranda in the light of his pocket-lantern.
 
-![...A SMALL, DARK, BRISK MAN IN THE DRESS OF A COACHMAN...](/images/posts/sign03.gif)
+![...A SMALL, DARK, BRISK MAN IN THE DRESS OF A COACHMAN...](../../../../assets/images/posts/sign03.gif)
 
 At the Lyceum Theatre the crowds were already thick at the side-entrances. In front a continuous stream of hansoms and four-wheelers were rattling up, discharging their cargoes of shirt-fronted men and beshawled, bediamonded women. We had hardly reached the third pillar, which was our rendezvous, before a small, dark, brisk man in the dress of a coachman accosted us.
 

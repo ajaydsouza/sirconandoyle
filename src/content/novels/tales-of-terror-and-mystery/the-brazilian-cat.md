@@ -3,7 +3,7 @@ title: "The Brazilian Cat"
 date: 2017-05-31
 novel: "tales-of-terror-and-mystery"
 order: 7
-coverImage: "/images/posts/Tales-of-Terror-and-Mystery.jpg"
+coverImage: "../../../assets/images/posts/Tales-of-Terror-and-Mystery.jpg"
 tags:
   - "mystery"
   - "tales-of-terror-and-mystery"

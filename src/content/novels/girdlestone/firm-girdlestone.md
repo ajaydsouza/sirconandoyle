@@ -3,12 +3,12 @@ title: "The Firm of Girdlestone"
 date: 2014-01-22
 novel: "girdlestone"
 order: 1
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 ## To my old friend
 

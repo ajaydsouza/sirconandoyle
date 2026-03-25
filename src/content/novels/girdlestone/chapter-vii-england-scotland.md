@@ -3,12 +3,12 @@ title: "Chapter VII: England versus Scotland"
 date: 2014-03-04
 novel: "girdlestone"
 order: 8
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 The rectorial election had come and had gone, but another great event had taken its place. It was the day of the England and Scotland Rugby match.
 

@@ -3,7 +3,7 @@ title: "The Adventure of the Illustrious Client"
 date: 2014-12-04
 collection: "casebook"
 order: 3
-coverImage: "/images/posts/The-Adventure-of-the-Illustrious-Client-01.jpg"
+coverImage: "../../../assets/images/posts/The-Adventure-of-the-Illustrious-Client-01.jpg"
 tags:
   - "casebook-2"
   - "sherlock-holmes"
@@ -14,7 +14,7 @@ tags:
 
 Both Holmes and I had a weakness for the Turkish bath. It was over a smoke in the pleasant lassitude of the drying-room that I have found him less reticent and more human than anywhere else. On the upper floor of the Northumberland Avenue establishment there is an isolated corner where two couches lie side by side, and it was on these that we lay upon September 3, 1902, the day when my narrative begins. I had asked him whether anything was stirring, and for answer he had shot his long, thin, nervous arm out of the sheets which enveloped him and had drawn an envelope from the inside pocket of the coat which hung beside him.
 
-![FOR ANSWER HE HAD SHOT HIS LONG, THIN, NERVOUS ARM OUT OF THE SHEETS.](/images/posts/The-Adventure-of-the-Illustrious-Client-01.jpg)
+![FOR ANSWER HE HAD SHOT HIS LONG, THIN, NERVOUS ARM OUT OF THE SHEETS.](../../../assets/images/posts/The-Adventure-of-the-Illustrious-Client-01.jpg)
 
 "It may be some fussy, self-important fool; it may be a matter of life or death," said he as he handed me the note. "I know no more than this message tells me."
 
@@ -46,7 +46,7 @@ I was living in my own rooms in Queen Anne Street at the time, but I was round a
 
 "You mean the Austrian murderer?"
 
-![COLONEL DAMERY THREW UP HIS KID-GLOVED HANDS WITH A LAUGH.](/images/posts/Illustrious-Client-02.jpg)
+![COLONEL DAMERY THREW UP HIS KID-GLOVED HANDS WITH A LAUGH.](../../../assets/images/posts/Illustrious-Client-02.jpg)
 
 Colonel Damery threw up his kid-gloved hands with a laugh. "There is no getting past you, Mr. Holmes! Wonderful! So you have already sized him up as a murderer?"
 
@@ -162,7 +162,7 @@ It was not possible for me to follow the immediate steps taken by my friend, for
 
 "Well, Watson, there seemed to be no more to say, so I took my leave with as much cold dignity as I could summon, but, as I had my hand on the door-handle, he stopped me.
 
-![“AS I HAD MY HAND ON THE DOOR HANDLE, HE STOPPED ME.”](/images/posts/Illustrious-Client-03.jpg)
+![“AS I HAD MY HAND ON THE DOOR HANDLE, HE STOPPED ME.”](../../../assets/images/posts/Illustrious-Client-03.jpg)
 
 "'By the way, Mr. Holmes,' said he, 'did you know Le Brun, the French agent?'
 
@@ -270,7 +270,7 @@ I did not see Holmes again until the following evening when we dined once more a
 
 "'Mr. Holmes, I beg that you will bring this interview to an end,' said the icy voice. 'I have obeyed my father's wish in seeing you, but I am not compelled to listen to the ravings of this person.'
 
-![“WITH AN OATH MISS WINTER DARTED FORWARD, AND IF I HAD NOT CAUGHT HER WRIST SHE WOULD HAVE CLUTCHED THIS MADDENING WOMAN BY THE HAIR.”](/images/posts/Illustrious-Client-04.jpg)
+![“WITH AN OATH MISS WINTER DARTED FORWARD, AND IF I HAD NOT CAUGHT HER WRIST SHE WOULD HAVE CLUTCHED THIS MADDENING WOMAN BY THE HAIR.”](../../../assets/images/posts/Illustrious-Client-04.jpg)
 
 "With an oath Miss Winter darted forward, and if I had not caught her wrist she would have clutched this maddening woman by the hair. I dragged her towards the door and was lucky to get her back into the cab without a public scene, for she was beside herself with rage. In a cold way I felt pretty furious myself, Watson, for there was something indescribably annoying in the calm aloofness and supreme self-complaisance of the woman whom we were trying to save. So now once again you know exactly how we stand, and it is clear that I must plan some fresh opening move, for this gambit won't work. I'll keep in touch with you, Watson, for it is more than likely that you will have your part to play, though it is just possible that the next move may lie with them rather than with us."
 
@@ -278,7 +278,7 @@ And it did. Their blow fell--or his blow rather, for never could I believe that 
 
 > MURDEROUS ATTACK UPON SHERLOCK HOLMES
 
-![MURDEROUS ATTACK UPON SHERLOCK HOLMES.](/images/posts/Illustrious-Client-05.jpg)
+![MURDEROUS ATTACK UPON SHERLOCK HOLMES.](../../../assets/images/posts/Illustrious-Client-05.jpg)
 
 I think I stood stunned for some moments. Then I have a confused recollection of snatching at a paper, of the remonstrance of the man, whom I had not paid, and, finally, of standing in the doorway of a chemist's shop while I turned up the fateful paragraph. This was how it ran:
 
@@ -288,7 +288,7 @@ I think I stood stunned for some moments. Then I have a confused recollection of
 
 I need not say that my eyes had hardly glanced over the paragraph before I had sprung into a hansom and was on my way to Baker Street. I found Sir Leslie Oakshott, the famous surgeon, in the hall and his brougham waiting at the curb.
 
-![“THE ATTACK WAS MADE BY TWO MEN ARMED WITH STICKS.”](/images/posts/Illustrious-Client-06.jpg)
+![“THE ATTACK WAS MADE BY TWO MEN ARMED WITH STICKS.”](../../../assets/images/posts/Illustrious-Client-06.jpg)
 
 "No immediate danger," was his report. "Two lacerated scalp wounds and some considerable bruises. Several stitches have been necessary. Morphine has been injected and quiet is essential, but an interview of a few minutes would not be absolutely forbidden."
 
@@ -378,7 +378,7 @@ I carefully unpacked it and handed it to him. He seated himself at his desk, pul
 
 He was certainly a remarkably handsome man. His European reputation for beauty was fully deserved. In figure he was not more than of middle size, but was built upon graceful and active lines. His face was swarthy, almost Oriental, with large, dark, languorous eyes which might easily hold an irresistible fascination for women. His hair and moustache were raven black, the latter short, pointed, and carefully waxed. His features were regular and pleasing, save only his straight, thin-lipped mouth. If ever I saw a murderer's mouth it was there--a cruel, hard gash in the face, compressed, inexorable, and terrible. He was ill-advised to train his moustache away from it, for it was Nature's danger-signal, set as a warning to his victims. His voice was engaging and his manners perfect. In age I should have put him at little over thirty, though his record afterwards showed that he was forty-two.
 
-![“VERY FINE–VERY FINE INDEED!” HE SAID AT LAST.](/images/posts/Illustrious-Client-07.jpg)
+![“VERY FINE–VERY FINE INDEED!” HE SAID AT LAST.](../../../assets/images/posts/Illustrious-Client-07.jpg)
 
 "Very fine--very fine indeed!" he said at last. "And you say you have a set of six to correspond. What puzzles me is that I should not have heard of such magnificent specimens. I only know of one in England to match this, and it is certainly not likely to be in the market. Would it be indiscreet if I were to ask you, Dr. Hill Barton, how you obtained this?"
 
@@ -428,7 +428,7 @@ He had sprung to his feet, and I stepped back, bracing myself for an attack, for
 
 "Ah!" he cried. "Ah!" and dashed into the room behind him.
 
-![“AH!” HE CRIED. “AH!” AND DASHED INTO THE ROOM BEHIND HIM.](/images/posts/Illustrious-Client-08.jpg)
+![“AH!” HE CRIED. “AH!” AND DASHED INTO THE ROOM BEHIND HIM.](../../../assets/images/posts/Illustrious-Client-08.jpg)
 
 Two steps took me to the open door, and my mind will ever carry a clear picture of the scene within. The window leading out to the garden was wide open. Beside it, looking like some terrible ghost, his head gin with bloody bandages, his face drawn and white, stood Sherlock Holmes. The next instant he was through the gap, and I heard the crash of his body among the laurel bushes outside. With a howl of rage the master of the house rushed after him to the open window.
 

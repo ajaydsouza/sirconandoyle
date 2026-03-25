@@ -3,14 +3,14 @@ title: "VII. THE PARADE, BRADFIELD, 9th March, 1882"
 date: 2013-08-04
 novel: "stark-munro-letters"
 order: 8
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 Well, you see I am as good as my word, Bertie; and here is a full account of this queer little sample gouged out of real life, never to be seen, I should fancy, by any eye save your own. I have written to Horton also, and of course to my mother; but I don't go into detail with them, as I have got into the way of doing with you. You keep on assuring me that you like it; so on your own head be it if you find my experiences gradually developing into a weariness.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 When I woke in the morning, and looked round at the bare walls and the basin on the packing case, I hardly knew where I was. Cullingworth came charging into the room in his dressing gown, however, and roused me effectually by putting his hands on the rail at the end of the bed, and throwing a somersault over it which brought his heels on to my pillow with a thud. He was in great spirits, and, squatting on the bed, he held forth about his plans while I dressed.
 

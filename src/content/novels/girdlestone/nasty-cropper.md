@@ -3,12 +3,12 @@ title: "Chapter IX: A Nasty Cropper"
 date: 2014-03-21
 novel: "girdlestone"
 order: 10
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 But there were pitfalls ahead. As he moved to the botany table a grey-bearded examiner waved his hand in the direction of the row of microscopes as an intimation that the student was to look through them and pronounce upon what he saw. Tom seemed to compress his whole soul into his one eye as he glared hopelessly through the tube at what appeared to him to resemble nothing so much as a sheet of ice with the marks of skates upon it.
 

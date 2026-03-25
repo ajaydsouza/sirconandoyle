@@ -3,13 +3,13 @@ title: "Part I – Chapter 5: Our Advertisement brings a visitor"
 date: 2012-09-10
 novel: "a-study-in-scarlet"
 order: 6
-coverImage: "/images/posts/scarlet15.gif"
+coverImage: "../../../../assets/images/posts/scarlet15.gif"
 tags:
   - "sherlock-holmes"
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 Our morning's exertions had been too much for my weak health, and I was tired out in the afternoon. After Holmes's departure for the concert, I lay down upon the sofa and endeavoured to get a couple of hours' sleep. It was a useless attempt. My mind had been too much excited by all that had occurred, and the strangest fancies and surmises crowded into it. Every time that I closed my eyes I saw before me the distorted, baboon-like countenance of the murdered man. So sinister was the impression which that face had produced upon me that I found it difficult to feel anything but gratitude for him who had removed its owner from the world. If ever human features bespoke vice of the most malignant type, they were certainly those of Enoch J. Drebber, of Cleveland. Still I recognized that justice must be done, and that the depravity of the victim was no condonement in the eyes of the law.
 
@@ -75,7 +75,7 @@ We could not hear the servant's reply, but the door closed, and someone began to
 
 "Come in," I cried.
 
-![A VERY OLD AND WRINKLED WOMAN HOBBLED INTO THE APARTMENT](/images/posts/scarlet15.gif "A VERY OLD AND WRINKLED WOMAN HOBBLED INTO THE APARTMENT")
+![A VERY OLD AND WRINKLED WOMAN HOBBLED INTO THE APARTMENT](../../../../assets/images/posts/scarlet15.gif "A VERY OLD AND WRINKLED WOMAN HOBBLED INTO THE APARTMENT")
 
 At my summons, instead of the man of violence whom we expected, a very old and wrinkled woman hobbled into the apartment. She appeared to be dazzled by the sudden blaze of light, and after dropping a curtsey, she stood blinking at us with her bleared eyes and fumbling in her pocket with nervous, shaky fingers. I glanced at my companion, and his face had assumed such a disconsolate expression that it was all I could do to keep my countenance. The old crone drew out an evening paper, and pointed at our advertisement.
 

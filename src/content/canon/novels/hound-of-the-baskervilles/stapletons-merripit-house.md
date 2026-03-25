@@ -3,13 +3,13 @@ title: "Chapter 7: The Stapletons of Merripit House"
 date: 2012-07-19
 novel: "hound-of-the-baskervilles"
 order: 7
-coverImage: "/images/posts/hound07.jpg"
+coverImage: "../../../../assets/images/posts/hound07.jpg"
 tags:
   - "hound-of-baskervilles"
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 The fresh beauty of the following morning did something to efface from our minds the grim and gray impression which had been left upon both of us by our first experience of Baskerville Hall. As Sir Henry and I sat at breakfast the sunlight flooded in through the high mullioned windows, throwing watery patches of colour from the coats of arms which covered them. The dark panelling glowed like bronze in the golden rays, and it was hard to realize that this was indeed the chamber which had struck such a gloom into our souls upon the evening before.
 
@@ -239,7 +239,7 @@ An expression of irresolution passed for an instant over her face, but her eyes 
 
 "But what is the danger?"
 
-![YOU KNOW THE STORY OF THE HOUND?](/images/posts/hound07.jpg "YOU KNOW THE STORY OF THE HOUND?")
+![YOU KNOW THE STORY OF THE HOUND?](../../../../assets/images/posts/hound07.jpg "YOU KNOW THE STORY OF THE HOUND?")
 
 "You know the story of the hound?"
 

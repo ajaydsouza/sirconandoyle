@@ -3,7 +3,7 @@ title: "The Adventure of the Retired Colourman"
 date: 2015-10-15
 collection: "casebook"
 order: 14
-coverImage: "/images/posts/Retired-Colourman-05.jpg"
+coverImage: "../../../assets/images/posts/Retired-Colourman-05.jpg"
 tags:
   - "casebook-2"
   - "sherlock-holmes"
@@ -56,7 +56,7 @@ It was late that evening before I returned to Baker Street and gave an account o
 
 "Cut out the poetry, Watson," said Holmes severely. "I note that it was a high brick wall."
 
-![“CUT OUT THE POETRY, WATSON,” SAID HOLMES SEVERELY.](/images/posts/Retired-Colourman-01.jpg)
+![“CUT OUT THE POETRY, WATSON,” SAID HOLMES SEVERELY.](../../../assets/images/posts/Retired-Colourman-01.jpg)
 
 "Exactly. I should not have known which was The Haven had I not asked a lounger who was smoking in the street. I have a reason for mentioning him. He was a tall, dark, heavily moustached, rather military-looking man. He nodded in answer to my inquiry and gave me a curiously questioning glance, which came back to my memory a little later.
 
@@ -110,7 +110,7 @@ Holmes brooded for some minutes.
 
 "'One must do something to ease an aching heart.' That was his own explanation. It was eccentric, no doubt, but he is clearly an eccentric man. He tore up one of his wife's photographs in my presence--tore it up furiously in a tempest of passion. 'I never wish to see her damned face again,' he shrieked."
 
-![“HE TORE UP ONE OF HIS WIFE’S PHOTOGRAPHS IN MY PRESENCE.”](/images/posts/Retired-Colourman-02.jpg)
+![“HE TORE UP ONE OF HIS WIFE’S PHOTOGRAPHS IN MY PRESENCE.”](../../../assets/images/posts/Retired-Colourman-02.jpg)
 
 "Anything more, Watson?"
 
@@ -196,7 +196,7 @@ Little Purlington is not an easy place to reach, for it is on a branch line. My 
 
 "If this is a joke, sir, it is a very questionable one," said the vicar angrily. "I have never heard of the gentleman you name, and I have not sent a wire to anyone."
 
-![“IF THIS IS A JOKE, SIR, IT IS A VERY QUESTIONABLE ONE,” SAID THE VICAR ANGRILY.](/images/posts/Retired-Colourman-03.jpg)
+![“IF THIS IS A JOKE, SIR, IT IS A VERY QUESTIONABLE ONE,” SAID THE VICAR ANGRILY.](../../../assets/images/posts/Retired-Colourman-03.jpg)
 
 Our client and I looked at each other in amazement.
 
@@ -222,7 +222,7 @@ Mr. Amberley sat down heavily. He sensed impending danger. I read it in his stra
 
 "Only this: What did you do with the bodies?"
 
-![THE MAN SPRANG TO HIS FEET WITH A HOARSE SCREAM.](/images/posts/Retired-Colourman-04.jpg)
+![THE MAN SPRANG TO HIS FEET WITH A HOARSE SCREAM.](../../../assets/images/posts/Retired-Colourman-04.jpg)
 
 The man sprang to his feet with a hoarse scream. He clawed into the air with his bony hands. His mouth was open, and for the instant he looked like some horrible bird of prey. In a flash we got a glimpse of the real Josiah Amberley, a misshapen demon with a soul as distorted as his body. As he fell back into his chair he clapped his hand to his lips as if to stifle a cough. Holmes sprang at his throat like a tiger and twisted his face towards the ground. A white pellet fell from between his gasping lips.
 
@@ -278,7 +278,7 @@ The inspector examined the pipe with interest. "One of our officers mentioned th
 
 "Well, then came an incident which was rather unexpected to myself. I was slipping through the pantry window in the early dawn when I felt a hand inside my collar, and a voice said: 'Now, you rascal, what are you doing in there?' When I could twist my head round I looked into the tinted spectacles of my friend and rival, Mr. Barker. It was a curious foregathering and set us both smiling. It seems that he had been engaged by Dr. Ray Ernest's family to make some investigations and had come to the same conclusion as to foul play. He had watched the house for some days and had spotted Dr. Watson as one of the obviously suspicious characters who had called there. He could hardly arrest Watson, but when he saw a man actually climbing out of the pantry window there came a limit to his restraint. Of course, I told him how matters stood and we continued the case together."
 
-![“I FELT A HAND INSIDE MY COLLAR.”](/images/posts/Retired-Colourman-05.jpg)
+![“I FELT A HAND INSIDE MY COLLAR.”](../../../assets/images/posts/Retired-Colourman-05.jpg)
 
 "Why him? Why not us?"
 

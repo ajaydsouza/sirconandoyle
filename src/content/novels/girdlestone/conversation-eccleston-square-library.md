@@ -3,12 +3,12 @@ title: "Chapter XXXII: A Conversation in the Eccleston Square Library"
 date: 2014-06-18
 novel: "girdlestone"
 order: 33
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 Rebecca, the fresh-complexioned waiting-maid, was still standing behind the ponderous hall door, listening, with a smile upon her face, to young Dimsdale's retreating footsteps, when another and a brisker tread caught her ear coming from the opposite direction. The smile died away as she heard it, and her features assumed a peculiar expression, in which it would be hard to say whether fear or pleasure predominated. She passed her hands up over her face and smoothed her hair with a quick nervous gesture, glancing down at the same time at her snowy apron and the bright ribbons which set it off. Whatever her intentions may have been, she had no time to improve upon her toilet before a key turned in the door and Ezra Girdlestone stepped into the hall. As he saw her shadowy figure, for the gas was low, he uttered a hoarse cry of surprise and fear, and staggered backwards against the door-post.
 

@@ -3,7 +3,6 @@ title: "The Adventure of the Engineer's Thumb"
 date: 2011-09-12
 collection: "adventures"
 order: 10
-coverImage: "/images/posts/thumb.jpg"
 tags:
   - "adventures-2"
   - "sherlock-holmes"
@@ -263,7 +262,7 @@ Holmes sat in his big armchair with the weary, heavy-lidded expression which vei
 
 " 'Fritz! Fritz!' she cried in English, 'remember your promise after the last time. You said it should not be again. He will be silent! Oh, he will be silent!'
 
-![He cut at me with his heavy weapon](/images/posts/thumb.jpg "He cut at me with his heavy weapon") " 'You are mad, Elise!' he shouted, struggling to break away from her. 'You will be the ruin of us. He has seen too much. Let me pass, I say!' He dashed her to one side, and, rushing to the window, cut at me with his heavy weapon. I had let myself go, and was hanging by the hands to the sill, when his blow fell. I was conscious of a dull pain, my grip loosened, and I fell into the garden below.
+*He cut at me with his heavy weapon*  " 'You are mad, Elise!' he shouted, struggling to break away from her. 'You will be the ruin of us. He has seen too much. Let me pass, I say!' He dashed her to one side, and, rushing to the window, cut at me with his heavy weapon. I had let myself go, and was hanging by the hands to the sill, when his blow fell. I was conscious of a dull pain, my grip loosened, and I fell into the garden below.
 
 "I was shaken but not hurt by the fall; so I picked myself up and rushed off among the bushes as hard as I could run, for I understood that I was far from being out of danger yet. Suddenly, however, as I ran, a deadly dizziness and sickness came over me. I glanced down at my hand, which was throbbing painfully, and then, for the first time, saw that my thumb had been cut off and that the blood was pouring from my wound. I endeavoured to tie my handkerchief round it, but there came a sudden buzzing in my ears, and next moment I fell in a dead faint among the rose-bushes.
 

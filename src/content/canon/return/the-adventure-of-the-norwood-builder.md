@@ -3,7 +3,7 @@ title: "The Adventure of the Norwood Builder"
 date: 2012-04-01
 collection: "return"
 order: 3
-coverImage: "/images/posts/norwood.jpg"
+coverImage: "../../../assets/images/posts/norwood.jpg"
 tags:
   - "return-2"
   - "sherlock-holmes"
@@ -114,7 +114,7 @@ McFarlane wiped his damp brow, and then continued his narrative:
 
 "Oh, yes, no doubt that is what I must have meant," said Holmes, with his enigmatical smile. Lestrade had learned by more experiences than he would care to acknowledge that that razor-like brain could cut through that which was impenetrable to him. I saw him look curiously at my companion.
 
-![The wretched young man arose](/images/posts/norwood.jpg "The wretched young man arose") "I think I should like to have a word with you presently, Mr, Sherlock Holmes," said he. "Now, Mr. McFarlane, two of my constables are at the door, and there is a four-wheeler waiting." The wretched young man arose, and with a last beseeching glance at us walked from the room. The officers conducted him to the cab, but Lestrade remained.
+![The wretched young man arose](../../../assets/images/posts/norwood.jpg "The wretched young man arose") "I think I should like to have a word with you presently, Mr, Sherlock Holmes," said he. "Now, Mr. McFarlane, two of my constables are at the door, and there is a four-wheeler waiting." The wretched young man arose, and with a last beseeching glance at us walked from the room. The officers conducted him to the cab, but Lestrade remained.
 
 Holmes had picked up the pages which formed the rough draft of the will, and was looking at them with the keenest interest upon his face.
 

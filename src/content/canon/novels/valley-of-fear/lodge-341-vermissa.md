@@ -3,13 +3,13 @@ title: "Part II – Chapter 3: Lodge 341, Vermissa"
 date: 2012-11-25
 novel: "valley-of-fear"
 order: 11
-coverImage: "/images/posts/valley23.jpg"
+coverImage: "../../../../assets/images/posts/valley23.jpg"
 tags:
   - "sherlock-holmes"
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 On the day following the evening which had contained so many exciting events, McMurdo moved his lodgings from old Jacob Shafter's and took up his quarters at the Widow MacNamara's on the extreme outskirts of the town. Scanlan, his original acquaintance aboard the train, had occasion shortly afterwards to move into Vermissa, and the two lodged together. There was no other boarder, and the hostess was an easy-going old Irishwoman who left them to themselves; so that they had a freedom for speech and action welcome to men who had secrets in common.
 
@@ -41,7 +41,7 @@ McMurdo shrugged his shoulders. "I'm not denying it," said he. "D'ye think I'm a
 
 "What the devil d'you mean by that?" he roared with his fists clenched.
 
-![I know a Chicago crook when I see one](/images/posts/valley23.jpg "I know a Chicago crook when I see one")
+![I know a Chicago crook when I see one](../../../../assets/images/posts/valley23.jpg "I know a Chicago crook when I see one")
 
 "No, no, Jack, bluster won't do with me. I was an officer in Chicago before ever I came to this darned coal bunker, and I know a Chicago crook when I see one."
 

@@ -3,13 +3,13 @@ title: "Chapter 10: Extract from the Diary of Dr. Watson"
 date: 2012-08-01
 novel: "hound-of-the-baskervilles"
 order: 10
-coverImage: "/images/posts/hound10.jpg"
+coverImage: "../../../../assets/images/posts/hound10.jpg"
 tags:
   - "hound-of-baskervilles"
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 So far I have been able to quote from the reports which I have forwarded during these early days to Sherlock Holmes. Now, however, I have arrived at a point in my narrative where I am compelled to abandon this method and to trust once more to my recollections, aided by the diary which I kept at the time. A few extracts from the latter will carry me on to those scenes which are indelibly fixed in every detail upon my memory. I proceed, then, from the morning which followed our abortive chase of the convict and our other strange experiences upon the moor.
 
@@ -109,7 +109,7 @@ When the butler had left us Sir Henry turned to me. "Well, Watson, what do you t
 
 I went at once to my room and drew up my report of the morning's conversation for Holmes. It was evident to me that he had been very busy of late, for the notes which I had from Baker Street were few and short, with no comments upon the information which I had supplied and hardly any reference to my mission. No doubt his blackmailing case is absorbing all his faculties. And yet this new factor must surely arrest his attention and renew his interest. I wish that he were here.
 
-![I found the black tor upon which I had seen the solitary watcher and from its craggy summit I looked out myself across the melancholy downs](/images/posts/hound10.jpg "I found the black tor upon which I had seen the solitary watcher and from its craggy summit I looked out myself across the melancholy downs")
+![I found the black tor upon which I had seen the solitary watcher and from its craggy summit I looked out myself across the melancholy downs](../../../../assets/images/posts/hound10.jpg "I found the black tor upon which I had seen the solitary watcher and from its craggy summit I looked out myself across the melancholy downs")
 
 October 17th.
 

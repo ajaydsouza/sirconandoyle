@@ -3,14 +3,14 @@ title: "XV. OAKLEY VILLAS, BIRCHESPOOL, 3rd August, 1883"
 date: 2013-08-12
 novel: "stark-munro-letters"
 order: 16
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 Do you think that such a thing as chance exists? Rather an explosive sentence to start a letter with; but pray cast your mind back over your own life, and tell me if you think that we really are the sports of chance. You know how often the turning down this street or that, the accepting or rejecting of an invitation, may deflect the whole current of our lives into some other channel. Are we mere leaves, fluttered hither and thither by the wind, or are we rather, with every conviction that we are free agents, carried steadily along to a definite and pre-determined end? I confess that as I advance through life, I become more and more confirmed in that fatalism to which I have always had an inclination.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 Look at it in this way. We know that many of the permanent facts of the universe are NOT chance. It is not chance that the heavenly bodies swing clear of each other, that the seed is furnished with the apparatus which will drift it to a congenial soil, that the creature is adapted to its environment. Show me a whale with its great-coat of fat, and I want no further proof of design. But logically, as it seems to me, ALL must be design, or all must be chance. I do not see how one can slash a line right across the universe, and say that all to the right of that is chance, and all to the left is pre-ordained. You would then have to contend that things which on the face of them are of the same class, are really divided by an impassable gulf, and that the lower are regulated, while the higher are not. You would, for example, be forced to contend that the number of articulations in a flea's hind leg has engaged the direct superintendence of the Creator, while the mischance which killed a thousand people in a theatre depended upon the dropping of a wax vesta upon the floor, and was an unforeseen flaw in the chain of life. This seems to me to be unthinkable.
 

@@ -3,14 +3,14 @@ title: "The Political Situation"
 date: 2013-07-14
 novel: "crime-of-the-congo"
 order: 14
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
 
 I have not in this statement touched upon the financial side of the Congo State. A huge scandal lies there—so huge that the limits of it have not yet been defined. I will not go into that morass. If Belgians wish to be hoodwinked in the matter, and to have their good name compromised in finance as well as in morality, it is they who in the end will suffer. One may merely indicate the main points, that during the independent life of the Congo State all accounts have been kept secret, that no budgets of the last year but only estimates of the coming one have ever been published, that the State has made huge gains, in spite of which it has borrowed money, and that the great sums resulting have been laid out in speculations in China and elsewhere, that sums amounting in the aggregate to at least £7,000,000 of money have been traced to the King, and that this money has been spent partly in buildings in Belgium, partly in land in the same country, partly in building on the Riviera, partly in the corruption of public men, and of the European and American Press (our own being not entirely untarnished, I fear), and, finally, in the expenses of such a private life as has made King Leopold’s name notorious throughout Europe. Of the guilty companies the poorest seem to pay fifty and the richest seven hundred per cent. per annum. There I will leave this unsavoury side of the matter. It is to humanity that I appeal, and that is concerned with higher things.
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 Before ending my task, however, I would give a short account of the evolution of the political situation as it affected, first, Great Britain and the Congo State; secondly, Great Britain and Belgium. In each case Great Britain was, indeed, the spokesman of the civilized world.
 

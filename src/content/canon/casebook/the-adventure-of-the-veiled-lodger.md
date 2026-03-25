@@ -3,7 +3,7 @@ title: "The Adventure of the Veiled Lodger"
 date: 2015-07-31
 collection: "casebook"
 order: 12
-coverImage: "/images/posts/Veiled-Lodger-02.jpg"
+coverImage: "../../../assets/images/posts/Veiled-Lodger-02.jpg"
 tags:
   - "casebook-2"
   - "sherlock-holmes"
@@ -54,7 +54,7 @@ One forenoon--it was late in 1896--I received a hurried note from Holmes asking 
 
 "And it will, too," remarked Holmes. "Very good, Mrs. Merrilow. I should like to have a little chat with Dr. Watson. That will carry us till lunch-time. About three o'clock you may expect to see us at your house in Brixton."
 
-![HE DID NOT RISE, BUT SAT UPON A FLOOR LIKE SOME STRANGE BUDDHA.](/images/posts/Veiled-Lodger-01.jpg)
+![HE DID NOT RISE, BUT SAT UPON A FLOOR LIKE SOME STRANGE BUDDHA.](../../../assets/images/posts/Veiled-Lodger-01.jpg)
 
 Our visitor had no sooner waddled out of the room--no other verb can describe Mrs. Merrilow's method of progression--than Sherlock Holmes threw himself with fierce energy upon the pile of commonplace books in the corner. For a few minutes there was a constant swish of the leaves, and then with a grunt of satisfaction he came upon what he sought. So excited was he that he did not rise, but sat upon the floor like some strange Buddha, with crossed legs, the huge books all round him, and one open upon his knees.
 
@@ -162,7 +162,7 @@ It was a dreadful face--a human pig, or rather a human wild boar, for it was for
 
 "It was a pitch-dark night when my husband and I went down, as was our custom, to feed the beast. We carried with us the raw meat in a zinc pail. Leonardo was waiting at the corner of the big van which we should have to pass before we reached the cage. He was too slow, and we walked past him before he could strike, but he followed us on tiptoe and I heard the crash as the club smashed my husband's skull. My heart leaped with joy at the sound. I sprang forward, and I undid the catch which held the door of the great lion's cage.
 
-![“AS I SLIPPED THE BARS IT BOUNDED OUT, AND WAS ON ME IN AN INSTANT.”](/images/posts/Veiled-Lodger-02.jpg)
+![“AS I SLIPPED THE BARS IT BOUNDED OUT, AND WAS ON ME IN AN INSTANT.”](../../../assets/images/posts/Veiled-Lodger-02.jpg)
 
 "And then the terrible thing happened. You may have heard how quick these creatures are to scent human blood, and how it excites them. Some strange instinct had told the creature in one instant that a human being had been slain. As I slipped the bars it bounded out and was on me in an instant. Leonardo could have saved me. If he had rushed forward and struck the beast with his club he might have cowed it. But the man lost his nerve. I heard him shout in his terror, and then I saw him turn and fly. At the same instant the teeth of the lion met in my face. Its hot, filthy breath had already poisoned me and I was hardly conscious of pain. With the palms of my hands I tried to push the great steaming, blood-stained jaws away from me, and I screamed for help. I was conscious that the camp was stirring, and then dimly I remembered a group of men. Leonardo, Griggs, and others, dragging me from under the creature's paws. That was my last memory, Mr. Holmes, for many a weary month. When I came to myself and saw myself in the mirror, I cursed that lion--oh, how I cursed him!--not because he had torn away my beauty but because he had not torn away my life. I had but one desire, Mr. Holmes, and I had enough money to gratify it. It was that I should cover myself so that my poor face should be seen by none, and that I should dwell where none whom I had ever known should find me. That was all that was left to me to do--and that is what I have done. A poor wounded beast that has crawled into its hole to die--that is the end of Eugenia Ronder."
 
@@ -186,7 +186,7 @@ We sat in silence for some time after the unhappy woman had told her story. Then
 
 We had risen to go, but there was something in the woman's voice which arrested Holmes's attention. He turned swiftly upon her.
 
-![THERE WAS SOMETHING IN THE WOMAN’S VOICE WHICH ARRESTED HOLMES’ ATTENTION.](/images/posts/Veiled-Lodger-03.jpg)
+![THERE WAS SOMETHING IN THE WOMAN’S VOICE WHICH ARRESTED HOLMES’ ATTENTION.](../../../assets/images/posts/Veiled-Lodger-03.jpg)
 
 "Your life is not your own," he said. "Keep your hands off it."
 

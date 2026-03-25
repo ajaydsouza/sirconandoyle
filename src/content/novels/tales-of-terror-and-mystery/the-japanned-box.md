@@ -3,7 +3,7 @@ title: "The Japanned Box"
 date: 2017-09-02
 novel: "tales-of-terror-and-mystery"
 order: 11
-coverImage: "/images/posts/Tales-of-Terror-and-Mystery.jpg"
+coverImage: "../../../assets/images/posts/Tales-of-Terror-and-Mystery.jpg"
 tags:
   - "mystery"
   - "tales-of-terror-and-mystery"

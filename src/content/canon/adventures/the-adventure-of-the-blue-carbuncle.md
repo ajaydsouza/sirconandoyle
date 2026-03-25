@@ -3,7 +3,7 @@ title: "The Adventure of the Blue Carbuncle"
 date: 2011-09-07
 collection: "adventures"
 order: 8
-coverImage: "/images/posts/carbuncle.jpg"
+coverImage: "../../../assets/images/posts/carbuncle.jpg"
 tags:
   - "adventures-2"
   - "blue-carbuncle"

@@ -3,7 +3,7 @@ title: "The Adventure of the 'Gloria Scott'"
 date: 2011-11-14
 collection: "memoirs"
 order: 5
-coverImage: "/images/posts/scott.jpg"
+coverImage: "../../../assets/images/posts/scott.jpg"
 tags:
   - "memoirs-2"
   - "sherlock-holmes"

@@ -3,12 +3,12 @@ title: "Chapter XVII: The Land of Diamonds"
 date: 2014-04-12
 novel: "girdlestone"
 order: 18
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 The anxious father had not very long to wait before he heard tidings of his son. Upon the first of June the great vessel weighed her anchor in the Southampton Water, and steamed past the Needles into the Channel. On the 5th she was reported from Madeira, and the merchant received telegrams both from the agent of the firm and from his son. Then there was a long interval of silence, for the telegraph did not extend to the Cape at that time, but, at last on the 8th of August, a letter announced Ezra's safe arrival. He wrote again from Wellington, which was the railway terminus, and finally there came a long epistle from Kimberley, the capital of the mining district, in which the young man described his eight hundred miles drive up country and all the adventures which overtook him on the way.
 

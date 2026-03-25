@@ -3,14 +3,14 @@ title: "Of the Strange Manner in which a Tenant came to Cloomber"
 date: 2013-09-19
 novel: "mystery-of-cloomber"
 order: 3
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 Branksome might have appeared a poor dwelling-place when compared with the house of an English squire, but to us, after our long residence in stuffy apartments, it was of regal magnificence.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 The building was broad-spread and low, with red-tiled roof, diamond-paned windows, and a profusion of dwelling rooms with smoke-blackened ceilings and oaken wainscots. In front was a small lawn, girt round with a thin fringe of haggard and ill grown beeches, all gnarled and withered from the effects of the sea-spray. Behind lay the scattered hamlet of Branksome-Bere—a dozen cottages at most—inhabited by rude fisher-folk who looked upon the laird as their natural protector.
 

@@ -3,7 +3,7 @@ title: "The Return of Sherlock Holmes"
 date: 2011-08-25
 collection: "return"
 order: 1
-coverImage: "/images/posts/TheReturnOfSherlockHolmes.jpg"
+coverImage: "../../../assets/images/posts/TheReturnOfSherlockHolmes.jpg"
 tags:
   - "return-2"
   - "sherlock-holmes"
@@ -11,7 +11,7 @@ tags:
 
 **The Return of Sherlock Holmes** is a collection of 13 Sherlock Holmes short stories by [Sir Arthur Conan Doyle](/biography-of-sir-arthur-conan-doyle/), published in 1903-1904.
 
-![The Return Of Sherlock Holmes](/images/posts/TheReturnOfSherlockHolmes.jpg)
+![The Return Of Sherlock Holmes](../../../assets/images/posts/TheReturnOfSherlockHolmes.jpg)
 
 This is also the first collection after Sherlock Holmes death in [The Final Problem](/oldsite/canon/memoirs/problem/01.php). Faced by public demand, Doyle revived his favorite detective. The very first story in this collection explains his return.
 

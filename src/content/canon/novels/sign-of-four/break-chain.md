@@ -3,12 +3,12 @@ title: "Chapter 9: Break in the Chain"
 date: 2013-01-16
 novel: "sign-of-four"
 order: 10
-coverImage: "/images/posts/sign09.gif"
+coverImage: "../../../../assets/images/posts/sign09.gif"
 tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 It was late in the afternoon before I woke, strengthened and refreshed. Sherlock Holmes still sat exactly as I had left him save that he had laid aside his violin and was deep in a book. He looked across at me as I stirred, and I noticed that his face was dark and troubled.
 
@@ -162,7 +162,7 @@ We both started in our chairs. There was Holmes sitting close to us with an air 
 
 "Holmes!" I exclaimed. "You here! But where is the old man?"
 
-!["Here is the old man," said he, holding out a heap of white hair](/images/posts/sign09.gif)
+!["Here is the old man," said he, holding out a heap of white hair](../../../../assets/images/posts/sign09.gif)
 
 "Here is the old man," said he, holding out a heap of white hair. "Here he is -- wig, whiskers, eyebrows, and all. I thought my disguise was pretty good, but I hardly expected that it would stand that test."
 

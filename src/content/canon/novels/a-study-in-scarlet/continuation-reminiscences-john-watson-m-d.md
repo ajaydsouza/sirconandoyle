@@ -3,13 +3,13 @@ title: "Part II – Chapter 6: A Continuation of the Reminiscences of John Watso
 date: 2012-10-12
 novel: "a-study-in-scarlet"
 order: 14
-coverImage: "/images/posts/scarlet26.gif"
+coverImage: "../../../../assets/images/posts/scarlet26.gif"
 tags:
   - "sherlock-holmes"
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 Our prisoner's furious resistance did not apparently indicate any ferocity in his disposition towards ourselves, for on finding himself powerless, he smiled in an affable manner, and expressed his hopes that he had not hurt any of us in the scuffle. "I guess you're going to take me to the police-station," he remarked to Sherlock Holmes "My cab's at the door. If you'll loose my legs I'll walk down to it. I'm not so light to lift as I used to be."
 
@@ -87,7 +87,7 @@ I handed him the glass, and he drank it down.
 
 " 'We'll soon have a light,' I said, striking a match and putting it to a wax candle which I had brought with me. 'Now, Enoch Drebber,' I continued, turning to him, and holding the light to my own face, 'who am l?'
 
-![He gazed at me with bleared, drunken eyes for a moment, and then I saw a horror spring up in them, and convulse his whole features, which showed me that he knew me](/images/posts/scarlet26.gif "He gazed at me with bleared, drunken eyes for a moment, and then I saw a horror spring up in them, and convulse his whole features, which showed me that he knew me")
+![He gazed at me with bleared, drunken eyes for a moment, and then I saw a horror spring up in them, and convulse his whole features, which showed me that he knew me](../../../../assets/images/posts/scarlet26.gif "He gazed at me with bleared, drunken eyes for a moment, and then I saw a horror spring up in them, and convulse his whole features, which showed me that he knew me")
 
 "He gazed at me with bleared, drunken eyes for a moment, and then I saw a horror spring up in them, and convulse his whole features, which showed me that he knew me. He staggered back with a livid face, and I saw the perspiration break out upon his brow, while his teeth chattered in his head. At the sight I leaned my back against the door and laughed loud and long. I had always known that vengeance would be sweet, but I had never hoped for the contentment of soul which now possessed me.
 

@@ -3,7 +3,7 @@ title: "The Adventure of the Cardboard Box"
 date: 2013-10-21
 collection: "last-bow"
 order: 4
-coverImage: "/images/posts/card-01.jpg"
+coverImage: "../../../assets/images/posts/card-01.jpg"
 tags:
   - "last-bow"
   - "sherlock-holmes"
@@ -13,7 +13,7 @@ In choosing a few typical cases which illustrate the remarkable mental qualities
 
 It was a blazing hot day in August. Baker Street was like an oven, and the glare of the sunlight upon the yellow brickwork of the house across the road was painful to the eye. It was hard to believe that these were the same walls which loomed so gloomily through the fogs of winter. Our blinds were half-drawn, and Holmes lay curled upon the sofa, reading and re-reading a letter which he had received by the morning post. For myself, my term of service in India had trained me to stand heat better than cold, and a thermometer at ninety was no hardship. But the morning paper was uninteresting. Parliament had risen. Everybody was out of town, and I yearned for the glades of the New Forest or the shingle of Southsea. A depleted bank account had caused me to postpone my holiday, and as to my companion, neither the country nor the sea presented the slightest attraction to him. He loved to lie in the very center of five millions of people, with his filaments stretching out and running through them, responsive to every little rumour or suspicion of unsolved crime. Appreciation of nature found no place among his many gifts, and his only change was when he turned his mind from the evil-doer of the town to track down his brother of the country.
 
-![I FELL INTO A BROWN STUDY.](/images/posts/card-01.jpg)
+![I FELL INTO A BROWN STUDY.](../../../assets/images/posts/card-01.jpg)
 
 Finding that Holmes was too absorbed for conversation I had tossed aside the barren paper, and leaning back in my chair I fell into a brown study. Suddenly my companion's voice broke in upon my thoughts:
 
@@ -51,7 +51,7 @@ But I was still far from satisfied. "In the example which you read to me," said 
 
 "It was very superficial, my dear Watson, I assure you. I should not have intruded it upon your attention had you not shown some incredulity the other day. But I have in my hands here a little problem which may prove to be more difficult of solution than my small essay in thought reading. Have you observed in the paper a short paragraph referring to the remarkable contents of a packet sent through the post to Miss Cushing, of Cross Street, Croydon?"
 
-![MISS CUSHING.](/images/posts/card-02.jpg)
+![MISS CUSHING.](../../../assets/images/posts/card-02.jpg)
 
 "No, I saw nothing."
 
@@ -105,7 +105,7 @@ It was a small shed in the narrow garden which ran behind the house. Lestrade we
 
 "So much for the string, then," said Holmes, smiling, "now for the box wrapper. Brown paper, with a distinct smell of coffee. What, did you not observe it? I think there can be no doubt of it. Address printed in rather straggling characters: 'Miss S. Cushing, Cross Street, Croydon.' Done with a broad-pointed pen, probably a J, and with very inferior ink. The word 'Croydon' has been originally spelled with an 'i', which has been changed to 'y'. The parcel was directed, then, by a man--the printing is distinctly masculine--of limited education and unacquainted with the town of Croydon. So far, so good! The box is a yellow, half-pound honeydew box, with nothing distinctive save two thumb marks at the left bottom corner. It is filled with rough salt of the quality used for preserving hides and other of the coarser commercial purposes. And embedded in it are these very singular enclosures."
 
-![HE EXAMINED THEM MINUTELY.](/images/posts/card-03.jpg)
+![HE EXAMINED THEM MINUTELY.](../../../assets/images/posts/card-03.jpg)
 
 He took out the two ears as he spoke, and laying a board across his knee he examined them minutely, while Lestrade and I, bending forward on each side of him, glanced alternately at these dreadful relics and at the thoughtful, eager face of our companion. Finally he returned them to the box once more and sat for a while in deep meditation.
 
@@ -173,7 +173,7 @@ It was evident that Miss Cushing had come upon a subject on which she felt very 
 
 There was a cab passing as we came out, and Holmes hailed it.
 
-![“HOW FAR TO WALLINGTON?”](/images/posts/card-04.jpg)
+![“HOW FAR TO WALLINGTON?”](../../../assets/images/posts/card-04.jpg)
 
 "How far to Wallington?" he asked.
 
@@ -213,7 +213,7 @@ Holmes scribbled a few words upon the back of one of his visiting cards and thre
 
 "That is the name," he said. "You cannot effect an arrest until to-morrow night at the earliest. I should prefer that you do not mention my name at all in connection with the case, as I choose to be only associated with those crimes which present some difficulty in their solution. Come on, Watson." We strode off together to the station, leaving Lestrade still staring with a delighted face at the card which Holmes had thrown him.
 
-![JIM BROWNER.](/images/posts/card-05.jpg)
+![JIM BROWNER.](../../../assets/images/posts/card-05.jpg)
 
 "The case," said Sherlock Holmes as we chatted over our cigars that night in our rooms at Baker Street, "is one where, as in the investigations which you have chronicled under the names of 'A Study in Scarlet' and of 'The Sign of Four,' we have been compelled to reason backward from effects to causes. I have written to Lestrade asking him to supply us with the details which are now wanting, and which he will only get after he had secured his man. That he may be safely trusted to do, for although he is absolutely devoid of reason, he is as tenacious as a bulldog when he once understands what he has to do, and indeed, it is just this tenacity which has brought him to the top at Scotland Yard."
 
@@ -255,7 +255,7 @@ Sherlock Holmes was not disappointed in his expectations. Two days later he rece
 > 
 > "Yours very truly, "G. Lestrade.
 
-![“HE HELD OUT HIS HANDS QUIETLY.”](/images/posts/card-06.jpg)
+![“HE HELD OUT HIS HANDS QUIETLY.”](../../../assets/images/posts/card-06.jpg)
 
 "Hum! The investigation really was a very simple one," remarked Holmes, "but I don't think it struck him in that light when he first called us in. However, let us see what Jim Browner has to say for himself. This is his statement as made before Inspector Montgomery at the Shadwell Police Station, and it has the advantage of being verbatim."
 
@@ -271,7 +271,7 @@ Sherlock Holmes was not disappointed in his expectations. Two days later he rece
 > 
 > "'I used to be home for the week-ends very often, and sometimes if the ship were held back for cargo I would have a whole week at a time, and in this way I saw a deal of my sister-in-law, Sarah. She was a fine tall woman, black and quick and fierce, with a proud way of carrying her head, and a glint from her eye like a spark from a flint. But when little Mary was there I had never a thought of her, and that I swear as I hope for God's mercy.
 > 
-> ![“ ‘THAT’S ALL RIGHT, MY LASS,’ SAID I.”](/images/posts/card-07.jpg)
+> ![“ ‘THAT’S ALL RIGHT, MY LASS,’ SAID I.”](../../../assets/images/posts/card-07.jpg)
 > 
 > "'It had seemed to me sometimes that she liked to be alone with me, or to coax me out for a walk with her, but I had never thought anything of that. But one evening my eyes were opened. I had come up from the ship and found my wife out, but Sarah at home. "Where's Mary?" I asked. "Oh, she has gone to pay some accounts." I was impatient and paced up and down the room. "Can't you be happy for five minutes without Mary, Jim?" says she. "It's a bad compliment to me that you can't be contented with my society for so short a time." "That's all right, my lass," said I, putting out my hand towards her in a kindly way, but she had it in both hers in an instant, and they burned as if they were in a fever. I looked into her eyes and I read it all there. There was no need for her to speak, nor for me either. I frowned and drew my hand away. Then she stood by my side in silence for a bit, and then put up her hand and patted me on the shoulder. "Steady old Jim!" said she, and with a kind o' mocking laugh, she ran out of the room.
 > 
@@ -291,7 +291,7 @@ Sherlock Holmes was not disappointed in his expectations. Two days later he rece
 > 
 > "'Well, I took to my heels, and I ran after the cab. I had a heavy oak stick in my hand, and I tell you I saw red from the first; but as I ran I got cunning, too, and hung back a little to see them without being seen. They pulled up soon at the railway station. There was a good crowd round the booking-office, so I got quite close to them without being seen. They took tickets for New Brighton. So did I, but I got in three carriages behind them. When we reached it they walked along the Parade, and I was never more than a hundred yards from them. At last I saw them hire a boat and start for a row, for it was a very hot day, and they thought, no doubt, that it would be cooler on the water.
 > 
-> ![“I GOT ONE IN WITH MY STICK, THAT CRUSHED HIS HEAD LIKE AN EGG.”](/images/posts/card-08.jpg)
+> ![“I GOT ONE IN WITH MY STICK, THAT CRUSHED HIS HEAD LIKE AN EGG.”](../../../assets/images/posts/card-08.jpg)
 > 
 > "'It was just as if they had been given into my hands. There was a bit of a haze, and you could not see more than a few hundred yards. I hired a boat for myself, and I pulled after them. I could see the blur of their craft, but they were going nearly as fast as I, and they must have been a long mile from the shore before I caught them up. The haze was like a curtain all round us, and there were we three in the middle of it. My God, shall I ever forget their faces when they saw who was in the boat that was closing in upon them? She screamed out. He swore like a madman and jabbed at me with an oar, for he must have seen death in my eyes. I got past it and got one in with my stick that crushed his head like an egg. I would have spared her, perhaps, for all my madness, but she threw her arms round him, crying out to him, and calling him "Alec." I struck again, and she lay stretched beside him. I was like a wild beast then that had tasted blood. If Sarah had been there, by the Lord, she should have joined them. I pulled out my knife, and--well, there! I've said enough. It gave me a kind of savage joy when I thought how Sarah would feel when she had such signs as these of what her meddling had brought about. Then I tied the bodies into the boat, stove a plank, and stood by until they had sunk. I knew very well that the owner would think that they had lost their bearings in the haze, and had drifted off out to sea. I cleaned myself up, got back to land, and joined my ship without a soul having a suspicion of what had passed. That night I made up the packet for Sarah Cushing, and next day I sent it from Belfast.
 > 

@@ -3,12 +3,12 @@ title: "Captain Sharkey: How The Governor Of Saint Kitt's Came Home"
 date: 2013-05-07
 novel: "captain-sharkey"
 order: 2
-coverImage: "/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
+coverImage: "../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
 tags:
   - "captain-sharkey"
 ---
 
-![The Dealings of Captain Sharkey and Other Tales of Pirates](/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates-200x300.jpg)
+![The Dealings of Captain Sharkey and Other Tales of Pirates](../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg)
 
 When the great wars of the Spanish Succession had been brought to an end by the Treaty of Utrecht, the vast number of privateers which had been fitted out by the contending parties found their occupation gone. Some took to the more peaceful but less lucrative ways of ordinary commerce, others were absorbed into the fishing-fleets, and a few of the more reckless hoisted the Jolly Rodger at the mizzen and the bloody flag at the main, declaring a private war upon their own account against the whole human race.
 

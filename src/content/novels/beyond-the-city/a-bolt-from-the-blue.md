@@ -3,7 +3,7 @@ title: "A Bolt from the Blue"
 date: 2018-04-12
 novel: "beyond-the-city"
 order: 12
-coverImage: "/images/posts/Beyond-the-City.jpg"
+coverImage: "../../../assets/images/posts/Beyond-the-City.jpg"
 tags:
   - "beyond-the-city"
 ---

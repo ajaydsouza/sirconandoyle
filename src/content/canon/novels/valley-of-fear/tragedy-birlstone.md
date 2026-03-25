@@ -3,13 +3,13 @@ title: "Part I – Chapter 3: The Tragedy of Birlstone"
 date: 2012-10-28
 novel: "valley-of-fear"
 order: 4
-coverImage: "/images/posts/valley13.jpg"
+coverImage: "../../../../assets/images/posts/valley13.jpg"
 tags:
   - "sherlock-holmes"
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 Now for a moment I will ask leave to remove my own insignificant personality and to describe events which occurred before we arrived upon the scene by the light of knowledge which came to us afterwards. Only in this way can I make the reader appreciate the people concerned and the strange setting in which their fate was cast.
 
@@ -43,7 +43,7 @@ It was at eleven forty-five that the first alarm reached the small local police 
 
 On reaching the Manor House, the sergeant had found the drawbridge down, the windows lighted up, and the whole house-hold in a state of wild confusion and alarm. The white-faced servants were huddling together in the hall, with the frightened butler wringing his hands in the doorway. Only Cecil Barker seemed to be master of himself and his emotions; he had opened the door which was nearest to the entrance and he had beckoned to the sergeant to follow him. At that moment there arrived Dr. Wood, a brisk and capable general practitioner from the village. The three men entered the fatal room together, while the horror-stricken butler followed at their heels, closing the door behind him to shut out the terrible scene from the maid servants.
 
-![The doctor knelt beside him and held down the hand lamp which had stood on the table](/images/posts/valley13.jpg "The doctor knelt beside him and held down the hand lamp which had stood on the table")
+![The doctor knelt beside him and held down the hand lamp which had stood on the table](../../../../assets/images/posts/valley13.jpg "The doctor knelt beside him and held down the hand lamp which had stood on the table")
 
 The dead man lay on his back, sprawling with outstretched limbs in the centre of the room. He was clad only in a pink dressing gown, which covered his night clothes. There were carpet slippers on his bare feet. The doctor knelt beside him and held down the hand lamp which had stood on the table. One glance at the victim was enough to show the healer that his presence could be dispensed with. The man had been horribly injured. Lying across his chest was a curious weapon, a shotgun with the batrel sawed off a foot in front of the triggers. It was clear that this had been fired at close range and that he had received the whole charge in the face, blowing his head almost to pieces. The triggers had been wired together, so as to make the simultaneous discharge more destructive.
 

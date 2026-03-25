@@ -3,7 +3,7 @@ title: "In Which I see that which has been seen by Few"
 date: 2013-09-30
 novel: "mystery-of-cloomber"
 order: 14
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
@@ -12,7 +12,7 @@ At dinner that evening I mentioned to my father the episode of the three Buddhis
 
 When, however, he heard of the high manner in which Ram Singh had spoken of him, and the distinguished position which he had assigned him among philologists, he became so excited that it was all we could do to prevent him from setting off then and there to make his acquaintance.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 Esther and I were relieved and glad when we at last succeeded in abstracting his boots and manoeuvring him to his bedroom, for the exciting events of the last twenty-four hours had been too much for his weak frame and delicate nerves.
 

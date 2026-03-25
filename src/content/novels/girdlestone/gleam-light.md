@@ -3,12 +3,12 @@ title: "Chapter XXXIX: A Gleam of Light"
 date: 2014-08-21
 novel: "girdlestone"
 order: 40
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 Kate Harston fled as quickly as she could through the wood, stumbling over the brambles and crashing through the briars, regardless of pain or scratches or anything else which could stand between her and the possibility of safety. She soon gained the shed and managed to mount on to the top of it by the aid of the barrel. Craning her neck, she could see the long dusty lane, with the bare withered hedges upon either side, and the dreary line of the railway embankment beyond. There was no pony-carriage in sight.
 

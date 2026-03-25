@@ -3,7 +3,7 @@ title: "The Adventure of the Speckled Band"
 date: 2011-09-11
 collection: "adventures"
 order: 9
-coverImage: "/images/posts/speckled.jpg"
+coverImage: "../../../assets/images/posts/speckled.jpg"
 tags:
   - "sherlock-holmes"
   - "speckled-band"
@@ -29,7 +29,7 @@ I had no keener pleasure than in following Holmes in his plofessional investigat
 
 "What, then?"
 
-![She raised her veil](/images/posts/speckled.jpg "She raised her veil") "It is fear, Mr. Holmes. It is terror." She raised her veil as she spoke, and we could see that she was indeed in a pitiable state of agitation, her face all drawn and gray, with restless frightened eyes, like those of some hunted animal. Her features and figure were those of a woman of thirty, but her hair was shot with premature gray, and her expression was weary and haggard. Sherlock Holmes ran her over with one of his quick, all- comprehensive glances.
+![She raised her veil](../../../assets/images/posts/speckled.jpg "She raised her veil") "It is fear, Mr. Holmes. It is terror." She raised her veil as she spoke, and we could see that she was indeed in a pitiable state of agitation, her face all drawn and gray, with restless frightened eyes, like those of some hunted animal. Her features and figure were those of a woman of thirty, but her hair was shot with premature gray, and her expression was weary and haggard. Sherlock Holmes ran her over with one of his quick, all- comprehensive glances.
 
 "You must not fear," said he soothingly, bending forward and patting her forearm. "We shall soon set matters right, I have no doubt. You have come in by train this morning, I see."
 

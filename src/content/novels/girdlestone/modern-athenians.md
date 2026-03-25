@@ -3,12 +3,12 @@ title: "Chapter V: Modern Athenians"
 date: 2014-02-19
 novel: "girdlestone"
 order: 6
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 Edinburgh University may call herself with grim jocoseness the "alma mater" of her students, but if she be a mother at all she is one of a very heroic and Spartan cast, who conceals her maternal affection with remarkable success. The only signs of interest which she ever designs to evince towards her alumni are upon those not infrequent occasions when guineas are to be demanded from them. Then one is surprised to find how carefully the old hen has counted her chickens, and how promptly the demand is conveyed to each one of the thousands throughout the empire who, in spite of neglect, cherish a sneaking kindness for their old college. There is symbolism in the very look of her, square and massive, grim and grey, with never a pillar or carving to break the dead monotony of the great stone walls. She is learned, she is practical, and she is useful. There is little sentiment or romance in her composition, however, and in this she does but conform to the instincts of the nation of which she is the youngest but the most flourishing teacher.
 

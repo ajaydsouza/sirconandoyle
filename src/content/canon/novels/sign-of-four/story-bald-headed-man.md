@@ -3,12 +3,12 @@ title: "Chapter 4: The Story of the Bald-headed Man"
 date: 2012-12-27
 novel: "sign-of-four"
 order: 5
-coverImage: "/images/posts/sign04.gif"
+coverImage: "../../../../assets/images/posts/sign04.gif"
 tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 We followed the Indian down a sordid and common passage, ill-lit and worse furnished, until he came to a door upon the right, which he threw open. A blaze of yellow light streamed out upon us, and in the centre of the glare there stood a small man with a very high head, a bristle of red hair all round the fringe of it, and a bald, shining scalp which shot out from among it like a mountain-peak from fir trees. He writhed his hands together as he stood, and his features were in a perpetual jerk -- now smiling, now scowling, but never for an instant in repose. Nature had given him a pendulous lip, and a too visible line of yellow and irregular teeth, which he strove feebly to conceal by constantly passing his hand over the lower part of his face. In spite of his obtrusive baldness he gave the impression of youth. In point of fact, he had just turned his thirtieth year.
 
@@ -68,7 +68,7 @@ He laughed until his ears were quite red.
 
 " 'I have only one thing,' he said, 'which weighs upon my mind at this supreme moment. It is my treatment of poor Morstan's orphan. The cursed greed which has been my besetting sin through life has withheld from her the treasure, half at least of which should have been hers. And yet I have made no use of it myself, so blind and foolish a thing is avarice. The mere feeling of possession has been so dear to me that I could not bear to share it with another. See that chaplet tipped with pearls beside the quinine-bottle. Even that I could not bear to part with, although I had got it out with the design of sending it to her. You, my sons, will give her a fair share of the Agra treasure. But send her nothing -- not even the chaplet -- until I am gone. After all, men have been as bad as this and have recovered.
 
-!['I will tell you how Morstan died,' he continued](/images/posts/sign04.gif)
+!['I will tell you how Morstan died,' he continued](../../../../assets/images/posts/sign04.gif)
 
 " 'I will tell you how Morstan died,' he continued. 'He had suffered for years from a weak heart, but he concealed it from every one. I alone knew it. When in India, he and I, through a remarkable chain of circumstances, came into possession of a considerable treasure. I brought it over to England, and on the night of Morstan's arrival he came straight over here to claim his share. He walked over from the station and was admitted by my faithful old Lal Chowdar, who is now dead. Morstan and I had a difference of opinion as to the division of the treasure, and we came to heated words. Morstan had sprung out of his chair in a paroxysm of anger, when he suddenly pressed his hand to his side, his face turned a dusky hue, and he fell backward, cutting his head against the corner of the treasure-chest. When I stooped over him I found, to my horror, that he was dead.
 

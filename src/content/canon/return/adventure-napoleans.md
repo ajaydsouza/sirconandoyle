@@ -3,7 +3,7 @@ title: "The Adventure of the Six Napoleans"
 date: 2013-02-19
 collection: "return"
 order: 9
-coverImage: "/images/posts/sixn-01.jpg"
+coverImage: "../../../assets/images/posts/sixn-01.jpg"
 tags:
   - "the-return-of-sherlock-holmes"
 ---
@@ -36,7 +36,7 @@ Holmes sat up again.
 
 "Burglary! This is more interesting. Let me hear the details."
 
-![LESTRADE TOOK OUT HIS OFFICIAL NOTEBOOK.](/images/posts/sixn-01.jpg)
+![LESTRADE TOOK OUT HIS OFFICIAL NOTEBOOK.](../../../assets/images/posts/sixn-01.jpg)
 
 Lestrade took out his official notebook and refreshed his memory from its pages.
 
@@ -250,7 +250,7 @@ But before we could move, the man had emerged again. As he came out into the gli
 
 But it was not our prisoner to whom Holmes was giving his attention. Squatted on the doorstep, he was engaged in most carefully examining that which the man had brought from the house. It was a bust of Napoleon, like the one which we had seen that morning, and it had been broken into similar fragments. Carefully Holmes held each separate shard to the light, but in no way did it differ from any other shattered piece of plaster. He had just completed his examination when the hall lights flew up, the door opened, and the owner of the house, a jovial, rotund figure in shirt and trousers, presented himself.
 
-![THE DOOR OPENED, AND THE OWNER OF THE HOUSE PRESENTED HIMSELF.](/images/posts/sixn-06.jpg)
+![THE DOOR OPENED, AND THE OWNER OF THE HOUSE PRESENTED HIMSELF.](../../../assets/images/posts/sixn-06.jpg)
 
 "Mr. Josiah Brown, I suppose?" said Holmes.
 

@@ -3,12 +3,12 @@ title: "Chapter X: Dwellers in Bohemia"
 date: 2014-03-22
 novel: "girdlestone"
 order: 11
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 The residence of Major Tobias Clutterbuck, late of the 119th Light Infantry, was not known to any of his friends. It is true that at times he alluded in a modest way to his "little place," and even went to the length of remarking airily to new acquaintances that he hoped they would look him up any time they happened to be in his direction. As he carefully refrained, however, from ever giving the slightest indication of which direction that might be, his invitations never led to any practical results. Still they had the effect of filling the recipient with a vague sense of proffered hospitality, and occasionally led to more substantial kindness in return.
 

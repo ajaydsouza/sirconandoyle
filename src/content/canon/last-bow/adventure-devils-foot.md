@@ -3,7 +3,7 @@ title: "The Adventure of the Devil's Foot"
 date: 2013-12-18
 collection: "last-bow"
 order: 9
-coverImage: "/images/posts/devi-05.jpg"
+coverImage: "../../../assets/images/posts/devi-05.jpg"
 tags:
   - "last-bow"
   - "sherlock-holmes"
@@ -23,7 +23,7 @@ It was a singular spot, and one peculiarly well suited to the grim humour of my 
 
 Then come the sudden swirl round of the wind, the blistering gale from the south-west, the dragging anchor, the lee shore, and the last battle in the creaming breakers. The wise mariner stands far out from that evil place.
 
-![HE SPENT MUCH OF HIS TIME IN LONG WALKS.](/images/posts/devi-01.jpg)
+![HE SPENT MUCH OF HIS TIME IN LONG WALKS.](../../../assets/images/posts/devi-01.jpg)
 
 On the land side our surroundings were as sombre as on the sea. It was a country of rolling moors, lonely and dun-colored, with an occasional church tower to mark the site of some old-world village. In every direction upon these moors there were traces of some vanished race which had passed utterly away, and left as its sole record strange monuments of stone, irregular mounds which contained the burned ashes of the dead, and curious earthworks which hinted at prehistoric strife. The glamour and mystery of the place, with its sinister atmosphere of forgotten nations, appealed to the imagination of my friend, and he spent much of his time in long walks and solitary meditations upon the moor. The ancient Cornish language had also arrested his attention, and he had, I remember, conceived the idea that it was akin to the Chaldean, and had been largely derived from the Phoenician traders in tin. He had received a consignment of books upon philology and was settling down to develop this thesis when suddenly, to my sorrow and to his unfeigned delight, we found ourselves, even in that land of dreams, plunged into a problem at our very doors which was more intense, more engrossing, and infinitely more mysterious than any of those which had driven us from London. Our simple life and peaceful, healthy routine were violently interrupted, and we were precipitated into the midst of a series of events which caused the utmost excitement not only in Cornwall but throughout the whole west of England. Many of my readers may retain some recollection of what was called at the time "The Cornish Horror," though a most imperfect account of the matter reached the London press. Now, after thirteen years, I will give the true details of this inconceivable affair to the public.
 
@@ -33,7 +33,7 @@ These were the two men who entered abruptly into our little sitting-room on Tues
 
 "Mr. Holmes," said the vicar in an agitated voice, "the most extraordinary and tragic affair has occurred during the night. It is the most unheard-of business. We can only regard it as a special Providence that you should chance to be here at the time, for in all England you are the one man we need."
 
-![“THE MOST EXTRAORDINARY AND TRAGIC AFFAIR HAS OCCURED DURING THE NIGHT.”](/images/posts/devi-02.jpg)
+![“THE MOST EXTRAORDINARY AND TRAGIC AFFAIR HAS OCCURED DURING THE NIGHT.”](../../../assets/images/posts/devi-02.jpg)
 
 I glared at the intrusive vicar with no very friendly eyes; but Holmes took his pipe from his lips and sat up in his chair like an old hound who hears the view-halloa. He waved his hand to the sofa, and our palpitating visitor with his agitated companion sat side by side upon it. Mr. Mortimer Tregennis was more self-contained than the clergyman, but the twitching of his thin hands and the brightness of his dark eyes showed that they shared a common emotion.
 
@@ -113,7 +113,7 @@ Mortimer Tregennis considered earnestly for a moment.
 
 Our proceedings of that first morning did little to advance the investigation. It was marked, however, at the outset by an incident which left the most sinister impression upon my mind. The approach to the spot at which the tragedy occurred is down a narrow, winding, country lane. While we made our way along it we heard the rattle of a carriage coming towards us and stood aside to let it pass. As it drove by us I caught a glimpse through the closed window of a horribly contorted, grinning face glaring out at us. Those staring eyes and gnashing teeth flashed past us like a dreadful vision.
 
-![THOSE STARING EYES AND GNASHING TEETH FLASHED PAST US LIKE A DREADFUL VISION.](/images/posts/devi-03.jpg)
+![THOSE STARING EYES AND GNASHING TEETH FLASHED PAST US LIKE A DREADFUL VISION.](../../../assets/images/posts/devi-03.jpg)
 
 "My brothers!" cried Mortimer Tregennis, white to his lips. "They are taking them to Helston."
 
@@ -121,7 +121,7 @@ We looked with horror after the black carriage, lumbering upon its way. Then we 
 
 It was a large and bright dwelling, rather a villa than a cottage, with a considerable garden which was already, in that Cornish air, well filled with spring flowers. Towards this garden the window of the sitting-room fronted, and from it, according to Mortimer Tregennis, must have come that thing of evil which had by sheer horror in a single instant blasted their minds. Holmes walked slowly and thoughtfully among the flower-plots and along the path before we entered the porch. So absorbed was he in his thoughts, I remember, that he stumbled over the watering-pot, upset its contents, and deluged both our feet and the garden path. Inside the house we were met by the elderly Cornish housekeeper, Mrs. Porter, who, with the aid of a young girl, looked after the wants of the family. She readily answered all Holmes's questions. She had heard nothing in the night. Her employers had all been in excellent spirits lately, and she had never known them more cheerful and prosperous. She had fainted with horror upon entering the room in the morning and seeing that dreadful company round the table. She had, when she recovered, thrown open the window to let the morning air in, and had run down to the lane, whence she sent a farm-lad for the doctor. The lady was on her bed upstairs if we cared to see her. It took four strong men to get the brothers into the asylum carriage. She would not herself stay in the house another day and was starting that very afternoon to rejoin her family at St. Ives.
 
-![WE ASCENDED THE STAIRS AND VIEWED THE BODY.](/images/posts/devi-04.jpg)
+![WE ASCENDED THE STAIRS AND VIEWED THE BODY.](../../../assets/images/posts/devi-04.jpg)
 
 We ascended the stairs and viewed the body. Miss Brenda Tregennis had been a very beautiful girl, though now verging upon middle age. Her dark, clear-cut face was handsome, even in death, but there still lingered upon it something of that convulsion of horror which had been her last human emotion. From her bedroom we descended to the sitting-room, where this strange tragedy had actually occurred. The charred ashes of the overnight fire lay in the grate. On the table were the four guttered and burned-out candles, with the cards scattered over its surface. The chairs had been moved back against the walls, but all else was as it had been the night before. Holmes paced with light, swift steps about the room; he sat in the various chairs, drawing them up and reconstructing their positions. He tested how much of the garden was visible; he examined the floor, the ceiling, and the fireplace; but never once did I see that sudden brightening of his eyes and tightening of his lips which would have told me that he saw some gleam of light in this utter darkness.
 
@@ -211,7 +211,7 @@ Holmes sprang to his feet, all energy in an instant.
 
 The lodger occupied two rooms at the vicarage, which were in an angle by themselves, the one above the other. Below was a large sitting-room; above, his bedroom. They looked out upon a croquet lawn which came up to the windows. We had arrived before the doctor or the police, so that everything was absolutely undisturbed. Let me describe exactly the scene as we saw it upon that misty March morning. It has left an impression which can never be effaced from my mind.
 
-![BESIDE IT SAT THE DEAD MAN, LEANING BACK IN HIS CHAIR.](/images/posts/devi-05.jpg)
+![BESIDE IT SAT THE DEAD MAN, LEANING BACK IN HIS CHAIR.](../../../assets/images/posts/devi-05.jpg)
 
 The atmosphere of the room was of a horrible and depressing stuffiness. The servant who had first entered had thrown up the window, or it would have been even more intolerable. This might partly be due to the fact that a lamp stood flaring and smoking on the centre table. Beside it sat the dead man, leaning back in his chair, his thin beard projecting, his spectacles pushed up on to his forehead, and his lean dark face turned towards the window and twisted into the same distortion of terror which had marked the features of his dead sister. His limbs were convulsed and his fingers contorted as though he had died in a very paroxysm of fear. He was fully clothed, though there were signs that his dressing had been done in a hurry. We had already learned that his bed had been slept in, and that the tragic end had come to him in the early morning.
 
@@ -233,7 +233,7 @@ It may be that the police resented the intrusion of an amateur, or that they ima
 
 "It is not for me, my dear Watson, to stand in the way of the official police force. I leave them all the evidence which I found. The poison still remained upon the talc had they the wit to find it. Now, Watson, we will light our lamp; we will, however, take the precaution to open our window to avoid the premature decease of two deserving members of society, and you will seat yourself near that open window in an armchair unless, like a sensible man, you determine to have nothing to do with the affair. Oh, you will see it out, will you? I thought I knew my Watson. This chair I will place opposite yours, so that we may be the same distance from the poison and face to face. The door we will leave ajar. Each is now in a position to watch the other and to bring the experiment to an end should the symptoms seem alarming. Is that all clear? Well, then, I take our powder--or what remains of it--from the envelope, and I lay it above the burning lamp. So! Now, Watson, let us sit down and await developments."
 
-![TOGETHER WE LURCHED THROUGH THE DOOR.](/images/posts/devi-06.jpg)
+![TOGETHER WE LURCHED THROUGH THE DOOR.](../../../assets/images/posts/devi-06.jpg)
 
 They were not long in coming. I had hardly settled in my chair before I was conscious of a thick, musky odour, subtle and nauseous. At the very first whiff of it my brain and my imagination were beyond all control. A thick, black cloud swirled before my eyes, and my mind told me that in this cloud, unseen as yet, but about to spring out upon my appalled senses, lurked all that was vaguely horrible, all that was monstrous and inconceivably wicked in the universe. Vague shapes swirled and swam amid the dark cloud-bank, each a menace and a warning of something coming, the advent of some unspeakable dweller upon the threshold, whose very shadow would blast my soul. A freezing horror took possession of me. I felt that my hair was rising, that my eyes were protruding, that my mouth was opened, and my tongue like leather. The turmoil within my brain was such that something must surely snap. I tried to scream and was vaguely aware of some hoarse croak which was my own voice, but distant and detached from myself. At the same moment, in some effort of escape, I broke through that cloud of despair and had a glimpse of Holmes's face, white, rigid, and drawn with horror--the very look which I had seen upon the features of the dead. It was that vision which gave me an instant of sanity and of strength. I dashed from my chair, threw my arms round Holmes, and together we lurched through the door, and an instant afterwards had thrown ourselves down upon the grass plot and were lying side by side, conscious only of the glorious sunshine which was bursting its way through the hellish cloud of terror which had girt us in. Slowly it rose from our souls like the mists from a landscape until peace and reason had returned, and we were sitting upon the grass, wiping our clammy foreheads, and looking with apprehension at each other to mark the last traces of that terrific experience which we had undergone.
 
@@ -265,7 +265,7 @@ The explorer took his cigar from his lips and gazed sternly at my companion.
 
 For a moment I wished that I were armed. Sterndale's fierce face turned to a dusky red, his eyes glared, and the knotted, passionate veins started out in his forehead, while he sprang forward with clenched hands towards my companion. Then he stopped, and with a violent effort he resumed a cold, rigid calmness, which was, perhaps, more suggestive of danger than his hot-headed outburst.
 
-![HE SPRANG FORWARD WITH CLENCHED HANDS TOWARDS MY COMPANION](/images/posts/devi-07.jpg)
+![HE SPRANG FORWARD WITH CLENCHED HANDS TOWARDS MY COMPANION](../../../assets/images/posts/devi-07.jpg)
 
 "I have lived so long among savages and beyond the law," said he, "that I have got into the way of being a law to myself. You would do well, Mr. Holmes, not to forget it, for I have no desire to do you an injury."
 

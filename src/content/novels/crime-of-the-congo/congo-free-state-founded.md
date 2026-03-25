@@ -3,14 +3,14 @@ title: "How the Congo Free State Came To Be Founded"
 date: 2013-06-11
 novel: "crime-of-the-congo"
 order: 3
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
 
 In the earlier years of his reign King Leopold of Belgium began to display that interest in Central Africa which for a long time was ascribed to nobility and philanthropy, until the contrast between such motives, and the actual unscrupulous commercialism, became too glaring to be sustained. As far back as the year 1876 he called a conference of humanitarians and travellers, who met at Brussels for the purpose of debating various plans by which the Dark Continent might be opened up. From this conference sprang the so-called International African Association, which, in spite of its name, was almost entirely a Belgian body, with the Belgian King as President. Its professed object was the exploration of the country and the founding of stations which should be rest-houses for travellers and centres of civilization.
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 On the return of Stanley from his great journey in 1878, he was met at Marseilles by a representative from the King of Belgium, who enrolled the famous traveller as an agent for his Association. The immediate task given to Stanley was to open up the Congo for trade, and to make such terms with the natives as would enable stations to be built and depôts established. In 1879 Stanley was at work with characteristic energy. His own intentions were admirable. “We shall require but mere contact,” he wrote, “to satisfy the natives that our intentions are pure and honourable, seeking their own good, materially and socially, more than our own interests. We go to spread what blessings arise from amiable and just intercourse with people who have been strangers to them.” Stanley was a hard man, but he was no hypocrite. What he said he undoubtedly meant. It is worth remarking, in view of the accounts of the laziness or stupidity of the natives given by King Leopold’s apologists in order to justify their conduct toward them, that Stanley had the very highest opinion of their industry and commercial ability. The following extracts from his writings set this matter beyond all doubt:
 

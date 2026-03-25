@@ -3,12 +3,12 @@ title: "Chapter XLV: The Invasion of Hampshire"
 date: 2014-08-27
 novel: "girdlestone"
 order: 46
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 When Tom and the major arrived at Waterloo Station, the latter in the breathless condition described in a preceding chapter, they found the German waiting for them with his two fellow-exiles. The gentleman of Nihilistic proclivities was somewhat tall and thin, with a long frock-coat buttoned almost up to his throat, which showed signs of giving at the seams every here and there. His grizzly hair fell over his collar behind, and he had a short bristling beard. He stood with one hand stuck into the front of his coat and the other upon his hip, as though rehearsing the position in which his statue might be some day erected in the streets of his native Russia, when the people had their own, and despotism was no more. In spite of his worn attire there was something noble and striking about the man. His bow, when Baumser introduced him to the major and Tom, would have graced any Court in Europe. Round his neck he had a coarse string from which hung a pair of double eye-glasses. These he fixed upon his aquiline nose, and took a good look at the gentlemen whom he had come to serve.
 

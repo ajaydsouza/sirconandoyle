@@ -3,13 +3,13 @@ title: "Part I – Chapter 5: The People of the Drama"
 date: 2012-11-05
 novel: "valley-of-fear"
 order: 6
-coverImage: "/images/posts/valley15.jpg"
+coverImage: "../../../../assets/images/posts/valley15.jpg"
 tags:
   - "sherlock-holmes"
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 "Have you seen all you want of the study?" asked White Mason as we reentered the house.
 

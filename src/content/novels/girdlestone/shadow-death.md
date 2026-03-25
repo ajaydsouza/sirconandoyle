@@ -3,12 +3,12 @@ title: "Chapter XLIV: The Shadow of Death"
 date: 2014-08-26
 novel: "girdlestone"
 order: 45
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 This conversation with Rebecca had suggested to Ezra that he might still have influence enough with his father's ward to induce her to come out of doors, and so put herself within the reach of Burt. He had proposed the plan to his father, who approved of it heartily. The only weak point in his scheme had been the difficulty which might arise in inducing the girl to venture out of the Priory on that tempestuous winter's night. There was evidently only one incentive strong enough to bring it about, and that was the hope of escape. By harping skilfully upon this string they might lure her into the trap. Ezra and his father composed the letter together, and the former handed it to Mrs. Jorrocks, with a request that she should deliver it.
 

@@ -3,7 +3,7 @@ title: "A Sister's Secret"
 date: 2018-04-04
 novel: "beyond-the-city"
 order: 5
-coverImage: "/images/posts/Beyond-the-City.jpg"
+coverImage: "../../../assets/images/posts/Beyond-the-City.jpg"
 tags:
   - "beyond-the-city"
 ---

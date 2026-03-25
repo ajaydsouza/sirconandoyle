@@ -3,7 +3,7 @@ title: "The New Catacomb"
 date: 2017-05-07
 novel: "tales-of-terror-and-mystery"
 order: 4
-coverImage: "/images/posts/Tales-of-Terror-and-Mystery.jpg"
+coverImage: "../../../assets/images/posts/Tales-of-Terror-and-Mystery.jpg"
 tags:
   - "mystery"
   - "tales-of-terror-and-mystery"

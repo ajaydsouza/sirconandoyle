@@ -3,7 +3,7 @@ title: "The Disappearance of Lady Frances Carfax"
 date: 2013-12-02
 collection: "last-bow"
 order: 8
-coverImage: "/images/posts/lady-01.jpg"
+coverImage: "../../../assets/images/posts/lady-01.jpg"
 tags:
   - "last-bow"
   - "sherlock-holmes"
@@ -75,7 +75,7 @@ Only one corner still remained in the shadow. No light which I possessed could c
 
 So ended the first chapter of my inquiry. The second was devoted to the place which Lady Frances Carfax had sought when she left Lausanne. Concerning this there had been some secrecy, which confirmed the idea that she had gone with the intention of throwing someone off her track. Otherwise why should not her luggage have been openly labelled for Baden? Both she and it reached the Rhenish spa by some circuitous route. This much I gathered from the manager of Cook's local office. So to Baden I went, after dispatching to Holmes an account of all my proceedings and receiving in reply a telegram of half-humorous commendation.
 
-![HE SPENT HIS DAY UPON A LOUNGE-CHAIR ON THE VERANDA.](/images/posts/lady-01.jpg)
+![HE SPENT HIS DAY UPON A LOUNGE-CHAIR ON THE VERANDA.](../../../assets/images/posts/lady-01.jpg)
 
  
 
@@ -115,7 +115,7 @@ He stared at me with amazement.
 
 "What have you done with her? Why have you pursued her? I insist upon an answer!" said I.
 
-![THE FELLOW GAVE A BELLOW OF ANGER AND SPRANG UPON ME LIKE A TIGER.](/images/posts/lady-02.jpg)
+![THE FELLOW GAVE A BELLOW OF ANGER AND SPRANG UPON ME LIKE A TIGER.](../../../assets/images/posts/lady-02.jpg)
 
 The fellow gave a below of anger and sprang upon me like a tiger. I have held my own in many a struggle, but the man had a grip of iron and the fury of a fiend. His hand was on my throat and my senses were nearly gone before an unshaven French ouvrier in a blue blouse darted out from a cabaret opposite, with a cudgel in his hand, and struck my assailant a sharp crack over the forearm, which made him leave go his hold. He stood for an instant fuming with rage and uncertain whether he should not renew his attack. Then, with a snarl of anger, he left me and entered the cottage from which I had just come. I turned to thank my preserver, who stood beside me in the roadway.
 
@@ -193,7 +193,7 @@ For two days the Hon. Philip Green (he was, I may mention, the son of the famous
 
 "We have him! We have him!" he cried.
 
-![“WE HAVE HIM! WE HAVE HIM!” HE CRIED.](/images/posts/lady-03.jpg)
+![“WE HAVE HIM! WE HAVE HIM!” HE CRIED.](../../../assets/images/posts/lady-03.jpg)
 
 He was incoherent in his agitation. Holmes soothed him with a few words and thrust him into an armchair.
 
@@ -273,7 +273,7 @@ Peters, as I will now call him, started and stared hard at his formidable pursue
 
 Holmes half drew a revolver from his pocket. "This will have to serve till a better one comes."
 
-![HOLMES HALF DREW A REVOLVER FROM HIS POCKET.](/images/posts/lady-04.jpg)
+![HOLMES HALF DREW A REVOLVER FROM HIS POCKET.](../../../assets/images/posts/lady-04.jpg)
 
 "Why, you're a common burglar."
 
@@ -345,7 +345,7 @@ Sherlock Holmes was too irritable for conversation and too restless for sleep. I
 
 Five minutes had not passed before we were flying in a hansom down Baker Street. But even so it was twenty-five to eight as we passed Big Ben, and eight struck as we tore down the Brixton Road. But others were late as well as we. Ten minutes after the hour the hearse was still standing at the door of the house, and even as our foaming horse came to a halt the coffin, supported by three men, appeared on the threshold. Holmes darted forward and barred their way.
 
-![HOLMES DARTED FORWARD AND BARRED THEIR WAY.](/images/posts/lady-05.jpg)
+![HOLMES DARTED FORWARD AND BARRED THEIR WAY.](../../../assets/images/posts/lady-05.jpg)
 
 "Take it back!" he cried, laying his hand on the breast of the foremost. "Take it back this instant!"
 

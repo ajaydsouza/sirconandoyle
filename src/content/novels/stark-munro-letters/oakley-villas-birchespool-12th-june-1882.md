@@ -3,14 +3,14 @@ title: "XIII. OAKLEY VILLAS, BIRCHESPOOL, 12th June, 1882"
 date: 2013-08-10
 novel: "stark-munro-letters"
 order: 14
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 When I wrote my last letter, my dear Bertie, I was still gasping, like a cod on a sand-bank, after my final dismissal by Cullingworth. The mere setting of it all down in black and white seemed to clear the matter up, and I felt much more cheery by the time I had finished my letter. I was just addressing the envelope (observe what a continuous narrative you get of my proceedings!) when I was set jumping out of my carpet slippers by a ring at the bell. Through the glass panel I observed that it was a respectable-looking bearded individual with a top-hat. It was a patient. It MUST be a patient! Then first I realised what an entirely different thing it is to treat the patient of another man (as I had done with Horton) or to work a branch of another man's practice (as I had done with Cullingworth), and to have to do with a complete stranger on your own account. I had been thrilling to have one. Now that he had come I felt for an instant as if I would not open the door. But of course that was only a momentary weakness. I answered his ring with, I fear, rather a hypocritical air of insouciance, as though I had happened to find myself in the hall, and did not care to trouble the maid to ascend the stairs.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 "Dr. Stark Munro?" he asked.
 

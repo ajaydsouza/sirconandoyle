@@ -3,7 +3,7 @@ title: "A Case of Mistaken Identity"
 date: 2011-09-01
 collection: "adventures"
 order: 4
-coverImage: "/images/posts/identity.jpg"
+coverImage: "../../../assets/images/posts/identity.jpg"
 tags:
   - "identity"
   - "sherlock-holmes"
@@ -250,7 +250,7 @@ Mr. Windibank sprang out of his chair and picked up his hat. "I cannot waste tim
 
 "Certainly," said Holmes, stepping over and turning the key in the door. "I let you know, then, that I have caught him!"
 
-![Glancing about him like a rat in a trap](/images/posts/identity.jpg "Glancing about him like a rat in a trap")
+![Glancing about him like a rat in a trap](../../../assets/images/posts/identity.jpg "Glancing about him like a rat in a trap")
 
 "What! where?" shouted Mr. Windibank, turning white to his lips and glancing about him like a rat in a trap.
 

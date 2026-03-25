@@ -3,7 +3,7 @@ title: "The Adventure of the Blanched Soldier"
 date: 2014-12-18
 collection: "casebook"
 order: 4
-coverImage: "/images/posts/Blanched-Soldier-01.jpg"
+coverImage: "../../../assets/images/posts/Blanched-Soldier-01.jpg"
 tags:
   - "casebook-2"
   - "sherlock-holmes"
@@ -46,7 +46,7 @@ I smiled at his bewildered expression.
 
 "Well, that was what it amounted to. He is a hard nail, is Colonel Emsworth. The greatest martinet in the Army in his day, and it was a day of rough language, too. I couldn't have stuck the colonel if it had not been for Godfrey's sake."
 
-![I LIT MY PIPE AND LEANED BACK IN MY CHAIR.](/images/posts/Blanched-Soldier-01.jpg)
+![I LIT MY PIPE AND LEANED BACK IN MY CHAIR.](../../../assets/images/posts/Blanched-Soldier-01.jpg)
 
 I lit my pipe and leaned back in my chair.
 
@@ -118,7 +118,7 @@ Mr. James M. Dodd appeared to be the sort of person whom it would be better to h
 
 "'Look here!' I cried. 'You say he was. You speak as if he were dead. What is all this mystery? What has become of Godfrey Emsworth?'
 
-![“I GRIPPED THE OLD MAN BY THE SHOULDER, BUT HE SHRANK AWAY.”](/images/posts/Blanched-Soldier-02.jpg)
+![“I GRIPPED THE OLD MAN BY THE SHOULDER, BUT HE SHRANK AWAY.”](../../../assets/images/posts/Blanched-Soldier-02.jpg)
 
 "I gripped the old man by the shoulder, but he shrank away.
 
@@ -140,7 +140,7 @@ My client had paused as one in deep emotion.
 
 "He was outside the window, Mr. Holmes, with his face pressed against the glass. I have told you that I looked out at the night. When I did so I left the curtains partly open. His figure was framed in this gap. The window came down to the ground and I could see the whole length of it, but it was his face which held my gaze. He was deadly pale--never have I seen a man so white. I reckon ghosts may look like that; but his eyes met mine, and they were the eyes of a living man. He sprang back when he saw that I was looking at him, and he vanished into the darkness.
 
-![“HE SPRANG BACK WHEN HE SAW THAT I WAS LOOKING AT HIM.”](/images/posts/Blanched-Soldier-03.jpg)
+![“HE SPRANG BACK WHEN HE SAW THAT I WAS LOOKING AT HIM.”](../../../assets/images/posts/Blanched-Soldier-03.jpg)
 
 "There was something shocking about the man, Mr. Holmes. It wasn't merely that ghastly face glimmering as white as cheese in the darkness. It was more subtle than that--something slinking, something furtive, something guilty--something very unlike the frank, manly lad that I had known. It left a feeling of horror in my mind.
 
@@ -272,7 +272,7 @@ He stared at the writing with a face from which every expression save amazement 
 
 He sat in deep thought, his gaunt hand tugging at his straggling beard. Then he made a gesture of resignation.
 
-![“THIS IS THE GENTLEMAN WHO FORCED MY HAND.”](/images/posts/Blanched-Soldier-04.jpg)
+![“THIS IS THE GENTLEMAN WHO FORCED MY HAND.”](../../../assets/images/posts/Blanched-Soldier-04.jpg)
 
 "Well, if you wish to see Godfrey, you shall. It is no doing of mine, but you have forced my hand. Ralph, tell Mr. Godfrey and Mr. Kent that in five minutes we shall be with them."
 

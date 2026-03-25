@@ -3,7 +3,7 @@ title: "The Adventure of the Copper Beeches"
 date: 2011-09-21
 collection: "adventures"
 order: 13
-coverImage: "/images/posts/beeches.jpg"
+coverImage: "../../../assets/images/posts/beeches.jpg"
 tags:
   - "adventures-2"
   - "copper-beeches"
@@ -394,7 +394,7 @@ The fat man cast his eyes round, and then up at the open skylight.
 
 "My God!" he cried. "Someone has loosed the dog. It's not been fed for two days. Quick, quick, or it'll be too late!"
 
-![Running up I blew its brains out](/images/posts/beeches.jpg "Running up I blew its brains out")
+![Running up I blew its brains out](../../../assets/images/posts/beeches.jpg "Running up I blew its brains out")
 
 Holmes and I rushed out and round the angle of the house, with Toller hurrying behind us. There was the huge famished brute, its black muzzle buried in Rucastle's throat, while he writhed and screamed upon the ground. Running up, I blew its brains out, and it fell over with its keen white teeth still meeting in the great creases of his neck. With much labour we separated them and carried him, living but horribly mangled, into the house. We laid him upon the drawing-room sofa, and having dispatched the sobered Toller to bear the news to his wife, I did what I could to relieve his pain. We were all assembled round him when the door opened, and a tall, gaunt woman entered the room.
 

@@ -3,12 +3,12 @@ title: "Chapter XL: The Major has a Letter"
 date: 2014-08-22
 novel: "girdlestone"
 order: 41
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 At four o'clock Mr. Girdlestone stepped into the Bedsworth telegraph office and wired his short message. It ran thus: "Case hopeless. Come on to-morrow with a doctor." On receipt of this he knew by their agreement that his son would come down, bringing with him the man of violence whom he had spoken of at their last interview. There was nothing for it now but that his ward should die. If he delayed longer, the crash might come before her money was available, and then how vain all regrets would be.
 

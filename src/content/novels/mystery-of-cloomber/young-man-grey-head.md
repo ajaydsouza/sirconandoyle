@@ -3,14 +3,14 @@ title: "Of a Young Man with a Grey Head"
 date: 2013-09-21
 novel: "mystery-of-cloomber"
 order: 5
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 If I had any personal soreness on account of this family snub, it was a very passing emotion, and one which was soon effaced from my mind.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 It chanced that on the very next day after the episode I had occasion to pass that way, and stopped to have another look at the obnoxious placard. I was standing staring at it and wondering what could have induced our neighbours to take such an outrageous step, when I became suddenly aware of a sweet, girlish face which peeped out at me from between the bars of the gate, and of a white hand which eagerly beckoned me to approach. As I advanced to her I saw that it was the same young lady whom I had seen in the carriage.
 

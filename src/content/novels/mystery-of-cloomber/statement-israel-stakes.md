@@ -3,14 +3,14 @@ title: "Statement of Israel Stakes"
 date: 2013-09-25
 novel: "mystery-of-cloomber"
 order: 9
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 Copied and authenticated by the Reverend Mathew Clark, Presbyterian Minister of Stoneykirk, in Wigtownshire)
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 Maister Fothergill West and the meenister say that I maun tell all I can aboot General Heatherstone and his hoose, but that I maunna say muckle aboot mysel' because the readers wouldna care to hear aboot me or my affairs. I am na sae sure o' that, for the Stakes is a family weel kenned and respecked on baith sides o' the Border, and there's mony in Nithsdale and Annandale as would be gey pleased to hear news o' the son o' Archie Stakes, o' Ecclefechan.
 

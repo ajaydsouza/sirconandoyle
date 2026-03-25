@@ -3,12 +3,12 @@ title: "Chapter XXV: A Change of Front"
 date: 2014-05-24
 novel: "girdlestone"
 order: 26
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 This episode had occurred about a fortnight before Ezra's return from Africa, and was duly retailed to him by his father.
 

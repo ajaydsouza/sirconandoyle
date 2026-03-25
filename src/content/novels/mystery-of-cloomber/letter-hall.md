@@ -3,14 +3,14 @@ title: "Of the Letter which came from the Hall"
 date: 2013-09-27
 novel: "mystery-of-cloomber"
 order: 11
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 Having thrown this side-light upon my narrative, I can now resume the statement of my own personal experiences. These I had brought down, as the reader will doubtless remember, to the date of the arrival of the savage-looking wanderer who called himself Corporal Rufus Smith. This incident occurred about the beginning of the month of October, and I find upon a comparison of dates that Dr. Easterling's visit to Cloomber preceded it by three weeks or more.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 During all this time I was in sore distress of mind, for I had never seen anything either of Gabriel or of her brother since the interview in which the general had discovered the communication which was kept up between us. I had no doubt that some sort of restraint had been placed upon them; and the thought that we had brought trouble on their heads was a bitter one both to my sister and myself.
 

@@ -3,12 +3,12 @@ title: "Chapter 7: The Episode of the Barrel"
 date: 2013-01-08
 novel: "sign-of-four"
 order: 8
-coverImage: "/images/posts/sign07.gif"
+coverImage: "../../../../assets/images/posts/sign07.gif"
 tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 The police had brought a cab with them, and in this I escorted Miss Morstan back to her home. After the angelic fashion of women, she had borne trouble with a calm face as long as there was someone weaker than herself to support, and I had found her bright and placid by the side of the frightened housekeeper. In the cab, however, she first turned faint and then burst into a passion of weeping -- so sorely had she been tried by the adventures of the night. She has told me since that she thought me cold and distant upon that journey. She little guessed the struggle within my breast, or the effort of self-restraint which held me back. My sympathies and my love went out to her, even as my hand had in the garden. I felt that years of the conventionalities of life could not teach me to know her sweet, brave nature as had this one day of strange experiences. Yet there were two thoughts which sealed the words of affection upon my lips. She was weak and helpless, shaken in mind and nerve. It was to take her at a disadvantage to obtrude love upon her at such a time. Worse still, she was rich. If Holmes's researches were successful, she would be an heiress. Was it fair, was it honourable, that a half-pay surgeon should take such advantage of an intimacy which chance had brought about? Might she not look upon me as a mere vulgar fortune-seeker? I could not bear to risk that such a thought should cross her mind. This Agra treasure intervened like an impassable barrier between us.
 
@@ -148,7 +148,7 @@ The east had been gradually whitening, and we could now see some distance in the
 
 He took out his revolver as he spoke, and, having loaded two of the chambers, he put it back into the right-hand pocket of his jacket.
 
-![WE HAD BEEN FOLLOWING THE GUIDANCE OF TOBY.](/images/posts/sign07.gif)
+![WE HAD BEEN FOLLOWING THE GUIDANCE OF TOBY.](../../../../assets/images/posts/sign07.gif)
 
 We had during this time been following the guidance of Toby down the half-rural villa-lined roads which lead to the metropolis. Now, however, we were beginning to come among continuous streets, where labourers and dockmen were already astir, and slatternly women were taking down shutters and brushing doorsteps. At the square-topped corner public-houses business was just beginning, and rough-looking men were emerging, rubbing their sleeves across their beards after their morning wet. Strange dogs sauntered up and stared wonderingly at us as we passed, but our inimitable Toby looked neither to the right nor to the left but trotted onward with his nose to the ground and an occasional eager whine which spoke of a hot scent.
 

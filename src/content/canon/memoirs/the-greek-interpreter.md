@@ -3,7 +3,7 @@ title: "The Greek Interpreter"
 date: 2012-01-28
 collection: "memoirs"
 order: 10
-coverImage: "/images/posts/greek.jpg"
+coverImage: "../../../assets/images/posts/greek.jpg"
 tags:
   - "memoirs-2"
   - "sherlock"
@@ -125,7 +125,7 @@ A few minutes later we were joined by a short, stout man whose olive face and co
 
 "I say into the cab, but I soon became doubtful as to whether it was not a carriage in which I found myself. It was certainly more roomy than the ordinary four-wheeled disgrace to London, and the fittings, though frayed, were of rich quality. Mr. Latimer seated himself opposite to me and we started off through Charing Cross and up the Shaftesbury Avenue. We had come out upon Oxford Street and I had ventured some remark as to this being a roundabout way to Kensington, when my words were arrested by the extraordinary conduct of my companion.
 
-![HE DREW UP THE WINDOW](/images/posts/greek.jpg "HE DREW UP THE WINDOW")
+![HE DREW UP THE WINDOW](../../../assets/images/posts/greek.jpg "HE DREW UP THE WINDOW")
 
 "He began by drawing a most formidable-looking bludgeon loaded with lead from his pocket, and switching it backward and forward several times, as if to test its weight and strength. Then he placed it without a word upon the seat beside him. Having done this, he drew up the windows on each side, and I found to my astonishment that they were covered with paper so as to prevent my seeing through them.
 

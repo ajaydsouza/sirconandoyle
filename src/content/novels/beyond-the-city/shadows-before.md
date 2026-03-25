@@ -3,7 +3,7 @@ title: "Shadows Before"
 date: 2018-04-09
 novel: "beyond-the-city"
 order: 9
-coverImage: "/images/posts/Beyond-the-City.jpg"
+coverImage: "../../../assets/images/posts/Beyond-the-City.jpg"
 tags:
   - "beyond-the-city"
 ---

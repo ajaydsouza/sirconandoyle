@@ -3,12 +3,12 @@ title: "Chapter XLVII: Law and Order"
 date: 2014-08-29
 novel: "girdlestone"
 order: 48
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 The ruffian Burt was so horror-stricken at the sight of the girl whom he imagined that he had murdered, that he lay grovelling on the railway lines by the side of his victim, moaning with terror, and incapable of any resistance. He was promptly seized by the major's party, and the Nihilist secured his hands with a handkerchief so quickly and effectively that it was clearly not the first time that he had performed the feat. He then calmly drew a very long and bright knife from the recesses of his frock-coat, and having pressed it against Burt's nose to ensure his attention, he brandished it in front of him in a menacing way, as a hint that an attempt at escape might be dangerous.
 

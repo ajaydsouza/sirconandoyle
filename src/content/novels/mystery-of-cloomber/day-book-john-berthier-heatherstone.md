@@ -3,14 +3,14 @@ title: "The Day-Book of John Berthier Heatherstone"
 date: 2013-10-02
 novel: "mystery-of-cloomber"
 order: 16
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 Thull Valley, Oct. 1, 1841.—The Fifth Bengal and Thirty-third Queen's passed through this morning on their way to the Front. Had tiffin with the Bengalese. Latest news from home that two attempts had been made on the Queen's life by semi-maniacs named Francis and Bean.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 It promises to be a hard winter. The snow-line has descended a thousand feet upon the peaks, but the passes will be open for weeks to come, and, even if they were blocked, we have established so many depots in the country that Pollock and Nott will have no difficulty in holding their own. They shall not meet with the fate of Elphinstone's army. One such tragedy is enough for a century.
 

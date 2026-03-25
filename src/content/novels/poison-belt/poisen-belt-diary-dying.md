@@ -3,7 +3,7 @@ title: "Chapter 4: A Diary of the Dying"
 date: 2016-06-14
 novel: "poison-belt"
 order: 5
-coverImage: "/images/posts/The-Poison-Belt.jpg"
+coverImage: "../../../assets/images/posts/The-Poison-Belt.jpg"
 tags:
   - "challenger"
   - "poison-belt"
@@ -13,7 +13,7 @@ How strange the words look scribbled at the top of the empty page of my book! Ho
 
 We have just been treated to a lecture, a good quarter of an hour long, from Challenger, who was so excited that he roared and bellowed as if he were addressing his old rows of scientific sceptics in the Queen's Hall. He had certainly a strange audience to harangue: his wife perfectly acquiescent and absolutely ignorant of his meaning, Summerlee seated in the shadow, querulous and critical but interested, Lord John lounging in a corner somewhat bored by the whole proceeding, and myself beside the window watching the scene with a kind of detached attention, as if it were all a dream or something in which I had no personal interest whatever. Challenger sat at the centre table with the electric light illuminating the slide under the microscope which he had brought from his dressing room. The small vivid circle of white light from the mirror left half of his rugged, bearded face in brilliant radiance and half in deepest shadow. He had, it seems, been working of late upon the lowest forms of life, and what excited him at the present moment was that in the microscopic slide made up the day before he found the amoeba to be still alive.
 
-![The Poison Belt - The Strand Magazine, US edition, May 1913. Source: Project Gutenberg Australia](/images/posts/The-Poison-Belt.jpg)
+![The Poison Belt - The Strand Magazine, US edition, May 1913. Source: Project Gutenberg Australia](../../../assets/images/posts/The-Poison-Belt.jpg)
 
 <!--more-->
 

@@ -3,7 +3,7 @@ title: "The Beetle-Hunter"
 date: 2017-07-13
 novel: "tales-of-terror-and-mystery"
 order: 9
-coverImage: "/images/posts/Tales-of-Terror-and-Mystery.jpg"
+coverImage: "../../../assets/images/posts/Tales-of-Terror-and-Mystery.jpg"
 tags:
   - "mystery"
   - "tales-of-terror-and-mystery"

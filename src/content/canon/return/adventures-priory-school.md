@@ -3,7 +3,7 @@ title: "The Adventures of the Priory School"
 date: 2013-02-06
 collection: "return"
 order: 6
-coverImage: "/images/posts/priory.jpg"
+coverImage: "../../../assets/images/posts/priory.jpg"
 tags:
   - "the-return-of-sherlock-holmes"
 ---
@@ -100,7 +100,7 @@ Sherlock Holmes had listened with the utmost intentness to the statement of the 
 
 "Certainly not."
 
-![Then what is the theory in your mind?](/images/posts/priory01.jpg)
+![Then what is the theory in your mind?](../../../assets/images/posts/priory01.jpg)
 
 "Then what is the theory in your mind?"
 
@@ -252,7 +252,7 @@ The boy's chamber was carefully examined, and yielded nothing save the absolute 
 
 Sherlock Holmes left the house alone, and only returned after eleven. He had obtained a large ordnance map of the neighbourhood, and this he brought into my room, where he laid it out on the bed, and, having balanced the lamp in the middle of it, he began to smoke over it, and occasionally to point out objects of interest with the reeking amber of his pipe.
 
-![ HOLMES' MAP OF THE NEIGHBORHOOD OF THE SCHOOL.](/images/posts/look_at_this_map.png)
+![ HOLMES' MAP OF THE NEIGHBORHOOD OF THE SCHOOL.](../../../assets/images/posts/look_at_this_map.png)
 
 "This case grows upon me, Watson," said he. "There are decidedly some points of interest in connection with it. In this early stage, I want you to realize those geographical features which may have a good deal to do with our investigation.
 
@@ -334,7 +334,7 @@ Holmes held up a crumpled branch of flowering gorse. To my horror I perceived th
 
 "Bad!" said Holmes. "Bad! Stand clear, Watson! Not an unnecessary footstep! What do I read here? He fell wounded—he stood up—he remounted—he proceeded. But there is no other track. Cattle on this side path. He was surely not gored by a bull? Impossible! But I see no traces of anyone else. We must push on, Watson. Surely, with stains as well as the track to guide us, he cannot escape us now."
 
-![We ran round, and there lay the unfortunate rider](/images/posts/priory.jpg)
+![We ran round, and there lay the unfortunate rider](../../../assets/images/posts/priory.jpg)
 
 Our search was not a very long one. The tracks of the tire began to curve fantastically upon the wet and shining path. Suddenly, as I looked ahead, the gleam of metal caught my eye from amid the thick gorse-bushes. Out of them we dragged a bicycle, Palmer-tired, one pedal bent, and the whole front of it horribly smeared and slobbered with blood. On the other side of the bushes a shoe was projecting. We ran round, and there lay the unfortunate rider. He was a tall man, full-bearded, with spectacles, one glass of which had been knocked out. The cause of his death was a frightful blow upon the head, which had crushed in part of his skull. That he could have gone on after receiving such an injury said much for the vitality and courage of the man. He wore shoes, but no socks, and his open coat disclosed a nightshirt beneath it. It was undoubtedly the German master.
 

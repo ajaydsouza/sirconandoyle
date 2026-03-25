@@ -3,14 +3,14 @@ title: "XVI. OAKLEY VILLAS, BIRCHESPOOL, 4th November, 1884"
 date: 2013-08-13
 novel: "stark-munro-letters"
 order: 17
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 I face my study window as I write, Bertie. Slate-coloured clouds with ragged fringes are drifting slowly overhead. Between them one has a glimpse of higher clouds of a lighter gray. I can hear the gentle swish of the rain striking a clearer note on the gravel path and a duller among the leaves. Sometimes it falls straight and heavy, till the air is full of the delicate gray shading, and for half a foot above the ground there is a haze from the rebound of a million tiny globules. Then without any change in the clouds it cases off again. Pools line my walk, and lie thick upon the roadway, their surface pocked by the falling drops. As I sit I can smell the heavy perfume of the wet earth, and the laurel bushes gleam where the light strikes sideways upon them. The gate outside shines above as though it were new varnished, and along the lower edge of the upper bar there hangs a fringe of great clear drops.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 That is the best that November can do for us in our dripping little island. You, I suppose, sitting among the dying glories of an American fall, think that this must needs be depressing. Don't make any mistake about that, my dear boy. You may take the States, from Detroit to the Gulf, and you won't find a happier man than this one. What do you suppose I've got att his{sic— at this} moment in my consulting room? A bureau? A bookcase? No, I know you've guessed my secret already. She is sitting in my big armchair; and she is the best, the kindest, the sweetest little woman in England.
 

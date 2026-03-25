@@ -3,7 +3,7 @@ title: "The Adventure of the Empty House"
 date: 2012-03-25
 collection: "return"
 order: 2
-coverImage: "/images/posts/empty.jpg"
+coverImage: "../../../assets/images/posts/empty.jpg"
 tags:
   - "return-2"
   - "sherlock-holmes"
@@ -156,7 +156,7 @@ The fierce old man said nothing, but still glared at my companion. With his sava
 
 "I wonder that my very simple stratagem could deceive so old a shikari," said Holmes. "It must be very familiar to you. Have you not tethered a young kid under a tree, lain above it with your rifle, and waited for the bait to bring up your tiger? This empty house is my tree, and you are my tiger. You have possibly had other guns in reserve in case there should be several tigers, or in the unlikely supposition of your own aim failing you. These," he pointed around, "are my other guns. The parallel is exact."
 
-![Colonel Moran sprang forward, with a snarl of rage](/images/posts/empty.jpg "Colonel Moran sprang forward, with a snarl of rage") Colonel Moran sprang forward with a snarl of rage, but the constables dragged him back. The fury upon his face was terrible to look at.
+![Colonel Moran sprang forward, with a snarl of rage](../../../assets/images/posts/empty.jpg "Colonel Moran sprang forward, with a snarl of rage") Colonel Moran sprang forward with a snarl of rage, but the constables dragged him back. The fury upon his face was terrible to look at.
 
 "I confess that you had one small surprise for me," said Holmes. "I did not anticipate that you would yourself make use of this empty house and this convenient front window. I had imagined you as operating from the street, where my friend Lestrade and his merry men were awaiting you. With that exception, all has gone as I expected."
 

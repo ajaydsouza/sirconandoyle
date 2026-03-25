@@ -3,7 +3,7 @@ title: "The Adventure of the Three Garridebs"
 date: 2015-04-09
 collection: "casebook"
 order: 8
-coverImage: "/images/posts/Three-Garridebs-01.jpg"
+coverImage: "../../../assets/images/posts/Three-Garridebs-01.jpg"
 tags:
   - "casebook-2"
   - "sherlock-holmes"
@@ -60,7 +60,7 @@ Holmes had in some way ruffled our visitor, whose chubby face had assumed a far 
 
 "Why did he ever drag you into it at all?" asked our visitor with a sudden outflame of anger. "What in thunder had you to do with it? Here was a bit of professional business between two gentlemen, and one of them must needs call in a detective! I saw him this morning, and he told me this fool-trick he had played me, and that's why I am here. But I feel bad about it, all the same."
 
-![“WHY DID HE EVER DRAG YOU INTO IT AT ALL?” ASKED OUR VISITOR.](/images/posts/Three-Garridebs-01.jpg)
+![“WHY DID HE EVER DRAG YOU INTO IT AT ALL?” ASKED OUR VISITOR.](../../../assets/images/posts/Three-Garridebs-01.jpg)
 
 "There was no reflection upon you, Mr. Garrideb. It was simply zeal upon his part to gain your end--an end which is, I understand, equally vital for both of you. He knew that I had means of getting information, and, therefore, it was very natural that he should apply to me."
 
@@ -112,7 +112,7 @@ My friend took the instrument and I heard the usual syncopated dialogue.
 
 "Yes, he has been here. I understand that you don't know him.... How long? ... Only two days! ... Yes, yes, of course, it is a most captivating prospect. Will you be at home this evening? I suppose your namesake will not be there? . . . Very good, we will come then, for I would rather have a chat without him.... Dr. Watson will come with me.... I understand from your note that you did not go out often.... Well, we shall be round about six. You need not mention it to the American lawyer.... Very good. Good-bye!"
 
-![“WELL, WE SHALL BE ROUND ABOUT SIX.”](/images/posts/Three-Garridebs-02.jpg)
+![“WELL, WE SHALL BE ROUND ABOUT SIX.”](../../../assets/images/posts/Three-Garridebs-02.jpg)
 
 It was twilight of a lovely spring evening, and even Little Ryder Street, one of the smaller offshoots from the Edgware Road, within a stone-cast of old Tyburn Tree of evil memory, looked golden and wonderful in the slanting rays of the setting sun. The particular house to which we were directed was a large, old-fashioned, Early Georgian edifice, with a flat brick face broken only by two deep bay windows on the ground floor. It was on this ground floor that our client lived, and, indeed, the low windows proved to be the front of the huge room in which he spent his waking hours. Holmes pointed as we passed to the small brass plate which bore the curious name.
 
@@ -182,7 +182,7 @@ Holmes's cross-examination was interrupted by an imperative knocking at the door
 
 "Here you are!" he cried, waving a paper over his head. "I thought I should be in time to get you. Mr. Nathan Garrideb, my congratulations! You are a rich man, sir. Our business is happily finished and all is well. As to you, Mr. Holmes, we can only say we are sorry if we have given you any useless trouble."
 
-![“HERE YOU ARE!” HE CRIED, WAVING A PAPER OVER HIS HEAD.](/images/posts/Three-Garridebs-03.jpg)
+![“HERE YOU ARE!” HE CRIED, WAVING A PAPER OVER HIS HEAD.](../../../assets/images/posts/Three-Garridebs-03.jpg)
 
 He handed over the paper to our client, who stood staring at a marked advertisement. Holmes and I leaned forward and read it over his shoulder. This is how it ran:
 
@@ -288,13 +288,13 @@ That hour was not long in striking. We crouched closer in the shadow as we heard
 
 Clearly our moment had come. Holmes touched my wrist as a signal, and together we stole across to the open trap-door. Gently as we moved, however, the old floor must have creaked under our feet, for the head of our American, peering anxiously round, emerged suddenly from the open space. His face turned upon us with a glare of baffled rage, which gradually softened into a rather shamefaced grin as he realized that two pistols were pointed at his head.
 
-![HIS FACE TURNED UPON US WITH A GLARE OF BAFFLED RAGE.](/images/posts/Three-Garridebs-04.jpg)
+![HIS FACE TURNED UPON US WITH A GLARE OF BAFFLED RAGE.](../../../assets/images/posts/Three-Garridebs-04.jpg)
 
 "Well, well!" said he coolly as he scrambled to the surface. "I guess you have been one too many for me, Mr. Holmes. Saw through my game, I suppose, and played me for a sucker from the first. Well, sir, I hand it to you; you have me beat and--"
 
 In an instant he had whisked out a revolver from his breast and had fired two shots. I felt a sudden hot sear as if a red-hot iron had been pressed to my thigh. There was a crash as Holmes's pistol came down on the man's head. I had a vision of him sprawling upon the floor with blood running down his face while Holmes rummaged him for weapons. Then my friend's wiry arms were round me, and he was leading me to a chair.
 
-![THERE WAS A CRASH AS HOLMES’ PISTOL CAME DOWN ON THE MAN’S HEAD.](/images/posts/Three-Garridebs-05.jpg)
+![THERE WAS A CRASH AS HOLMES’ PISTOL CAME DOWN ON THE MAN’S HEAD.](../../../assets/images/posts/Three-Garridebs-05.jpg)
 
 "You're not hurt, Watson? For God's sake, say that you are not hurt!"
 

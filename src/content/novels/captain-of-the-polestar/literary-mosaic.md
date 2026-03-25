@@ -3,12 +3,12 @@ title: "Cyprian Overbeck Wells - A Literary Mosaic"
 date: 2013-04-14
 novel: "captain-of-the-polestar"
 order: 8
-coverImage: "/images/posts/A-Literary-Mosaic.png"
+coverImage: "../../../assets/images/posts/A-Literary-Mosaic.png"
 tags:
   - "captain-of-the-polestar"
 ---
 
-![A Literary Mosaic](/images/posts/A-Literary-Mosaic-198x300.png)
+![A Literary Mosaic](../../../assets/images/posts/A-Literary-Mosaic.png)
 
 From my boyhood I have had an intense and overwhelming conviction that my real vocation lay in the direction of literature. I have, however, had a most unaccountable difficulty in getting any responsible person to share my views. It is true that private friends have sometimes, after listening to my effusions, gone the length of remarking, "Really, Smith, that's not half bad!" or, "You take my advice, old boy, and send that to some magazine!" but I have never on these occasions had the moral courage to inform my adviser that the article in question had been sent to well-nigh every publisher in London, and had come back again with a rapidity and precision which spoke well for the efficiency of our postal arrangements.
 

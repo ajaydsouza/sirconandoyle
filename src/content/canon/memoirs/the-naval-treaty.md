@@ -3,7 +3,7 @@ title: "The Naval Treaty"
 date: 2012-02-12
 collection: "memoirs"
 order: 11
-coverImage: "/images/posts/naval.jpg"
+coverImage: "../../../assets/images/posts/naval.jpg"
 tags:
   - "memoirs-2"
   - "sherlock-holmes"
@@ -701,7 +701,7 @@ The table was all laid, and just as I was about to ring Mrs. Hudson entered with
 
 "Well, then," said Holmes with a mischievous twinkle, "I suppose that you have no objection to helping me?"
 
-![Phelps raised the cover](/images/posts/naval.jpg "Phelps raised the cover") Phelps raised the cover, and as he did so he uttered a scream and sat there staring with a face as white as the plate upon which he looked. Across the centre of it was lying a little cylinder of blue-gray paper. He caught it up, devoured it with his eyes, and then danced madly about the room, pressing it to his bosom and shrieking out in his delight. Then he fell back into an armchair, so limp and exhausted with his own emotions that we had to pour brandy down his throat to keep him from fainting.
+![Phelps raised the cover](../../../assets/images/posts/naval.jpg "Phelps raised the cover") Phelps raised the cover, and as he did so he uttered a scream and sat there staring with a face as white as the plate upon which he looked. Across the centre of it was lying a little cylinder of blue-gray paper. He caught it up, devoured it with his eyes, and then danced madly about the room, pressing it to his bosom and shrieking out in his delight. Then he fell back into an armchair, so limp and exhausted with his own emotions that we had to pour brandy down his throat to keep him from fainting.
 
 "There! there!" said Holmes soothingly, patting him upon the shoulder. "It was too bad to spring it on you like this, but Watson here will tell you that I never can resist a touch of the dramatic."
 

@@ -3,12 +3,12 @@ title: "The Fiend of the Cooperage"
 date: 2013-05-28
 novel: "captain-sharkey"
 order: 10
-coverImage: "/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
+coverImage: "../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
 tags:
   - "captain-sharkey"
 ---
 
-![The Dealings of Captain Sharkey and Other Tales of Pirates](/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates-200x300.jpg)
+![The Dealings of Captain Sharkey and Other Tales of Pirates](../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg)
 
 It was no easy matter to bring the _Gamecock_ up to the island, for the river had swept down so much silt that the banks extended for many miles out into the Atlantic. The coast was hardly to be seen when the first white curl of the breakers warned us of our danger, and from there onwards we made our way very carefully under mainsail and jib, keeping the broken water well to the left, as is indicated on the chart. More than once her bottom touched the sand (we were drawing something under six feet at the time), but we had always way enough and luck enough to carry us through. Finally, the water shoaled, very rapidly, but they had sent a canoe from the factory, and the Krooboy pilot brought us within two hundred yards of the island. Here we dropped our anchor, for the gestures of the negro indicated that we could not hope to get any farther. The blue of the sea had changed to the brown of the river, and, even under the shelter of the island, the current was singing and swirling round our bows. The stream appeared to be in spate, for it was over the roots of the palm trees, and everywhere upon its muddy, greasy surface we could see logs of wood and debris of all sorts which had been carried down by the flood.
 

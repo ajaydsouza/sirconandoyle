@@ -3,7 +3,7 @@ title: "The Crime of the Congo - Preface and Introduction"
 date: 2013-06-08
 novel: "crime-of-the-congo"
 order: 2
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
@@ -12,7 +12,7 @@ tags:
 
 There are many of us in England who consider the crime which has been wrought in the Congo lands by King Leopold of Belgium and his followers to be the greatest which has ever been known in human annals. Personally I am strongly of that opinion. There have been great expropriations like that of the Normans in England or of the English in Ireland. There have been massacres of populations like that of the South Americans by the Spaniards or of subject nations by the Turks. But never before has there been such a mixture of wholesale expropriation and wholesale massacre all done under an odious guise of philanthropy and with the lowest commercial motives as a reason. It is this sordid cause and the unctious hypocrisy which makes this crime unparalleled in its horror.
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 The witnesses of the crime are of all nations, and there is no possibility of error concerning facts. There are British consuls like Casement, Thesiger, Mitchell and Armstrong, all writing in their official capacity with every detail of fact and date. There are Frenchmen like Pierre Mille and Félicien Challaye, both of whom have written books upon the subject. There are missionaries of many races—Harris, Weeks and Stannard (British); Morrison, Clarke and Shepherd (American); Sjoblom (Swedish) and Father Vermeersch, the Jesuit. There is the eloquent action of the Italian Government, who refused to allow Italian officers to be employed any longer in such hangman’s work, and there is the report of the Belgian commission, the evidence before which was suppressed because it was too dreadful for publication; finally, there is the incorruptible evidence of the kodak. Any American citizen who will glance at Mark Twain’s “King Leopold’s Soliloquy” will see some samples of that. A perusal of all of these sources of information will show that there is not a grotesque, obscene or ferocious torture which human ingenuity could invent which has not been used against these harmless and helpless people.
 

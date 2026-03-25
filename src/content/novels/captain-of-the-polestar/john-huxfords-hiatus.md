@@ -3,12 +3,12 @@ title: "John Huxford's Hiatus"
 date: 2013-04-11
 novel: "captain-of-the-polestar"
 order: 7
-coverImage: "/images/posts/John-Huxfords-Hiatus.png"
+coverImage: "../../../assets/images/posts/John-Huxfords-Hiatus.png"
 tags:
   - "captain-of-the-polestar"
 ---
 
-![John Huxford's Hiatus](/images/posts/John-Huxfords-Hiatus-198x300.png)
+![John Huxford's Hiatus](../../../assets/images/posts/John-Huxfords-Hiatus.png)
 
 Strange it is and wonderful to mark how upon this planet of ours the smallest and most insignificant of events set a train of consequences in motion which act and react until their final results are portentous and incalculable. Set a force rolling, however small; and who can say where it shall end, or what it may lead to! Trifles develop into tragedies, and the bagatelle of one day ripens into the catastrophe of the next. An oyster throws out a secretion to surround a grain of sand, and so a pearl comes into being; a pearl diver fishes it up, a merchant buys it and sells it to a jeweller, who disposes of it to a customer. The customer is robbed of it by two scoundrels who quarrel over the booty. One slays the other, and perishes himself upon the scaffold. Here is a direct chain of events with a sick mollusc for its first link, and a gallows for its last one. Had that grain of sand not chanced to wash in between the shells of the bivalve, two living breathing beings with all their potentialities for good and for evil would not have been blotted out from among their fellows. Who shall undertake to judge what is really small and what is great?
 

@@ -3,7 +3,7 @@ title: "The Adventure of the Three Gables"
 date: 2015-02-23
 collection: "casebook"
 order: 6
-coverImage: "/images/posts/Three-Gables-01.jpg"
+coverImage: "../../../assets/images/posts/Three-Gables-01.jpg"
 tags:
   - "casebook-2"
   - "sherlock-holmes"
@@ -20,7 +20,7 @@ Holmes raised his pipe with a languid smile.
 
 "Oh! it's you, is it?" said our visitor, coming with an unpleasant, stealthy step round the angle of the table. "See here, Masser Holmes, you keep your hands out of other folks' business. Leave folks to manage their own affairs. Got that, Masser Holmes?"
 
-![“SEE HERE, MASSER HOLMES, YOU KEEP YOUR HANDS OUT OF OTHER FOLKS’ BUSINESS.”](/images/posts/Three-Gables-01.jpg)
+![“SEE HERE, MASSER HOLMES, YOU KEEP YOUR HANDS OUT OF OTHER FOLKS’ BUSINESS.”](../../../assets/images/posts/Three-Gables-01.jpg)
 
 "Keep on talking," said Holmes. "It's fine."
 
@@ -116,7 +116,7 @@ Here we had a very extraordinary interruption.
 
 Holmes raised his hand for silence. Then he strode across the room, flung open the door, and dragged in a great gaunt woman whom he had seized by the shoulder. She entered with ungainly struggle like some huge awkward chicken, torn, squawking, out of its coop.
 
-![THEN HE STRODE ACROSS THE ROOM, FLUNG OPEN THE DOOR.](/images/posts/Three-Gables-02.jpg)
+![THEN HE STRODE ACROSS THE ROOM, FLUNG OPEN THE DOOR.](../../../assets/images/posts/Three-Gables-02.jpg)
 
 "Leave me alone! What are you a-doin' of?" she screeched.
 
@@ -236,7 +236,7 @@ Holmes was lost in thought.
 
 It was quite evident that The Three Gables was under very close surveillance, for as we came round the high hedge at the end of the lane there was the negro prize-fighter standing in the shadow. We came on him quite suddenly, and a grim and menacing figure he looked in that lonely place. Holmes clapped his hand to his pocket.
 
-![THERE WAS THE NEGRO PRIZE-FIGHTER STANDING IN THE SHADOW.](/images/posts/Three-Gables-03.jpg)
+![THERE WAS THE NEGRO PRIZE-FIGHTER STANDING IN THE SHADOW.](../../../assets/images/posts/Three-Gables-03.jpg)
 
 "Lookin' for your gun, Masser Holmes?"
 
@@ -398,7 +398,7 @@ Holmes turned away wearily.
 
 "Stop! Where are you going?"
 
-![“STOP! WHERE ARE YOU GOING?”](/images/posts/Three-Gables-04.jpg)
+![“STOP! WHERE ARE YOU GOING?”](../../../assets/images/posts/Three-Gables-04.jpg)
 
 "To Scotland Yard."
 

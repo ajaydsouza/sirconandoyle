@@ -3,13 +3,13 @@ title: "Chapter 11: The Man on the Tor"
 date: 2012-08-05
 novel: "hound-of-the-baskervilles"
 order: 11
-coverImage: "/images/posts/hound11.jpg"
+coverImage: "../../../../assets/images/posts/hound11.jpg"
 tags:
   - "hound-of-baskervilles"
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 The extract from my private diary which forms the last Chapter has brought my narrative up to the eighteenth of October, a time when these strange events began to move swiftly towards their terrible conclusion. The incidents of the next few days are indelibly graven upon my recollection, and I can tell them without reference to the notes made at the time. I start them from the day which succeeded that upon which I had established two facts of great importance, the one that Mrs. Laura Lyons of Coombe Tracey had written to Sir Charles Baskerville and made an appointment with him at the very place and hour that he met his death, the other that the lurking man upon the moor was to be found among the stone huts upon the hillside. With these two facts in my possession I felt that either my intelligence or my courage must be deficient if I could not throw some further light upon these dark places.
 
@@ -199,7 +199,7 @@ It was several miles off, but I could distinctly see a small dark dot against th
 
 "Come, sir, come!" cried Frankland, rushing upstairs. "You will see with your own eyes and judge for yourself."
 
-![Frankland clapped his eye to it and gave a cry of satisfaction](/images/posts/hound11.jpg "Frankland clapped his eye to it and gave a cry of satisfaction")
+![Frankland clapped his eye to it and gave a cry of satisfaction](../../../../assets/images/posts/hound11.jpg "Frankland clapped his eye to it and gave a cry of satisfaction")
 
 The telescope, a formidable instrument mounted upon a tripod, stood upon the flat leads of the house. Frankland clapped his eye to it and gave a cry of satisfaction.
 

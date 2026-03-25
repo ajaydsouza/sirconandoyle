@@ -3,12 +3,12 @@ title: "The Ring Of Thoth"
 date: 2013-04-23
 novel: "captain-of-the-polestar"
 order: 11
-coverImage: "/images/posts/The-Ring-Of-Thoth.png"
+coverImage: "../../../assets/images/posts/The-Ring-Of-Thoth.png"
 tags:
   - "captain-of-the-polestar"
 ---
 
-![The Ring Of Thoth](/images/posts/The-Ring-Of-Thoth-195x300.png)
+![The Ring Of Thoth](../../../assets/images/posts/The-Ring-Of-Thoth.png)
 
 Mr. John Vansittart Smith, F.R.S., of 147-A Gower Street, was a man whose energy of purpose and clearness of thought might have placed him in the very first rank of scientific observers. He was the victim, however, of a universal ambition which prompted him to aim at distinction in many subjects rather than preeminence in one.
 

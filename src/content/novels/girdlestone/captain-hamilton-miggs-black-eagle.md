@@ -3,12 +3,12 @@ title: "Chapter IV: Captain Hamilton Miggs of the \"Black Eagle\""
 date: 2014-02-10
 novel: "girdlestone"
 order: 5
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 The head of the firm had hardly recovered his mental serenity after the painful duty of explaining her financial position to the Widow Hudson, when his quick ear caught the sound of a heavy footstep in the counting-house. A gruff voice was audible at the same time, which demanded in rather more energetic language than was usually employed in that orderly establishment, whether the principal was to be seen or not. The answer was evidently in the affirmative, for the lumbering tread came rapidly nearer, and a powerful double knock announced that the visitor was at the other side of the door.
 

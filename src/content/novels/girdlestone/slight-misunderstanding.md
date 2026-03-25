@@ -3,12 +3,12 @@ title: "Chapter XIV: A Slight Misunderstanding"
 date: 2014-03-29
 novel: "girdlestone"
 order: 15
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 The revelation of the real state of the firm's finances was a terrible blow to Ezra Girdlestone. To a man of his overbearing, tempestuous disposition failure and poverty were bitter things to face. He had been wont to tread down before him all such little difficulties and obstacles as came across him in his former life. Now he encountered a great barrier which could not be passed so easily, and he raged and chafed before it. It made him still more wroth to think that the fault was none of his. All his life he had reckoned, as a matter of course, that when his father passed away he would be left almost a millionaire. A single half-hour's conversation had shattered this delusion and left him face to face with ruin. He lost his sleep and became restless and hollow-eyed. Once or twice he was seen the worse for drink in the daytime.
 

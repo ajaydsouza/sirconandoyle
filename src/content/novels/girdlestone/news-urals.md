@@ -3,12 +3,12 @@ title: "Chapter XIX: News from the Urals"
 date: 2014-04-14
 novel: "girdlestone"
 order: 20
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 Major Tobias Clutterbuck had naturally reckoned that the longer he withheld this trump card of his the greater would be its effect when played. An obstacle appearing at the last moment produces more consternation than when a scheme is still in its infancy. It proved, however, that he had only just levied his blackmail in time, for within a couple of days of his interview with the head of the firm news arrived of the great discovery of diamonds among the Ural Mountains. The first intimation was received through the Central News Agency in the form of the following telegram:—
 

@@ -3,14 +3,14 @@ title: "IV. HOME, 1st December, 1881"
 date: 2013-08-01
 novel: "stark-munro-letters"
 order: 5
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 I may be doing you an injustice, Bertie, but it seemed to me in your last that there were indications that the free expression of my religious views had been distasteful to you. That you should disagree with me I am prepared for; but that you should object to free and honest discussion of those subjects which above all others men should be honest over, would, I confess, be a disappointment. The Freethinker is placed at this disadvantage in ordinary society, that whereas it would be considered very bad taste upon his part to obtrude his unorthodox opinion, no such consideration hampers those with whom he disagrees. There was a time when it took a brave man to be a Christian. Now it takes a brave man not to be. But if we are to wear a gag, and hide our thoughts when writing in confidence to our most intimate——no, but I won't believe it. You and I have put up too many thoughts together and chased them where-ever{sic} they would double, Bertie; so just write to me like a good fellow, and tell me that I am an ass. Until I have that comforting assurance, I shall place a quarantine upon everything which could conceivably be offensive to you.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 Does not lunacy strike you, Bertie, as being a very eerie thing? It is a disease of the soul. To think that you may have a man of noble mind, full of every lofty aspiration, and that a gross physical cause, such as the fall of a spicule of bone from the inner table of his skull on to the surface of the membrane which covers his brain, may have the ultimate effect of turning him into an obscene creature with every bestial attribute! That a man's individuality should swing round from pole to pole, and yet that one life should contain these two contradictory personalities—is it not a wondrous thing?
 

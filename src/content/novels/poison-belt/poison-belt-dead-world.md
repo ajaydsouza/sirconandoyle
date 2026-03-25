@@ -3,7 +3,7 @@ title: "Chapter 5: The Dead World"
 date: 2016-06-20
 novel: "poison-belt"
 order: 6
-coverImage: "/images/posts/The-Poison-Belt.jpg"
+coverImage: "../../../assets/images/posts/The-Poison-Belt.jpg"
 tags:
   - "challenger"
   - "poison-belt"
@@ -17,7 +17,7 @@ Challenger's great eyebrows were drawn down in concentrated thought, while his h
 
 "Without being a fatalist to the point of nonresistance," said he, "I have always found that the highest wisdom lies in an acquiescence with the actual." He spoke slowly, and there was a vibration of feeling in his sonorous voice.
 
-![The Poison Belt - The Strand Magazine, US edition, May 1913. Source: Project Gutenberg Australia](/images/posts/The-Poison-Belt.jpg)
+![The Poison Belt - The Strand Magazine, US edition, May 1913. Source: Project Gutenberg Australia](../../../assets/images/posts/The-Poison-Belt.jpg)
 
 <!--more-->
 

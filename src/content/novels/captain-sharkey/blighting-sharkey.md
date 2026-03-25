@@ -3,12 +3,12 @@ title: "The Blighting Of Sharkey"
 date: 2013-05-13
 novel: "captain-sharkey"
 order: 4
-coverImage: "/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
+coverImage: "../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
 tags:
   - "captain-sharkey"
 ---
 
-![The Dealings of Captain Sharkey and Other Tales of Pirates](/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates-200x300.jpg)
+![The Dealings of Captain Sharkey and Other Tales of Pirates](../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg)
 
 Sharkey, the abominable Sharkey, was out again. After two years of the Coromandel coast, his black barque of death, the _Happy Delivery_, was prowling off the Spanish Main, while trader and fisher flew for dear life at the menace of that patched fore-topsail, rising slowly over the violet rim of the tropical sea.
 

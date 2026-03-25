@@ -1,12 +1,12 @@
 ---
 title: "Sir Arthur Conan Doyle - His Life, All His Works and More"
 date: 2011-08-25
-coverImage: "/images/pages/SACD.jpg"
+coverImage: "../../assets/images/pages/SACD.jpg"
 ---
 
 <figure>
 
-![Oil painting of Sir Arthur Conan Doyle](/images/pages/SACD.jpg)
+![Oil painting of Sir Arthur Conan Doyle](../../assets/images/pages/SACD.jpg)
 
 <figcaption>
 

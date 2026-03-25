@@ -3,13 +3,13 @@ title: "Part I – Chapter 7: The Solution"
 date: 2012-11-13
 novel: "valley-of-fear"
 order: 8
-coverImage: "/images/posts/valley17.jpg"
+coverImage: "../../../../assets/images/posts/valley17.jpg"
 tags:
   - "sherlock-holmes"
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 Next morning, after breakfast, we found Inspector MacDonald and White Mason seated in close consultation in the small parlour of the local police sergeant. On the table in front of them were piled a number of letters and telegrams, which they were carefully sorting and docketing. Three had been placed on one side.
 
@@ -223,7 +223,7 @@ Inspector MacDonald had been staring at the newcomer with the greatest amazement
 
 "I was on my guard all that next day, and never went out into the park. It's as well, or he'd have had the drop on me with that buckshot gun of his before ever I could draw on him. After the bridge was up -- my mind was always more restful when that bridge was up in the evenings -- I put the thing clear out of my head. I never dreamed of his getting into the house and waiting for me. But when I made my round in my dressing gown, as was my habit, I had no sooner entered the study than I scented danger. I guess when a man has had dangers in his life -- and I've had more than most in my time -- there is a kind of sixth sense that waves the red flag. I saw the signal clear enough, and yet I couldn't tell you why. Next instant I spotted a boot under the window curtain, and then I saw why plain enough.
 
-![I heard him cock the gun; but I had got hold of it before he could fire.](/images/posts/valley17.jpg "I heard him cock the gun; but I had got hold of it before he could fire.")
+![I heard him cock the gun; but I had got hold of it before he could fire.](../../../../assets/images/posts/valley17.jpg "I heard him cock the gun; but I had got hold of it before he could fire.")
 
 "I'd just the one candle that was in my hand; but there was a good light from the hall lamp through the open door. I put down the candle and jumped for a hammer that I'd left on the mantel. At the same moment he sprang at me. I saw the glint of a knife, and I lashed at him with the hammer. I got him somewhere; for the knife tinkled down on the floor. He dodged round the table as quick as an eel, and a moment later he'd got his gun from under his coat. I heard him cock it; but I had got hold of it before he could fire. I had it by the barrel, and we wrestled for it all ends up for a minute or more. It was death to the man that lost his grip.
 

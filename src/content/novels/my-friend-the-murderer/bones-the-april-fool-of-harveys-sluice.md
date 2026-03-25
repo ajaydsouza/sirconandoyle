@@ -3,7 +3,7 @@ title: "Bones - The April Fool of Harvey's Sluice"
 date: 2022-12-06
 novel: "my-friend-the-murderer"
 order: 3
-coverImage: "/images/posts/My-Friend-The-Murderer.jpg"
+coverImage: "../../../assets/images/posts/My-Friend-The-Murderer.jpg"
 tags:
   - "my-friend-the-murderer"
 ---

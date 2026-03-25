@@ -3,12 +3,12 @@ title: "Chapter XXXIV: The Man with the Camp Stool"
 date: 2014-07-17
 novel: "girdlestone"
 order: 35
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 When she awoke in the morning it was some little time before she could realize where she was or recall the events which had made such a sudden change in her life. The bare, cold room, with the whitewashed walls, and the narrow bed upon which she lay, brought back to her the recollection of a hospital ward which she had seen in Edinburgh, and her first thought was that she had had some accident and had been conveyed to some such establishment. The delusion was only momentary, however, for her true situation came back to her at once with all its vague horror. Of the two, she would have preferred that her first impression had been correct.
 

@@ -3,12 +3,12 @@ title: "Chapter XLI: The Clouds grow Darker"
 date: 2014-08-23
 novel: "girdlestone"
 order: 42
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 When Kate had made a clean breast of all her troubles to the widow Scully, and had secured that good woman's co-operation, a great weight seemed to have been lifted from her heart, and she sprang from the shed a different woman. It would soon be like a dream, all these dreary weeks in the grim old house. Within a day she was sure that either Tom or the major would find means of communicating with her. The thought made her so happy that the colour stole back into her cheeks, and she sang for very lightness of heart as she made her way back to the Priory.
 

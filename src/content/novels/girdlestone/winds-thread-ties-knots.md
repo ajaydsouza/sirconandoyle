@@ -3,12 +3,12 @@ title: "Chapter L: Winds up the Thread and Ties Two Knots at the End"
 date: 2014-09-19
 novel: "girdlestone"
 order: 51
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 Great was the excitement of the worthy couple at Phillimore Gardens when Kate Harston was brought back to them. Good Mrs. Dimsdale pressed her to her ample bosom and kissed her, and scolded her, and wept over her, while the doctor was so moved that it was only by assuming an expression of portentous severity and by bellowing and stamping about that he was able to keep himself in decent control.
 

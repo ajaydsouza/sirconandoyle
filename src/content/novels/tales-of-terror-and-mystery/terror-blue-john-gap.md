@@ -3,7 +3,7 @@ title: "The Terror of Blue John Gap"
 date: 2017-05-20
 novel: "tales-of-terror-and-mystery"
 order: 6
-coverImage: "/images/posts/Tales-of-Terror-and-Mystery.jpg"
+coverImage: "../../../assets/images/posts/Tales-of-Terror-and-Mystery.jpg"
 tags:
   - "mystery"
   - "tales-of-terror-and-mystery"

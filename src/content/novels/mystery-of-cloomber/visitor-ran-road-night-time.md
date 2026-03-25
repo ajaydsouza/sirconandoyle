@@ -3,14 +3,14 @@ title: "Of the Visitor who ran down the Road in the Night-time"
 date: 2013-10-01
 novel: "mystery-of-cloomber"
 order: 15
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 It was a quarter past ten o'clock by the parlour timepiece when my father went off to his room, and left Esther and myself together. We heard his slow steps dying away up the creaking staircase, until the distant slamming of a door announced that he had reached his sanctum.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 The simple oil lamp upon the table threw a weird, uncertain light over the old room, flickering upon the carved oak panelling, and casting strange, fantastic shadows from the high-elbowed, straight-backed furniture. My sister's white, anxious face stood out in the obscurity with a startling exactness of profile like one of Rembrandt's portraits.
 

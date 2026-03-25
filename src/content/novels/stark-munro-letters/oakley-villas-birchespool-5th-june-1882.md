@@ -3,14 +3,14 @@ title: "XII. OAKLEY VILLAS, BIRCHESPOOL, 5th June, 1882"
 date: 2013-08-09
 novel: "stark-munro-letters"
 order: 13
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 When I had made all those dispositions which I described with such painful prolixity in my last letter, my dear Bertie, I sat down on my study chair, and I laid out the whole of my worldly wealth upon the table in front of me. I was startled when I looked at it,—three half-crowns, a florin, and four sixpences, or eleven and sixpence in all. I had expected to hear from Cullingworth before this; but at least he was always there, a trusty friend, at my back. Immediately upon engaging the house I had written him a very full letter, telling him that I had committed myself to keeping it for one year, but assuring him that I was quite convinced that with the help which he had promised me I should be able to hold my own easily. I described the favourable position of the house, and gave him every detail of the rent and neighbourhood. That letter would, I was sure, bring a reply from him which would contain my weekly remittance. One thing I had, above all, determined upon. That was that, whatever hardships might lie before me, I would fight through them without help from home. I knew, of course, that my mother would have sold everything down to her gold eye-glasses to help me, and that no thought of our recent disagreement would have weighed with her for an instant; but still a man has his feelings, you know, and I did not propose to act against her judgment and then run howling for help.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 I sat in my house all day, with that ever-present sense of privacy and novelty which had thrilled me when I first shut the street door behind me. At evening I sallied out and bought a loaf of bread, half a pound of tea ("sweepings," they call it, and it cost eightpence), a tin kettle (fivepence), a pound of sugar, a tin of Swiss milk, and a tin of American potted meat. I had often heard my mother groan over the expenses of housekeeping, and now I began to understand what she meant. Two and ninepence went like a flash, but at least I had enough to keep myself going for some days.
 

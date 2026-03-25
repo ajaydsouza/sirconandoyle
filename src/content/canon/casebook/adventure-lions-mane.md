@@ -3,7 +3,7 @@ title: "The Adventure of the Lion’s Mane"
 date: 2015-07-17
 collection: "casebook"
 order: 11
-coverImage: "/images/posts/Lions-Mane-02.jpg"
+coverImage: "../../../assets/images/posts/Lions-Mane-02.jpg"
 tags:
   - "casebook-2"
   - "sherlock-holmes"
@@ -28,7 +28,7 @@ Fitzroy McPherson was the science master, a fine upstanding young fellow whose l
 
 At this moment we saw the man himself. His head showed above the edge of the cliff where the path ends. Then his whole figure appeared at the top, staggering like a drunken man. The next instant he threw up his hands and, with a terrible cry, fell upon his face. Stackhurst and I rushed forward--it may have been fifty yards--and turned him on his back. He was obviously dying. Those glazed sunken eyes and dreadful livid cheeks could mean nothing else. One glimmer of life came into his face for an instant, and he uttered two or three words with an eager air of warning. They were slurred and indistinct, but to my ear the last of them, which burst in a shriek from his lips, were "the Lion's Mane." It was utterly irrelevant and unintelligible, and yet I could twist the sound into no other sense. Then he half raised himself from the ground, threw his arms into the air, and fell forward on his side. He was dead.
 
-![THE NEXT INSTANT HE THREW UP HIS HANDS, AND, WITH A TERRIBLE CRY, FELL UPON HIS FACE.](/images/posts/Lions-Mane-01.jpg)
+![THE NEXT INSTANT HE THREW UP HIS HANDS, AND, WITH A TERRIBLE CRY, FELL UPON HIS FACE.](../../../assets/images/posts/Lions-Mane-01.jpg)
 
 My companion was paralyzed by the sudden horror of it, but I, as may well be imagined, had every sense on the alert. And I had need, for it was speedily evident that we were in the presence of an extraordinary case. The man was dressed only in his Burberry overcoat, his trousers, and an unlaced pair of canvas shoes. As he fell over, his Burberry, which had been simply thrown round his shoulders, slipped off, exposing his trunk. We stared at it in amazement. His back was covered with dark red lines as though he had been terribly flogged by a thin wire scourge. The instrument with which this punishment had been inflicted was clearly flexible, for the long, angry weals curved round his shoulders and ribs. There was blood dripping down his chin, for he had bitten through his lower lip in the paroxysm of his agony. His drawn and distorted face told how terrible that agony had been.
 
@@ -176,7 +176,7 @@ F.M.
 
 I turned over the paper. "This never came by post. How did you get it?"
 
-![I TURNED OVER THE PAPER. “THIS NEVER CAME BY POST. HOW DID YOU GET IT?”](/images/posts/Lions-Mane-02.jpg)
+![I TURNED OVER THE PAPER. “THIS NEVER CAME BY POST. HOW DID YOU GET IT?”](../../../assets/images/posts/Lions-Mane-02.jpg)
 
 "I would rather not answer that question. It has really nothing to do with the matter which you are investigating. But anything which bears upon that I will most freely answer."
 
@@ -292,7 +292,7 @@ So far we had got when there came the tremendous interruption which was the begi
 
 My outer door was flung open, there were blundering footsteps in the passage, and Ian Murdoch staggered into the room, pallid, dishevelled, his clothes in wild disorder, clawing with his bony hands at the furniture to hold himself erect. "Brandy! Brandy!" he gasped, and fell groaning upon the sofa.
 
-![“BRANDY! BRANDY!” HE GASPED, AND FELL GROANING UPON THE SOFA.](/images/posts/Lions-Mane-03.jpg)
+![“BRANDY! BRANDY!” HE GASPED, AND FELL GROANING UPON THE SOFA.](../../../assets/images/posts/Lions-Mane-03.jpg)
 
 He was not alone. Behind him came Stackhurst, hatless and panting, almost as distrait as his companion.
 

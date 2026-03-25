@@ -3,7 +3,7 @@ title: "The Adventure of the Dying Detective"
 date: 2013-11-15
 collection: "last-bow"
 order: 7
-coverImage: "/images/posts/dyin-01.jpg"
+coverImage: "../../../assets/images/posts/dyin-01.jpg"
 tags:
   - "last-bow"
   - "sherlock-holmes"
@@ -89,7 +89,7 @@ I was bitterly hurt.
 
 "Possibly not. But I happen to know that Dr. Ainstree, the greatest living authority upon tropical disease, is now in London. All remonstrance is useless, Holmes, I am going this instant to fetch him." I turned resolutely to the door.
 
-![I HEARD THE SHARP SNAP OF A TWISTED KEY.](/images/posts/dyin-01.jpg)
+![I HEARD THE SHARP SNAP OF A TWISTED KEY.](../../../assets/images/posts/dyin-01.jpg)
 
 Never have I had such a shock! In an instant, with a tiger-spring, the dying man had intercepted me. I heard the sharp snap of a twisted key. The next moment he had staggered back to his bed, exhausted and panting after his one tremendous outflame of energy.
 
@@ -111,7 +111,7 @@ But it was destined to be resumed long before that hour, and in circumstances wh
 
 It was a dreadful cry that he gave--a yell which might have been heard down the street. My skin went cold and my hair bristled at that horrible scream. As I turned I caught a glimpse of a convulsed face and frantic eyes. I stood paralyzed, with the little box in my hand.
 
-![“PUT IT DOWN! DOWN, THIS INSTANT, WATSON–THIS INSTANT, I SAY!”](/images/posts/dyin-02.jpg)
+![“PUT IT DOWN! DOWN, THIS INSTANT, WATSON–THIS INSTANT, I SAY!”](../../../assets/images/posts/dyin-02.jpg)
 
 "Put it down! Down, this instant, Watson--this instant, I say!" His head sank back upon the pillow and he gave a deep sigh of relief as I replaced the box upon the mantelpiece. "I hate to have my things touched, Watson. You know that I hate it. You fidget me beyond endurance. You, a doctor--you are enough to drive a patient into an asylum. Sit down, man, and let me have my rest!"
 
@@ -187,7 +187,7 @@ I thought of Holmes tossing upon his bed of sickness and counting the minutes, p
 
 With a shrill cry of anger a man rose from a reclining chair beside the fire. I saw a great yellow face, coarse-grained and greasy, with heavy, double-chin, and two sullen, menacing gray eyes which glared at me from under tufted and sandy brows. A high bald head had a small velvet smoking-cap poised coquettishly upon one side of its pink curve. The skull was of enormous capacity, and yet as I looked down I saw to my amazement that the figure of the man was small and frail, twisted in the shoulders and back like one who has suffered from rickets in his childhood.
 
-![“WHAT’S THIS?” HE CRIED, IN A HIGH, SCREAMING VOICE. “WHAT’S THE MEANING OF THIS INTRUSION?”](/images/posts/dyin-03.jpg)
+![“WHAT’S THIS?” HE CRIED, IN A HIGH, SCREAMING VOICE. “WHAT’S THE MEANING OF THIS INTRUSION?”](../../../assets/images/posts/dyin-03.jpg)
 
 "What's this?" he cried in a high, screaming voice. "What is the meaning of this intrusion? Didn't I send you word that I would see you to-morrow morning?"
 
@@ -371,7 +371,7 @@ The officer gave the usual cautions.
 
 There was a sudden rush and a scuffle, followed by the clash of iron and a cry of pain.
 
-![“YOU’LL ONLY GET YOURSELF HURT,” SAID THE INSPECTOR. “STAND STILL, WILL YOU?”](/images/posts/dyin-04.jpg)
+![“YOU’LL ONLY GET YOURSELF HURT,” SAID THE INSPECTOR. “STAND STILL, WILL YOU?”](../../../assets/images/posts/dyin-04.jpg)
 
 "You'll only get yourself hurt," said the inspector. "Stand still, will you?" There was the click of the closing handcuffs.
 

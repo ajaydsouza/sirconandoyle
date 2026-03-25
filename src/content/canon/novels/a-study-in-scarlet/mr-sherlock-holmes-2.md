@@ -3,13 +3,13 @@ title: "Part I - Chapter 1: Mr. Sherlock Holmes"
 date: 2012-08-25
 novel: "a-study-in-scarlet"
 order: 2
-coverImage: "/images/posts/scarlet11.gif"
+coverImage: "../../../../assets/images/posts/scarlet11.gif"
 tags:
   - "sherlock-holmes"
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 In the year 1878 I took my degree of Doctor of Medicine of the University of London, and proceeded to Netley to go through the course prescribed for surgeons in the Army. Having completed my studies there, I was duly attached to the Fifth Northumberland Fusiliers as assistant surgeon. The regiment was stationed in India at the time, and before I could join it, the second Afghan war had broken out. On landing at Bombay, I learned that my corps had advanced through the passes, and was already deep in the enemy's country. I followed, however, with many other officers who were in the same situation as myself, and succeeded in reaching Candahar in safety, where I found my regiment, and at once entered upon my new duties.
 
@@ -63,7 +63,7 @@ As we made our way to the hospital after leaving the Holborn, Stamford gave me a
 
 "And yet you say he is not a medical student?"
 
-![I'VE FOUND IT! I'VE FOUND IT!, HE SHOUTED TO MY COMPANION](/images/posts/scarlet11.gif "I'VE FOUND IT! I'VE FOUND IT!, HE SHOUTED TO MY COMPANION")
+![I'VE FOUND IT! I'VE FOUND IT!, HE SHOUTED TO MY COMPANION](../../../../assets/images/posts/scarlet11.gif "I'VE FOUND IT! I'VE FOUND IT!, HE SHOUTED TO MY COMPANION")
 
 "No. Heaven knows what the objects of his studies are. But here we are, and you must form your own impressions about him." As he spoke, we turned down a narrow lane and passed through a small side-door, which opened into a wing of the great hospital. It was familiar ground to me, and I needed no guiding as we ascended the bleak stone staircase and made our way down the long corridor with its vista of whitewashed wall and dun-coloured doors. Near the farther end a low arched passage branched away from it and led to the chemical laboratory. This was a lofty chamber, lined and littered with countless bottles. Broad, low tables were scattered about, which bristled with retorts, test-tubes, and little Bunsen lamps, with their blue flickering flames. There was only one student in the room, who was bending over a distant table absorbed in his work. At the sound of our steps he glanced round and sprang to his feet with a cry of pleasure. "I've found it! I've found it," he shouted to my companion, running towards us with a test-tube in his hand. "I have found a reagent which is precipitated by hæmoglobin, and by nothing else." Had he discovered a gold mine, greater delight could not have shone upon his features.
 

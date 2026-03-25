@@ -3,13 +3,13 @@ title: "Part II – Chapter 5: The Avenging Angels"
 date: 2012-10-08
 novel: "a-study-in-scarlet"
 order: 13
-coverImage: "/images/posts/scarlet25.gif"
+coverImage: "../../../../assets/images/posts/scarlet25.gif"
 tags:
   - "sherlock-holmes"
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 All night their course lay through intricate defiles and over irregular and rockstrewn paths. More than once they lost their way, but Hope's intimate knowledge of the mountains enabled them to regain the track once more. When morning broke, a scene of marvellous though savage beauty lay before them. In every direction the great snow-capped peaks hemmed them in, peeping over each other's shoulders to the far horizon. So steep were the rocky banks on either side of them that the larch and the pine seemed to be suspended over their heads, and to need only a gust of wind to come hurtling down upon them. Nor was the fear entirely an illusion, for the barren valley was thickly strewn with trees and boulders which had fallen in a similar manner. Even as they passed, a great rock came thundering down with a hoarse rattle which woke the echoes in the silent gorges, and startled the weary horses into a gallop.
 
@@ -29,7 +29,7 @@ Bewildered and stunned by this blow, Jefferson Hope felt his head spin round, an
 
 JOHN FERRIER, FORMERLY OF SALT LAKE CITY. Died August 4th, 1860.
 
-![JOHN FERRIER, FORMERLY OF SALT LAKE CITY. DIED AUGUST 4TH, 1860](/images/posts/scarlet25.gif "JOHN FERRIER, FORMERLY OF SALT LAKE CITY. DIED AUGUST 4TH, 1860")
+![JOHN FERRIER, FORMERLY OF SALT LAKE CITY. DIED AUGUST 4TH, 1860](../../../../assets/images/posts/scarlet25.gif "JOHN FERRIER, FORMERLY OF SALT LAKE CITY. DIED AUGUST 4TH, 1860")
 
 The sturdy old man, whom he had left so short a time before, was gone, then, and this was all his epitaph. Jefferson Hope looked wildly round to see if there was a second grave, but there was no sign of one. Lucy had been carried back by their terrible pursuers to fulfill her original destiny, by becoming one of the harem of an Elder's son. As the young fellow realized the certainty of her fate, and his own powerlessness to prevent it, he wished that he, too, was lying with the old farmer in his last silent resting-place.
 

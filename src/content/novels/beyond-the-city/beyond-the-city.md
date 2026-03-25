@@ -3,14 +3,14 @@ title: "Beyond the City"
 date: 2018-03-31
 novel: "beyond-the-city"
 order: 1
-coverImage: "/images/posts/Beyond-the-City.jpg"
+coverImage: "../../../assets/images/posts/Beyond-the-City.jpg"
 tags:
   - "beyond-the-city"
 ---
 
 Beyond the City is a novel written by Sir Arthur Conan Doyle and published in 1892.
 
-[![](/images/posts/Beyond-the-City.jpg)](https://amzn.to/2J7sGCZ)
+[![](../../../assets/images/posts/Beyond-the-City.jpg)](https://amzn.to/2J7sGCZ)
 
 CHAPTER I. [THE NEW-COMERS](/novels/beyond-the-city/the-new-comers/)
 

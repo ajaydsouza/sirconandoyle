@@ -3,14 +3,14 @@ title: "The Evidence Up to Date"
 date: 2013-07-10
 novel: "crime-of-the-congo"
 order: 13
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
 
 I shall now append some extracts from the reports of several British Vice-Consuls and Consuls sent in during the last few years. These bear less upon outrages, which have admittedly greatly decreased, but mainly upon the general condition of the people, which is one of deplorable poverty and misery—a slavery without that care which the owner was bound to exercise over the health and strength of the slave. I shall give without comment some extracts from the reports of Vice-Consul Mitchell, which date from July, 1906:
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 > “Most of the primitive bridges over the numerous creeks and marshes had rotted away, and we had some difficulty in crossing on fallen trees or a few thin sticks. This was the case all the way to Banalya, and I may here state that this condition of the roads, even of the most frequented, is universal in this province. The reason is that the local authorities have neither men, means, nor time at their disposal for the making of decent roads. The parsimony of the State in this respect is the more remarkable in the ‘Domaine Privé,’ whence large amounts are derived, and where next to nothing is expended.
 > 

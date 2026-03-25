@@ -3,14 +3,14 @@ title: "The Valley of Fear by Sir Arthur Conan Doyle"
 date: 2012-06-21
 novel: "valley-of-fear"
 order: 1
-coverImage: "/images/posts/Valley_of_fear.jpg"
+coverImage: "../../../../assets/images/posts/Valley_of_fear.jpg"
 tags:
   - "valley-of-fear"
 ---
 
 **The Valley of Fear**, was written by Sir Arthur Conan Doyle and was first published in 1915 in the **Strand Magazine**. This was the fourth and last novel about Sherlock Holmes.
 
-![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")
+![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")
 
 ### Part I - The Tragedy of Birlstone
 

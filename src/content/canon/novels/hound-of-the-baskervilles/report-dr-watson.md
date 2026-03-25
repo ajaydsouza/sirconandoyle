@@ -3,13 +3,13 @@ title: "Chapter 8: First Report of Dr. Watson"
 date: 2012-07-24
 novel: "hound-of-the-baskervilles"
 order: 8
-coverImage: "/images/posts/hound08.jpg"
+coverImage: "../../../../assets/images/posts/hound08.jpg"
 tags:
   - "hound-of-baskervilles"
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 From this point onward I will follow the course of events by transcribing my own letters to Mr. Sherlock Holmes which lie before me on the table. One page is missing, but otherwise they are exactly as written and show my feelings and suspicions of the moment more accurately than my memory, clear as it is upon these tragic events, can possibly do.
 
@@ -27,7 +27,7 @@ We are four able-bodied men in this household, so that we could take good care o
 
 The fact is that our friend, the baronet, begins to display a considerable interest in our fair neighbour. It is not to be wondered at, for time hangs heavily in this lonely spot to an active man like him, and she is a very fascinating and beautiful woman. There is something tropical and exotic about her which forms a singular contrast to her cool and unemotional brother. Yet he also gives the idea of hidden fires. He has certainly a very marked influence over her, for I have seen her continually glance at him as she talked as if seeking approbation for what she said. I trust that he is kind to her. There is a dry glitter in his eyes and a firm set of his thin lips, which goes with a positive and possibly a harsh nature. You would find him an interesting study.
 
-![IN THE MIDDLE OF IT ROSE TWO GREAT STONES](/images/posts/hound08.jpg "IN THE MIDDLE OF IT ROSE TWO GREAT STONES")
+![IN THE MIDDLE OF IT ROSE TWO GREAT STONES](../../../../assets/images/posts/hound08.jpg "IN THE MIDDLE OF IT ROSE TWO GREAT STONES")
 
 He came over to call upon Baskerville on that first day, and the very next morning he took us both to show us the spot where the legend of the wicked Hugo is supposed to have had its origin. It was an excursion of some miles across the moor to a place which is so dismal that it might have suggested the story. We found a short valley between rugged tors which led to an open, grassy space flecked over with the white cotton grass. In the middle of it rose two great stones, worn and sharpened at the upper end until they looked like the huge corroding fangs of some monstrous beast. In every way it corresponded with the scene of the old tragedy. Sir Henry was much interested and asked Stapleton more than once whether he did really believe in the possibility of the interference of the supernatural in the affairs of men. He spoke lightly, but it was evident that he was very much in earnest. Stapleton was guarded in his replies, but it was easy to see that he said less than he might, and that he would not express his whole opinion out of consideration for the feelings of the baronet. He told us of similar cases, where families had suffered from some evil influence, and he left us with the impression that he shared the popular view upon the matter.
 

@@ -3,7 +3,7 @@ title: "The Adventure of Shoscombe Old Place"
 date: 2015-08-25
 collection: "casebook"
 order: 13
-coverImage: "/images/posts/Shoscombe-Old-Place-05.jpg"
+coverImage: "../../../assets/images/posts/Shoscombe-Old-Place-05.jpg"
 tags:
   - "casebook-2"
   - "sherlock-holmes"
@@ -14,7 +14,7 @@ Sherlock Holmes had been bending for a long time over a low-power microscope. No
 
 "It is glue, Watson," said he. "Unquestionably it is glue. Have a look at these scattered objects in the field!"
 
-![“IT IS GLUE, WATSON,” SAID HE.](/images/posts/Shoscombe-Old-Place-01.jpg)
+![“IT IS GLUE, WATSON,” SAID HE.](../../../assets/images/posts/Shoscombe-Old-Place-01.jpg)
 
 I stooped to the eyepiece and focussed for my vision.
 
@@ -130,7 +130,7 @@ Holmes rubbed his hands.
 
 "Because I have seen him, Mr. Holmes. It was on that second night. Sir Robert turned and passed us--me and Stephens, quaking in the bushes like two bunny-rabbits, for there was a bit of moon that night. But we could hear the other moving about behind. We were not afraid of him. So we up when Sir Robert was gone and pretended we were just having a walk like in the moonlight, and so we came right on him as casual and innocent as you please. 'Hullo, mate! who may you be?' says I. I guess he had not heard us coming, so he looked over his shoulder with a face as if he had seen the devil coming out of hell. He let out a yell, and away he went as hard as he could lick it in the darkness. He could run! --I'll give him that. In a minute he was out of sight and hearing, and who he was, or what he was, we never found."
 
-![“HE LOOKED OVER HIS SHOULDER WITH A FACE AS IF HE HAD SEEN THE DEVIL COMING OUT OF HELL.”](/images/posts/Shoscombe-Old-Place-02.jpg)
+![“HE LOOKED OVER HIS SHOULDER WITH A FACE AS IF HE HAD SEEN THE DEVIL COMING OUT OF HELL.”](../../../assets/images/posts/Shoscombe-Old-Place-02.jpg)
 
 "But you saw him clearly in the moonlight?"
 
@@ -306,7 +306,7 @@ It was not a long vigil. Within a quarter of an hour we saw the big open yellow 
 
 The carriage had slowed to a walk, and I was able to get a good look at the occupants. A highly coloured young woman with flaxen hair and impudent eyes sat on the left. At her right was an elderly person with rounded back and a huddle of shawls about her face and shoulders which proclaimed the invalid. When the horses reached the highroad I held up my hand with an authoritative gesture, and as the coachman pulled up I inquired if Sir Robert was at Shoscombe Old Place.
 
-![AT THE SAME MOMENT HOLMES STEPPED OUT AND RELEASED THE SPANIEL.](/images/posts/Shoscombe-Old-Place-03.jpg)
+![AT THE SAME MOMENT HOLMES STEPPED OUT AND RELEASED THE SPANIEL.](../../../assets/images/posts/Shoscombe-Old-Place-03.jpg)
 
 At the same moment Holmes stepped out and released the spaniel. With a joyous cry it dashed forward to the carriage and sprang upon the step. Then in a moment its eager greeting changed to furious rage, and it snapped at the black skirt above it.
 
@@ -334,7 +334,7 @@ My companion seemed to have no further plans for the day, and we did actually us
 
 It was pitch-dark and without a moon, but Mason led us over the grass-lands until a dark mass loomed up in front of us which proved to be the ancient chapel. We entered the broken gap which was once the porch, and our guide, stumbling among heaps of loose masonry, picked his way to the corner of the building, where a steep stair led down into the crypt. Striking a match, he illuminated the melancholy place --dismal and evil-smelling, with ancient crumbling walls of rough-hewn stone, and piles of coffins, some of lead and some of stone, extending upon one side right up to the arched and groined roof which lost itself in the shadows above our heads. Holmes had lit his lantern, which shot a tiny tunnel of vivid yellow light upon the mournful scene. Its rays were reflected back from the coffin-plates, many of them adorned with the griffin and coronet of this old family which carried its honours even to the gate of Death.
 
-![HOLMES HAD LIT HIS LANTERN.](/images/posts/Shoscombe-Old-Place-04.jpg)
+![HOLMES HAD LIT HIS LANTERN.](../../../assets/images/posts/Shoscombe-Old-Place-04.jpg)
 
 "You spoke of some bones, Mr. Mason. Could you show them before you go?"
 
@@ -356,7 +356,7 @@ But instead of shrinking Holmes advanced to meet him.
 
 "I also have a question to ask you, Sir Robert," he said in his sternest tone. "Who is this? And what is it doing here?"
 
-![“I ALSO HAVE A QUESTION TO ASK YOU, SIR ROBERT,” HE SAID IN HIS STERNEST TONE.](/images/posts/Shoscombe-Old-Place-05.jpg)
+![“I ALSO HAVE A QUESTION TO ASK YOU, SIR ROBERT,” HE SAID IN HIS STERNEST TONE.](../../../assets/images/posts/Shoscombe-Old-Place-05.jpg)
 
 He turned and tore open the coffin-lid behind him. In the glare of the lantern I saw a body swathed in a sheet from head to foot with dreadful, witch-like features, all nose and chin, projecting at one end, the dim, glazed eyes staring from a discoloured and crumbling face.
 

@@ -3,14 +3,14 @@ title: "The Working of the System"
 date: 2013-06-17
 novel: "crime-of-the-congo"
 order: 5
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
 
 Having claimed, as I have shown, the whole of the land, and therefore the whole of its products, the State—that is, the King—proceeded to construct a system by which these products could be gathered most rapidly and at least cost. The essence of this system was that the people who had been dispossessed (ironically called “citizens”) were to be forced to gather, for the profit of the State, those very products which had been taken from them. This was to be effected by two means; the one, taxation, by which an arbitrary amount, ever growing larger until it consumed almost their whole lives in the gathering, should be claimed for nothing. The other, so-called barter by which the natives were paid for the stuff exactly what the State chose to give, and in the form the State chose to give it, there being no competition allowed from any other purchaser. This remuneration, ridiculous in value, took the most absurd shape, the natives being compelled to take it, whatever the amount, and however little they might desire it. Consul Thesiger, in 1908, describing their so-called barter, says: “The goods he proceeds to distribute, giving a hat to one man, or an iron hoe-head to another, and so on. Each recipient is then at the end of a month responsible for so many balls of rubber. No choice of the objects is given, no refusal is allowed. If any one makes any objection, the stuff is thrown down at his door, and whether it is taken or left, the man is responsible for so many balls at the end of the month. The total amounts are fixed by the agents at the maximum which the inhabitants are capable of producing.”
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 But is it not clear that no natives, especially tribes who, as Stanley has recorded, had remarkable aptitude for trade, would do business at all upon such terms? That is just where the system came in.
 

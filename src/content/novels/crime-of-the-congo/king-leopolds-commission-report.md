@@ -3,14 +3,14 @@ title: "King Leopold’s Commission and Its Report"
 date: 2013-07-03
 novel: "crime-of-the-congo"
 order: 10
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
 
 The immediate effect of the publication as a State paper of the general comment of Lord Cromer, and of the definite accusations of Consul Casement, was a demand both in Belgium and in England for an official inquiry. Lord Landsdowne stipulated that this inquiry should be impartial and thorough. It was also suggested by the British Government that it should be international in character, and separated from the local administration. Very grudgingly and under constant pressure the King appointed a Commission, but whittled down its powers to such a point that its proceedings must lose all utility. Such were the terms that they provoked remonstrance from men like M. A. J. Wauters, the Belgian historian of the Congo Free State, who protested in the _Mouvement Géographique_ (August 7th, 1904) that such a body could serve no useful end. Finally, their functions were slightly increased, but they possessed no punitive powers and were hampered in every direction by the terms of their reference.
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 The _personnel_ of the Commission was worthy of the importance of the inquiry. M. Janssens, a well-known jurist of Belgium, was the president. He impressed all who came in contact with him as a man of upright and sympathetic character. Baron Nisco’s appointment was open to criticism, as he was himself a Congo functionary, but save for that fact there was no complaint to make against him. Dr. Schumacher, a distinguished Swiss lawyer, was the third Commissioner. The English Government applied to have a representative upon the tribunal, and with true Congo subtlety the request was granted after the three judges had reached the Congo. The Englishman, Mr. Mackie, hurried out, but was only in time to attend the last three sittings, which were held in the lower part of the river, far from the notorious rubber agents. It is worth noting that on his arrival he applied for the minutes of the previous meetings and that his application was refused. In Belgium the evidence of the Commission has never been published, and it is safe to say that it never will be. Fortunately the Congo missionaries took copious notes of the proceedings and of the testimony which came immediately under their own notice. It is from their evidence that I draw these accounts. If the Congo authorities contest the accuracy of those accounts, then let them confute them forever and put their accusers to confusion by producing the actual minutes which they hold.
 

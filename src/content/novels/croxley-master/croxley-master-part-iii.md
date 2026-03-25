@@ -3,12 +3,12 @@ title: "The Croxley Master – Part III"
 date: 2013-08-25
 novel: "croxley-master"
 order: 3
-coverImage: "/images/posts/The-Croxley-Master-Frontis.jpg"
+coverImage: "../../../assets/images/posts/The-Croxley-Master-Frontis.jpg"
 tags:
   - "croxley-master-tag"
 ---
 
-![The Croxley Master - Frontis](/images/posts/The-Croxley-Master-Frontis.jpg)
+![The Croxley Master - Frontis](../../../assets/images/posts/The-Croxley-Master-Frontis.jpg)
 
 MONTGOMERY—Craggs!" said he.
 

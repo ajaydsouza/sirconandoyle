@@ -3,12 +3,12 @@ title: "Chapter XXVII: Mrs. Scully of Morrison's"
 date: 2014-05-29
 novel: "girdlestone"
 order: 28
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 One day Major Tobias Clutterbuck was sitting at the window of his little room smoking his cigarette and sipping his glass of wine, as was his custom if times were reasonably good. While thus agreeably employed he chanced to look across the road and perceived a little fringe of dark hair, and a still darker eye, which surveyed him round the border of one of the curtains which flanked a window opposite. The gallant major was much interested in this apparition, and rose to make a closer inspection of it, but, alas! before he could focus it with his eye-glass it was gone! He bent his gaze resolutely in that direction for a long time, and smoked at least half a dozen cigarettes, besides finishing the bottle of wine; but although he thought he saw certain flittings and whiskings of garments in the dark background of the opposite room, he could not make out anything more definite.
 

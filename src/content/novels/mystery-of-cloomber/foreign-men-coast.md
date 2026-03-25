@@ -3,14 +3,14 @@ title: "Of the Three Foreign Men upon the Coast"
 date: 2013-09-29
 novel: "mystery-of-cloomber"
 order: 13
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 It must have been eleven or twelve o'clock before I awoke, and it seemed to me in the flood of golden light which streamed into my chamber that the wild, tumultuous episodes of the night before must have formed part of some fantastic dream.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 It was hard to believe that the gentle breeze which whispered so softly among the ivy-leaves around my window was caused by the same element which had shaken the very house a few short hours before. It was as if Nature had repented of her momentary passion and was endeavouring to make amends to an injured world by its warmth and its sunshine. A chorus of birds in the garden below filled the whole air with their wonder and congratulations.
 

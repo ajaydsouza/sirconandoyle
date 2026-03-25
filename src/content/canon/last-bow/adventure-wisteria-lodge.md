@@ -3,13 +3,13 @@ title: "The Adventure of Wisteria Lodge"
 date: 2013-10-15
 collection: "last-bow"
 order: 3
-coverImage: "/images/posts/The-Adventure-of-Wisteria-Lodge.jpg"
+coverImage: "../../../assets/images/posts/The-Adventure-of-Wisteria-Lodge.jpg"
 tags:
   - "last-bow"
   - "sherlock-holmes"
 ---
 
-![The Adventure of Wisteria Lodge](/images/posts/The-Adventure-of-Wisteria-Lodge.jpg)
+![The Adventure of Wisteria Lodge](../../../assets/images/posts/The-Adventure-of-Wisteria-Lodge.jpg)
 
 ### 1\. The Singular Experience of Mr. John Scott Eccles
 
@@ -57,7 +57,7 @@ Holmes glanced at his watch.
 
 Our client smoothed down his unbrushed hair and felt his unshaven chin.
 
-![But I have been running round making inquiries before I came to you](/images/posts/wist-01.jpg)
+![But I have been running round making inquiries before I came to you](../../../assets/images/posts/wist-01.jpg)
 
 "You are right, Mr. Holmes. I never gave a thought to my toilet. I was only too glad to get out of such a house. But I have been running round making inquiries before I came to you. I went to the house agents, you know, and they said that Mr. Garcia's rent was paid up all right and that everything was in order at Wisteria Lodge."
 
@@ -93,7 +93,7 @@ Our client had sat up with staring eyes and every tinge of colour struck from hi
 
 "Murder, if ever there was one upon earth."
 
-![This is awful! You don't mean--you don't mean that I am suspected?](/images/posts/wist-02.jpg)
+![This is awful! You don't mean--you don't mean that I am suspected?](../../../assets/images/posts/wist-02.jpg)
 
 "Good God! This is awful! You don't mean--you don't mean that I am suspected?"
 
@@ -139,7 +139,7 @@ Sherlock Holmes was rubbing his hands and chuckling as he added this bizarre inc
 
 The country detective was a stout, puffy, red man, whose face was only redeemed from grossness by two extraordinarily bright eyes, almost hidden behind the heavy creases of cheek and brow. With a slow smile he drew a folded and discoloured scrap of paper from his pocket.
 
-![I PICKED THE PAPER OUT UNBURNED FROM THE BACK OF IT.](/images/posts/wist-03.jpg)
+![I PICKED THE PAPER OUT UNBURNED FROM THE BACK OF IT.](../../../assets/images/posts/wist-03.jpg)
 
 "It was a dog-grate, Mr. Holmes, and he overpitched it. I picked this out unburned from the back of it."
 
@@ -253,7 +253,7 @@ Holmes leaned back in his chair with half-closed eyes.
 
 * * *
 
-![HE TOSSED IT ACROSS WITH A LAUGH.](/images/posts/wist-04.jpg)
+![HE TOSSED IT ACROSS WITH A LAUGH.](../../../assets/images/posts/wist-04.jpg)
 
 An answer had arrived to Holmes's telegram before our Surrey officer had returned. Holmes read it and was about to place it in his notebook when he caught a glimpse of my expectant face. He tossed it across with a laugh.
 
@@ -297,7 +297,7 @@ The man mopped his forehead with his handkerchief and gave a long sigh of relief
 
 "What was at the window, and when?"
 
-![THERE WAS A FACE LOOKING IN AT ME THROUGH THE LOWER PANE.](/images/posts/wist-05.jpg)
+![THERE WAS A FACE LOOKING IN AT ME THROUGH THE LOWER PANE.](../../../assets/images/posts/wist-05.jpg)
 
 "It was just about two hours ago. The light was just fading. I was sitting reading in the chair. I don't know what made me look up, but there was a face looking in at me through the lower pane. Lord, sir, what a face it was! I'll see it in my dreams."
 
@@ -325,7 +325,7 @@ It was a gloomy, high-ceilinged room at the back of the house, with a straw litt
 
 He held up his candle before an extraordinary object which stood at the back of the dresser. It was so wrinkled and shrunken and withered that it was difficult to say what it might have been. One could but say that it was black and leathery and that it bore some resemblance to a dwarfish, human figure. At first, as I examined it, I thought that it was a mummified negro baby, and then it seemed a very twisted and ancient monkey. Finally I was left in doubt as to whether it was animal or human. A double band of white shells were strung round the centre of it.
 
-![“VERY INTERESTING, INDEED!” SAID HOLMES](/images/posts/wist-06.jpg)
+![“VERY INTERESTING, INDEED!” SAID HOLMES](../../../assets/images/posts/wist-06.jpg)
 
 "Very interesting--very interesting, indeed!" said Holmes, peering at this sinister relic. "Anything more?"
 
@@ -335,7 +335,7 @@ In silence Baynes led the way to the sink and held forward his candle. The limbs
 
 But Mr. Baynes had kept his most sinister exhibit to the last. From under the sink he drew a zinc pail which contained a quantity of blood. Then from the table he took a platter heaped with small pieces of charred bone.
 
-![HE DREW A ZINC PAIL FROM UNDER THE SINK.](/images/posts/wist-07.jpg)
+![HE DREW A ZINC PAIL FROM UNDER THE SINK.](../../../assets/images/posts/wist-07.jpg)
 
 "Something has been killed and something has been burned. We raked all these out of the fire. We had a doctor in this morning. He says that they are not human."
 
@@ -381,7 +381,7 @@ Holmes sprang in his chair as if he had been stung when I read the headlines.
 
 "Great excitement was caused in Esher and the neighbouring district when it was learned late last night that an arrest had been effected in connection with the Oxshott murder. It will be remembered that Mr. Garcia, of Wisteria Lodge, was found dead on Oxshott Common, his body showing signs of extreme violence, and that on the same night his servant and his cook fled, which appeared to show their participation in the crime. It was suggested, but never proved, that the deceased gentleman may have had valuables in the house, and that their abstraction was the motive of the crime. Every effort was made by Inspector Baynes, who has the case in hand, to ascertain the hiding place of the fugitives, and he had good reason to believe that they had not gone far but were lurking in some retreat which had been already prepared. It was certain from the first, however, that they would eventually be detected, as the cook, from the evidence of one or two tradespeople who have caught a glimpse of him through the window, was a man of most remarkable appearance--being a huge and hideous mulatto, with yellowish features of a pronounced negroid type. This man has been seen since the crime, for he was detected and pursued by Constable Walters on the same evening, when he had the audacity to revisit Wisteria Lodge. Inspector Baynes, considering that such a visit must have some purpose in view and was likely, therefore, to be repeated, abandoned the house but left an ambuscade in the shrubbery. The man walked into the trap and was captured last night after a struggle in which Constable Downing was badly bitten by the savage. We understand that when the prisoner is brought before the magistrates a remand will be applied for by the police, and that great developments are hoped from his capture."
 
-![THE MAN WALKED INTO THE TRAP AND WAS CAPTURED.](/images/posts/wist-08.jpg)
+![THE MAN WALKED INTO THE TRAP AND WAS CAPTURED.](../../../assets/images/posts/wist-08.jpg)
 
 "Really we must see Baynes at once," cried Holmes, picking up his hat. "We will just catch him before he starts." We hurried down the village street and found, as we had expected, that the inspector was just leaving his lodgings.
 
@@ -459,7 +459,7 @@ But it was not destined that our investigation should have so adventurous an end
 
 In the cab was a woman, half-collapsed from nervous exhaustion. She bore upon her aquiline and emaciated face the traces of some recent tragedy. Her head hung listlessly upon her breast, but as she raised it and turned her dull eyes upon us I saw that her pupils were dark dots in the centre of the broad gray iris. She was drugged with opium.
 
-![SHE FOUGHT HER WAY OUT AGAIN.](/images/posts/wist-09.jpg)
+![SHE FOUGHT HER WAY OUT AGAIN.](../../../assets/images/posts/wist-09.jpg)
 
 "I watched at the gate, same as you advised, Mr. Holmes," said our emissary, the discharged gardener. "When the carriage came out I followed it to the station. She was like one walking in her sleep, but when they tried to get her into the train she came to life and struggled. They pushed her into the carriage. She fought her way out again. I took her part, got her into a cab, and here we are. I shan't forget the face at the carriage window as I led her away. I'd have a short life if he had his way--the black-eyed, scowling, yellow devil."
 
@@ -507,7 +507,7 @@ The Tiger of San Pedro! The whole history of the man came back to me in a flash.
 
 "But here also the ministers of justice were waiting. Knowing that he would return there, Garcia, who is the son of the former highest dignitary in San Pedro, was waiting with two trusty companions of humble station, all three fired with the same reasons for revenge. He could do little during the day, for Murillo took every precaution and never went out save with his satellite Lucas, or Lopez as he was known in the days of his greatness. At night, however, he slept alone, and the avenger might find him. On a certain evening, which had been prearranged, I sent my friend final instructions, for the man was forever on the alert and continually changed his room. I was to see that the doors were open and the signal of a green or white light in a window which faced the drive was to give notice if all was safe or if the attempt had better be postponed.
 
-![“HE AND HIS MASTER DRAGGED ME TO MY ROOM.”](/images/posts/wist-10.jpg)
+![“HE AND HIS MASTER DRAGGED ME TO MY ROOM.”](../../../assets/images/posts/wist-10.jpg)
 
 "But everything went wrong with us. In some way I had excited the suspicion of Lopez, the secretary. He crept up behind me and sprang upon me just as I had finished the note. He and his master dragged me to my room and held judgment upon me as a convicted traitress. Then and there they would have plunged their knives into me could they have seen how to escape the consequences of the deed. Finally, after much debate, they concluded that my murder was too dangerous. But they determined to get rid forever of Garcia. They had gagged me, and Murillo twisted my arm round until I gave him the address. I swear that he might have twisted it off had I understood what it would mean to Garcia. Lopez addressed the note which I had written, sealed it with his sleeve-link, and sent it by the hand of the servant, Jose. How they murdered him I do not know, save that it was Murillo's hand who struck him down, for Lopez had remained to guard me. I believe he must have waited among the gorse bushes through which the path winds and struck him down as he passed. At first they were of a mind to let him enter the house and to kill him as a detected burglar; but they argued that if they were mixed up in an inquiry their own identity would at once be publicly disclosed and they would be open to further attacks. With the death of Garcia, the pursuit might cease, since such a death might frighten others from the task.
 

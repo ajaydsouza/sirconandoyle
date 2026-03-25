@@ -3,13 +3,13 @@ title: "Chapter 6: Baskerville Hall"
 date: 2012-07-15
 novel: "hound-of-the-baskervilles"
 order: 6
-coverImage: "/images/posts/hound06.jpg"
+coverImage: "../../../../assets/images/posts/hound06.jpg"
 tags:
   - "hound-of-baskervilles"
   - "sherlock-holmes"
 ---
 
-![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")
+![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")
 
 Sir Henry Baskerville and Dr. Mortimer were ready upon the appointed day, and we started as arranged for Devonshire. Mr. Sherlock Holmes drove with me to the station and gave me his last parting injunctions and advice.
 

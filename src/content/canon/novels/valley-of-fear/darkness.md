@@ -3,13 +3,13 @@ title: "Part I – Chapter 4: Darkness"
 date: 2012-11-01
 novel: "valley-of-fear"
 order: 5
-coverImage: "/images/posts/valley14.jpg"
+coverImage: "../../../../assets/images/posts/valley14.jpg"
 tags:
   - "sherlock-holmes"
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 At three in the morning the chief Sussex detective, obeying the urgent call from Sergeant Wilson of Birlstone, arrived from headquarters in a light dog-cart behind a breathless trotter. By the five-forty train in the morning he had sent his message to Scotland Yard, and he was at the Birlstone station at twelve o'clock to welcome us. White Mason was a quiet, comfortable-looking person in a loose tweed suit, with a clean-shaved, ruddy face, a stoutish body, and powerful bandy legs adorned with gaiters, looking like a small farmer, a retired gamekeeper, or anything upon earth except a very favourable specimen of the provincial criminal officer.
 
@@ -201,7 +201,7 @@ Holmes walked across to the desk and dabbed a little ink from each bottle on to 
 
 "That is so, Mr. Holmes."
 
-![Holmes had gone to the window and was examining with his lens the blood mark on the sill](/images/posts/valley14.jpg "Holmes had gone to the window and was examining with his lens the blood mark on the sill")
+![Holmes had gone to the window and was examining with his lens the blood mark on the sill](../../../../assets/images/posts/valley14.jpg "Holmes had gone to the window and was examining with his lens the blood mark on the sill")
 
 "Well, unless he has a burrow close by or a change of clothes ready, they can hardly miss him. And yet they have missed him up to now!" Holmes had gone to the window and was examining with his lens the blood mark on the sill. "It is clearly the tread of a shoe. It is remarkably broad; a splay-foot, one would say. Curious, because, so far as one can trace any footmark in this mud-stained corner, one would say it was a more shapely sole. However, they are certainly very indistinct. What's this under the side table?"
 

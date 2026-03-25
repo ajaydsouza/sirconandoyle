@@ -3,7 +3,7 @@ title: "That Little Square Box"
 date: 2022-12-06
 novel: "my-friend-the-murderer"
 order: 7
-coverImage: "/images/posts/My-Friend-The-Murderer.jpg"
+coverImage: "../../../assets/images/posts/My-Friend-The-Murderer.jpg"
 tags:
   - "my-friend-the-murderer"
 ---

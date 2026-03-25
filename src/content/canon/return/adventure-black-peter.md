@@ -3,7 +3,7 @@ title: "The Adventure of Black Peter"
 date: 2013-02-11
 collection: "return"
 order: 7
-coverImage: "/images/posts/blac-02.jpg"
+coverImage: "../../../assets/images/posts/blac-02.jpg"
 tags:
   - "the-return-of-sherlock-holmes"
 ---
@@ -14,7 +14,7 @@ In this memorable year '95, a curious and incongruous succession of cases had en
 
 During the first week of July, my friend had been absent so often and so long from our lodgings that I knew he had something on hand. The fact that several rough-looking men called during that time and inquired for Captain Basil made me understand that Holmes was working somewhere under one of the numerous disguises and names with which he concealed his own formidable identity. He had at least five small refuges in different parts of London, in which he was able to change his personality. He said nothing of his business to me, and it was not my habit to force a confidence. The first positive sign which he gave me of the direction which his investigation was taking was an extraordinary one. He had gone out before breakfast, and I had sat down to mine when he strode into the room, his hat upon his head and a huge barbed-headed spear tucked like an umbrella under his arm.
 
-![“GOD GRACIOUS, HOLMES!” I CRIED. “YOU DON’T MEAN TO SAY THAT YOU HAVE BEEN WALKING ABOUT LONDON WITH THAT THING?”](/images/posts/blac-01.jpg)
+![“GOD GRACIOUS, HOLMES!” I CRIED. “YOU DON’T MEAN TO SAY THAT YOU HAVE BEEN WALKING ABOUT LONDON WITH THAT THING?”](../../../assets/images/posts/blac-01.jpg)
 
 "Good gracious, Holmes!" I cried. "You don't mean to say that you have been walking about London with that thing?"
 
@@ -188,7 +188,7 @@ There could be no doubt of the fact. The woodwork was cut, and the scratches sho
 
 "So I should say. It will be our fault if we are not there to receive him. Meanwhile, let me see the inside of the cabin."
 
-![HOLMES EXAMINED IT IN HIS MINUTE WAY.](/images/posts/blac-02.jpg)
+![HOLMES EXAMINED IT IN HIS MINUTE WAY.](../../../assets/images/posts/blac-02.jpg)
 
 The traces of the tragedy had been removed, but the furniture within the little room still stood as it had been on the night of the crime. For two hours, with most intense concentration, Holmes examined every object in turn, but his face showed that his quest was not a successful one. Once only he paused in his patient investigation.
 
@@ -380,7 +380,7 @@ The hoarse voice of the seaman broke in on our conversation.
 
 "How came you there?" asked Holmes.
 
-![We sat down and we drank and we yarned about old times](/images/posts/blac-07.jpg)
+![We sat down and we drank and we yarned about old times](../../../assets/images/posts/blac-07.jpg)
 
 "I'll tell it you from the beginning. Just sit me up a little, so as I can speak easy. It was in '83 that it happened—August of that year. Peter Carey was master of the SEA UNICORN, and I was spare harpooner. We were coming out of the ice-pack on our way home, with head winds and a week's southerly gale, when we picked up a little craft that had been blown north. There was one man on her—a landsman. The crew had thought she would founder and had made for the Norwegian coast in the dinghy. I guess they were all drowned. Well, we took him on board, this man, and he and the skipper had some long talks in the cabin. All the baggage we took off with him was one tin box. So far as I know, the man's name was never mentioned, and on the second night he disappeared as if he had never been. It was given out that he had either thrown himself overboard or fallen overboard in the heavy weather that we were having. Only one man knew what had happened to him, and that was me, for, with my own eyes, I saw the skipper tip up his heels and put him over the rail in the middle watch of a dark night, two days before we sighted the Shetland Lights. Well, I kept my knowledge to myself, and waited to see what would come of it. When we got back to Scotland it was easily hushed up, and nobody asked any questions. A stranger died by accident and it was nobody's business to inquire. Shortly after Peter Carey gave up the sea, and it was long years before I could find where he was. I guessed that he had done the deed for the sake of what was in that tin box, and that he could afford now to pay me well for keeping my mouth shut. I found out where he was through a sailor man that had met him in London, and down I went to squeeze him. The first night he was reasonable enough, and was ready to give me what would make me free of the sea for life. We were to fix it all two nights later. When I came, I found him three parts drunk and in a vile temper. We sat down and we drank and we yarned about old times, but the more he drank the less I liked the look on his face. I spotted that harpoon upon the wall, and I thought I might need it before I was through. Then at last he broke out at me, spitting and cursing, with murder in his eyes and a great clasp-knife in his hand. He had not time to get it from the sheath before I had the harpoon through him. Heavens! what a yell he gave! and his face gets between me and my sleep. I stood there, with his blood splashing round me, and I waited for a bit, but all was quiet, so I took heart once more. I looked round, and there was the tin box on the shelf. I had as much right to it as Peter Carey, anyhow, so I took it with me and left the hut. Like a fool I left my baccy-pouch upon the table.
 

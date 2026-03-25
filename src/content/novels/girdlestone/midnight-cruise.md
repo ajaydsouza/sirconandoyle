@@ -3,12 +3,12 @@ title: "Chapter XLVI: A Midnight Cruise"
 date: 2014-08-28
 novel: "girdlestone"
 order: 47
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 If ever two men were completely cowed and broken down those two were the African merchants and his son. Wet, torn, and soiled, they still struggled on in their aimless flight, crashing through hedges and clambering over obstacles, with the one idea in their frenzied minds of leaving miles between them and that fair accusing face. Exhausted and panting they still battled through the darkness and the storm, until they saw the gleam of the surge and heard the crash of the great waves upon the beach. Then they stopped amid the sand and the shingle. The moon was shining down now in all its calm splendour, illuminating the great tossing ocean and the long dark sweep of the Hampshire coast. By its light the two men looked at one another, such a look as two lost souls might have exchanged when they heard the gates of hell first clang behind them.
 

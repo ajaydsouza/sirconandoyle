@@ -3,13 +3,13 @@ title: "Part I – Chapter 2: Sherlock Holmes Discourses"
 date: 2012-10-24
 novel: "valley-of-fear"
 order: 3
-coverImage: "/images/posts/valley12.jpg"
+coverImage: "../../../../assets/images/posts/valley12.jpg"
 tags:
   - "sherlock-holmes"
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 It was one of those dramatic moments for which my friend existed. It would be an overstatement to say that he was shocked or even excited by the amazing announcement. Without having a tinge of cruelty in his singular composition, he was undoubtedly callous from long overstimulation. Yet, if his emotions were dulled, his intellectual perceptions were exceedingly active. There was no trace then of the horror which I had myself felt at this curt declaration; but his face showed rather the quiet and interested composure of the chemist who sees the crystals falling into position from his over-saturated solution.
 
@@ -169,7 +169,7 @@ Inspector MacDonald had grown steadily more impressed as the conversation procee
 
 "All about it" proved to be disappointingly little, and yet there was enough to assure us that the case before us might well be worthy of the expert's closest attention. He brightened and rubbed his thin hands together as he listened to the meagre but remarkable details. A long series of sterile weeks lay behind us, and here at last there was a fitting object for those remarkable powers which, like all special gifts, become irksome to their owner when they are not in use. That razor brain blunted and rusted with inaction.
 
-![LEANING FORWARD IN THE CAB, HOLMES LISTENED INTENTLY](/images/posts/valley12.jpg "LEANING FORWARD IN THE CAB, HOLMES LISTENED INTENTLY")
+![LEANING FORWARD IN THE CAB, HOLMES LISTENED INTENTLY](../../../../assets/images/posts/valley12.jpg "LEANING FORWARD IN THE CAB, HOLMES LISTENED INTENTLY")
 
 Sherlock Holmes's eyes glistened, his pale cheeks took a warmer hue, and his whole eager face shone with an inward light when the call for work reached him. Leaning forward in the cab, he listened intently to MacDonald's short sketch of the problem which awaited us in Sussex. The inspector was himself dependent, as he explained to us, upon a scribbled account forwarded to him by the milk train in the early hours of the morning. White Mason, the local officer, was a personal friend, and hence MacDonald had been notified much more promptly than is usual at Scotland Yard when provincials need their assistance. It is a very cold scent upon which the Metropolitan expert is generally asked to run.
 

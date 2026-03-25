@@ -3,14 +3,14 @@ title: "Some Congolese Apologies"
 date: 2013-07-16
 novel: "crime-of-the-congo"
 order: 15
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
 
 It only remains to examine some of the Congolese attempts to answer the unanswerable. It is but fair to hear the other side, and I will set down such points as they advance as clearly as I can:
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 1.—_That the Congo State is independent and that it is no one else’s business what occurs within its borders._
 

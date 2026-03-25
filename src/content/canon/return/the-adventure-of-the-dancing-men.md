@@ -3,7 +3,7 @@ title: "The Adventure of the Dancing Men"
 date: 2012-04-08
 collection: "return"
 order: 4
-coverImage: "/images/posts/dancing.jpg"
+coverImage: "../../../assets/images/posts/dancing.jpg"
 tags:
   - "dancing-men"
   - "return-2"
@@ -62,7 +62,7 @@ A heavy step was heard upon the stairs, and an instant later there entered a tal
 
 Holmes held up the paper so that the sunlight shone full upon it. It was a page torn from a notebook. The markings were done in pencil, and ran in this way:
 
-![The Dancing Men](/images/posts/dance01.gif "The Dancing Men")
+![The Dancing Men](../../../assets/images/posts/dance01.gif "The Dancing Men")
 
 Holmes examined it for some time, and then, folding it carefully up, he placed it in his pocketbook.
 
@@ -118,13 +118,13 @@ We had not long to wait, for our Norfolk squire came straight from the station a
 
 "Yes, I saw him at his work. But I will tell you everything in order. When I got back after my visit to you, the very first thing I saw next morning was a fresh crop of dancing men. They had been drawn in chalk upon the black wooden door of the toolhouse, which stands beside the lawn in full view of the front windows. I took an exact copy, and here it is." He unfolded a paper and laid it upon the table. Here is a hieroglyphics:
 
-![The Dancing Men](/images/posts/dance02.gif "The Dancing Men")
+![The Dancing Men](../../../assets/images/posts/dance02.gif "The Dancing Men")
 
 "Excellent!" said Holmes. "Excellent! Pray continue."
 
 "When I had taken the copy, I rubbed out the marks, but, two mornings later, a fresh inscription had appeared. I have a copy of it here":
 
-![The Dancing Men 03](/images/posts/dance03.gif "The Dancing Men 03")
+![The Dancing Men 03](../../../assets/images/posts/dance03.gif "The Dancing Men 03")
 
 Holmes rubbed his hands and chuckled with delight.
 
@@ -138,7 +138,7 @@ Holmes rubbed his hands and chuckled with delight.
 
 " 'Well, come to bed.' said she, 'and we can discuss it in the morning.'
 
-![My Wife threw her arms round me](/images/posts/dancing.jpg "My Wife threw her arms round me")
+![My Wife threw her arms round me](../../../assets/images/posts/dancing.jpg "My Wife threw her arms round me")
 
 "Suddenly, as she spoke, I saw her white face grow whiter yet in the moonlight, and her hand tightened upon my shoulder. Something was moving in the shadow of the tool-house. I saw a dark, creeping figure which crawled round the corner and squatted in front of the door. Seizing my pistol, I was rushing out, when my wife threw her arms round me and held me with convulsive strength. I tried to throw her off, but she clung to me most desperately. At last I got clear, but by the time I had opened the door and reached the house the creature was gone. He had left a trace of his presence, however, for there on the door was the very same arrangement of dancing men which had already twice appeared, and which I have copied on that paper. There was no other sign of the fellow anywhere, though I ran all over the grounds. And yet the amazing thing is that he must have been there all the time, for when I examined the door again in the morning, he had scrawled some more of his pictures under the line which I had already seen."
 
@@ -148,7 +148,7 @@ Holmes rubbed his hands and chuckled with delight.
 
 Again he produced a paper. The new dance was in this form:
 
-![The Dancing Men 04](/images/posts/dance04.gif "The Dancing Men 04")
+![The Dancing Men 04](../../../assets/images/posts/dance04.gif "The Dancing Men 04")
 
 "Tell me," said Holmes -- and I could see by his eyes that he was much excited -- "was this a mere addition to the first or did it appear to be entirely separate?"
 
@@ -170,7 +170,7 @@ I confess that I was filled with curiosity, but I was aware that Holmes liked to
 
 But there was a delay in that answering telegram, and two days of impatience followed, during which Holmes pricked up his ears at every ring of the bell. On the evening of the second there came a letter from Hilton Cubitt. All was quiet with him, save that a long inscription had appeared that morning upon the pedestal of the sundial. He inclosed a copy of it, which is here reproduced:
 
-![The Dancing Men 05](/images/posts/dance05.gif "The Dancing Men 05")
+![The Dancing Men 05](../../../assets/images/posts/dance05.gif "The Dancing Men 05")
 
 Holmes bent over this grotesque frieze for some minutes, and then suddenly sprang to his feet with an exclamation of surprise and dismay. His face was haggard with anxiety.
 
@@ -332,9 +332,9 @@ When the youth had been dispatched with the note, Sherlock Holmes gave his instr
 
 "I think that I can help you to pass an hour in an interesting and profitable manner," said Holmes, drawing his chair up to the table, and spreading out in front of him the various papers upon which were recorded the antics of the dancing men. "As to you, friend Watson, I owe you every atonement for having allowed your natural curiosity to remain so long unsatisfied. To you, Inspector, the whole incident may appeal as a remarkable professional study. I must tell you, first of all, the interesting circumstances connected with the previous consultations which Mr. Hilton Cubitt has had with me in Baker Street." He then shortly recapitulated the facts which have already been recorded. "I have here in front of me these singular productions, at which one might smile, had they not proved themselves to be the forerunners of so terrible a tragedy. I am fairly familiar with all forms of secret writings, and am myself the author of a trifling monograph upon the subject, in which I analyze one hundred and sixty separate ciphers, but I confess that this is entirely new to me. The object of those who invented the system has apparently been to conceal that these characters convey a message, and to give the idea that they are the mere random sketches of children.
 
-"Having once recognized, however, that the symbols stood for letters, and having applied the rules which guide us in all forms of secret writings, the solution was easy enough. The first message submitted to me was so short that it was impossible for me to do more than to say, with some confidence, that the symbol ![The Dancing Men 06](/images/posts/dance06.gif "The Dancing Men 06") stood for E. As you are aware, E is the most common letter in the English alphabet, and it predominates to so marked an extent that even in a short sentence one would expect to find it most often. Out of fifteen symbols in the first message, four were the same, so it was reasonable to set this down as E. It is true that in some cases the figure was bearing a flag, and in some cases not, but it was probable, from the way in which the flags were distributed, that they were used to break the sentence up into words. I accepted this as a hypothesis, and noted that E was represented by ![The Dancing Men 06](/images/posts/dance06.gif "The Dancing Men 06").
+"Having once recognized, however, that the symbols stood for letters, and having applied the rules which guide us in all forms of secret writings, the solution was easy enough. The first message submitted to me was so short that it was impossible for me to do more than to say, with some confidence, that the symbol ![The Dancing Men 06](../../../assets/images/posts/dance06.gif "The Dancing Men 06").
 
-"But now came the real difficulty of the inquiry. The order of the English letters after E is by no means well marked, and any preponderance which may be shown in an average of a printed sheet may be reversed in a single short sentence. Speaking roughly, T, A, 0, I, N, S, H, R, D, and L are the numerical order in which letters occur; but T, A, 0, and I are very nearly abreast of each other, and it would be an endless task to try each combination until a meaning was arrived at. I therefore waited for fresh material. In my second interview with Mr. Hilton Cubitt he was able to give me two other short sentences and one message, which appeared -- since there was no flag -- to be a single word. Here are the symbols. Now, in the single word I have already got the two E's coming second and fourth in a word of five letters. It might be 'sever.' or 'lever,' or 'never.' There can be no question that the latter as a reply to an appeal is far the most probable, and the circumstances pointed to its being a reply written by the lady. Accepting it as correct, we are now able to say that the symbols ![The Dancing Men 07](/images/posts/dance07.gif "The Dancing Men 07") stand respectively for N, V, and R.
+"But now came the real difficulty of the inquiry. The order of the English letters after E is by no means well marked, and any preponderance which may be shown in an average of a printed sheet may be reversed in a single short sentence. Speaking roughly, T, A, 0, I, N, S, H, R, D, and L are the numerical order in which letters occur; but T, A, 0, and I are very nearly abreast of each other, and it would be an endless task to try each combination until a meaning was arrived at. I therefore waited for fresh material. In my second interview with Mr. Hilton Cubitt he was able to give me two other short sentences and one message, which appeared -- since there was no flag -- to be a single word. Here are the symbols. Now, in the single word I have already got the two E's coming second and fourth in a word of five letters. It might be 'sever.' or 'lever,' or 'never.' There can be no question that the latter as a reply to an appeal is far the most probable, and the circumstances pointed to its being a reply written by the lady. Accepting it as correct, we are now able to say that the symbols ![The Dancing Men 07](../../../assets/images/posts/dance07.gif "The Dancing Men 07") stand respectively for N, V, and R.
 
 "Even now I was in considerable difficulty, but a happy thought put me in possession of several other letters. It occurred to me that if these appeals came, as I expected, from someone who had been intimate with the lady in her early life, a combination which contained two E's with three letters between might very well stand for the name 'ELSIE.' On examination I found that such a combination formed the termination of the message which was three times repeated. It was certainly some appeal to 'Elsie.' In this way I had got my L, S, and I. But what appeal could it be? There were only four letters in the word which preceded 'Elsie,' and it ended in E. Surely the word must be 'COME.' I tried all other four letters ending in E, but could find none to fit the case. So now I was in possession of C. 0, and M, and I was in a position to attack the first message once more, dividing it into words and putting dots for each symbol which was still unknown. So treated, it worked out in this fashion:
 
@@ -438,7 +438,7 @@ We stood at the window and watched the cab drive away. As I turned back, my eye 
 
 It contained no word, but this little line of dancing men:
 
-![The Dancing Men 08](/images/posts/dance08.gif "The Dancing Men 08")
+![The Dancing Men 08](../../../assets/images/posts/dance08.gif "The Dancing Men 08")
 
 "If you use the code which I have explained," said Holmes, "you will find that it simply means 'Come here at once.' I was convinced that it was an invitation which he would not refuse, since he could never imagine that it could come from anyone but the lady. And so, my dear Watson, we have ended by turning the dancing men to good when they have so often been the agents of evil, and I think that I have fulfilled my promise of giving you something unusual for your notebook. Three-forty is our train, and I fancy we should be back in Baker Street for dinner."
 

@@ -3,12 +3,12 @@ title: "Chapter I: Mr. John Harston Keeps an Appointment"
 date: 2014-01-30
 novel: "girdlestone"
 order: 2
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 The approach to the offices of Girdlestone and Co. was not a very dignified one, nor would the uninitiated who traversed it form any conception of the commercial prosperity of the firm in question. Close to the corner of a broad and busy street, within a couple of hundred yards of Fenchurch Street Station, a narrow doorway opens into a long whitewashed passage. On one side of this is a brass plate with the inscription "Girdlestone and Co., African Merchants," and above it a curious hieroglyphic supposed to represent a human hand in the act of pointing. Following the guidance of this somewhat ghostly emblem, the wayfarer finds himself in a small square yard surrounded by doors, upon one of which the name of the firm reappears in large white letters, with the word "Push" printed beneath it. If he follows this laconic invitation he will make his way into a long, low apartment, which is the counting-house of the African traders.
 

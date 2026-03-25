@@ -3,7 +3,7 @@ title: "The Sign of Four by Sir Arthur Conan Doyle"
 date: 2012-06-16
 novel: "sign-of-four"
 order: 1
-coverImage: "/images/posts/TheSignOfTheFour.jpg"
+coverImage: "../../../../assets/images/posts/TheSignOfTheFour.jpg"
 tags:
   - "sign-of-four"
 ---
@@ -12,7 +12,7 @@ tags:
 
 The story collects a colorful group of people together, among them Jonathan Small who has a wooden leg and a dwarf from Tonga islands.
 
-![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg "The Sign Of The Four")
+![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg "The Sign Of The Four")
 
 Chapter 1 - [The Science of Deduction](/science-deduction-2/%20%22The%20Sign%20of%20Four%20%E2%80%93%20Chapter%201:%20The%20Science%20of%20Deduction%22/)
 

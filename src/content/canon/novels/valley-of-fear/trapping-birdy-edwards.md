@@ -3,13 +3,13 @@ title: "Part II – Chapter 7: The Trapping of Birdy Edwards"
 date: 2012-12-11
 novel: "valley-of-fear"
 order: 15
-coverImage: "/images/posts/valley27.jpg"
+coverImage: "../../../../assets/images/posts/valley27.jpg"
 tags:
   - "sherlock-holmes"
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 As McMurdo had said, the house in which he lived was a lonely one and very well suited for such a crime as they had planned. It was on the extreme fringe of the town and stood well back from the road. In any other case the conspirators would have simply called out their man, as they had many a time before, and emptied their pistols into his body; but in this instance it was very necessary to find out how much he knew how he knew it, and what had been passed on to his employers.
 
@@ -155,7 +155,7 @@ Two months had gone by, and the case had to some extent passed from our minds. T
 
 Late last night Mrs. Hudson, our landlady, brought up a message that a gentleman wished to see Holmes, and that the matter was of the utmost importance. Close at the heels of his messenger came Cecil Barker, our friend of the moated Manor House. His face was drawn and haggard.
 
-![I'VE HAD BAD NEWS TERRIBLE NEWS, MR. HOLMES](/images/posts/valley27.jpg "I'VE HAD BAD NEWS TERRIBLE NEWS, MR. HOLMES")
+![I'VE HAD BAD NEWS TERRIBLE NEWS, MR. HOLMES](../../../../assets/images/posts/valley27.jpg "I'VE HAD BAD NEWS TERRIBLE NEWS, MR. HOLMES")
 
 "I've had bad news -- terrible news, Mr. Holmes," said he.
 

@@ -3,14 +3,14 @@ title: "Further Fruits of the System"
 date: 2013-06-26
 novel: "crime-of-the-congo"
 order: 7
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
 
 For a moment I must interrupt the narrative of the long, dismal succession of atrocities in order to explain certain new factors in the situation.
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 It has already been shown that the Congo State, unable to handle the whole of its vast domain, had sublet large tracts of it to monopolist companies, in absolute contradiction to Article V. of the Berlin Treaty. Up to the year 1897, these companies were registered in Belgium, and had some pretence to being international in scope. The State had no open or direct control over them. This was now altered. The State drew closer the bonds which united it to these commercial undertakings. They were, for the most part, dissolved, and then reconstructed under Congo law. In most cases, in return for the monopoly, the State was given control, sometimes to the extent of appointing all managers and agents. Half the shares of the company or half the profits were usually made over to the State. Thus one must bear in mind in future that whether one talks of the Abir Company, of the Kasai, the Katanga, the Anversoise, or any other, it is really with the State—that is, with King Leopold—that one has to do. He owned the companies, but paid them fifty per cent. commission for doing all the work. As their profits were such as might be expected where nothing was paid either for produce or for labour (varying from fifty to seven hundred per cent. per annum), all parties to the bargain were the gainers.
 

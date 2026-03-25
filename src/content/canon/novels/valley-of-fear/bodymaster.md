@@ -3,13 +3,13 @@ title: "Part II – Chapter 2: The Bodymaster"
 date: 2012-11-21
 novel: "valley-of-fear"
 order: 10
-coverImage: "/images/posts/valley22.jpg"
+coverImage: "../../../../assets/images/posts/valley22.jpg"
 tags:
   - "sherlock-holmes"
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 McMurdo was a man who made his mark quickly. Wherever he was the folk around soon knew it. Within a week he had become infinitely the most important person at Shafter's. There were ten or a dozen boarders there; but they were honest foremen or commonplace clerks from the stores, of a very different calibre from the young Irishman. Of an evening when they gathered together his joke was always the readiest, his conversation the brightest, and his song the best. He was a born boon companion, with a magnetism which drew good humour from all around him.
 
@@ -389,7 +389,7 @@ The message was unnecessary; for the set. cruel face of the man himself was look
 
 "You would throw over one that has stood by you this five years in favour of a man that you never saw before in your life? You're not Bodymaster for life, Jack McGinty, and by God! when next it comes to a vote --"
 
-![HE HURLED HIM ACROSS ONE OF THE BARRELS](/images/posts/valley22.jpg "HE HURLED HIM ACROSS ONE OF THE BARRELS")
+![HE HURLED HIM ACROSS ONE OF THE BARRELS](../../../../assets/images/posts/valley22.jpg "HE HURLED HIM ACROSS ONE OF THE BARRELS")
 
 The Councillor sprang at him like a tiger. His hand closed round the other's neck, and he hurled him back across one of the barrels. In his mad fury he would have squeezed the life out of him if McMurdo had not interfered.
 

@@ -3,12 +3,12 @@ title: "The Lost World: Chapter 4 – It's just the very biggest thing in the Wo
 date: 2012-04-26
 novel: "lost-world"
 order: 5
-coverImage: "/images/posts/The-Lost-World.jpg"
+coverImage: "../../../assets/images/posts/The-Lost-World.jpg"
 tags:
   - "lost-world"
 ---
 
-[![The Lost World by Sir Arthur Conan Doyle](/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/the-lost-world/)Hardly was it shut when Mrs. Challenger darted out from the dining-room. The small woman was in a furious temper. She barred her husband's way like an enraged chicken in front of a bulldog. It was evident that she had seen my exit, but had not observed my return.
+[![The Lost World by Sir Arthur Conan Doyle](../../../assets/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/the-lost-world/)Hardly was it shut when Mrs. Challenger darted out from the dining-room. The small woman was in a furious temper. She barred her husband's way like an enraged chicken in front of a bulldog. It was evident that she had seen my exit, but had not observed my return.
 
 "You brute, George!" she screamed. "You've hurt that nice young man."
 

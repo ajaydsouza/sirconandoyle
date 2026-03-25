@@ -3,7 +3,7 @@ title: "The Musgrave Ritual"
 date: 2011-11-26
 collection: "memoirs"
 order: 6
-coverImage: "/images/posts/ritual.jpg"
+coverImage: "../../../assets/images/posts/ritual.jpg"
 tags:
   - "memoirs-2"
   - "musgrave-ritual"
@@ -26,7 +26,7 @@ He dived his arm down to the bottom of the chest and brought up a small wooden b
 
 "It is a curious collection."
 
-![A curious collection](/images/posts/ritual.jpg "A curious collection")
+![A curious collection](../../../assets/images/posts/ritual.jpg "A curious collection")
 
 "Very curious, and the story that hangs round it will strike you as being more curious still."
 

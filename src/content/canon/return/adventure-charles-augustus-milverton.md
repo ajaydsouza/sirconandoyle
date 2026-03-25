@@ -3,7 +3,7 @@ title: "The Adventure of Charles Augustus Milverton"
 date: 2013-02-15
 collection: "return"
 order: 8
-coverImage: "/images/posts/chas-01.jpg"
+coverImage: "../../../assets/images/posts/chas-01.jpg"
 tags:
   - "the-return-of-sherlock-holmes"
 ---
@@ -40,7 +40,7 @@ I had seldom heard my friend speak with such intensity of feeling.
 
 At that instant there was a clatter and a rattle in the street below. Looking down I saw a stately carriage and pair, the brilliant lamps gleaming on the glossy haunches of the noble chestnuts. A footman opened the door, and a small, stout man in a shaggy astrakhan overcoat descended. A minute later he was in the room.
 
-![CHARLES AUGUSTUS MILVERTON](/images/posts/chas-01.jpg)
+![CHARLES AUGUSTUS MILVERTON](../../../assets/images/posts/chas-01.jpg)
 
 Charles Augustus Milverton was a man of fifty, with a large, intellectual head, a round, plump, hairless face, a perpetual frozen smile, and two keen gray eyes, which gleamed brightly from behind broad, gold-rimmed glasses. There was something of Mr. Pickwick's benevolence in his appearance, marred only by the insincerity of the fixed smile and by the hard glitter of those restless and penetrating eyes. His voice was as smooth and suave as his countenance, as he advanced with a plump little hand extended, murmuring his regret for having missed us at his first visit. Holmes disregarded the outstretched hand and looked at him with a face of granite. Milverton's smile broadened, he shrugged his shoulders removed his overcoat, folded it with great deliberation over the back of a chair, and then took a seat.
 
@@ -186,7 +186,7 @@ With our black silk face-coverings, which turned us into two of the most trucule
 
 The place was locked, but Holmes removed a circle of glass and turned the key from the inside. An instant afterwards he had closed the door behind us, and we had become felons in the eyes of the law. The thick, warm air of the conservatory and the rich, choking fragrance of exotic plants took us by the throat. He seized my hand in the darkness and led me swiftly past banks of shrubs which brushed against our faces. Holmes had remarkable powers, carefully cultivated, of seeing in the dark. Still holding my hand in one of his, he opened a door, and I was vaguely conscious that we had entered a large room in which a cigar had been smoked not long before. He felt his way among the furniture, opened another door, and closed it behind us. Putting out my hand I felt several coats hanging from the wall, and I understood that I was in a passage. We passed along it and Holmes very gently opened a door upon the right-hand side. Something rushed out at us and my heart sprang into my mouth, but I could have laughed when I realized that it was the cat. A fire was burning in this new room, and again the air was heavy with tobacco smoke. Holmes entered on tiptoe, waited for me to follow, and then very gently closed the door. We were in Milverton's study, and a portiere at the farther side showed the entrance to his bedroom.
 
-![HE STOOD WITH SLANTING HEAD LISTENING INTENTLY.](/images/posts/chas-03.jpg)
+![HE STOOD WITH SLANTING HEAD LISTENING INTENTLY.](../../../assets/images/posts/chas-03.jpg)
 
 It was a good fire, and the room was illuminated by it. Near the door I saw the gleam of an electric switch, but it was unnecessary, even if it had been safe, to turn it on. At one side of the fireplace was a heavy curtain which covered the bay window we had seen from outside. On the other side was the door which communicated with the veranda. A desk stood in the centre, with a turning-chair of shining red leather. Opposite was a large bookcase, with a marble bust of Athene on the top. In the corner, between the bookcase and the wall, there stood a tall, green safe, the firelight flashing back from the polished brass knobs upon its face. Holmes stole across and looked at it. Then he crept to the door of the bedroom, and stood with slanting head listening intently. No sound came from within. Meanwhile it had struck me that it would be wise to secure our retreat through the outer door, so I examined it. To my amazement, it was neither locked nor bolted. I touched Holmes on the arm, and he turned his masked face in that direction. I saw him start, and he was evidently as surprised as I.
 
@@ -258,6 +258,6 @@ We had breakfasted and were smoking our morning pipe on the day after the remark
 
 "Well, I'm afraid I can't help you, Lestrade," said Holmes. "The fact is that I knew this fellow Milverton, that I considered him one of the most dangerous men in London, and that I think there are certain crimes which the law cannot touch, and which therefore, to some extent, justify private revenge. No, it's no use arguing. I have made up my mind. My sympathies are with the criminals rather than with the victim, and I will not handle this case."
 
-![FOLLOWING HIS GAZE I SAW THE PICTURE OF A REGAL AND STATELY LADY IN COURT DRESS.](/images/posts/chas-06.jpg)
+![FOLLOWING HIS GAZE I SAW THE PICTURE OF A REGAL AND STATELY LADY IN COURT DRESS.](../../../assets/images/posts/chas-06.jpg)
 
 Holmes had not said one word to me about the tragedy which we had witnessed, but I observed all the morning that he was in his most thoughtful mood, and he gave me the impression, from his vacant eyes and his abstracted manner, of a man who is striving to recall something to his memory. We were in the middle of our lunch, when he suddenly sprang to his feet. "By Jove, Watson, I've got it!" he cried. "Take your hat! Come with me!" He hurried at his top speed down Baker Street and along Oxford Street, until we had almost reached Regent Circus. Here, on the left hand, there stands a shop window filled with photographs of the celebrities and beauties of the day. Holmes's eyes fixed themselves upon one of them, and following his gaze I saw the picture of a regal and stately lady in Court dress, with a high diamond tiara upon her noble head. I looked at that delicately curved nose, at the marked eyebrows, at the straight mouth, and the strong little chin beneath it. Then I caught my breath as I read the time-honoured title of the great nobleman and statesman whose wife she had been. My eyes met those of Holmes, and he put his finger to his lips as we turned away from the window.

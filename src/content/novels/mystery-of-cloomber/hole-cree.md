@@ -3,14 +3,14 @@ title: "At the Hole of Cree"
 date: 2013-10-03
 novel: "mystery-of-cloomber"
 order: 17
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 It was dark enough when we started to make it no easy matter to find our way across the moors, but as we advanced it grew lighter and lighter, until by the time we reached Fullarton's cabin it was broad daylight.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 Early as it was, he was up and about, for the Wigtown peasants are an early rising race. We explained our mission to him in as few words as possible, and having made his bargain—what Scot ever neglected that preliminary?—he agreed not only to let us have the use of his dog but to come with us himself.
 

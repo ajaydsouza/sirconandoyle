@@ -3,12 +3,12 @@ title: "Chapter XXVI: Breaking Ground"
 date: 2014-05-26
 novel: "girdlestone"
 order: 27
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 In spite of John Girdlestone's temporary satisfaction and the stoical face which he presented to the world, it is probable that in the whole of London there was no more unhappy and heart-weary man. The long fight against impending misfortune had shattered his iron constitution and weakened him both in body and in mind. It was remarked upon 'Change how much he had aged of late, and moralists commented upon the vanity and inefficacy of the wealth which could not smooth the wrinkles from the great trader's haggard visage. He was surprised himself when he looked in the glass at the change which had come over him. "Never mind," he would say in his dogged heart a hundred times a day, "they can't beat me. Do what they will, they can't beat me." This was the one thought which sustained and consoled him. The preservation of his commercial credit had become the aim and object of his life, to which there was nothing that he was not prepared to sacrifice.
 

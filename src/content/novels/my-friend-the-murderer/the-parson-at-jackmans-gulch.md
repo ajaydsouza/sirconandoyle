@@ -3,7 +3,7 @@ title: "The Parson at Jackman's Gulch"
 date: 2022-12-06
 novel: "my-friend-the-murderer"
 order: 12
-coverImage: "/images/posts/My-Friend-The-Murderer.jpg"
+coverImage: "../../../assets/images/posts/My-Friend-The-Murderer.jpg"
 tags:
   - "my-friend-the-murderer"
 ---

@@ -3,13 +3,13 @@ title: "Chapter 1: Mr. Sherlock Holmes"
 date: 2012-06-25
 novel: "hound-of-the-baskervilles"
 order: 1
-coverImage: "/images/posts/hound01.jpg"
+coverImage: "../../../../assets/images/posts/hound01.jpg"
 tags:
   - "hound-of-baskervilles"
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 Mr. Sherlock Holmes, who was usually very late in the mornings, save upon those not infrequent occasions when he was up all night, was seated at the breakfast table. I stood upon the hearth-rug and picked up the stick which our visitor had left behind him the night before. It was a fine, thick piece of wood, bulbous-headed, of the sort which is known as a "Penang lawyer." Just under the head was a broad silver band nearly an inch across. "To James Mortimer, M.R.C.S., from his friends of the C.C.H.," was engraved upon it, with the date "1884." It was just such a stick as the old-fashioned family practitioner used to carry -- dignified, solid, and reassuring.
 
@@ -85,7 +85,7 @@ He had risen and paced the room as he spoke. Now he halted in the recess of the 
 
 "For the very simple reason that I see the dog himself on our very door-step, and there is the ring of its owner. Don't move, I beg you, Watson. He is a professional brother of yours, and your presence may be of assistance to me. Now is the dramatic moment of fate, Watson, when you hear a step upon the stair which is walking into your life, and you know not whether for good or ill. What does Dr. James Mortimer, the man of science, ask of Sherlock Holmes, the specialist in crime? Come in!"
 
-![His eyes fell on the stick in Holmes' hand](/images/posts/hound01.jpg "His eyes fell on the stick in Holmes' hand")
+![His eyes fell on the stick in Holmes' hand](../../../../assets/images/posts/hound01.jpg "His eyes fell on the stick in Holmes' hand")
 
 The appearance of our visitor was a surprise to me, since I had expected a typical country practitioner. He was a very tall, thin man, with a long nose like a beak, which jutted out between two keen, gray eyes, set closely together and sparkling brightly from behind a pair of gold-rimmed glasses. He was clad in a professional but rather slovenly fashion, for his frock-coat was dingy and his trousers frayed. Though young, his long back was already bowed, and he walked with a forward thrust of his head and a general air of peering benevolence. As he entered his eyes fell upon the stick in Holmes's hand, and he ran towards it with an exclamation of joy. "I am so very glad," said he. "I was not sure whether I had left it here or in the Shipping Office. I would not lose that stick for the world."
 

@@ -3,12 +3,12 @@ title: "Chapter XLVIII: Captain Hamilton Miggs sees a Vision"
 date: 2014-09-17
 novel: "girdlestone"
 order: 49
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 Ezra Girdlestone had given many indications during his life, both in Africa and elsewhere, of being possessed of the power of grasping a situation and of acting for the best at the shortest notice. He never showed this quality more conclusively than at that terrible moment, when he realized not only that the crime in which he bad participated had failed, but that all was discovered, and that his father and he were hunted criminals. With the same intuitive quickness which made him a brilliant man of business, he saw instantly what were the only available means of escape, and proceeded at once to adopt them. If they could but reach the vessel of Captain Hamilton Miggs they might defy the pursuit of the law.
 

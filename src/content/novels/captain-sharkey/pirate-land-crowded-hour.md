@@ -3,12 +3,12 @@ title: "A Pirate of the Land - One Crowded Hour"
 date: 2013-05-22
 novel: "captain-sharkey"
 order: 7
-coverImage: "/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
+coverImage: "../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
 tags:
   - "captain-sharkey"
 ---
 
-![The Dealings of Captain Sharkey and Other Tales of Pirates](/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates-200x300.jpg)
+![The Dealings of Captain Sharkey and Other Tales of Pirates](../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg)
 
 The place was the Eastbourne-Tunbridge road, not very far from the Cross in Hand—a lonely stretch, with a heath running upon either side. The time was half-past eleven upon a Sunday night in the late summer. A motor was passing slowly down the road.
 

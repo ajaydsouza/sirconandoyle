@@ -3,7 +3,7 @@ title: "The Adventure of the Solitary Cyclist"
 date: 2013-02-01
 collection: "return"
 order: 5
-coverImage: "/images/posts/cyclist.jpg"
+coverImage: "../../../assets/images/posts/cyclist.jpg"
 tags:
   - "return-2"
   - "sherlock-holmes"
@@ -53,7 +53,7 @@ The young lady blushed and laughed.
 
 "And now, Mr. Holmes, I come at last to the special thing which has caused me to ask your advice to-day. You must know that every Saturday forenoon I ride on my bicycle to Farnham Station, in order to get the 12:22 to town. The road from Chiltern Grange is a lonely one, and at one spot it is particularly so, for it lies for over a mile between Charlington Heath upon one side and the woods which lie round Charlington Hall upon the other. You could not find a more lonely tract of road anywhere, and it is quite rare to meet so much as a cart, or a peasant, until you reach the high road near Crooksbury Hill. Two weeks ago I was passing this place, when I chanced to look back over my shoulder, and about two hundred yards behind me I saw a man, also on a bicycle. He seemed to be a middle-aged man, with a short, dark beard. I looked back before I reached Farnham, but the man was gone, so I thought no more about it. But you can imagine how surprised I was, Mr. Holmes, when, on my return on the Monday, I saw the same man on the same stretch of road. My astonishment was increased when the incident occurred again, exactly as before, on the following Saturday and Monday. He always kept his distance and did not molest me in any way, but still it certainly was very odd. I mentioned it to Mr. Carruthers, who seemed interested in what I said, and told me that he had ordered a horse and trap, so that in future I should not pass over these lonely roads without some companion.
 
-![I slowed down my machine](/images/posts/cyclist.jpg)
+![I slowed down my machine](../../../assets/images/posts/cyclist.jpg)
 
 "The horse and trap were to have come this week, but for some reason they were not delivered, and again I had to cycle to the station. That was this morning. You can think that I looked out when I came to Charlington Heath, and there, sure enough, was the man, exactly as he had been the two weeks before. He always kept so far from me that I could not clearly see his face, but it was certainly someone whom I did not know. He was dressed in a dark suit with a cloth cap. The only thing about his face that I could clearly see was his dark beard. To-day I was not alarmed, but I was filled with curiosity, and I determined to find out who he was and what he wanted. I slowed down my machine, but he slowed down his. Then I stopped altogether, but he stopped also. Then I laid a trap for him. There is a sharp turning of the road, and I pedalled very quickly round this, and then I stopped and waited. I expected him to shoot round and pass me before he could stop. But he never appeared. Then I went back and looked round the corner. I could see a mile of road, but he was not on it. To make it the more extraordinary, there was no side road at this point down which he could have gone."
 

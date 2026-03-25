@@ -3,13 +3,13 @@ title: "Chapter 3: The Problem"
 date: 2012-07-03
 novel: "hound-of-the-baskervilles"
 order: 3
-coverImage: "/images/posts/hound03.jpg"
+coverImage: "../../../../assets/images/posts/hound03.jpg"
 tags:
   - "hound-of-baskervilles"
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
  
 
@@ -171,7 +171,7 @@ I confess at these words a shudder passed through me. There was a thrill in the 
 
 "Twenty-four hours. At ten o'clock tomorrow, Dr. Mortimer, I will be much obliged to you if you will call upon me here, and it will be of help to me in my plans for the future if you will bring Sir Henry Baskerville with you."
 
-![HE SCRIBBLED THE APPOINTMENT ON HIS SHIRT-CUFF](/images/posts/hound03.jpg "HE SCRIBBLED THE APPOINTMENT ON HIS SHIRT-CUFF")
+![HE SCRIBBLED THE APPOINTMENT ON HIS SHIRT-CUFF](../../../../assets/images/posts/hound03.jpg "HE SCRIBBLED THE APPOINTMENT ON HIS SHIRT-CUFF")
 
 "I will do so, Mr. Holmes." He scribbled the appointment on his shirt-cuff and hurried off in his strange, peering, absentminded fashion. Holmes stopped him at the head of the stair. "Only one more question, Dr. Mortimer. You say that before Sir Charles Baskerville's death several people saw this apparition upon the moor?"
 

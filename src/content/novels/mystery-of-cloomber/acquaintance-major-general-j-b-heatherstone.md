@@ -3,14 +3,14 @@ title: "Of our further acquaintance with Major-General J. B. Heatherstone"
 date: 2013-09-20
 novel: "mystery-of-cloomber"
 order: 4
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 There was, as may well be imagined, much stir amongst our small community at the news that the Hall was to be inhabited once more, and considerable speculation as to the new tenants, and their object in choosing this particular part of the country for their residence.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 It speedily became apparent that, whatever their motives might be, they had definitely determined upon a lengthy stay, for relays of plumbers and of joiners came down from Wigtown, and there was hammering and repairing going on from morning till night.
 

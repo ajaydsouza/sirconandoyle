@@ -3,7 +3,7 @@ title: "The Lost World by Sir Arthur Conan Doyle"
 date: 2011-09-22
 novel: "lost-world"
 order: 1
-coverImage: "/images/posts/The-Lost-World.jpg"
+coverImage: "../../../assets/images/posts/The-Lost-World.jpg"
 tags:
   - "lost-world"
 ---
@@ -14,7 +14,7 @@ The Lost World is a novel released in 1912 by [Sir Arthur Conan Doyle](/biograph
 
 ### Foreword
 
-Mr. E. D. Malone desires to state that both the injunction for restraint and the libel action have been withdrawn unreservedly by Professor G. E. Challenger, who, being satisfied that no criticism or comment in this book is meant in an offensive spirit, has guaranteed that he will place no impediment to its publication and circulation. ![The Lost World by Sir Arthur Conan Doyle](/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")
+Mr. E. D. Malone desires to state that both the injunction for restraint and the libel action have been withdrawn unreservedly by Professor G. E. Challenger, who, being satisfied that no criticism or comment in this book is meant in an offensive spirit, has guaranteed that he will place no impediment to its publication and circulation. ![The Lost World by Sir Arthur Conan Doyle](../../../assets/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")
 
 ### Table of Contents
 

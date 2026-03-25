@@ -3,12 +3,12 @@ title: "The Lost World: Chapter 1 - There Are Heroisms All Round Us"
 date: 2012-04-15
 novel: "lost-world"
 order: 2
-coverImage: "/images/posts/The-Lost-World.jpg"
+coverImage: "../../../assets/images/posts/The-Lost-World.jpg"
 tags:
   - "lost-world"
 ---
 
-[![The Lost World by Sir Arthur Conan Doyle](/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/the-lost-world/)
+[![The Lost World by Sir Arthur Conan Doyle](../../../assets/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/the-lost-world/)
 
 Mr. Hungerton, her father, really was the most tactless person upon earth,--a fluffy, feathery, untidy cockatoo of a man, perfectly good-natured, but absolutely centered upon his own silly self. If anything could have driven me from Gladys, it would have been the thought of such a father-in-law. I am convinced that he really believed in his heart that I came round to the Chestnuts three days a week for the pleasure of his company, and very especially to hear his views upon bimetallism, a subject upon which he was by way of being an authority.
 

@@ -3,7 +3,7 @@ title: "The Man with the Watches"
 date: 2017-08-27
 novel: "tales-of-terror-and-mystery"
 order: 10
-coverImage: "/images/posts/Tales-of-Terror-and-Mystery.jpg"
+coverImage: "../../../assets/images/posts/Tales-of-Terror-and-Mystery.jpg"
 tags:
   - "mystery"
   - "tales-of-terror-and-mystery"
@@ -132,4 +132,4 @@ To this elaborate and plausible hypothesis the answer of the police and of the c
 
 "There's just one other thing that I have to ask you, sir, and I should take it as a kind return for all this explanation, if you could do it for me. You remember that Testament that was picked up. I always carried it in my inside pocket, and it must have come out in my fall. I value it very highly, for it was the family book with my birth and my brother's marked by my father in the beginning of it. I wish you would apply at the proper place and have it sent to me. It can be of no possible value to anyone else. If you address it to X, Bassano's Library, Broadway, New York, it is sure to come to hand."
 
-![Tales of Terror and Mystery](/images/posts/Tales-of-Terror-and-Mystery-700x888.jpg)
+![Tales of Terror and Mystery](../../../assets/images/posts/Tales-of-Terror-and-Mystery-700x888.jpg)

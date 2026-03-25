@@ -3,7 +3,7 @@ title: "The Stark Munro Letters"
 date: 2013-07-28
 novel: "stark-munro-letters"
 order: 1
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
@@ -24,7 +24,7 @@ The Stark Munro Letters is a novel by British author Sir Arthur Conan Doyle firs
 
 As an epistolary novel it takes the form of twelve long letters written by J. Stark Munro between March 1881 and November 1884 and sent to his friend Herbert Swanborough of Lowell, Massachusetts. Stark Munro is a recent graduate from medical school, and the letters detail his attempts to create a medical practice in partnership with the brilliant but unorthodox James Cullingworth. The novel is in fact a thinly-disguised account of Doyle's experiences with George Turnavine Budd with whom he was in partnership, before finally setting up his own practice in Plymouth in 1882. _Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Stark_Munro_Letters)_
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 ## Contents
 

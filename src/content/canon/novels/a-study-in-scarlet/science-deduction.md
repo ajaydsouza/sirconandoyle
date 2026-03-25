@@ -3,13 +3,13 @@ title: "Part I – Chapter 2: The Science of Deduction"
 date: 2012-08-29
 novel: "a-study-in-scarlet"
 order: 3
-coverImage: "/images/posts/scarlet12.gif"
+coverImage: "../../../../assets/images/posts/scarlet12.gif"
 tags:
   - "sherlock-holmes"
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 We met next day as he had arranged, and inspected the rooms at No. 22lB, Baker Street, of which he had spoken at our meeting. They consisted of a couple of comfortable bedrooms and a single large airy sitting-room, cheerfully furnished, and illuminated by two broad windows. So desirable in every way were the apartments, and so moderate did the terms seem when divided between us, that the bargain was concluded upon the spot, and we at once entered into possession. That very evening I moved my things round from the hotel, and on the following morning Sherlock Holmes followed me with several boxes and portmanteaus. For a day or two we were busily employed in unpacking and laying out our property to the best advantage. That done, we gradually began to settle down and to accommodate ourselves to our new surroundings.
 
@@ -50,7 +50,7 @@ Sherlock Holmes -- his limits
 
 When I had got so far in my list I threw it into the fire in despair. "If I can only find what the fellow is driving at by reconciling all these accomplishments, and discovering a calling which needs them all," I said to myself, "I may as well give up the attempt at once."
 
-![LEANING BACK IN HIS ARMCHAIR OF AN EVENING, HE WOULD CLOSE HIS EYES AND SCRAPE CARELESSLY AT THE FIDDLE WHICH WAS THROWN ACROSS HIS KNEE](/images/posts/scarlet12.gif "LEANING BACK IN HIS ARMCHAIR OF AN EVENING, HE WOULD CLOSE HIS EYES AND SCRAPE CARELESSLY AT THE FIDDLE WHICH WAS THROWN ACROSS HIS KNEE")
+![LEANING BACK IN HIS ARMCHAIR OF AN EVENING, HE WOULD CLOSE HIS EYES AND SCRAPE CARELESSLY AT THE FIDDLE WHICH WAS THROWN ACROSS HIS KNEE](../../../../assets/images/posts/scarlet12.gif "LEANING BACK IN HIS ARMCHAIR OF AN EVENING, HE WOULD CLOSE HIS EYES AND SCRAPE CARELESSLY AT THE FIDDLE WHICH WAS THROWN ACROSS HIS KNEE")
 
  
 

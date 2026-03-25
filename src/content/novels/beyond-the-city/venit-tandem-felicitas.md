@@ -3,7 +3,7 @@ title: "Venit Tandem Felicitas"
 date: 2018-04-08
 novel: "beyond-the-city"
 order: 8
-coverImage: "/images/posts/Beyond-the-City.jpg"
+coverImage: "../../../assets/images/posts/Beyond-the-City.jpg"
 tags:
   - "beyond-the-city"
 ---

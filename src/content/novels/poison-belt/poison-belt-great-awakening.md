@@ -3,7 +3,7 @@ title: "Chapter 6: The Great Awakening"
 date: 2016-06-26
 novel: "poison-belt"
 order: 7
-coverImage: "/images/posts/The-Poison-Belt.jpg"
+coverImage: "../../../assets/images/posts/The-Poison-Belt.jpg"
 tags:
   - "challenger"
   - "poison-belt"
@@ -13,7 +13,7 @@ And now I come to the end of this extraordinary incident, so overshadowing in it
 
 There is some clash of opinion as to the exact hour of the great awakening. It is generally agreed that, apart from the difference of clocks, there may have been local causes which influenced the action of the poison. Certainly, in each separate district the resurrection was practically simultaneous. There are numerous witnesses that Big Ben pointed to ten minutes past six at the moment. The Astronomer Royal has fixed the Greenwich time at twelve past six. On the other hand, Laird Johnson, a very capable East Anglia observer, has recorded six-twenty as the hour. In the Hebrides it was as late as seven. In our own case there can be no doubt whatever, for I was seated in Challenger's study with his carefully tested chronometer in front of me at the moment. The hour was a quarter-past six.
 
-![The Poison Belt - The Strand Magazine, US edition, May 1913. Source: Project Gutenberg Australia](/images/posts/The-Poison-Belt.jpg)
+![The Poison Belt - The Strand Magazine, US edition, May 1913. Source: Project Gutenberg Australia](../../../assets/images/posts/The-Poison-Belt.jpg)
 
 <!--more-->
 

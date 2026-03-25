@@ -3,12 +3,12 @@ title: "Jelland's Voyage"
 date: 2013-05-30
 novel: "captain-sharkey"
 order: 11
-coverImage: "/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
+coverImage: "../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
 tags:
   - "captain-sharkey"
 ---
 
-![The Dealings of Captain Sharkey and Other Tales of Pirates](/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates-200x300.jpg)
+![The Dealings of Captain Sharkey and Other Tales of Pirates](../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg)
 
 "Well," said our Anglo-Jap as we all drew up our chairs round the smoking-room fire, "it's an old tale out yonder, and may have spilt over into print for all I know. I don't want to turn this club-room into a chestnut stall, but it is a long way to the Yellow Sea, and it is just as likely that none of you have ever heard of the yawl _Matilda_, and of what happened to Henry Jelland and Willy McEvoy aboard of her.
 

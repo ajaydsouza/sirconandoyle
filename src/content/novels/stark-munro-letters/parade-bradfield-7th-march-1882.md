@@ -3,14 +3,14 @@ title: "VI. THE PARADE, BRADFIELD, 7th March, 1882"
 date: 2013-08-03
 novel: "stark-munro-letters"
 order: 7
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 It is only two days since I wrote to you, my dear old chap, and yet I find myself loaded to the muzzle and at full cock again. I have come to Bradfield. I have seen old Cullingworth once more, and I have found that all he has told me is true. Yes; incredible as it sounded, this wonderful fellow seems to have actually built up a great practice in little more than a year. He really is, with all his eccentricities, a very remarkable man, Bertie. He doesn't seem to have a chance of showing his true powers in this matured civilisation. The law and custom hamper him. He is the sort of fellow who would come right to the front in a French Revolution. Or if you put him as Emperor over some of these little South American States, I believe that in ten years he would either be in his grave, or would have the Continent. Yes; Cullingworth is fit to fight for a higher stake than a medical practice, and on a bigger stage than an English provincial town. When I read of Aaron Burr in your history I always picture him as a man like C.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 I had the kindest of leave takings from Horton. If he had been my brother he could not have been more affectionate. I could not have thought that I should grow so fond of a man in so short a time. He takes the keenest interest in my venture, and I am to write him a full account. He gave me as we parted a black old meerschaum which he had coloured himself—the last possible pledge of affection from a smoker. It was pleasant for me to feel that if all went wrong at Bradfield, I had a little harbour at Merton for which I could make. Still, of course, pleasant and instructive as the life there was, I could not shut my eyes to the fact that it would take a terribly long time before I could save enough to buy a share in a practice—a longer time probably than my poor father's strength would last. That telegram of Cullingworth's in which, as you may remember, he guaranteed me three hundred pounds in the first year, gave me hopes of a much more rapid career. You will agree with me, I am sure, that I did wisely to go to him.
 

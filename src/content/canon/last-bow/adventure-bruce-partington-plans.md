@@ -3,7 +3,7 @@ title: "The Adventure of the Bruce-Partington Plans"
 date: 2013-11-05
 collection: "last-bow"
 order: 6
-coverImage: "/images/posts/bruc-01.jpg"
+coverImage: "../../../assets/images/posts/bruc-01.jpg"
 tags:
   - "last-bow"
   - "sherlock-holmes"
@@ -99,7 +99,7 @@ Holmes gave an exclamation of satisfaction.
 
 "There we have it at last, Watson! British government--Woolwich. Arsenal--technical papers--Brother Mycroft, the chain is complete. But here he comes, if I am not mistaken, to speak for himself."
 
-![A MOMENT LATER THE TALL AND PORTLY FORM OF MYCROFT HOLMES WAS USHERED INTO THE ROOM.](/images/posts/bruc-01.jpg)
+![A MOMENT LATER THE TALL AND PORTLY FORM OF MYCROFT HOLMES WAS USHERED INTO THE ROOM.](../../../assets/images/posts/bruc-01.jpg)
 
 A moment later the tall and portly form of Mycroft Holmes was ushered into the room. Heavily built and massive, there was a suggestion of uncouth physical inertia in the figure, but above this unwieldy frame there was perched a head so masterful in its brow, so alert in its steel-gray, deep-set eyes, so firm in its lips, and so subtle in its play of expression, that after the first glance one forgot the gross body and remembered only the dominant mind.
 
@@ -207,7 +207,7 @@ An hour later Holmes, Lestrade and I stood upon the Underground railroad at the 
 
 "We have had some fresh evidence this morning," said Lestrade. "A passenger who passed Aldgate in an ordinary Metropolitan train about 11:40 on Monday night declares that he heard a heavy thud, as of a body striking the line, just before the train reached the station. There was dense fog, however, and nothing could be seen. He made no report of it at the time. Why, whatever is the matter with Mr. Holmes?"
 
-![MY FRIEND WAS STANDING WITH AN EXPRESSION OF STRAINED INTENSITY UPON HIS FACE.](/images/posts/bruc-02.jpg)
+![MY FRIEND WAS STANDING WITH AN EXPRESSION OF STRAINED INTENSITY UPON HIS FACE.](../../../assets/images/posts/bruc-02.jpg)
 
 My friend was standing with an expression of strained intensity upon his face, staring at the railway metals where they curved out of the tunnel. Aldgate is a junction, and there was a network of points. On these his eager, questioning eyes were fixed, and I saw on his keen, alert face that tightening of the lips, that quiver of the nostrils, and concentration of the heavy, tufted brows which I knew so well.
 
@@ -415,7 +415,7 @@ Mr. Sidney Johnson, the senior clerk, met us at the office and received us with 
 
 "Yes, that is so."
 
-![“DO YOU MEAN TO SAY THAT ANYONE HOLDING THESE PAPERS COULD CONSTRUCT A BRUCE-PARTINGTON SUBMARINE?”](/images/posts/bruc-03.jpg)
+![“DO YOU MEAN TO SAY THAT ANYONE HOLDING THESE PAPERS COULD CONSTRUCT A BRUCE-PARTINGTON SUBMARINE?”](../../../assets/images/posts/bruc-03.jpg)
 
 "Do you mean to say that anyone holding these three papers, and without the seven others, could construct a Bruce-Partington submarine?"
 
@@ -515,7 +515,7 @@ A minute later we were both in the area. Hardly had we reached the dark shadows 
 
 "You can see where they rested the body. Halloa, Watson! what is this? There can be no doubt that it is a blood mark." He was pointing to faint discolourations along the woodwork of the window. "Here it is on the stone of the stair also. The demonstration is complete. Let us stay here until a train stops."
 
-![“LET US STAY HERE UNTIL A TRAIN STOPS.”](/images/posts/bruc-04.jpg)
+![“LET US STAY HERE UNTIL A TRAIN STOPS.”](../../../assets/images/posts/bruc-04.jpg)
 
 We had not long to wait. The very next train roared from the tunnel as before, but slowed in the open, and then, with a creaking of brakes, pulled up immediately beneath us. It was not four feet from the window-ledge to the roof of the carriages. Holmes softly closed the window.
 
@@ -593,7 +593,7 @@ An hour passed and yet another. When eleven struck, the measured beat of the gre
 
 There had been a furtive step past the door. Now it returned. We heard a shuffling sound outside, and then two sharp taps with the knocker. Holmes rose, motioning us to remain seated. The gas in the hall was a mere point of light. He opened the outer door, and then as a dark figure slipped past him he closed and fastened it. "This way!" we heard him say, and a moment later our man stood before us. Holmes had followed him closely, and as the man turned with a cry of surprise and alarm he caught him by the collar and threw him back into the room. Before our prisoner had recovered his balance the door was shut and Holmes standing with his back against it. The man glared round him, staggered, and fell senseless upon the floor. With the shock, his broad-brimmed hat flew from his head, his cravat slipped down from his lips, and there were the long light beard and the soft, handsome delicate features of Colonel Valentine Walter.
 
-![BEFORE OUR PRISONER HAD RECOVERED HIS BALANCE THE DOOR WAS SHUT AND HOLMES STANDING WITH HIS BACK AGAINST IT.](/images/posts/bruc-05.jpg)
+![BEFORE OUR PRISONER HAD RECOVERED HIS BALANCE THE DOOR WAS SHUT AND HOLMES STANDING WITH HIS BACK AGAINST IT.](../../../assets/images/posts/bruc-05.jpg)
 
 Holmes gave a whistle of surprise.
 
@@ -623,7 +623,7 @@ The man groaned and sank his face in his hands. We waited, but he was silent.
 
 "He had his suspicions before, and he followed me as you describe. I never knew it until I was at the very door. It was thick fog, and one could not see three yards. I had given two taps and Oberstein had come to the door. The young man rushed up and demanded to know what we were about to do with the papers. Oberstein had a short life-preserver. He always carried it with him. As West forced his way after us into the house Oberstein struck him on the head. The blow was a fatal one. He was dead within five minutes. There he lay in the hall, and we were at our wit's end what to do. Then Oberstein had this idea about the trains which halted under his back window. But first he examined the papers which I had brought. He said that three of them were essential, and that he must keep them. 'You cannot keep them,' said I. 'There will be a dreadful row at Woolwich if they are not returned.' 'I must keep them,' said he, 'for they are so technical that it is impossible in the time to make copies.' 'Then they must all go back together to-night,' said I. He thought for a little, and then he cried out that he had it. 'Three I will keep,' said he. 'The others we will stuff into the pocket of this young man. When he is found the whole business will assuredly be put to his account.' I could see no other way out of it, so we did as he suggested. We waited half an hour at the window before a train stopped. It was so thick that nothing could be seen, and we had no difficulty in lowering West's body on to the train. That was the end of the matter so far as I was concerned."
 
-![“THAT WAS THE END OF THE MATTER.”](/images/posts/bruc-06.jpg)
+![“THAT WAS THE END OF THE MATTER.”](../../../assets/images/posts/bruc-06.jpg)
 
 "And your brother?"
 

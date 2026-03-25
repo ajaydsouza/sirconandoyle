@@ -3,14 +3,14 @@ title: "The Mystery of Cloomber"
 date: 2013-09-10
 novel: "mystery-of-cloomber"
 order: 1
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 The Mystery of Cloomber is a novel by British author Sir Arthur Conan Doyle. It is narrated by John Fothergill West, a Scot who has moved with his family from Edinburgh to Wigtownshire to care for the estate of his father's half brother, William Farintosh. It was first published in 1889.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 ### Table of Contents
 

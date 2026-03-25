@@ -3,13 +3,13 @@ title: "Part I – Chapter 6: Tobias Gregson shows what he can do"
 date: 2012-09-14
 novel: "a-study-in-scarlet"
 order: 7
-coverImage: "/images/posts/scarlet16.gif"
+coverImage: "../../../../assets/images/posts/scarlet16.gif"
 tags:
   - "sherlock-holmes"
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 The papers next day were full of the "Brixton Mystery," as they termed it. Each had a long account of the affair, and some had leaders upon it in addition. There was some information in them which was new to me. I still retain in my scrapbook numerous clippings and extracts bearing upon the case. Here is a condensation of a few of them:
 
@@ -161,7 +161,7 @@ This statement came from Mrs. Charpentier's lips with many gasps and pauses. At 
 
 "What is your theory, then?"
 
-![LESTRADE STOOD IN THE CENTRE OF THE ROOM, FUMBLING NERVOUSLY WITH HIS HAT AND UNCERTAIN WHAT TO DO](/images/posts/scarlet16.gif "LESTRADE STOOD IN THE CENTRE OF THE ROOM, FUMBLING NERVOUSLY WITH HIS HAT AND UNCERTAIN WHAT TO DO")
+![LESTRADE STOOD IN THE CENTRE OF THE ROOM, FUMBLING NERVOUSLY WITH HIS HAT AND UNCERTAIN WHAT TO DO](../../../../assets/images/posts/scarlet16.gif "LESTRADE STOOD IN THE CENTRE OF THE ROOM, FUMBLING NERVOUSLY WITH HIS HAT AND UNCERTAIN WHAT TO DO")
 
 "Well, my theory is that he followed Drebber as far as the Brixton Road. When there, a fresh altercation arose between them, in the course of which Drebber received a blow from the stick, in the pit of the stomach perhaps, which killed him without leaving any mark. The night was so wet that no one was about, so Charpentier dragged the body of his victim into the empty house. As to the candle, and the blood, and the writing on the wall, and the ring, they may all be so many tricks to throw the police on to the wrong scent."
 

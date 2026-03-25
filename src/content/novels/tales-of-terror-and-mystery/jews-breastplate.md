@@ -3,7 +3,7 @@ title: "The Jew's Breastplate"
 date: 2017-09-24
 novel: "tales-of-terror-and-mystery"
 order: 13
-coverImage: "/images/posts/Tales-of-Terror-and-Mystery.jpg"
+coverImage: "../../../assets/images/posts/Tales-of-Terror-and-Mystery.jpg"
 tags:
   - "mystery"
   - "tales-of-terror-and-mystery"

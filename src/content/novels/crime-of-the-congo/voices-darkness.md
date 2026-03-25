@@ -3,14 +3,14 @@ title: "Voices from the Darkness"
 date: 2013-06-28
 novel: "crime-of-the-congo"
 order: 8
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
 
 I will now return to the witnesses of the shocking treatment of the natives. Rev. Joseph Clark was an American missionary living at Ikoko in the Crown Domain, which is King Leopold’s own special private preserve. These letters cover the space between 1893 and 1899.
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 This is Ikoko as he found it in 1893:
 

@@ -3,14 +3,14 @@ title: "The Congo After the Commission"
 date: 2013-07-05
 novel: "crime-of-the-congo"
 order: 11
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
 
 The high hopes which the advent of the Commission raised among the natives and the few Europeans who had acted as their champions, were soon turned to bitter disappointment. The indefatigable Mr. Harris had sent on after the Commission a number of fresh cases which had come to his notice. In one of these a chief deposed that he had been held back in his village (Boendo) in order to prevent him from reaching the Commission. He succeeded in breaking away from his guards, but was punished for his enterprise by having his wife clubbed to death by a sentry. He brought with him, in the hope that he might lay them before the judges, one hundred and eighty-two long twigs and seventy-six smaller ones, to represent so many adults and children who had been murdered by the A.B.I.R. Company in his district during the last few years. His account of the methods by which these unfortunate people met their deaths will not bear printing. The wildest dreams of the Inquisition were outdone. Women had been killed by thrusting stakes into them from below. When the horrified missionary asked the chief if this was personally known to him, his answer was, "They killed my daughter, Nsinga, in this manner; I found the stake in her." And a reputable Belgian statesman can write in this year of grace that they are carrying on the beneficent and philanthropic mission which has been handed down to them.
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 In a later communication Mr. Harris gives the names of men, women and children killed by the sentries of a M. Pilaet.
 

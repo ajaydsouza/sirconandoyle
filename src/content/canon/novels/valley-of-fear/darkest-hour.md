@@ -3,13 +3,13 @@ title: "Part II – Chapter 5: The Darkest Hour"
 date: 2012-12-03
 novel: "valley-of-fear"
 order: 13
-coverImage: "/images/posts/valley25.jpg"
+coverImage: "../../../../assets/images/posts/valley25.jpg"
 tags:
   - "sherlock-holmes"
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 If anything had been needed to give an impetus to Jack McMurdo's popularity among his fellows it would have been his arrest and acquittal. That a man on the very night of joining the lodge should have done something which brought him before the magistrate was a new record in the annals of the society. Already he had earned the reputation of a good boon companion, a cheery reveller, and withal a man of high temper, who would not take an insult even from the all-powerful Boss himself. But in addition to this he impressed his comrades with the idea that among them all there was not one whose brain was so ready to devise a bloodthirsty scheme, or whose hand would be more capable of carrying it out. "He'll be the boy for the clean job," said the oldsters to one another, and waited their time until they could set him to his work.
 

@@ -3,7 +3,7 @@ title: "The Adventure of the Three Students"
 date: 2013-02-23
 collection: "return"
 order: 10
-coverImage: "/images/posts/3stu-01.jpg"
+coverImage: "../../../assets/images/posts/3stu-01.jpg"
 tags:
   - "the-return-of-sherlock-holmes"
 ---
@@ -32,7 +32,7 @@ Holmes stirred for the first time.
 
 "The first page on the floor, the second in the window, the third where you left it," said he.
 
-![“HOW COULD YOU POSSIBLY KNOW THAT?”](/images/posts/3stu-01.jpg)
+![“HOW COULD YOU POSSIBLY KNOW THAT?”](../../../assets/images/posts/3stu-01.jpg)
 
 "Exactly, Mr. Holmes. You amaze me. How could you possibly know that?"
 
@@ -398,7 +398,7 @@ The unfortunate young man staggered back, and cast a look full of horror and rep
 
 For a moment Gilchrist, with upraised hand, tried to control his writhing features. The next he had thrown himself on his knees beside the table, and burying his face in his hands, he had burst into a storm of passionate sobbing.
 
-![“COME, COME,” SAID HOLMES, KINDLY, “IT IS HUMAN TO ERR.”](/images/posts/3stu-06.jpg)
+![“COME, COME,” SAID HOLMES, KINDLY, “IT IS HUMAN TO ERR.”](../../../assets/images/posts/3stu-06.jpg)
 
 "Come, come," said Holmes, kindly, "it is human to err, and at least no one can accuse you of being a callous criminal. Perhaps it would be easier for you if I were to tell Mr. Soames what occurred, and you can check me where I am wrong. Shall I do so? Well, well, don't trouble to answer. Listen, and see that I do you no injustice.
 

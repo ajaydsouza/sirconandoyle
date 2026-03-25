@@ -3,12 +3,12 @@ title: "Chapter XXX: At the \"Cock and Cowslip\""
 date: 2014-06-16
 novel: "girdlestone"
 order: 31
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 Tom Dimsdale's duties were far from light. Not only was he expected to supervise the clerks' accounts and to treat with the wholesale dealers, but he was also supposed to spend a great part of his time in the docks, overlooking the loading of the outgoing ships and checking the cargo of the incoming ones. This latter portion of his work was welcome as taking him some hours a day from the close counting-house, and allowing him to get a sniff of the sea air—if, indeed, a sniff is to be had on the inland side of Woolwich. There was a pleasing life and bustle, too, in the broad, brown river, with its never-ending panorama of vessels of every size and shape which ebb and flow in the great artery of national life.
 

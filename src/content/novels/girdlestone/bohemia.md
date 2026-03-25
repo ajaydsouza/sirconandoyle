@@ -3,12 +3,12 @@ title: "Chapter XXVIII: Back in Bohemia"
 date: 2014-06-03
 novel: "girdlestone"
 order: 29
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 Fortune had been smiling upon the Bohemians of late. Ever since the major's successful visit to Fenchurch Street he had been able to live in a state of luxury to which he had long been unaccustomed. His uncle, the earl, too, had condescended to think of his humble relative, and had made a small provision for him, which, with his other resources, removed all anxiety as to the future. Von Baumser had his fair share in this sudden accession of prosperity. The German had resumed his situation as commercial clerk and foreign correspondent to Eckermann & Co., so that his circumstances had also improved. The pair had even had some conversation as to the expediency of migrating into larger and more expensive lodgings, but the major's increasing intimacy with his fair neighbour opposite stood in the way of a change. In any case, they were loth to leave their fourth floor, and to have the trouble of moving their effects.
 

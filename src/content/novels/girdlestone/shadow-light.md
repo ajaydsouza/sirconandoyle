@@ -3,12 +3,12 @@ title: "Chapter XIII: Shadow and Light"
 date: 2014-03-27
 novel: "girdlestone"
 order: 14
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 John Girdlestone's private residence in Eccleston Square was a large and substantial house in a district which the wave of fashion had passed over in its westward course. It might still, however, be said to be covered by a deposit of eminent respectability. The building was stern and hard, and massive in its external appearance, but the interior was luxury itself, for the old merchant, in spite of his ascetic appearance, was inclined to be a sybarite at heart, and had a due appreciation of the good things of this world. Indeed, there was an oriental and almost barbarous splendour about the great rooms, where the richest of furniture was interspersed with skins from the Gaboon, hand-worked ivory from Old Calabar, and the thousand other strange valuables which were presented by his agents to the African trader.
 

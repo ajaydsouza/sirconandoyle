@@ -3,14 +3,14 @@ title: "My Friend the Murderer and Other stories"
 date: 2022-11-20
 novel: "my-friend-the-murderer"
 order: 1
-coverImage: "/images/posts/My-Friend-The-Murderer.jpg"
+coverImage: "../../../assets/images/posts/My-Friend-The-Murderer.jpg"
 tags:
   - "my-friend-the-murderer"
 ---
 
 ‘My Friend the Murderer’ is a short story by Sherlock Holmes creator Sir Arthur Conan Doyle. Our narrator is a doctor who works at an Australian prison. The doctor is urged to take some time to speak to inmate 82, a man named Maloney whose villainous reputation precedes him. As the doctor gets to know him, he is shocked by what Maloney has to say. A gripping short story from the popular author.
 
-![](/images/posts/My-Friend-The-Murderer.jpg)
+![](../../../assets/images/posts/My-Friend-The-Murderer.jpg)
 
 ## Table of Contents
 

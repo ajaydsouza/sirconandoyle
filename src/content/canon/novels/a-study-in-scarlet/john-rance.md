@@ -3,13 +3,13 @@ title: "Part I – Chapter 4: What John Rance had to tell"
 date: 2012-09-06
 novel: "a-study-in-scarlet"
 order: 5
-coverImage: "/images/posts/scarlet14.gif"
+coverImage: "../../../../assets/images/posts/scarlet14.gif"
 tags:
   - "sherlock-holmes"
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 It was one o'clock when we left No. 3, Lauriston Gardens. Sherlock Holmes led me to the nearest telegraph office, whence he dispatched a long telegram. He then hailed a cab, and ordered the driver to take us to the address given us by Lestrade.
 
@@ -49,7 +49,7 @@ My companion flushed up with pleasure at my words, and the earnest way in which 
 
 "You'll find me here when you come back."
 
-![THE DOOR WAS DECORATED WITH A SMALL SLIP OF BRASS ON WHICH THE NAME RANCE WAS ENGRAVED](/images/posts/scarlet14.gif "THE DOOR WAS DECORATED WITH A SMALL SLIP OF BRASS ON WHICH THE NAME RANCE WAS ENGRAVED")
+![THE DOOR WAS DECORATED WITH A SMALL SLIP OF BRASS ON WHICH THE NAME RANCE WAS ENGRAVED](../../../../assets/images/posts/scarlet14.gif "THE DOOR WAS DECORATED WITH A SMALL SLIP OF BRASS ON WHICH THE NAME RANCE WAS ENGRAVED")
 
 Audley Court was not an attractive locality. The narrow passage led us into a quadrangle paved with flags and lined by sordid dwellings. We picked our way among groups of dirty children, and through lines of discoloured linen, until we came to Number 46, the door of which was decorated with a small slip of brass on which the name Rance was engraved. On inquiry we found that the constable was in bed, and we were shown into a little front parlour to await his coming.
 

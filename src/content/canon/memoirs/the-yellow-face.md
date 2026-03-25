@@ -3,7 +3,7 @@ title: "The Yellow Face"
 date: 2011-10-23
 collection: "memoirs"
 order: 3
-coverImage: "/images/posts/yellow.jpg"
+coverImage: "../../../assets/images/posts/yellow.jpg"
 tags:
   - "memoirs-2"
   - "sherlock-holmes"
@@ -185,7 +185,7 @@ Our visitor again passed his hand over his forehead, as if he found it bitterly 
 
 " 'I am sorry that I broke my promise, Jack,' said she, 'but if you knew all the circumstances I am sure that you would forgive me.'
 
-![Tell me everything](/images/posts/yellow.jpg "Tell me everything") " 'Tell me everything, then,' said I.
+![Tell me everything](../../../assets/images/posts/yellow.jpg "Tell me everything") " 'Tell me everything, then,' said I.
 
 " 'I cannot, Jack, I cannot,' she cried.
 

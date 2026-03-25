@@ -3,14 +3,14 @@ title: "Narrative of John Easterling, F.R.C.P.EDIN."
 date: 2013-09-26
 novel: "mystery-of-cloomber"
 order: 10
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 Having given the statement of Israel Stakes _in extenso_, I shall append a short memorandum from Dr. Easterling, now practising at Stranraer. It is true that the doctor was only once within the walls of Cloomber during its tenancy by General Heatherstone, but there were some circumstances connected with this visit which made it valuable, especially when considered as a supplement to the experiences which I have just submitted to the reader.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 The doctor has found time amid the calls of a busy country practice to jot down his recollections, and I feel that I cannot do better than subjoin them exactly as they stand.
 

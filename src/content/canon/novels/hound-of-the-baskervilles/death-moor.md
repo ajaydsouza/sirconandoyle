@@ -3,13 +3,13 @@ title: "Chapter 12: Death on the Moor"
 date: 2012-08-09
 novel: "hound-of-the-baskervilles"
 order: 12
-coverImage: "/images/posts/hound12.jpg"
+coverImage: "../../../../assets/images/posts/hound12.jpg"
 tags:
   - "hound-of-baskervilles"
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 For a moment or two I sat breathless, hardly able to believe my ears. Then my senses and my voice came back to me, while a crushing weight of responsibility seemed in an instant to be lifted from my soul. That cold, incisive, ironical voice could belong to but one man in all the world.
 
@@ -185,7 +185,7 @@ He had uttered a cry and bent over the body. Now he was dancing and laughing and
 
 "It is not the baronet -- it is -- why, it is my neighbour, the convict!"
 
-![It was the face of Selden, the criminal!](/images/posts/hound12.jpg "It was the face of Selden, the criminal!")
+![It was the face of Selden, the criminal!](../../../../assets/images/posts/hound12.jpg "It was the face of Selden, the criminal!")
 
 With feverish haste we had turned the body over, and that dripping beard was pointing up to the cold, clear moon. There could be no doubt about the beetling forehead, the sunken animal eyes. It was indeed the same face which had glared upon me in the light of the candle from over the rock -- the face of Selden, the criminal. Then in an instant it was all clear to me. I remembered how the baronet had told me that he had handed his old wardrobe to Barrymore. Barrymore had passed it on in order to help Selden in his escape. Boots, shirt, cap -- it was all Sir Henry's. The tragedy was still black enough, but this man had at least deserved death by the laws of his country. I told Holmes how the matter stood, my heart bubbling over with thankfulness and joy.
 

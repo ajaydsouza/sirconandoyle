@@ -3,12 +3,12 @@ title: "Chapter XXIV: A Dangerous Promise"
 date: 2014-05-22
 novel: "girdlestone"
 order: 25
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 During Ezra Girdlestone's absence in Africa our heroine's life had been even less eventful than of old. There was a consistency about the merchant's establishment which was characteristic of the man. The house itself was austere and gloomy, and every separate room, in spite of profuse expenditure and gorgeous furniture, had the same air of discomfort. The servants too, were, with one single exception, from the hard-visaged housekeeper to the Calvinistic footman, a depressing and melancholy race. The only departure from this general rule was Kate's own maid, Rebecca Taylforth, a loudly-dressed, dark-eyed, coarse-voiced young woman, who raised up her voice and wept when Ezra departed for Africa. This damsel's presence was most disagreeable to Kate, and, indeed, to John Girdlestone also, who only retained her on account of his son's strong views upon the subject, and out of fear of an explosion which might wreck all his plans.
 

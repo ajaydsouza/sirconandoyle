@@ -3,7 +3,7 @@ title: "The Resident Patient"
 date: 2012-01-14
 collection: "memoirs"
 order: 9
-coverImage: "/images/posts/patient.jpg"
+coverImage: "../../../assets/images/posts/patient.jpg"
 tags:
   - "memoirs-2"
   - "sherlock-holmes"
@@ -144,7 +144,7 @@ will make it convenient to be at home.
 
 "This letter interested me deeply, because the chief difficulty in the study of catalepsy is the rareness of the disease. You may believe, then, that I was in my consulting-room when, at the appointed hour, the page showed in the patient.
 
-![Helped him to a chair](/images/posts/patient.jpg "Helped him to a chair")
+![Helped him to a chair](../../../assets/images/posts/patient.jpg "Helped him to a chair")
 
 "He was an elderly man, thin, demure, and commonplace -- by no means the conception one forms of a Russian nobleman. I was much more struck by the appearance of his companion. This was a tall young man, surprisingly handsome, with a dark, fierce face, and the limbs and chest of a Hercules. He had his hand under the other's arm as they entered, and helped him to a chair with a tenderness which one would hardly have expected from his appearance.
 

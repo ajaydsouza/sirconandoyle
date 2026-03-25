@@ -3,7 +3,7 @@ title: "The Horror of the Heights"
 date: 2017-04-15
 novel: "tales-of-terror-and-mystery"
 order: 2
-coverImage: "/images/posts/Tales-of-Terror-and-Mystery.jpg"
+coverImage: "../../../assets/images/posts/Tales-of-Terror-and-Mystery.jpg"
 tags:
   - "mystery"
   - "tales-of-terror-and-mystery"

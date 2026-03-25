@@ -3,12 +3,12 @@ title: "The \"Slapping Sal\""
 date: 2013-05-19
 novel: "captain-sharkey"
 order: 6
-coverImage: "/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
+coverImage: "../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
 tags:
   - "captain-sharkey"
 ---
 
-![The Dealings of Captain Sharkey and Other Tales of Pirates](/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates-200x300.jpg)
+![The Dealings of Captain Sharkey and Other Tales of Pirates](../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg)
 
 It was in the days when France's power was already broken upon the seas, and when more of her three-deckers lay rotting in the Medway than were to be found in Brest harbour. But her frigates and corvettes still scoured the ocean, closely followed ever by those of her rival. At the uttermost ends of the earth these dainty vessels, with sweet names of girls or of flowers, mangled and shattered each other for the honour of the four yards of bunting which flapped from the end of their gaffs.
 

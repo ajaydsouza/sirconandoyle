@@ -3,7 +3,7 @@ title: "The Adventures of Sherlock Holmes"
 date: 2011-08-25
 collection: "adventures"
 order: 1
-coverImage: "/images/posts/Adventures_of_sherlock_holmes.jpg"
+coverImage: "../../../assets/images/posts/Adventures_of_sherlock_holmes.jpg"
 tags:
   - "adventures-2"
   - "sherlock-holmes"
@@ -13,7 +13,7 @@ tags:
 
 They were originally published in the _[Strand Magazine](http://en.wikipedia.org/wiki/Strand_Magazine "Strand Magazine")_ from July 1891 to June 1892. The book was published on October 14, 1892 by George Newnes Ltd and on October 15 in a U.S. edition by Harper. The initial combined print run was 14,500 copies.
 
-**![The Adventures of Sherlock Holmes](/images/posts/Adventures_of_sherlock_holmes.jpg "The Adventures of Sherlock Holmes")**
+**![The Adventures of Sherlock Holmes](../../../assets/images/posts/Adventures_of_sherlock_holmes.jpg "The Adventures of Sherlock Holmes")**
 
 The 12 adventures are:
 

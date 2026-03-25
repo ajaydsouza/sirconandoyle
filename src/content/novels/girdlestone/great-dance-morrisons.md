@@ -3,12 +3,12 @@ title: "Chapter XXIX: The Great Dance at Morrison's"
 date: 2014-06-05
 novel: "girdlestone"
 order: 30
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 Never in the whole history of Morrison's boarding establishment had such festive preparations been known. The landlady herself had entered heart and soul into the business, and as all the boarders had received invitations for themselves and their friends, they co-operated in every possible manner to make the evening a success. The large drawing-room had been cleared and the floor waxed. This process left it in a very glassy and orthodox condition, as the cook discovered when, on bustling in, the back of her cranium came in violent contact with the boards, while her body described a half-circle with a velocity which completely eclipsed any subsequent feats of agility shown by the dancers in the evening. The saloon had been very tastefully laid out as a supper-room, and numerous other little chambers were thrown open and brightened up to serve as lounging places for those who were fatigued. In the parlour there were two card-tables, and every other convenience for any who preferred sedentary amusements. Altogether both Mrs. Morrison and the boarders, in solemn conclave assembled, agreed that the thing looked very promising, and that it would be a credit to the establishment.
 

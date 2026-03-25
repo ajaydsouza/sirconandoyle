@@ -3,7 +3,7 @@ title: "Dwellers in the Wilderness"
 date: 2018-04-03
 novel: "beyond-the-city"
 order: 4
-coverImage: "/images/posts/Beyond-the-City.jpg"
+coverImage: "../../../assets/images/posts/Beyond-the-City.jpg"
 tags:
   - "beyond-the-city"
 ---

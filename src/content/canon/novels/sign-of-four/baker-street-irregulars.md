@@ -3,12 +3,12 @@ title: "Chapter 8: The Baker Street Irregulars"
 date: 2013-01-12
 novel: "sign-of-four"
 order: 9
-coverImage: "/images/posts/sign08.gif"
+coverImage: "../../../../assets/images/posts/sign08.gif"
 tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 "What now?" I asked. "Toby has lost his character for infallibility. "
 
@@ -38,7 +38,7 @@ He was approaching the door of the house, when it opened, and a little curly-hea
 
 "You come back and be washed, Jack," she shouted. "Come back, you young imp; for if your father comes home and finds you like that he'll let us hear of it."
 
-!["Dear little chap!" said Holmes strategically](/images/posts/sign08.gif)
+!["Dear little chap!" said Holmes strategically](../../../../assets/images/posts/sign08.gif)
 
 "Dear little chap!" said Holmes strategically. "What a rosy-cheeked young rascal! Now, Jack, is there anything you would like?"
 

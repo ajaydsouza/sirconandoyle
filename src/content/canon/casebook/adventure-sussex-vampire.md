@@ -3,7 +3,7 @@ title: "The Adventure of the Sussex Vampire"
 date: 2015-03-12
 collection: "casebook"
 order: 7
-coverImage: "/images/posts/Sussex-Vampire-01.jpg"
+coverImage: "../../../assets/images/posts/Sussex-Vampire-01.jpg"
 tags:
   - "casebook-2"
   - "sherlock-holmes"
@@ -38,7 +38,7 @@ I leaned back and took down the great index volume to which he referred. Holmes 
 
 "Voyage of the Gloria Scott," he read. "That was a bad business. I have some recollection that you made a record of it, Watson, though I was unable to congratulate you upon the result. Victor Lynch, the forger. Venomous lizard or gila. Remarkable case, that! Vittoria, the circus belle. Vanderbilt and the Yeggman. Vipers. Vigor, the Hammersmith wonder. Hullo! Hullo! Good old index. You can't beat it. Listen to this, Watson. Vampirism in Hungary. And again, Vampires in Transylvania." He turned over the pages with eagerness, but after a short intent perusal he threw down the great book with a snarl of disappointment.
 
-![“HULLO! HULLO! GOOD OLD INDEX. YOU CAN’T BEAT IT.”](/images/posts/Sussex-Vampire-01.jpg)
+![“HULLO! HULLO! GOOD OLD INDEX. YOU CAN’T BEAT IT.”](../../../assets/images/posts/Sussex-Vampire-01.jpg)
 
 "Rubbish, Watson, rubbish! What have we to do with walking corpses who can only be held in their grave by stakes driven through their hearts? It's pure lunacy."
 
@@ -96,7 +96,7 @@ Promptly at ten o'clock next morning Ferguson strode into our room. I had rememb
 
 "Of course it is. But you can imagine how difficult it is when you are speaking of the one woman whom you are bound to protect and help. What can I do? How am I to go to the police with such a story? And yet the kiddies have got to be protected. Is it madness, Mr. Holmes? Is it something in the blood? Have you any similar case in your experience? For God's sake, give me some advice, for I am at my wit's end."
 
-![“FOR GOD’S SAKE, GIVE ME SOME ADVICE, FOR I AM AT MY WITS’ END.”](/images/posts/Sussex-Vampire-02.jpg)
+![“FOR GOD’S SAKE, GIVE ME SOME ADVICE, FOR I AM AT MY WITS’ END.”](../../../assets/images/posts/Sussex-Vampire-02.jpg)
 
 "Very naturally, Mr. Ferguson. Now sit here and pull yourself together and give me a few clear answers. I can assure you that I am very far from being at my wit's end, and that I am confident we shall find some solution. First of all, tell me what steps you have taken. Is your wife still near the children?"
 
@@ -246,7 +246,7 @@ On the bed a woman was lying who was clearly in a high fever. She was only half 
 
 The woman turned her flushed and handsome face towards me.
 
-![THE WOMAN TURNED HER FLUSHED AND HANDSOME FACE TOWARDS ME.](/images/posts/Sussex-Vampire-03.jpg)
+![THE WOMAN TURNED HER FLUSHED AND HANDSOME FACE TOWARDS ME.](../../../assets/images/posts/Sussex-Vampire-03.jpg)
 
 "Where is my husband?"
 
@@ -298,7 +298,7 @@ The youth looked at us with a very penetrating and, as it seemed to me, unfriend
 
 "Fancy anyone having the heart to hurt him," he muttered as he glanced down at the small, angry red pucker upon the cherub throat.
 
-![“FANCY ANYONE HAVING THE HEART TO HURT HIM,” HE MUTTERED.](/images/posts/Sussex-Vampire-04.jpg)
+![“FANCY ANYONE HAVING THE HEART TO HURT HIM,” HE MUTTERED.](../../../assets/images/posts/Sussex-Vampire-04.jpg)
 
 It was at this moment that I chanced to glance at Holmes and saw a most singular intentness in his expression. His face was as set as if it had been carved out of old ivory, and his eyes, which had glanced for a moment at father and child, were now fixed with eager curiosity upon something at the other side of the room. Following his gaze I could only guess that he was looking out through the window at the melancholy, dripping garden. It is true that a shutter had half closed outside and obstructed the view, but none the less it was certainly at the window that Holmes was fixing his concentrated attention. Then he smiled, and his eyes came back to the baby. On its chubby neck there was this small puckered mark. Without speaking, Holmes examined it with care. Finally he shook one of the dimpled fists which waved in front of him.
 

@@ -3,12 +3,12 @@ title: "Chapter II: Charity a La Mode"
 date: 2014-02-01
 novel: "girdlestone"
 order: 3
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 It was a dull October morning in Fenchurch Street, some weeks after the events with which our story opened. The murky City air looked murkier still through the glazed office windows. Girdlestone, grim and grey, as though he were the very embodiment of the weather, stooped over his mahogany table. He had a long list in front of him, on which he was checking off, as a prelude to the day's work, the position in the market of the various speculations in which the capital of the firm was embarked. His son Ezra lounged in an easy chair opposite him, looking dishevelled and dark under the eyes, for he had been up half the night, and the Nemesis of reaction was upon him.
 

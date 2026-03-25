@@ -3,12 +3,12 @@ title: "Chapter XXXVII: A Chase and a Brawl"
 date: 2014-08-19
 novel: "girdlestone"
 order: 38
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 It would be impossible to describe the suspense in which Tom Dimsdale lived during these weeks. In vain he tried in every manner to find some way of tracing the fugitives. He wandered aimlessly about London from one inquiry office to another, telling his story and appealing for assistance. He advertised in papers and cross-questioned every one who might know anything of the matter. There were none, however, who could help him or throw any light upon the mystery.
 

@@ -3,12 +3,12 @@ title: "Chapter XLIX: A Voyage in a Coffin Ship"
 date: 2014-09-18
 novel: "girdlestone"
 order: 50
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 The early part of the voyage of the Black Eagle was extremely fortunate. The wind came round to the eastward, and wafted them steadily down Channel, until on the third day they saw the Isle of Ushant lying low upon the sky-line. No inquisitive gunboat or lurking police launch came within sight of them, though whenever any vessel's course brought her in their direction the heart of Ezra Girdlestone sank within him. On one occasion a small brig signalled to them, and the wretched fugitives, when they saw the flags run up, thought that all was lost. It proved, however, to be merely some trivial message, and the two owners breathed again.
 

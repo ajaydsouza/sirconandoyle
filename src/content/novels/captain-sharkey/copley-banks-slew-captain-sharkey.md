@@ -3,12 +3,12 @@ title: "How Copley Banks Slew Captain Sharkey"
 date: 2013-05-16
 novel: "captain-sharkey"
 order: 5
-coverImage: "/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
+coverImage: "../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
 tags:
   - "captain-sharkey"
 ---
 
-![The Dealings of Captain Sharkey and Other Tales of Pirates](/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates-200x300.jpg)
+![The Dealings of Captain Sharkey and Other Tales of Pirates](../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg)
 
 The Buccaneers were something higher than a mere band of marauders. They were a floating republic, with laws, usages, and discipline of their own. In their endless and remorseless quarrel with the Spaniards they had some semblance of right upon their side. Their bloody harryings of the cities of the Main were not more barbarous than the inroads of Spain upon the Netherlands—or upon the Caribs in these same American lands.
 

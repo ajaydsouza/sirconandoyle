@@ -3,12 +3,12 @@ title: "Chapter VI: A Rectorial Election"
 date: 2014-02-28
 novel: "girdlestone"
 order: 7
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 It took some little time before his son, who was half-choked with laughter, could explain to the energetic doctor that the gentleman upon whom he was perched was not a dangerous lunatic, but, on the contrary, a very harmless and innocent member of society. When at last it was made clear to him, the doctor released his prisoner and was profuse in his apologies.
 

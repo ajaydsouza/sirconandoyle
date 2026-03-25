@@ -3,7 +3,7 @@ title: "In Port At Last"
 date: 2018-04-19
 novel: "beyond-the-city"
 order: 18
-coverImage: "/images/posts/Beyond-the-City.jpg"
+coverImage: "../../../assets/images/posts/Beyond-the-City.jpg"
 tags:
   - "beyond-the-city"
 ---

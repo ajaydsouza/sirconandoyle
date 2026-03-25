@@ -3,7 +3,7 @@ title: "The Case of Lady Sannox"
 date: 2017-05-14
 novel: "tales-of-terror-and-mystery"
 order: 5
-coverImage: "/images/posts/Tales-of-Terror-and-Mystery.jpg"
+coverImage: "../../../assets/images/posts/Tales-of-Terror-and-Mystery.jpg"
 tags:
   - "mystery"
   - "tales-of-terror-and-mystery"

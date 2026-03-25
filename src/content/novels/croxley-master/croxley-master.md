@@ -3,12 +3,12 @@ title: "The Croxley Master - A Great Tale of the Prize Ring"
 date: 2013-08-23
 novel: "croxley-master"
 order: 1
-coverImage: "/images/posts/The-Croxley-Master.jpg"
+coverImage: "../../../assets/images/posts/The-Croxley-Master.jpg"
 tags:
   - "croxley-master-tag"
 ---
 
-![The Croxley Master](/images/posts/The-Croxley-Master.jpg)
+![The Croxley Master](../../../assets/images/posts/The-Croxley-Master.jpg)
 
 ## I
 

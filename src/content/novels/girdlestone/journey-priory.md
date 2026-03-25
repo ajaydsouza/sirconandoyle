@@ -3,12 +3,12 @@ title: "Chapter XXXIII: The Journey to the Priory"
 date: 2014-07-16
 novel: "girdlestone"
 order: 34
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 It was already dusk when John Girdlestone and his ward reached Waterloo Station. He gave orders to the guard that the luggage should be stamped, but took care that she should not hear the name of their destination. Hurrying her rapidly down the platform amid the confused heaps of luggage and currents of eager passengers, he pushed her into a first-class carriage, and sprang after her just as the bell rang and the wheels began to revolve.
 

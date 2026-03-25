@@ -3,13 +3,13 @@ title: "Part I – Chapter 1: The Warning"
 date: 2012-10-20
 novel: "valley-of-fear"
 order: 2
-coverImage: "/images/posts/valley11.jpg"
+coverImage: "../../../../assets/images/posts/valley11.jpg"
 tags:
   - "sherlock-holmes"
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 "I am inclined to think -- " said I.
 
@@ -39,7 +39,7 @@ He was speaking to himself rather than to me; but my vexation disappeared in the
 
 "May I be there to see!" I exclaimed devoutly. "But you were speaking of this man Porlock."
 
-![He leaned upon his hand, with his untasted breakfast before him, and he stared at the slip of paper which he had just drawn from its envelope](/images/posts/valley11.jpg "He leaned upon his hand, with his untasted breakfast before him, and he stared at the slip of paper which he had just drawn from its envelope")
+![He leaned upon his hand, with his untasted breakfast before him, and he stared at the slip of paper which he had just drawn from its envelope](../../../../assets/images/posts/valley11.jpg "He leaned upon his hand, with his untasted breakfast before him, and he stared at the slip of paper which he had just drawn from its envelope")
 
 "Ah, yes -- the so-called Porlock is a link in the chain some little way from its great attachment. Porlock is not quite a sound link -- between ourselves. He is the only flaw in that chain so far as I have been able to test it."
 

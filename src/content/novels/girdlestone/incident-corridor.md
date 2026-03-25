@@ -3,12 +3,12 @@ title: "Chapter XXXVI: The Incident of the Corridor"
 date: 2014-08-12
 novel: "girdlestone"
 order: 37
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 Ezra Girdlestone hardly went through the formality of greeting Kate next morning when she came down to breakfast. He was evidently ill at ease, and turned away his eyes when she looked at him, though he glanced at her furtively from time to time. His father chatted with him upon City matters, but the young man's answers were brusque and monosyllabic. His sleep had been troubled and broken, for the conversation of the night before had obtruded unpleasantly on his dreams.
 

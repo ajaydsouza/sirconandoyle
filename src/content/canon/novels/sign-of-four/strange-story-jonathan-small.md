@@ -3,12 +3,12 @@ title: "Chapter 12: The Strange Story of Jonathan Small"
 date: 2013-01-28
 novel: "sign-of-four"
 order: 13
-coverImage: "/images/posts/sign12.gif"
+coverImage: "../../../../assets/images/posts/sign12.gif"
 tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 A very patient man was that inspector in the cab, for it was a weary time before I rejoined him. His face clouded over when I showed him the empty box.
 
@@ -236,7 +236,7 @@ He stopped and held out his manacled hands for the whisky and water which Holmes
 
 "I think not, thank you," my companion answered.
 
-![I am much obliged to you both for your assistance](/images/posts/sign12.gif) "Well, Holmes," said Athelney Jones, "you are a man to be humoured, and we all know that you are a connoisseur of crime; but duty is duty, and I have gone rather far in doing what you and your friend asked me. I shall feel more at ease when we have our story-teller here safe under lock and key. The cab still waits, and there are two inspectors downstairs. I am much obliged to you both for your assistance. Of course you will be wanted at the trial. Goodnight to you."
+![I am much obliged to you both for your assistance](../../../../assets/images/posts/sign12.gif) "Well, Holmes," said Athelney Jones, "you are a man to be humoured, and we all know that you are a connoisseur of crime; but duty is duty, and I have gone rather far in doing what you and your friend asked me. I shall feel more at ease when we have our story-teller here safe under lock and key. The cab still waits, and there are two inspectors downstairs. I am much obliged to you both for your assistance. Of course you will be wanted at the trial. Goodnight to you."
 
 "Goodnight, gentlemen both," said Jonathan Small.
 

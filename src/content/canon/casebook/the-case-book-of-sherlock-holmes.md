@@ -3,7 +3,7 @@ title: "The Case-Book of Sherlock Holmes"
 date: 2011-08-26
 collection: "casebook"
 order: 2
-coverImage: "/images/posts/Case-book_of_sherlock_holmes.jpg"
+coverImage: "../../../assets/images/posts/Case-book_of_sherlock_holmes.jpg"
 tags:
   - "casebook-2"
   - "sherlock-holmes"
@@ -11,7 +11,7 @@ tags:
 
 **The Case-Book of Sherlock Holmes** is the last collection of 12 short stories written by [Sir Arthur Conan Doyle](/oldsite/html/index.php) in 1927. It contains stories published between 1921 and 1927.
 
-![Case-Book of Sherlock Holmes](/images/posts/Case-book_of_sherlock_holmes.jpg "Case-Book of Sherlock Holmes")
+![Case-Book of Sherlock Holmes](../../../assets/images/posts/Case-book_of_sherlock_holmes.jpg "Case-Book of Sherlock Holmes")
 
 - [Preface](/canon/casebook/preface-of-the-case-book-of-sherlock-holmes/)
 - [The Adventure of the Illustrious Client](/adventure-illustrious-client/%20%22The%20Adventure%20of%20the%20Illustrious%20Client%22/)

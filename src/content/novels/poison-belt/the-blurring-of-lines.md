@@ -3,7 +3,7 @@ title: "Chapter 1: The Blurring of Lines"
 date: 2016-03-09
 novel: "poison-belt"
 order: 2
-coverImage: "/images/posts/The-Poison-Belt.jpg"
+coverImage: "../../../assets/images/posts/The-Poison-Belt.jpg"
 tags:
   - "challenger"
   - "poison-belt"
@@ -119,7 +119,7 @@ He roared with amusement when he saw the oxygen cylinders upon the porter's trol
 
 "Stuff and nonsense!" cried Summerlee again with quite unnecessary violence. We had all got into a first-class smoker, and he had already lit the short and charred old briar pipe which seemed to singe the end of his long, aggressive nose.
 
-![The Poison Belt - The Strand Magazine, US edition, May 1913. Source: Project Gutenberg Australia](/images/posts/The-Poison-Belt.jpg)
+![The Poison Belt - The Strand Magazine, US edition, May 1913. Source: Project Gutenberg Australia](../../../assets/images/posts/The-Poison-Belt.jpg)
 
 "Friend Challenger is a clever man," said he with great vehemence. "No one can deny it. It's a fool that denies it. Look at his hat. There's a sixty-ounce brain inside it—a big engine, running smooth, and turning out clean work. Show me the engine-house and I'll tell you the size of the engine. But he is a born charlatan—you've heard me tell him so to his face—a born charlatan, with a kind of dramatic trick of jumping into the limelight. Things are quiet, so friend Challenger sees a chance to set the public talking about him. You don't imagine that he seriously believes all this nonsense about a change in the ether and a danger to the human race? Was ever such a cock-and-bull story in this life?"
 

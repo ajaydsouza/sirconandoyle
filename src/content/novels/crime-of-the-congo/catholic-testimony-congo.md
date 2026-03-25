@@ -3,14 +3,14 @@ title: "Some Catholic Testimony as to the Congo"
 date: 2013-07-07
 novel: "crime-of-the-congo"
 order: 12
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
 
 It must be admitted that the Roman Catholic Church, as an organized body, has not raised her voice as she should in the matter of the Congo. Never was there such a field for a Las Casas. It was the proudest boast of that church that in the dark days of man’s history she was the one power which stood with her spiritual terrors between the oppressor and the oppressed. This noble tradition has been sadly forgotten in the Congo, where the missions have themselves, as I understand, done most excellent work, but where the power of the Church has never been invoked against the constant barbarities of the State. In extenuation, it may be stated that the chief Catholic establishments are down the river and far from the rubber zones. It is important, however, to collect under a separate heading such testimony as exists, for an unworthy attempt has been made to represent the matter as a contest between rival creeds, whereas it is really a contest between humanity and civilization on one side and cruel greed upon the other.
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 The organization of the Catholic Church is more disciplined, and admits of less individualism than that of those religious bodies which supplied the valiant champions of right in the Congo. The simple priests were doubtless as horrified as others, within the limit of their knowledge, but the means of expression were denied them. M. Colfs, himself a Catholic, said in the Belgian Chamber: “Our missionaries have less liberty than foreign missionaries. They are expected to keep silence.... There is a gag. This gag is placed in the mouth of Belgian missionaries.”
 

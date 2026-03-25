@@ -3,12 +3,12 @@ title: "Chapter 6: Sherlock Holmes gives a Demonstration"
 date: 2013-01-04
 novel: "sign-of-four"
 order: 7
-coverImage: "/images/posts/sign06.gif"
+coverImage: "../../../../assets/images/posts/sign06.gif"
 tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 "Now, Watson," said Holmes, rubbing his hands, "we have half an hour to ourselves. Let us make good use of it. My case is, as I have told you, almost complete; but we must not err on the side of overconfidence. Simple as the case seems now, there may be something deeper underlying it."
 
@@ -50,7 +50,7 @@ He mounted the steps, and, seizing a rafter with either hand, he swung himself u
 
 "Here you are, you see," said Sherlock Holmes, putting his hand against the sloping wall. "This is a trapdoor which leads out on to the roof. I can press it back, and here is the roof itself, sloping at a gentle angle. This, then, is the way by which Number One entered. Let us see if we can find some other traces of his individuality?"
 
-![HE HELD DOWN THE LAMP TO THE FLOOR.](/images/posts/sign06.gif)
+![HE HELD DOWN THE LAMP TO THE FLOOR.](../../../../assets/images/posts/sign06.gif)
 
 He held down the lamp to the floor, and as he did so I saw for the second time that night a startled, surprised look come over his face. For myself, as I followed his gaze, my skin was cold under my clothes. The floor was covered thickly with the prints of a naked foot -- clear, well-defined, perfectly formed, but scarce half the size of those of an ordinary man.
 

@@ -3,7 +3,7 @@ title: "The Boscombe Valley Mystery"
 date: 2011-09-03
 collection: "adventures"
 order: 5
-coverImage: "/images/posts/boscombe.jpg"
+coverImage: "../../../assets/images/posts/boscombe.jpg"
 tags:
   - "adventures-2"
   - "sherlock-holmes"

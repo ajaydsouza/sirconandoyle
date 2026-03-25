@@ -3,12 +3,12 @@ title: "Chapter 1: The Science of Deduction"
 date: 2012-12-15
 novel: "sign-of-four"
 order: 2
-coverImage: "/images/posts/sign01.gif"
+coverImage: "../../../../assets/images/posts/sign01.gif"
 tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 Sherlock Holmes took his bottle from the corner of the mantelpiece, and his hypodermic syringe from its neat morocco case. With his long, white, nervous fingers he adjusted the delicate needle and rolled back his left shirt-cuff. For some little time his eyes rested thoughtfully upon the sinewy forearm and wrist, all dotted and scarred with innumerable puncture-marks. Finally, he thrust the sharp point home, pressed down the tiny piston, and sank back into the velvet-lined armchair with a long sigh of satisfaction.
 
@@ -26,7 +26,7 @@ He smiled at my vehemence. "Perhaps you are right, Watson," he said. "I suppose 
 
 "But consider!" I said earnestly. "Count the cost! Your brain may, as you say, be roused and excited, but it is a pathological and morbid process which involves increased tissue-change and may at least leave a permanent weakness. You know, too, what a black reaction comes upon you. Surely the game is hardly worth the candle. Why should you, for a mere passing pleasure, risk the loss of those great powers with which you have been endowed? Remember that I speak not only as one comrade to another but as a medical man to one for whose constitution he is to some extent answerable."
 
-![HIS EYES RESTED THOUGHTFULLY UPON THE SINEWY FOREARM AND WRIST](/images/posts/sign01.gif)
+![HIS EYES RESTED THOUGHTFULLY UPON THE SINEWY FOREARM AND WRIST](../../../../assets/images/posts/sign01.gif)
 
 He did not seem offended. On the contrary, he put his fingertips together, and leaned his elbows on the arms of his chair, like one who has a relish for conversation.
 

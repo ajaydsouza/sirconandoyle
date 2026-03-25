@@ -3,13 +3,13 @@ title: "Chapter 2: The  Curse of Baskervilles"
 date: 2012-06-29
 novel: "hound-of-the-baskervilles"
 order: 2
-coverImage: "/images/posts/hound02.jpg"
+coverImage: "../../../../assets/images/posts/hound02.jpg"
 tags:
   - "hound-of-baskervilles"
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 "I have in my pocket a manuscript," said Dr. James Mortimer.
 
@@ -47,7 +47,7 @@ Holmes leaned back in his chair, placed his finger-tips together, and closed his
 
 "Now, for some space the revellers stood agape, unable to understand all that had been done in such haste. But anon their bemused wits awoke to the nature of the deed which was like to be done upon the moorlands. Everything was now in an uproar, some calling for their pistols, some for their horses, and some for another flask of wine. But at length some sense came back to their crazed minds, and the whole of them, thirteen in number, took horse and started in pursuit. The moon shone clear above them, and they rode swiftly abreast, taking that course which the maid must needs have taken if she were to reach her own home. "They had gone a mile or two when they passed one of the night shepherds upon the moorlands, and they cried to him to know if he had seen the hunt. And the man, as the story goes, was so crazed with fear that he could scarce speak, but at last he said that he had indeed seen the unhappy maiden, with the hounds upon her track. 'But I have seen more than that,' said he, 'for Hugo Baskerville passed me upon his black mare, and there ran mute behind him such a hound of hell as God forbid should ever be at my heels.' So the drunken squires cursed the shepherd and rode onward. But soon their skins turned cold, for there came a galloping across the moor, and the black mare, dabbled with white froth, went past with trailing bridle and empty saddle. Then the revellers rode close together, for a great fear was on them, but they still followed over the moor, though each, had he been alone, would have been right glad to have turned his horse's head. Riding slowly in this fashion they came at last upon the hounds. These, though known for their valour and their breed, were whimpering in a cluster at the head of a deep dip or goyal, as we call it, upon the moor, some slinking away and some, with starting hackles and staring eyes, gazing down the narrow valley before them.
 
-![STANDING OVER HUGO, AND PLUCKING AT HIS THROAT, THERE STOOD A FOUL THING](/images/posts/hound02.jpg "STANDING OVER HUGO, AND PLUCKING AT HIS THROAT, THERE STOOD A FOUL THING")
+![STANDING OVER HUGO, AND PLUCKING AT HIS THROAT, THERE STOOD A FOUL THING](../../../../assets/images/posts/hound02.jpg "STANDING OVER HUGO, AND PLUCKING AT HIS THROAT, THERE STOOD A FOUL THING")
 
 "The company had come to a halt, more sober men, as you may guess, than when they started. The most of them would by no means advance, but three of them, the boldest, or it may be the most drunken, rode forward down the goyal. Now, it opened into a broad space in which stood two of those great stones, still to be seen there, which were set by certain forgotten peoples in the days of old. The moon was shining bright upon the clearing, and there in the centre lay the unhappy maid where she had fallen, dead of fear and of fatigue. But it was not the sight of her body, nor yet was it that of the body of Hugo Baskerviile lying near her, which raised the hair upon the heads of these three dare-devil roysterers, but it was that, standing over Hugo, and plucking at his throat, there stood a foul thing, a great, black beast, shaped like a hound, yet larger than any hound that ever mortal eye has rested upon. And even as they looked the thing tore the throat out of Hugo Baskerville, on which, as it turned its blazing eyes and dripping jaws upon them, the three shrieked with fear and rode for dear life, still screaming, across the moor. One, it is said, died that very night of what he had seen, and the other twain were but broken men for the rest of their days.
 

@@ -1,5 +1,7 @@
 ---
 import '../styles/global.css';
+import { Image } from 'astro:assets';
+import logo from '../assets/images/posts/SACD.jpg';
 
 // Local Font Imports (Fontsource)
 import '@fontsource/inter/400.css';
@@ -33,7 +35,7 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
       <div class="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
         <!-- Logo: portrait + site name + tagline -->
         <a href="/" class="flex items-center gap-3 shrink-0">
-          <img src="/images/posts/SACD.jpg" alt="Sir Arthur Conan Doyle" class="h-16 w-16 object-cover rounded shadow-sm" />
+          <img src={logo.src} alt="Sir Arthur Conan Doyle" class="h-16 w-16 object-cover rounded shadow-sm" loading="eager" fetchpriority="high" />
           <div class="hidden sm:block">
             <span class="block text-3xl leading-tight text-[#3a5f8a]" style="font-family: 'Great Vibes', cursive;">Sir Arthur Conan Doyle</span>
             <span class="block text-xs text-stone-500 tracking-wide mt-0.5">His Life, All His Works and more...</span>

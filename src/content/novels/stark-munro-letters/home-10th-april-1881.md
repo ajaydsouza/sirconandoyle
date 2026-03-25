@@ -3,14 +3,14 @@ title: "II. HOME, 10th April, 1881"
 date: 2013-07-30
 novel: "stark-munro-letters"
 order: 3
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 Well, my dear Bertie, here I am again in your postbox. It's not a fortnight since I wrote you that great long letter, and yet you see I have news enough to make another formidable budget. They say that the art of letter-writing has been lost; but if quantity may atone for quality, you must confess that (for your sins) you have a friend who has retained it.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 When I wrote to you last I was on the eve of going down to join the Cullingworths at Avonmouth, with every hope that he had found some opening for me. I must tell you at some length the particulars of that expedition.
 

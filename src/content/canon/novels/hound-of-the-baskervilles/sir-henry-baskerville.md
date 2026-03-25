@@ -3,13 +3,13 @@ title: "Chapter 4: Sir Henry Baskerville"
 date: 2012-07-07
 novel: "hound-of-the-baskervilles"
 order: 4
-coverImage: "/images/posts/hound04.jpg"
+coverImage: "../../../../assets/images/posts/hound04.jpg"
 tags:
   - "hound-of-baskervilles"
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 Our breakfast table was cleared early, and Holmes waited in his dressing-gown for the promised interview. Our clients were punctual to their appointment, for the clock had just struck ten when Dr. Mortimer was shown up, followed by the young baronet. The latter was a small, alert, dark-eyed man about thirty years of age, very sturdily built, with thick black eyebrows and a strong, pugnacious face. He wore a ruddy-tinted tweed suit and had the weather-beaten appearance of one who has spent most of his time in the open air, and yet there was something in his steady eye and the quiet assurance of his bearing which indicated the gentleman.
 
@@ -43,7 +43,7 @@ The word "moor" only was printed in ink.
 
 "It is here in the corner."
 
-![HE GLANCED SWIFTLY OVER IT, RUNNING HIS EYES UP AND DOWN THE COLUMNS.](/images/posts/hound04.jpg "HE GLANCED SWIFTLY OVER IT, RUNNING HIS EYES UP AND DOWN THE COLUMNS.")
+![HE GLANCED SWIFTLY OVER IT, RUNNING HIS EYES UP AND DOWN THE COLUMNS.](../../../../assets/images/posts/hound04.jpg "HE GLANCED SWIFTLY OVER IT, RUNNING HIS EYES UP AND DOWN THE COLUMNS.")
 
 "Might I trouble you for it -- the inside page, please, with the leading articles?" He glanced swiftly over it, running his eyes up and down the columns. "Capital article this on free trade. Permit me to give you an extract from it.
 

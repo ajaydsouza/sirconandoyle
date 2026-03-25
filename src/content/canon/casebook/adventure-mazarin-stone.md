@@ -3,7 +3,7 @@ title: "The Adventure of the Mazarin Stone"
 date: 2015-01-19
 collection: "casebook"
 order: 5
-coverImage: "/images/posts/Mazarin-Stone-01.jpg"
+coverImage: "../../../assets/images/posts/Mazarin-Stone-01.jpg"
 tags:
   - "casebook-2"
   - "sherlock-holmes"
@@ -48,7 +48,7 @@ Billy sank his voice, as one who discusses great secrets of State. "I don't mind
 
 "Mr. Holmes had it put up there three days ago. We've got something funny behind it."
 
-![BILLY ADVANCED AND DREW AWAY THE DRAPERY.](/images/posts/Mazarin-Stone-01.jpg)
+![BILLY ADVANCED AND DREW AWAY THE DRAPERY.](../../../assets/images/posts/Mazarin-Stone-01.jpg)
 
 Billy advanced and drew away the drapery which screened the alcove of the bow window.
 
@@ -170,7 +170,7 @@ It was, therefore, an empty room into which Billy, a minute later, ushered Count
 
 "Don't break it, Count! Don't break it!"
 
-![“DON’T BREAK IT, COUNT! DON’T BREAK IT!”](/images/posts/Mazarin-Stone-02.jpg)
+![“DON’T BREAK IT, COUNT! DON’T BREAK IT!”](../../../assets/images/posts/Mazarin-Stone-02.jpg)
 
 The assassin staggered back, amazement in his convulsed face. For an instant he half raised his loaded cane once more, as if he would turn his violence from the effigy to the original; but there was something in that steady gray eye and mocking smile which caused his hand to sink to his side.
 
@@ -344,7 +344,7 @@ The boxer still addressed his remarks to his associate.
 
 "Is this cove trying to be funny, or what? I'm not in the funny mood myself."
 
-![“I’M GOING INTO THAT BEDROOM.”](/images/posts/Mazarin-Stone-03.jpg)
+![“I’M GOING INTO THAT BEDROOM.”](../../../assets/images/posts/Mazarin-Stone-03.jpg)
 
 "No, I expect not," said Holmes. "I think I can promise you that you will feel even less humorous as the evening advances. Now, look here, Count Sylvius. I'm a busy man and I can't waste time. I'm going into that bedroom. Pray make yourselves quite at home in my absence. You can explain to your friend how the matter lies without the restraint of my presence. I shall try over the Hoffman 'Barcarole' upon my violin. In five minutes I shall return for your final answer. You quite grasp the alternative, do you not? Shall we take you, or shall we have the stone?"
 

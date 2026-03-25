@@ -3,7 +3,7 @@ title: "The Stockbroker's Clerk"
 date: 2011-11-06
 collection: "memoirs"
 order: 4
-coverImage: "/images/posts/clerk.jpg"
+coverImage: "../../../assets/images/posts/clerk.jpg"
 tags:
   - "memoirs-2"
   - "sherlock-holmes"

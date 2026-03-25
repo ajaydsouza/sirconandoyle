@@ -3,7 +3,7 @@ title: "Chapter 2: The Tide of Death"
 date: 2016-05-02
 novel: "poison-belt"
 order: 3
-coverImage: "/images/posts/The-Poison-Belt.jpg"
+coverImage: "../../../assets/images/posts/The-Poison-Belt.jpg"
 tags:
   - "challenger"
   - "poison-belt"
@@ -209,4 +209,4 @@ The taciturn Austin saluted and withdrew. Challenger lit a cigarette, and, drawi
 
 "I have not an idea. We will not turn them on until our symptoms become unbearable. Then we shall dole the gas out as it is urgently needed. It may give us some hours, possibly even some days, on which we may look out upon a blasted world. Our own fate is delayed to that extent, and we will have the very singular experience, we five, of being, in all probability, the absolute rear guard of the human race upon its march into the unknown. Perhaps you will be kind enough now to give me a hand with the cylinders. It seems to me that the atmosphere already grows somewhat more oppressive."
 
-![The Poison Belt - The Strand Magazine, US edition, May 1913. Source: Project Gutenberg Australia](/images/posts/The-Poison-Belt.jpg)
+![The Poison Belt - The Strand Magazine, US edition, May 1913. Source: Project Gutenberg Australia](../../../assets/images/posts/The-Poison-Belt.jpg)

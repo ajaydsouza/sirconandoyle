@@ -3,12 +3,12 @@ title: "Chapter III: Thomas Gilray makes an Investment"
 date: 2014-02-03
 novel: "girdlestone"
 order: 4
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 The shambling little clerk was still standing at the door watching the retreating figure of the millionaire, and mentally splicing together his fragmentary remarks into a symmetrical piece of advice which might be carried home and digested at leisure, when his attention was attracted to a pale-faced woman, with a child in her arms, who was hanging about the entrance. She looked up at the clerk in a wistful way, as if anxious to address him and yet afraid to do so. Then noting, perhaps, some gleam of kindness in his yellow wrinkled face, she came across to him.
 

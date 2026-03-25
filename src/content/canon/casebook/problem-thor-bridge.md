@@ -3,7 +3,7 @@ title: "The Problem of Thor Bridge"
 date: 2015-05-25
 collection: "casebook"
 order: 9
-coverImage: "/images/posts/Thor-Bridge-06.jpg"
+coverImage: "../../../assets/images/posts/Thor-Bridge-06.jpg"
 tags:
   - "casebook-2"
   - "sherlock-holmes"
@@ -56,7 +56,7 @@ J. NEIL GIBSON.
 
 "There you have it," said Sherlock Holmes, knocking out the ashes of his after-breakfast pipe and slowly refilling it. "That is the gentleman I await. As to the story, you have hardly time to master all these papers, so I must give it to you in a nutshell if you are to take an intelligent interest in the proceedings. This man is the greatest financial power in the world, and a man, as I understand, of most violent and formidable character. He married a wife, the victim of this tragedy, of whom I know nothing save that she was past her prime, which was the more unfortunate as a very attractive governess superintended the education of two young children. These are the three people concerned, and the scene is a grand old manor house, the centre of a historical English state. Then as to the tragedy. The wife was found in the grounds nearly half a mile from the house, late at night, clad in her dinner dress, with a shawl over her shoulders and a revolver bullet through her brain. No weapon was found near her and there was no local clue as to the murder. No weapon near her, Watson--mark that! The crime seems to have been committed late in the evening, and the body was found by a gamekeeper about eleven o'clock, when it was examined by the police and by a doctor before being carried up to the house. Is this too condensed, or can you follow it clearly?"
 
-![“THE WIFE WAS FOUND IN THE GROUNDS NEARLY HALF A MILE FROM THE HOUSE, LATE AT NIGHT.”](/images/posts/Thor-Bridge-01.jpg)
+![“THE WIFE WAS FOUND IN THE GROUNDS NEARLY HALF A MILE FROM THE HOUSE, LATE AT NIGHT.”](../../../assets/images/posts/Thor-Bridge-01.jpg)
 
 "It is all very clear. But why suspect the governess?"
 
@@ -138,7 +138,7 @@ Our visitor had risen also, and his great loose figure towered above Holmes. The
 
 I sprang to my feet, for the expression upon the millionaire's face was fiendish in its intensity, and he had raised his great knotted fist. Holmes smiled languidly and reached his hand out for his pipe.
 
-![I SPRANG TO MY FEET, FOR THE EXPRESSION UPON THE MILLIONAIRE’S FACE WAS FIENDISH IN THE INTENSITY.](/images/posts/Thor-Bridge-02.jpg)
+![I SPRANG TO MY FEET, FOR THE EXPRESSION UPON THE MILLIONAIRE’S FACE WAS FIENDISH IN THE INTENSITY.](../../../assets/images/posts/Thor-Bridge-02.jpg)
 
 "Don't be noisy, Mr. Gibson. I find that after breakfast even the smallest argument is unsettling. I suggest that a stroll in the morning air and a little quiet thought will be greatly to your advantage."
 
@@ -258,7 +258,7 @@ There was some delay in the official pass, and instead of reaching Winchester th
 
 This conversation had taken place in the little front room of Sergeant Coventry's humble cottage which served as the local police-station. A walk of half a mile or so across a wind-swept heath, all gold and bronze with the fading ferns, brought us to a side-gate opening into the grounds of the Thor Place estate. A path led us through the pheasant preserves, and then from a clearing we saw the widespread, half-timbered house, half Tudor and half Georgian, upon the crest of the hill. Beside us there was a long, reedy pool, constricted in the centre where the main carriage drive passed over a stone bridge, but swelling into small lakes on either side. Our guide paused at the mouth of this bridge, and he pointed to the ground.
 
-![OUR GUIDE PAUSED AT THE MOUTH OF THIS BRIDGE, AND HE POINTED TO THE GROUND.](/images/posts/Thor-Bridge-03.jpg)
+![OUR GUIDE PAUSED AT THE MOUTH OF THIS BRIDGE, AND HE POINTED TO THE GROUND.](../../../assets/images/posts/Thor-Bridge-03.jpg)
 
 "That was where Mrs. Gibson's body lay. I marked it by that stone."
 
@@ -322,7 +322,7 @@ The stonework was gray, but at this one point it showed white for a space not la
 
 "It took some violence to do that," said Holmes thoughtfully. With his cane he struck the ledge several times without leaving a mark. "Yes, it was a hard knock. In a curious place, too. It was not from above but from below, for you see that it is on the lower edge of the parapet."
 
-![WITH HIS CANE HE STRUCK THE LEDGE SEVERAL TIMES WITHOUT LEAVING A MARK.](/images/posts/Thor-Bridge-04.jpg)
+![WITH HIS CANE HE STRUCK THE LEDGE SEVERAL TIMES WITHOUT LEAVING A MARK.](../../../assets/images/posts/Thor-Bridge-04.jpg)
 
 "But it is at least fifteen feet from the body."
 
@@ -394,7 +394,7 @@ We were compelled to spend the night at Winchester, as the formalities had not y
 
 "I went down as I had promised. When I reached the bridge she was waiting for me. Never did I realize till that moment how this poor creature hated me. She was like a mad woman--indeed, I think she was a mad woman, subtly mad with the deep power of deception which insane people may have. How else could she have met me with unconcern every day and yet had so raging a hatred of me in her heart? I will not say what she said. She poured her whole wild fury out in burning and horrible words. I did not even answer--I could not. It was dreadful to see her. I put my hands to my ears and rushed away. When I left her she was standing, still shrieking out her curses at me, in the mouth of the bridge."
 
-![“SHE POURED HER WHOLE WILD FURY OUT IN BURNING AND HORRIBLE WORDS.”](/images/posts/Thor-Bridge-05.jpg)
+![“SHE POURED HER WHOLE WILD FURY OUT IN BURNING AND HORRIBLE WORDS.”](../../../assets/images/posts/Thor-Bridge-05.jpg)
 
 "Where she was afterwards found?"
 
@@ -462,7 +462,7 @@ We were compelled to spend the night at Winchester, as the formalities had not y
 
 Holmes did not answer. His pale, eager face had suddenly assumed that tense, far-away expression which I had learned to associate with the supreme manifestations of his genius. So evident was the crisis in his mind that none of us dared to speak, and we sat, barrister, prisoner, and myself, watching him in a concentrated and absorbed silence. Suddenly he sprang from his chair, vibrating with nervous energy and the pressing need for action.
 
-![SUDDENLY HE SPRANG FROM HIS CHAIR.](/images/posts/Thor-Bridge-06.jpg)
+![SUDDENLY HE SPRANG FROM HIS CHAIR.](../../../assets/images/posts/Thor-Bridge-06.jpg)
 
 "Come, Watson, come!" he cried.
 
@@ -512,7 +512,7 @@ As he walked he had firmly tied one end of the string to the handle of the revol
 
 At the words he raised the pistol to his head, and then let go his grip. In an instant it had been whisked away by the weight of the stone, had struck with a sharp crack against the parapet, and had vanished over the side into the water. It had hardly gone before Holmes was kneeling beside the stonework, and a joyous cry showed that he had found what he expected.
 
-![IT HAD HARDLY GONE BEFORE HOLMES WAS KNEELING BESIDE THE STONEWORK.](/images/posts/Thor-Bridge-07.jpg)
+![IT HAD HARDLY GONE BEFORE HOLMES WAS KNEELING BESIDE THE STONEWORK.](../../../assets/images/posts/Thor-Bridge-07.jpg)
 
 "Was there ever a more exact demonstration?" he cried. "See, Watson, your revolver has solved the problem!" As he spoke he pointed to a second chip of the exact size and shape of the first which had appeared on the under edge of the stone balustrade.
 

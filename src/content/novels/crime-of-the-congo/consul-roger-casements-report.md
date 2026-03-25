@@ -3,14 +3,14 @@ title: "Consul Roger Casement’s Report"
 date: 2013-07-01
 novel: "crime-of-the-congo"
 order: 9
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
 
 Up to this time the published reports as to the black doings of King Leopold and his men were, with the exception of a guarded document from Consul Pickersgill, in 1898, entirely from private individuals. No doubt there were official reports but the Government withheld them. In 1904, this policy of reticence was abandoned, and the historic report of Consul Roger Casement confirmed, and in some ways amplified, all that had reached Europe from other sources.
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 A word or two as to Mr. Casement's own personality and qualifications may not be amiss, since both were attacked by his Belgian detractors. He is a tried and experienced public servant, who has had exceptional opportunities of knowing Africa and the natives. He entered the Consular Service in 1892, served on the Niger till 1895, was Consul at Delagoa Bay to 1898, and was finally transferred to the Congo. Personally, he is a man of the highest character, truthful, unselfish—one who is deeply respected by all who know him. His experience, which deals with the Crown Domain districts in the year 1903, covers some sixty-two pages, to be read in full in "White Book, Africa, No. 1, 1904.” I will not apologize for the length of the extracts, as this, the first official exposure, was an historical document and from its publication we mark the first step in that train of events which is surely destined to remove the Congo State from hands which have proved so unworthy, and to place it in conditions which shall no longer be a disgrace to European civilization. It may be remarked before beginning that at some of these conversations with the natives Mr. Scrivener was present, and that he corroborates the account given by the Consul.
 

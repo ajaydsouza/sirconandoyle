@@ -3,14 +3,14 @@ title: "VIII. THE PARADE, BRADFIELD, 6th April, 1882"
 date: 2013-08-05
 novel: "stark-munro-letters"
 order: 9
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 I am writing this, my dear Bertie, at a little table which has been fitted up in the window of my bedroom. Every one in the house is asleep except myself; and all the noise of the city is hushed. Yet my own brain is singularly active, and I feel that I am better employed in sitting up and writing to you, than in tossing about upon my bed. I am often accused of being sleepy in the daytime, but every now and then Nature gets level by making me abnormally wakeful at night.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 Are you conscious of the restful influence which the stars exert? To me they are the most soothing things in Nature. I am proud to say that I don't know the name of one of them. The glamour and romance would pass away from them if they were all classified and ticketed in one's brain. But when a man is hot and flurried, and full of his own little ruffled dignities and infinitesimal misfortunes, then a star bath is the finest thing in the world. They are so big, and so serene and so lovely. They tell me that the interplanetary spaces are full of the debris of shattered asteroids; so, perhaps, even among them there are such things as disease and death. Yet just to look at them must remind a man of what a bacillus of a thing he is—the whole human race like some sprinkling of impalpable powder upon the surface of one of the most insignificant fly-wheels of a monstrous machine. But there's order in it, Bertie, there's order! And where there is order there must be mind, and where there is mind there must be sense of Justice. I don't allow that there can be any doubt as to the existence of that central Mind, or as to the possession by it of certain attributes. The stars help me to realise these. It is strange, when one looks upon them, to think that the Churches are still squabbling down here over such questions as whether the Almighty is most gratified by our emptying a tea-spoonful of water over our babies' heads, or by our waiting a few years and then plunging them bodily into a tank. It would be comic if it were not so tragic.
 

@@ -3,13 +3,13 @@ title: "Part II – Chapter 4: The Valley of Fear"
 date: 2012-11-29
 novel: "valley-of-fear"
 order: 12
-coverImage: "/images/posts/valley24.jpg"
+coverImage: "../../../../assets/images/posts/valley24.jpg"
 tags:
   - "sherlock-holmes"
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 When McMurdo awoke next morning he had good reason to remember his initiation into the lodge. His head ached with the effect of the drink, and his arm, where he had been branded, was hot and swollen. Having his own peculiar source of income, he was irregular in his attendance at his work; so he had a late breakfast, and remained at home for the morning writing a long letter to a friend. Afterwards he read the Daily Herald. In a special column put in at the last moment he read:
 
@@ -153,7 +153,7 @@ The swarthy giant glared at him, and his hairy paw closed for an instant round t
 
 McGinty laughed. "It's my business to know what goes on in this township," said he. "I guess you'd best reckon on my hearing all that passes. Well, time's up, and I'll just say --"
 
-![WITH A CRASH THE DOOR FLEW OPEN](/images/posts/valley24.jpg "WITH A CRASH THE DOOR FLEW OPEN")
+![WITH A CRASH THE DOOR FLEW OPEN](../../../../assets/images/posts/valley24.jpg "WITH A CRASH THE DOOR FLEW OPEN")
 
 But his leavetaking was cut short in a very unexpected fashion. With a sudden crash the door flew open, and three frowning, intent faces glared in at them from under the peaks of police caps. McMurdo sprang to his feet and half drew his revolver; but his arm stopped midway as he became conscious that two Winchester rifles were levelled at his head. A man in uniform advanced into the room, a six-shooter in his hand. It was Captain Marvin, once of Chicago, and now of the Mine Constabulary. He shook his head with a half-smile at McMurdo.
 

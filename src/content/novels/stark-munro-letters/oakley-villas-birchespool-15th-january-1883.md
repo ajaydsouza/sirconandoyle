@@ -3,14 +3,14 @@ title: "XIV. OAKLEY VILLAS, BIRCHESPOOL, 15th January, 1883"
 date: 2013-08-11
 novel: "stark-munro-letters"
 order: 15
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 You write reproachfully, my dear Bertie, and you say that absence must have weakened our close friendship, since I have not sent you a line during this long seven months. The real truth of the matter is that I had not the heart to write to you until I could tell you something cheery; and something cheery has been terribly long in coming. At present I can only claim that the cloud has perhaps thinned a little at the edges.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 You see by the address of this letter that I still hold my ground, but between ourselves it has been a terrible fight, and there have been times when that last plank of which old Whitehall wrote seemed to be slipping out of my clutch. I have ebbed and flowed, sometimes with a little money, sometimes without. At my best I was living hard, at my worst I was very close upon starvation. I have lived for a whole day upon the crust of a loaf, when I had ten pounds in silver in the drawer of my table. But those ten pounds had been most painfully scraped together for my quarter's rent, and I would have tried twenty-four hours with a tight leather belt before I would have broken in upon it. For two days I could not raise a stamp to send a letter. I have smiled when I have read in my evening paper of the privations of our fellows in Egypt. Their broken victuals would have been a banquet to me. However, what odds how you take your carbon and nitrogen and oxygen, as long as you DO get it? The garrison of Oakley Villa has passed the worst, and there is no talk of surrender.
 

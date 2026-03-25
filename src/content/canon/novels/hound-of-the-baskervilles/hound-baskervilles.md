@@ -3,13 +3,13 @@ title: "Chapter 14: The Hound of the Baskervilles"
 date: 2012-08-17
 novel: "hound-of-the-baskervilles"
 order: 14
-coverImage: "/images/posts/hound14.jpg"
+coverImage: "../../../../assets/images/posts/hound14.jpg"
 tags:
   - "hound-of-baskervilles"
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 One of Sherlock Holmes's defects -- if, indeed, one may call it a defect -- was that he was exceedingly loath to communicate his full plans to any other person until the instant of their fulfillment. Partly it came no doubt from his own masterful nature, which loved to dominate and surprise those who were around him. Partly also from his professional caution, which urged him never to take any chances. The result, however, was very trying for those who were acting as his agents and assistants. I had often suffered under it, but never more so than during that long drive in the darkness. The great ordeal was in front of us; at last we were about to make our final effort, and yet Holmes had said nothing, and I could only surmise what his course of action would be. My nerves thrilled with anticipation when at last the cold wind upon our faces and the dark, void spaces on either side of the narrow road told me that we were back upon the moor once again. Every stride of the horses and every turn of the wheels was taking us nearer to our supreme adventure.
 
@@ -81,7 +81,7 @@ A sound of quick steps broke the silence of the moor. Crouching among the stones
 
 "Hist!" cried Holmes, and I heard the sharp click of a cocking pistol. "Look out! It's coming!"
 
-![BUT NOT SUCH A HOUND AS MORTAL EYES HAVE EVER SEEN](/images/posts/hound14.jpg "BUT NOT SUCH A HOUND AS MORTAL EYES HAVE EVER SEEN")
+![BUT NOT SUCH A HOUND AS MORTAL EYES HAVE EVER SEEN](../../../../assets/images/posts/hound14.jpg "BUT NOT SUCH A HOUND AS MORTAL EYES HAVE EVER SEEN")
 
 There was a thin, crisp, continuous patter from somewhere in the heart of that crawling bank. The cloud was within fifty yards of where we lay, and we glared at it, all three, uncertain what horror was about to break from the heart of it. I was at Holmes's elbow, and I glanced for an instant at his face. It was pale and exultant, his eyes shining brightly in the moonlight. But suddenly they started forward in a rigid, fixed stare, and his lips parted in amazement. At the same instant Lestrade gave a yell of terror and threw himself face downward upon the ground. I sprang to my feet, my inert hand grasping my pistol, my mind paralyzed by the dreadful shape which had sprung out upon us from the shadows of the fog. A hound it was, an enormous coal-black hound, but not such a hound as mortal eyes have ever seen. Fire burst from its open mouth, its eyes glowed with a smouldering glare, its muzzle and hackles and dewlap were outlined in flickering flame. Never in the delirious dream of a disordered brain could anything more savage, more appalling, more hellish be conceived than that dark form and savage face which broke upon us out of the wall of fog.
 

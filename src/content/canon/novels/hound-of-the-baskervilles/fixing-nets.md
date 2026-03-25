@@ -3,13 +3,13 @@ title: "Chapter 13: Fixing the Nets"
 date: 2012-08-13
 novel: "hound-of-the-baskervilles"
 order: 13
-coverImage: "/images/posts/hound13.jpg"
+coverImage: "../../../../assets/images/posts/hound13.jpg"
 tags:
   - "hound-of-baskervilles"
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 "We're at close grips at last," said Holmes as we walked together across the moor. "What a nerve the fellow has! How he pulled himself together in the face of what must have been a paralyzing shock when he found that the wrong man had fallen a victim to his plot. I told you in London, Watson, and I tell you now again, that we have never had a foeman more worthy of our steel."
 
@@ -219,7 +219,7 @@ His plan of campaign was beginning to be evident. He would use the baronet in or
 
 "In that case the coincidence must indeed be an extraordinary one. But I think that we shall succeed in establishing a connection, after all. I wish to be perfectly frank with you, Mrs. Lyons. We regard this case as one of murder, and the evidence may implicate not only your friend Mr. Stapleton but his wife as well."
 
-![THE LADY SPRANG FROM HER CHAIR](/images/posts/hound13.jpg "THE LADY SPRANG FROM HER CHAIR")
+![THE LADY SPRANG FROM HER CHAIR](../../../../assets/images/posts/hound13.jpg "THE LADY SPRANG FROM HER CHAIR")
 
 The lady sprang from her chair. "His wife!" she cried.
 

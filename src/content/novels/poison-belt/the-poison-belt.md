@@ -3,7 +3,7 @@ title: "The Poison Belt"
 date: 2016-03-06
 novel: "poison-belt"
 order: 1
-coverImage: "/images/posts/The-Poison-Belt.jpg"
+coverImage: "../../../assets/images/posts/The-Poison-Belt.jpg"
 tags:
   - "challenger"
   - "poison-belt"
@@ -11,7 +11,7 @@ tags:
 
 The Poison Belt was the second story, a novella, that Sir Arthur Conan Doyle wrote about Professor Challenger. Written in 1913, roughly a year before the outbreak of World War I, much of it takes place in a single room in Challenger's house in Sussex – rather oddly, given that it follows The Lost World, a story set largely outdoors in the wilds of South America. This would be the last story written about Challenger until the 1920s, by which time Doyle's spiritualist beliefs had begun to influence his writing.
 
-![The Poison Belt - The Strand Magazine, US edition, May 1913. Source: Project Gutenberg Australia](/images/posts/The-Poison-Belt.jpg)
+![The Poison Belt - The Strand Magazine, US edition, May 1913. Source: Project Gutenberg Australia](../../../assets/images/posts/The-Poison-Belt.jpg)
 
 **Being an account of another adventure of Prof. George E. Challenger, Lord John Roxton, Prof. Summerlee, and Mr. E. D. Malone, the discoverers of "The Lost World"**
 

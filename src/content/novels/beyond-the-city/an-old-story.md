@@ -3,7 +3,7 @@ title: "An Old Story"
 date: 2018-04-07
 novel: "beyond-the-city"
 order: 7
-coverImage: "/images/posts/Beyond-the-City.jpg"
+coverImage: "../../../assets/images/posts/Beyond-the-City.jpg"
 tags:
   - "beyond-the-city"
 ---

@@ -3,12 +3,12 @@ title: "Chapter 10: The End of the Islander"
 date: 2013-01-20
 novel: "sign-of-four"
 order: 11
-coverImage: "/images/posts/sign10.gif"
+coverImage: "../../../../assets/images/posts/sign10.gif"
 tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 Our meal was a merry one. Holmes could talk exceedingly well when he chose, and that night he did choose. He appeared to be in a state of nervous exaltation. I have never known him so brilliant. He spoke on a quick succession of subjects -- on miracle plays, on medieval pottery, on Stradivarius violins, on the Buddhism of Ceylon, and on the warships of the future -- handling each as though he had made a special study of it. His bright humour marked the reaction from his black depression of the preceding days. Athelney Jones proved to be a sociable soul in his hours of relaxation and faced his dinner with the air of a bon vivant. For myself, I felt elated at the thought that we were nearing the end of our task, and I caught something of Holmes's gaiety. None of us alluded during dinner to the cause which had brought us together.
 
@@ -96,7 +96,7 @@ We were fairly after her now. The furnaces roared, and the powerful engines whiz
 
 "Fire if he raises his hand," said Holmes quietly.
 
-![Our pistols rang out together](/images/posts/sign10.gif)
+![Our pistols rang out together](../../../../assets/images/posts/sign10.gif)
 
 We were within a boat's-length by this time, and almost within touch of our quarry. I can see the two of them now as they stood, the white man with his legs far apart, shrieking out curses, and the unhallowed dwarf with his hideous face, and his strong yellow teeth gnashing at us in the light of our lantern. It was well that we had so clear a view of him. Even as we looked he plucked out from under his covering a short, round piece of wood, like a school-ruler, and clapped it to his lips. Our pistols rang out together. He whirled round, threw up his arms and, with a kind of choking cough, fell sideways into the stream. I caught one glimpse of his venomous, menacing eyes amid the white swirl of the waters. At the same moment the wooden-legged man threw himself upon the rudder and put it hard down so that his boat made straight in for the southern bank, while we shot past her stern, only clearing her by a few feet. We were round after her in an instant, but she was already nearly at the bank. It was a wild and desolate place, where the moon glimmered upon a wide expanse of marsh-land, with pools of stagnant water and beds of decaying vegetation. The launch, with a dull thud, ran up upon the mud-bank, with her bow in the air and her stern flush with the water. The fugitive sprang out, but his stump instantly sank its whole length into the sodden soil. In vain he struggled and writhed. Not one step could he possibly take either forward or backward. He yelled in impotent rage and kicked frantically into the mud with his other foot, but his struggles only bored his wooden pin the deeper into the sticky bank. When we brought our launch alongside he was so firmly anchored that it was only by throwing the end of a rope over his shoulders that we were able to haul him out and to drag him, like some evil fish, over our side. The two Smiths, father and son, sat sullenly in their launch but came aboard meekly enough when commanded. The Aurora herself we hauled off and made fast to our stern. A solid iron chest of Indian workmanship stood upon the deck. This, there could be no question, was the same that had contained the ill-omened treasure of the Sholtos. There was no key, but it was of considerable weight, so we transferred it carefully to our own little cabin. As we steamed slowly upstream again, we flashed our searchlight in every direction, but there was no sign of the Islander. Somewhere in the dark ooze at the bottom of the Thames lie the bones of that strange visitor to our shores.
 

@@ -3,13 +3,13 @@ title: "Part II – Chapter 1: On the Great Alkali Plain"
 date: 2012-09-22
 novel: "a-study-in-scarlet"
 order: 9
-coverImage: "/images/posts/scarlet21.gif"
+coverImage: "../../../../assets/images/posts/scarlet21.gif"
 tags:
   - "sherlock-holmes"
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 In the central portion of the great North American Continent there lies an arid and repulsive desert, which for many a long year served as a barrier against the advance of civilization. From the Sierra Nevada to Nebraska, and from the Yellowstone River in the north to the Colorado upon the south, is a region of desolation and silence. Nor is Nature always in one mood throughout this grim district. It comprises snow-capped and lofty mountains, and dark and gloomy valleys. There are swift-flowing rivers which dash through jagged canons; and there are enormous plains, which in winter are white with snow, and in summer are gray with the saline alkali dust. They all preserve, however, the common characteristics of barrenness, inhospitality, and misery. There are no inhabitants of this land of despair. A band of Pawnees or of Blackfeet may occasionally traverse it in order to reach other hunting-grounds, but the hardiest of the braves are glad to lose sight of those awesome plains, and to find themselves once more upon their prairies. The coyote skulks among the scrub, the buzzard flaps heavily through the air, and the clumsy grizzly bear lumbers through the dark ravines, and picks up such sustenance as it can amongst the rocks. These are the sole dwellers in the wilderness.
 
@@ -75,7 +75,7 @@ Before sitting down, he had deposited upon the ground his useless rifle, and als
 
 "Why don't you say some yourself?" the child asked, with wondering eyes.
 
-![YOU'VE GOT TO PUT YOUR HANDS UP LIKE THIS. IT MAKES YOU FEEL KIND OF GOOD.](/images/posts/scarlet21.gif "YOU'VE GOT TO PUT YOUR HANDS UP LIKE THIS. IT MAKES YOU FEEL KIND OF GOOD.")
+![YOU'VE GOT TO PUT YOUR HANDS UP LIKE THIS. IT MAKES YOU FEEL KIND OF GOOD.](../../../../assets/images/posts/scarlet21.gif "YOU'VE GOT TO PUT YOUR HANDS UP LIKE THIS. IT MAKES YOU FEEL KIND OF GOOD.")
 
 "I disremember them," he answered. "I hain't said none since I was half the height o' that gun. I guess it's never too late. You say them out, and I'll stand by and come in on the choruses." "Then you'll need to kneel down, and me too," she said, laying the shawl out for that purpose. "You've got to put your hands up like this. It makes you feel kind of good." It was a strange sight, had there been anything but the buzzards to see it. Side by side on the narrow shawl knelt the two wanderers, the little prattling child and the reckless, hardened adventurer. Her chubby face and his haggard, angular visage were both turned up to the cloudless heaven in heartfelt entreaty to that dread Being with whom they were face to face, while the two voices -- the one thin and clear, the other deep and harsh -- united in the entreaty for mercy and forgiveness. The prayer finished, they resumed their seat in the shadow of the boulder until the child fell asleep, nestling upon the broad breast of her protector. He watched over her slumber for some time, but Nature proved to be too strong for him. For three days and three nights he had allowed himself neither rest nor repose. Slowly the eyelids drooped over the tired eyes, and the head sunk lower and lower upon the breast, until the man's grizzled beard was mixed with the gold tresses of his companion, and both slept the same deep and dreamless slumber.
 

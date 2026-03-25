@@ -3,7 +3,7 @@ title: "The Red Headed League"
 date: 2011-08-28
 collection: "adventures"
 order: 3
-coverImage: "/images/posts/league.jpg"
+coverImage: "../../../assets/images/posts/league.jpg"
 tags:
   - "adventures-2"
   - "sherlock-holmes"
@@ -20,7 +20,7 @@ I had called upon my friend, Mr. Sherlock Holmes, one day in the autumn of last 
 
 "Then I can wait in the next room."
 
-![Mr. Jabez Wilson](/images/posts/league.jpg "Mr. Jabez Wilson")
+![Mr. Jabez Wilson](../../../assets/images/posts/league.jpg "Mr. Jabez Wilson")
 
 "Not at all. This gentleman, Mr. Wilson, has been my partner and helper in many of my most successful cases, and I have no doubt that he will be of the utmost use to me in yours also."
 

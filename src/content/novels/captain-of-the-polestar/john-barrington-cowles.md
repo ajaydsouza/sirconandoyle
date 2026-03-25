@@ -3,12 +3,12 @@ title: "John Barrington Cowles"
 date: 2013-04-17
 novel: "captain-of-the-polestar"
 order: 9
-coverImage: "/images/posts/John-Barrington-Cowles.png"
+coverImage: "../../../assets/images/posts/John-Barrington-Cowles.png"
 tags:
   - "captain-of-the-polestar"
 ---
 
-![John Barrington Cowles](/images/posts/John-Barrington-Cowles-198x300.png)
+![John Barrington Cowles](../../../assets/images/posts/John-Barrington-Cowles.png)
 
 It might seem rash of me to say that I ascribe the death of my poor friend, John Barrington Cowles, to any preternatural agency. I am aware that in the present state of public feeling a chain of evidence would require to be strong indeed before the possibility of such a conclusion could be admitted.
 

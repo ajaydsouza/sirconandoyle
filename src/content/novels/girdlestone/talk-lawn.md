@@ -3,12 +3,12 @@ title: "Chapter XXXV: A Talk on the Lawn"
 date: 2014-07-18
 novel: "girdlestone"
 order: 36
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 That same evening Rebecca came down from London. Her presence was a comfort to Kate, for though she had never liked or trusted the girl, yet the mere fact of having some one of her own age near her, gave her a sense of security and of companionship. Her room, too, had been altered for the better, and the maid was given the one next door, so that by knocking on the wall she could always communicate with her. This was an unspeakable consolation, for at night the old house was so full of the sudden crackings of warped timber and the scampering of rats that entire loneliness was unendurable.
 

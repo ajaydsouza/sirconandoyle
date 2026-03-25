@@ -3,12 +3,12 @@ title: "Chapter XLIII: The Bait on the Hook"
 date: 2014-08-25
 novel: "girdlestone"
 order: 44
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 The grey winter evening was beginning to steal in before the details had all been arranged by the conspirators. It had grown so chill that Kate had abandoned her attempt at gardening, and had gone back to her room. Ezra left his father and Burt by the fire and came out to the open hall-door. The grim old trees looked gaunt and eerie as they waved their naked arms about in the cutting wind. A slight fog had come up from the sea and lay in light wreaths over the upper branches, like a thin veil of gauze. Ezra was shivering as he surveyed the dreary scene, when he felt a hand on his arm, and looking round saw that the maid Rebecca was standing beside him.
 

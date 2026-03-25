@@ -3,12 +3,12 @@ title: "Chapter 11: The Great Agra Treasure"
 date: 2013-01-24
 novel: "sign-of-four"
 order: 12
-coverImage: "/images/posts/sign11.gif"
+coverImage: "../../../../assets/images/posts/sign11.gif"
 tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 Our captive sat in the cabin opposite to the iron box which he had done so much and waited so long to gain. He was a sunburned reckless-eyed fellow, with a network of lines and wrinkles all over his mahogany features, which told of a hard, open-air life. There was a singular prominence about his bearded chin which marked a man who was not to be easily turned from his purpose. His age may have been fifty or thereabouts, for his black, curly hair was thickly shot with gray. His face in repose was not an unpleasing one, though his heavy brows and aggressive chin gave him, as I had lately seen, a terrible expression when moved to anger. He sat now with his handcuffed hands upon his lap, and his head sunk upon his breast, while he looked with his keen, twinkling eyes at the box which had been the cause of his ill-doings. It seemed to me that there was more sorrow than anger in his rigid and contained countenance. Once he looked up at me with a gleam of something like humour in his eyes.
 
@@ -80,7 +80,7 @@ I think I must have been rather over-acting my delight, and that she defected a 
 
 "Small threw it into the Thames," I answered. "I must borrow Mrs. Forrester's poker."
 
-!["Then I say 'Thank God,' too," she whispered as I drew her to my side.](/images/posts/sign11.gif)
+!["Then I say 'Thank God,' too," she whispered as I drew her to my side.](../../../../assets/images/posts/sign11.gif)
 
 There was in the front a thick and broad hasp, wrought in the image of a sitting Buddha. Under this I thrust the end of the poker and twisted it outward as a lever. The hasp sprang open with a loud snap. With trembling fingers I flung back the lid. We both stood gazing in astonishment. The box was empty! No wonder that it was heavy. The ironwork was two-thirds of an inch thick all round. It was massive, well made, and solid, like a chest constructed to carry things of great price, but not one shred or crumb of metal or jewellery lay within it. It was absolutely and completely empty.
 

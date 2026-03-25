@@ -3,12 +3,12 @@ title: "Chapter XXII: Robbers and Robbed"
 date: 2014-05-12
 novel: "girdlestone"
 order: 23
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 It might perhaps have been as well for the curtailing of this narrative, and for the interests of the world at large if the blow dealt by the sturdy right arm of the navvy had cut short once for all the career of the junior African merchant. Ezra, however, was endowed with a rare vitality, which enabled him not only to shake off the effects of his mishap, but to do so in an extraordinarily short space of time. There was a groan from the prostrate figure, then a feeble movement, then another and a louder groan, and then an oath. Gradually raising himself upon his elbow, he looked around him in a bewildered way, with his other hand pressed to the wound at the back of his head, from which a few narrow little rivulets of blood were still meandering. His glance wandered vaguely over the table and the chairs and the walls, until it rested upon the safe. He could see in the moonlight that it was open, and empty. In a moment the whole circumstances of the case came back to him, and he staggered to the door with a hoarse cry of rage and of despair.
 

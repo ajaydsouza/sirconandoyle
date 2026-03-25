@@ -3,13 +3,13 @@ title: "Part I – Chapter 7: Light in the Darkness"
 date: 2012-09-18
 novel: "a-study-in-scarlet"
 order: 8
-coverImage: "/images/posts/scarlet17.gif"
+coverImage: "../../../../assets/images/posts/scarlet17.gif"
 tags:
   - "sherlock-holmes"
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 The intelligence with which Lestrade greeted us was so momentous and so unexpected that we were all three fairly dumfounded. Gregson sprang out of his chair and upset the remainder of his whisky and water. I stared in silence at Sherlock Holmes, whose lips were compressed and his brows drawn down over his eyes.
 
@@ -115,7 +115,7 @@ Neither of them had time to speak, however, before there was a tap at the door, 
 
 I was surprised to find my companion speaking as though he were about to set out on a journey, since he had not said anything to me about it. There was a small portmanteau in the room, and this he pulled out and began to strap. He was busily engaged at it when the cabman entered the room.
 
-![With an inarticulate roar of fury, the prisoner wrenched himself free from Holmes's grasp.](/images/posts/scarlet17.gif "With an inarticulate roar of fury, the prisoner wrenched himself free from Holmes's grasp.")
+![With an inarticulate roar of fury, the prisoner wrenched himself free from Holmes's grasp.](../../../../assets/images/posts/scarlet17.gif "With an inarticulate roar of fury, the prisoner wrenched himself free from Holmes's grasp.")
 
 "Just give me a help with this buckle, cabman," he said, kneeling over his task, and never turning his head. The fellow came forward with a somewhat sullen, defiant air, and put down his hands to assist. At that instant there was a sharp click, the jangling of metal, and Sherlock Holmes sprang to his feet again.
 

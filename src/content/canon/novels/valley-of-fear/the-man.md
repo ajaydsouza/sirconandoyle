@@ -3,13 +3,13 @@ title: "Part II – Chapter 1: The Man"
 date: 2012-11-17
 novel: "valley-of-fear"
 order: 9
-coverImage: "/images/posts/valley21.jpg"
+coverImage: "../../../../assets/images/posts/valley21.jpg"
 tags:
   - "sherlock-holmes"
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 It was the fourth of February in the year 1875. It had been a severe winter, and the snow lay deep in the gorges of the Gilmerton Mountains. The steam ploughs had, however, kept the railroad open, and the evening train which connects the long line of coal-mining and iron-working settlements was slowly groaning its way up the steep gradients which lead from Stagville on the plain to Vermissa, the central township which lies at the head of Vermissa Valley. From this point the track sweeps downward to Bartons Crossing, Helmdale, and the purely agricultural county of Merton. It was a single-track railroad; but at every siding -- and they were numerous -- long lines of trucks piled with coal and iron ore told of the hidden wealth which had brought a rude population and a bustling life to this most desolate corner of the United States of America.
 

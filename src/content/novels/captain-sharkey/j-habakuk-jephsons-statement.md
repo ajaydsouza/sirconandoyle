@@ -3,12 +3,12 @@ title: "J. Habakuk Jephson's Statement"
 date: 2013-06-01
 novel: "captain-sharkey"
 order: 12
-coverImage: "/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
+coverImage: "../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg"
 tags:
   - "captain-sharkey"
 ---
 
-![The Dealings of Captain Sharkey and Other Tales of Pirates](/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates-200x300.jpg)
+![The Dealings of Captain Sharkey and Other Tales of Pirates](../../../assets/images/posts/The-Dealings-of-Captain-Sharkey-and-Other-Tales-of-Pirates.jpg)
 
 In the month of December in the year 1873, the British ship _Dei Gratia_ steered into Gibraltar, having in tow the derelict brigantine _Marie Celeste_, which had been picked up in latitude 38° 40', longitude 17° 15' W. There were several circumstances in connection with the condition and appearance of this abandoned vessel which excited considerable comment at the time, and aroused a curiosity which has never been satisfied. What these circumstances were was summed up in an able article which appeared in the _Gibraltar Gazette_. The curious can find it in the issue for January 4, 1874, unless my memory deceives me. For the benefit of those, however, who may be unable to refer to the paper in question, I shall subjoin a few extracts which touch upon the leading features of the case.
 

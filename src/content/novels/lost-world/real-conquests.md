@@ -3,12 +3,12 @@ title: "The Lost World: Chapter 14 – Those were the Real Conquests"
 date: 2012-06-06
 novel: "lost-world"
 order: 15
-coverImage: "/images/posts/The-Lost-World.jpg"
+coverImage: "../../../assets/images/posts/The-Lost-World.jpg"
 tags:
   - "lost-world"
 ---
 
-[![The Lost World by Sir Arthur Conan Doyle](/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/the-lost-world/)We had imagined that our pursuers, the ape-men, knew nothing of our brush-wood hiding-place, but we were soon to find out our mistake. There was no sound in the woods--not a leaf moved upon the trees, and all was peace around us--but we should have been warned by our first experience how cunningly and how patiently these creatures can watch and wait until their chance comes. Whatever fate may be mine through life, I am very sure that I shall never be nearer death than I was that morning. But I will tell you the thing in its due order.
+[![The Lost World by Sir Arthur Conan Doyle](../../../assets/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/the-lost-world/)We had imagined that our pursuers, the ape-men, knew nothing of our brush-wood hiding-place, but we were soon to find out our mistake. There was no sound in the woods--not a leaf moved upon the trees, and all was peace around us--but we should have been warned by our first experience how cunningly and how patiently these creatures can watch and wait until their chance comes. Whatever fate may be mine through life, I am very sure that I shall never be nearer death than I was that morning. But I will tell you the thing in its due order.
 
 We all awoke exhausted after the terrific emotions and scanty food of yesterday. Summerlee was still so weak that it was an effort for him to stand; but the old man was full of a sort of surly courage which would never admit defeat. A council was held, and it was agreed that we should wait quietly for an hour or two where we were, have our much-needed breakfast, and then make our way across the plateau and round the central lake to the caves where my observations had shown that the Indians lived. We relied upon the fact that we could count upon the good word of those whom we had rescued to ensure a warm welcome from their fellows. Then, with our mission accomplished and possessing a fuller knowledge of the secrets of Maple White Land, we should turn our whole thoughts to the vital problem of our escape and return. Even Challenger was ready to admit that we should then have done all for which we had come, and that our first duty from that time onwards was to carry back to civilization the amazing discoveries we had made.
 

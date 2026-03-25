@@ -3,12 +3,12 @@ title: "Chapter XXXVIII: Girdlestone sends for the Doctor"
 date: 2014-08-20
 novel: "girdlestone"
 order: 39
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 When Kate came to herself after the terrible incident which frustrated her attempt at escape, she found herself in bed in her own little room. By the light which shone in through the window she knew that it must be well on in the day. Her head was throbbing violently, and she was so weak that she could hardly raise herself in bed. When she looked round she found that Rebecca had brought a chair in from her room and was sitting by the fire. At the sound of her movement the maid glanced up and perceived that her mistress had recovered consciousness.
 

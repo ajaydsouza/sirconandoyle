@@ -3,12 +3,12 @@ title: "Chapter XXI: An Unexpected Blow"
 date: 2014-04-23
 novel: "girdlestone"
 order: 22
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 The crisis at the African fields was even more acute than had been anticipated by the conspirators. Nothing approaching to it had ever been known in South Africa before. Diamonds went steadily down in value until they were selling at a price which no dealer would have believed possible, and the sale of claims reached such a climax that men were glad to get rid of them for the mere price of the plant and machinery erected at them. The offices of the various dealers at Kimberley were besieged night and day by an importunate crowd of miners, who were willing to sell at any price in order to save something from the general ruin which they imagined was about to come upon the industry. Some, more long-headed or more desperate than their neighbours, continued to work their claims and to keep the stones which they found until prices might be better. As fresh mails came from the Cape, however, each confirming and amplifying the ominous news, these independent workers grew fewer and more faint-hearted, for their boys had to be paid each week, and where was the money to come from with which to pay them? The dealers, too, began to take the alarm, and the most tempting offers would hardly induce them to give hard cash in exchange for stones which might prove to be a drug in the market. Everywhere there was misery and stagnation.
 

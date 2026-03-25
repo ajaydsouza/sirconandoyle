@@ -3,12 +3,12 @@ title: "The Great Keinplatz Experiment"
 date: 2013-04-01
 novel: "captain-of-the-polestar"
 order: 4
-coverImage: "/images/posts/The-Great-Keinplatz-Experiment.jpg"
+coverImage: "../../../assets/images/posts/The-Great-Keinplatz-Experiment.jpg"
 tags:
   - "captain-of-the-polestar"
 ---
 
-![The Great Keinplatz Experiment](/images/posts/The-Great-Keinplatz-Experiment-198x300.jpg)
+![The Great Keinplatz Experiment](../../../assets/images/posts/The-Great-Keinplatz-Experiment.jpg)
 
 Of all the sciences which have puzzled the sons of men, none had such an attraction for the learned Professor von Baumgarten as those which relate to psychology and the ill-defined relations between mind and matter. A celebrated anatomist, a profound chemist, and one of the first physiologists in Europe, it was a relief for him to turn from these subjects and to bring his varied knowledge to bear upon the study of the soul and the mysterious relationship of spirits. At first, when as a young man he began to dip into the secrets of mesmerism, his mind seemed to be wandering in a strange land where all was chaos and darkness, save that here and there some great unexplainable and disconnected fact loomed out in front of him. As the years passed, however, and as the worthy Professor's stock of knowledge increased, for knowledge begets knowledge as money bears interest, much which had seemed strange and unaccountable began to take another shape in his eyes. New trains of reasoning became familiar to him, and he perceived connecting links where all had been incomprehensible and startling. By experiments which extended over twenty years, he obtained a basis of facts upon which it was his ambition to build up a new exact science which should embrace mesmerism, spiritualism, and all cognate subjects. In this he was much helped by his intimate knowledge of the more intricate parts of animal physiology which treat of nerve currents and the working of the brain; for Alexis von Baumgarten was Regius Professor of Physiology at the University of Keinplatz, and had all the resources of the laboratory to aid him in his profound researches.
 

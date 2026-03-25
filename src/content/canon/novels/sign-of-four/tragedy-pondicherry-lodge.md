@@ -3,12 +3,12 @@ title: "Chapter 5: The Tragedy of Pondicherry Lodge"
 date: 2012-12-31
 novel: "sign-of-four"
 order: 6
-coverImage: "/images/posts/sign05.gif"
+coverImage: "../../../../assets/images/posts/sign05.gif"
 tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 It was nearly eleven o'clock when we reached this final stage of our night's adventures. We had left the damp fog of the great city behind us, and the night was fairly fine. A warm wind blew from the westward, and heavy clouds moved slowly across the sky, with half a moon peeping occasionally through the rifts. It was clear enough to see for some distance, but Thaddeus Sholto took down one of the sidelamps from the carriage to give us a better light upon our way.
 
@@ -36,7 +36,7 @@ This was an unexpected obstacle. Thaddeus Sholto looked about him in a perplexed
 
 "You see, Watson, if all else fails me, I have still one of the scientific professions open to me," said Holmes, laughing. "Our friend won't keep us out in the cold now, I am sure."
 
-![A short, deep-chested man stood in the opening](/images/posts/sign05.gif)
+![A short, deep-chested man stood in the opening](../../../../assets/images/posts/sign05.gif)
 
 "In you come, sir, in you come -- you and your friends," he answered. "Very sorry, Mr. Thaddeus, but orders are very strict. Had to be certain of your friends before I let them in."
 

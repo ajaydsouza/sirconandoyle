@@ -3,7 +3,7 @@ title: "The Crooked Man"
 date: 2012-01-04
 collection: "memoirs"
 order: 8
-coverImage: "/images/posts/crooked.jpg"
+coverImage: "../../../assets/images/posts/crooked.jpg"
 tags:
   - "memoirs-2"
   - "sherlock-holmes"
@@ -181,7 +181,7 @@ It was midday when we found ourselves at the scene of the tragedy, and, under my
 
 "Good, Simpson!" said Holmes, patting him on the head. "Come along, Watson. This is the house." He sent in his card with a message that he had come on important business, and a moment later we were face to face with the man whom we had come to see. In spite of the warm weather he was crouching over a fire, and the little room was like an oven. The man sat all twisted and huddled in his chair in a way which gave an indescribable impression of deformity; but the face which he turned towards us, though worn and swarthy, must at some time have been remarkable for its beauty. He looked suspiciously at us now out of yellow-shot, bilious eyes, and, without speaking or rising, he waved towards two chairs.
 
-![Mr. Henry Wood, I Believe](/images/posts/crooked.jpg "Mr. Henry Wood, I Believe") "Mr. Henry Wood, late of India, I believe," said Holmes affably. "I've come over this little matter of Colonel Barclay's death."
+![Mr. Henry Wood, I Believe](../../../assets/images/posts/crooked.jpg "Mr. Henry Wood, I Believe") "Mr. Henry Wood, late of India, I believe," said Holmes affably. "I've come over this little matter of Colonel Barclay's death."
 
 "What should I know about that?"
 

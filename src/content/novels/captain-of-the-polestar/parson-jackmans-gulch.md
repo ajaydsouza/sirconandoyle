@@ -3,12 +3,12 @@ title: "The Parson Of Jackman's Gulch"
 date: 2013-04-20
 novel: "captain-of-the-polestar"
 order: 10
-coverImage: "/images/posts/The-Parson-Of-Jackmans-Gulch.png"
+coverImage: "../../../assets/images/posts/The-Parson-Of-Jackmans-Gulch.png"
 tags:
   - "captain-of-the-polestar"
 ---
 
-![The Parson Of Jackman's Gulch](/images/posts/The-Parson-Of-Jackmans-Gulch-196x300.png)
+![The Parson Of Jackman's Gulch](../../../assets/images/posts/The-Parson-Of-Jackmans-Gulch.png)
 
 He was known in the Gulch as the Reverend Elias B. Hopkins, but it was generally understood that the title was an honorary one, extorted by his many eminent qualities, and not borne out by any legal claim which he could adduce. "The Parson" was another of his sobriquets, which was sufficiently distinctive in a land where the flock was scattered and the shepherds few. To do him justice, he never pretended to have received any preliminary training for the ministry, or any orthodox qualification to practise it. "We're all working in the claim of the Lord," he remarked one day, "and it don't matter a cent whether we're hired for the job or whether we waltzes in on our own account," a piece of rough imagery which appealed directly to the instincts of Jackman's Gulch. It is quite certain that during the first few months his presence had a marked effect in diminishing the excessive use both of strong drinks and of stronger adjectives which had been characteristic of the little mining settlement. Under his tuition, men began to understand that the resources of their native language were less limited than they had supposed, and that it was possible to convey their impressions with accuracy without the aid of a gaudy halo of profanity.
 

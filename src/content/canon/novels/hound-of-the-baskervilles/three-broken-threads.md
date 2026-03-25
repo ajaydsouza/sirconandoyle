@@ -3,13 +3,13 @@ title: "Chapter 5: Three Broken Threads"
 date: 2012-07-11
 novel: "hound-of-the-baskervilles"
 order: 5
-coverImage: "/images/posts/hound05.jpg"
+coverImage: "../../../../assets/images/posts/hound05.jpg"
 tags:
   - "hound-of-baskervilles"
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 Sherlock Holmes had, in a very remarkable degree, the power of detaching his mind at will. For two hours the strange business in which we had been involved appeared to be forgotten, and he was entirely absorbed in the pictures of the modern Belgian masters. He would talk of nothing but art, of which he had the crudest ideas, from our leaving the gallery until we found ourselves at the Northumberland Hotel.
 
@@ -153,7 +153,7 @@ Holmes raised his eyebrows in surprise. "I had no idea that so gigantic a sum wa
 
 "Whom would you recommend, then?" Holmes laid his hand upon my arm. "If my friend would undertake it there is no man who is better worth having at your side when you are in a tight place. No one can say so more confidently than I."
 
-![The proposition took me completely by surprise](/images/posts/hound05.jpg "The proposition took me completely by surprise")
+![The proposition took me completely by surprise](../../../../assets/images/posts/hound05.jpg "The proposition took me completely by surprise")
 
 The proposition took me completely by surprise, but before I had time to answer, Baskerville seized me by the hand and wrung it heartily.
 

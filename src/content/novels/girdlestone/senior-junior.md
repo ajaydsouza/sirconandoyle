@@ -3,12 +3,12 @@ title: "Chapter XI: Senior and Junior"
 date: 2014-03-23
 novel: "girdlestone"
 order: 12
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 Although not a whisper had been heard of it in ordinary commercial circles, there was some foundation for the forecast which Von Baumser had made as to the fate of the great house of Girdlestone. For some time back matters had been going badly with the African traders. If the shrewd eyes of Major Tobias Clutterbuck were unable to detect any indications of this state of affairs in the manner or conversation of the junior partner, the reason simply was that that gentleman was entirely ignorant of the imminent danger which hung over his head. As far as he knew, the concern was as prosperous and as flourishing as it had been at the time of the death of John Harston. The momentous secret was locked in the breast of his grim old father, who bore it about with him as the Spartan lad did the fox—without a quiver or groan to indicate the care which was gnawing at his heart. Placed face to face with ruin, Girdlestone fought against it desperately, and, withal, coolly and warily, throwing away no chance and leaving no stone unturned. Above all, he exerted himself—and exerted himself successfully—to prevent any rumour of the critical position of the firm from leaking out in the city. He knew well that should that once occur nothing could save him. As the wounded buffalo is gored to death by the herd, so the crippled man of business may give up all hope when once his position is known by his fellows. At present, although Von Baumser and a few other such Ishmaelites might have an inkling from sources of their own as to how matters stood, the name of Girdlestone was still regarded by business men as the very synonym for commercial integrity and stability. If anything, there seemed to be more business in Fenchurch Street and more luxury at the residence at Eccleston Square than in former days. Only the stern-faced and silent senior partner knew how thin the veneer was which shone so deceptively upon the surface.
 

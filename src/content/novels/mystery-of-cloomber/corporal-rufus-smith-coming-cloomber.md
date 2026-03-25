@@ -3,14 +3,14 @@ title: "Of Corporal Rufus Smith and His coming to Cloomber"
 date: 2013-09-24
 novel: "mystery-of-cloomber"
 order: 8
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 In making this statement I have purposely couched it in bald and simple language, for fear I should be accused of colouring my narrative for the sake of effect. If, however, I have told my story with any approach to realism, the reader will understand me when I say that by this time the succession of dramatic incidents which had occurred had arrested my attention and excited my imagination to the exclusion of all minor topics.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 How could I plod through the dull routine of an agent's work, or interest myself in the thatch of this tenant's bothy or the sails of that one's boat, when my mind was taken up by the chain of events which I have described, and was still busy seeking an explanation for them.
 

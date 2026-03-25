@@ -3,7 +3,7 @@ title: "The Adventure of the Creeping Man"
 date: 2015-06-04
 collection: "casebook"
 order: 10
-coverImage: "/images/posts/Creeping-Man-01.jpg"
+coverImage: "../../../assets/images/posts/Creeping-Man-01.jpg"
 tags:
   - "casebook-2"
   - "sherlock-holmes"
@@ -46,7 +46,7 @@ I sank back in my chair in some disappointment. Was it for so trivial a question
 
 There was a quick step on the stairs, a sharp tap at the door and a moment later the new client presented himself. He was a tall, handsome youth about thirty, well dressed and elegant, but with something in his bearing which suggested the shyness of the student rather than the self-possession of the man of the world. He shook hands with Holmes, and then looked with some surprise at me.
 
-![THERE WAS A QUICK STEP ON THE STAIRS, A SHARP RAP AT THE DOOR, AND A MOMENT LATER THE NEW CLIENT PRESENTED HIMSELF.](/images/posts/Creeping-Man-01.jpg)
+![THERE WAS A QUICK STEP ON THE STAIRS, A SHARP RAP AT THE DOOR, AND A MOMENT LATER THE NEW CLIENT PRESENTED HIMSELF.](../../../assets/images/posts/Creeping-Man-01.jpg)
 
 "This matter is very delicate, Mr. Holmes," he said. "Consider the relation in which I stand to Professor Presbury both privately and publicly. I really can hardly justify myself if I speak before any third person."
 
@@ -102,7 +102,7 @@ Holmes nodded and smiled.
 
 "He sleeps at the end of the passage and would have to pass my door in order to reach the staircase. It was a really terrifying experience, Mr. Holmes. I think that I am as strong-nerved as my neighbours, but I was shaken by what I saw. The passage was dark save that one window halfway along it threw a patch of light. I could see that something was coming along the passage, something dark and crouching. Then suddenly it emerged into the light, and I saw that it was he. He was crawling, Mr. Holmes--crawling! He was not quite on his hands and knees. I should rather say on his hands and feet, with his face sunk between his hands. Yet he seemed to move with ease. I was so paralyzed by the sight that it was not until he had reached my door that I was able to step forward and ask if I could assist him. His answer was extraordinary. He sprang up, spat out some atrocious word at me, and hurried on past me, and down the staircase. I waited about for an hour, but he did not come back. It must have been daylight before he regained his room."
 
-!["HE SPRANG UP, SPAT OUT SOME ATROCIOUS WORD AT ME."](/images/posts/Creeping-Man-02.jpg)
+!["HE SPRANG UP, SPAT OUT SOME ATROCIOUS WORD AT ME."](../../../assets/images/posts/Creeping-Man-02.jpg)
 
 "Well, Watson, what make you of that?" asked Holmes with the air of the pathologist who presents a rare specimen.
 
@@ -140,7 +140,7 @@ Our new visitor, a bright, handsome girl of a conventional English type, smiled 
 
 "I was awakened in the night by the dog barking most furiously. Poor Roy, he is chained now near the stable. I may say that I always sleep with my door locked; for, as Jack--as Mr. Bennett--will tell you, we all have a feeling of impending danger. My room is on the second floor. It happened that the blind was up in my window, and there was bright moonlight outside. As I lay with my eyes fixed upon the square of light, listening to the frenzied barkings of the dog, I was amazed to see my father's face looking in at me. Mr. Holmes, I nearly died of surprise and horror. There it was pressed against the windowpane, and one hand seemed to be raised as if to push up the window. If that window had opened, I think I should have gone mad. It was no delusion, Mr. Holmes. Don't deceive yourself by thinking so. I dare say it was twenty seconds or so that I lay paralyzed and watched the face. Then it vanished, but I could not--I could not spring out of bed and look out after it. I lay cold and shivering till morning. At breakfast he was sharp and fierce in manner, and made no allusion to the adventure of the night. Neither did I, but I gave an excuse for coming to town-- and here I am."
 
-!["I WAS AMAZED TO SEE MY FATHER’S FACE LOOKING IN AT ME."](/images/posts/Creeping-Man-03.jpg)
+!["I WAS AMAZED TO SEE MY FATHER’S FACE LOOKING IN AT ME."](../../../assets/images/posts/Creeping-Man-03.jpg)
 
 Holmes looked thoroughly surprised at Miss Presbury's narrative.
 
@@ -216,7 +216,7 @@ Holmes shrugged his shoulders.
 
 "Hardly enough, Mr. Holmes!" the old man cried in a high screaming voice, with extraordinary malignancy upon his face. He got between us and the door as he spoke, and he shook his two hands at us with furious passion. "You can hardly get out of it so easily as that." His face was convulsed, and he grinned and gibbered at us in his senseless rage. I am convinced that we should have had to fight our way out of the room if Mr. Bennett had not intervened.
 
-![HIS FACE WAS CONVULSED AND HE GRINNED AND GIBBERED AT US IN HIS SENSELESS RAGE.](/images/posts/Creeping-Man-04.jpg)
+![HIS FACE WAS CONVULSED AND HE GRINNED AND GIBBERED AT US IN HIS SENSELESS RAGE.](../../../assets/images/posts/Creeping-Man-04.jpg)
 
 "My dear Professor," he cried, "consider your position! Consider the scandal at the university! Mr. Holmes is a wellknown man. You cannot possibly treat him with such discourtesy."
 
@@ -318,7 +318,7 @@ Now he stepped forward into the drive, and an extraordinary change came over him
 
 And then in a moment it happened! It was not the chain that broke, but it was the collar that slipped, for it had been made for a thick-necked Newfoundland. We heard the rattle of falling metal, and the next instant dog and man were rolling on the ground together, the one roaring in rage, the other screaming in a strange shrill falsetto of terror. It was a very narrow thing for the professor's life. The savage creature had him fairly by the throat, its fangs had bitten deep, and he was senseless before we could reach them and drag the two apart. It might have been a dangerous task for us, but Bennett's voice and presence brought the great wolflhound instantly to reason. The uproar had brought the sleepy and astonished coachman from his room above the stables. "I'm not surprised," said he, shaking his head. "I've seen him at it before. I knew the dog would get him sooner or later."
 
-![DOG AND MAN WERE ROLLING ON THE GROUND TOGETHER.](/images/posts/Creeping-Man-05.jpg)
+![DOG AND MAN WERE ROLLING ON THE GROUND TOGETHER.](../../../assets/images/posts/Creeping-Man-05.jpg)
 
 The hound was secured, and together we carried the professor up to his room, where Bennett, who had a medical degree, helped me to dress his torn throat. The sharp teeth had passed dangerously near the carotid artery, and the haemorrhage was serious. In half an hour the danger was past, I had given the patient an injection of morphia, and he had sunk into deep sleep. Then, and only then, were we able to look at each other and to take stock of the situation.
 

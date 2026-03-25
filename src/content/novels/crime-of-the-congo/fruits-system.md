@@ -3,14 +3,14 @@ title: "First Fruits of the System"
 date: 2013-06-19
 novel: "crime-of-the-congo"
 order: 6
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
 
 The first testimony which I shall cite is that of Mr. Glave, which covers the years 1893 up to his death in 1895. Mr. Glave was a young Englishman, who had been for six years in the employ of the State, and whose character and work were highly commended by Stanley. Four years after the expiration of his engagement he travelled as an independent man right across the whole country, from Tanganyika in the east to Matadi near the mouth of the river, a distance of 2,000 miles. The agent and rubber systems were still in their infancy, but already he remarked on every side that violence and disregard of human life which were so soon to grow to such proportions. Remember that he was himself a Stanleyman, a pioneer and a native trader, by no means easy to shock. Here are some of his remarks as taken from his diary.
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 Dealing with the release of slaves by the Belgians, for which so much credit has been claimed, he says (_Cent. Mag._, Vol. 53):
 

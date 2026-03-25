@@ -3,12 +3,12 @@ title: "The Man From Archangel"
 date: 2013-04-03
 novel: "captain-of-the-polestar"
 order: 5
-coverImage: "/images/posts/The-Man-from-Archangel.png"
+coverImage: "../../../assets/images/posts/The-Man-from-Archangel.png"
 tags:
   - "captain-of-the-polestar"
 ---
 
-![The Man from Archangel](/images/posts/The-Man-from-Archangel-198x300.png)
+![The Man from Archangel](../../../assets/images/posts/The-Man-from-Archangel.png)
 
 On the fourth day of March, in the year 1867, being at that time in my five-and-twentieth year, I wrote down the following words in my note-book -- the result of much mental perturbation and conflict: --
 

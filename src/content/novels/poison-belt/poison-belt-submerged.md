@@ -3,7 +3,7 @@ title: "Chapter 3: Submerged"
 date: 2016-06-11
 novel: "poison-belt"
 order: 4
-coverImage: "/images/posts/The-Poison-Belt.jpg"
+coverImage: "../../../assets/images/posts/The-Poison-Belt.jpg"
 tags:
   - "challenger"
   - "poison-belt"
@@ -19,7 +19,7 @@ There was a broad, low window opening out upon a balcony. The view beyond was th
 
 "Have you played golf?" asked Lord John.
 
-![The Poison Belt - The Strand Magazine, US edition, May 1913. Source: Project Gutenberg Australia](/images/posts/The-Poison-Belt.jpg)
+![The Poison Belt - The Strand Magazine, US edition, May 1913. Source: Project Gutenberg Australia](../../../assets/images/posts/The-Poison-Belt.jpg)
 
 <!--more-->
 

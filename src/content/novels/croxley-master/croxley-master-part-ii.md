@@ -3,12 +3,12 @@ title: "The Croxley Master - Part II"
 date: 2013-08-24
 novel: "croxley-master"
 order: 2
-coverImage: "/images/posts/The-Croxley-Master-Frontis.jpg"
+coverImage: "../../../assets/images/posts/The-Croxley-Master-Frontis.jpg"
 tags:
   - "croxley-master-tag"
 ---
 
-![The Croxley Master - Frontis](/images/posts/The-Croxley-Master-Frontis.jpg)
+![The Croxley Master - Frontis](../../../assets/images/posts/The-Croxley-Master-Frontis.jpg)
 
 WORK was struck at one o'clock at the coal-pits and the iron-works, and the fight was arranged for three. From the Croxley Furnaces, from Wilson's Coal-pits, from the Heartsease Mine, from the Dodd Mills, from the Leverworth Smelters the workmen came trooping, each with his fox-terrier or his lurcher at his heels. Warped with labour and twisted by toil, bent double by week-long work in the cramped coal galleries, or half-blinded with years spent in front of white-hot fluid metal, these men still gilded their harsh and hopeless lives by their devotion to sport. It was their one relief, the only thing which could distract their mind from sordid surroundings, and give them an interest beyond the blackened circle which inclosed them. Literature, art, science, all these things were beyond the horizon; but the race, the football match, the cricket, the fight, these were things which they could understand, which they could speculate upon in advance and comment upon afterwards. Sometimes brutal, sometimes grotesque, the love of sport is still one of the great agencies which make for the happiness of our people. It lies very deeply in the springs of our nature, and when it has been educated out, a higher, more refined nature may be left, but it will not be of that robust British type which has left its mark so deeply on the world. Every one of these ruddled workers, slouching with his dog at his heels to see something of the fight, was a true unit of his race.
 

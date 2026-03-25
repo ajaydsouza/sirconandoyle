@@ -3,7 +3,7 @@ title: "The Silver Blaze"
 date: 2011-10-15
 collection: "memoirs"
 order: 2
-coverImage: "/images/posts/silver.jpg"
+coverImage: "../../../assets/images/posts/silver.jpg"
 tags:
   - "memoirs-2"
   - "sherlock-holmes"
@@ -42,7 +42,7 @@ And so it happened that an hour or so later I found myself in the corner of a fi
 
 "At least I have got a grip of the essential facts of the case. I shall enumerate them to you, for nothing clears up a case so much as stating it to another person, and I can hardly expect your cooperation if I do not show you the position from which we start."
 
-![Holmes gave me a sketch of the events](/images/posts/silver.jpg "Holmes gave me a sketch of the events") I lay back against the cushions, puffing at my cigar, while Holmes, leaning forward, with his long, thin forefinger checking off the points upon the palm of his left hand, gave me a sketch of the events which had led to our journey.
+![Holmes gave me a sketch of the events](../../../assets/images/posts/silver.jpg "Holmes gave me a sketch of the events") I lay back against the cushions, puffing at my cigar, while Holmes, leaning forward, with his long, thin forefinger checking off the points upon the palm of his left hand, gave me a sketch of the events which had led to our journey.
 
 "Silver Blaze," said he, "is from the Somomy stock and holds as brilliant a record as his famous ancestor. He is now in his fifth year and has brought in turn each of the prizes of the turf to Colonel Ross, his fortunate owner. Up to the time of the catastrophe he was the first favourite for the Wessex Cup, the betting being three to one on him. He has always, however, been a prime favourite with the racing public and has never yet disappointed them, so that even at those odds enormous sums of money have been laid upon him. It is obvious, therefore, that there were many people who had the strongest interest in preventing Silver Blaze from being there at the fall of the flag next Tuesday.
 

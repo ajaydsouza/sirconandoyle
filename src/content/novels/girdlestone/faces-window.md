@@ -3,12 +3,12 @@ title: "Chapter XLII: The Three Faces at the Window"
 date: 2014-08-24
 novel: "girdlestone"
 order: 43
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 Late in the afternoon Ezra arrived at the Priory. From one of the passage windows Kate saw him driving up the avenue in a high dog-cart. There was a broad-shouldered, red-bearded man sitting beside him, and the ostler from the Flying Bull was perched behind. Kate had rushed to the window on hearing the sound of wheels, with some dim expectation that her friends had come sooner than she anticipated. A glance, however, showed her that the hope was vain. From behind a curtain she watched them alight and come into the house, while the trap wheeled round and rattled off for Bedsworth again.
 

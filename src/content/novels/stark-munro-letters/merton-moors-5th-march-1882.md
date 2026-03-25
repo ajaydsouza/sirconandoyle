@@ -3,14 +3,14 @@ title: "V. MERTON ON THE MOORS, 5th March, 1882"
 date: 2013-08-02
 novel: "stark-munro-letters"
 order: 6
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 I was so delighted, my dear chap, to have your assurance that nothing that I have said or could say upon the subject of religion could offend you. It is difficult to tell you how pleased and relieved I was at your cordial letter. I have no one to whom I can talk upon such matters. I am all driven inwards, and thought turns sour when one lets it stagnate like that. It is a grand thing to be able to tell it all to a sympathetic listener—and the more so perhaps when he looks at it all from another standpoint. It steadies and sobers one.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 Those whom I love best are those who have least sympathy with my struggles. They talk about having faith, as if it could be done by an act of volition. They might as well tell me to have black hair instead of red. I might simulate it perhaps by refusing to use my reason at all in religious matters. But I will never be traitor to the highest thing that God has given me. I WILL use it. It is more moral to use it and go wrong, than to forego it and be right. It is only a little foot-rule, and I have to measure Mount Everest with it; but it's all I have, and I'll never give it up while there's breath between my lips.
 

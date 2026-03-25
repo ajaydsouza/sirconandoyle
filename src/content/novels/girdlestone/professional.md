@@ -3,12 +3,12 @@ title: "Chapter VIII: A First Professional"
 date: 2014-03-06
 novel: "girdlestone"
 order: 9
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 Within a few weeks of his recovery from his accident Tom Dimsdale was to go up for his first professional examination, and his father, who had now retired from practice with a fair fortune, remained in Edinburgh until that event should come off. There had been some difficulty in persuading Girdlestone to give his consent to this prolongation of his ward's leave, but the old merchant was very much engrossed with his own affairs about that time, which made him more amenable than he might otherwise have been. The two travellers continued, therefore, to reside in their Princes Street hotel, but the student held on to his lodgings in Howe Street, where he used to read during the morning and afternoon. Every evening, however, he managed to dine at the Royal, and would stay there until his father packed him off to his books once more. It was in vain for him to protest and to plead for another half-hour. The physician was inexorable. When the fated hour came round the unhappy youth slowly gathered together his hat, his gloves, and his stick, spreading out that operation over the greatest possible extent of time which it could by any means be made to occupy. He would then ruefully bid his kinsfolk adieu, and retire rebelliously to his books.
 

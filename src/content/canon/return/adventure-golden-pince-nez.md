@@ -3,7 +3,7 @@ title: "The Adventure of the Golden Pince-nez"
 date: 2013-02-27
 collection: "return"
 order: 11
-coverImage: "/images/posts/gold-01.jpg"
+coverImage: "../../../assets/images/posts/gold-01.jpg"
 tags:
   - "the-return-of-sherlock-holmes"
 ---
@@ -20,7 +20,7 @@ Amid the droning of the wind there had come the stamping of a horse's hoofs, and
 
 "Want? He wants us. And we, my poor Watson, want overcoats and cravats and goloshes, and every aid that man ever invented to fight the weather. Wait a bit, though! There's the cab off again! There's hope yet. He'd have kept it if he had wanted us to come. Run down, my dear fellow, and open the door, for all virtuous folk have been long in bed."
 
-![IT WAS YOUNG STANLEY HOPKINS, A PROMISING DETECTIVE.](/images/posts/gold-01.jpg)
+![IT WAS YOUNG STANLEY HOPKINS, A PROMISING DETECTIVE.](../../../assets/images/posts/gold-01.jpg)
 
 When the light of the hall lamp fell upon our midnight visitor, I had no difficulty in recognizing him. It was young Stanley Hopkins, a promising detective, in whose career Holmes had several times shown a very practical interest.
 
@@ -56,7 +56,7 @@ The wind howled and screamed at the windows. Holmes and I drew closer to the fir
 
 "At first the maid thought that young Smith was already dead, but on pouring some water from the carafe over his forehead he opened his eyes for an instant. 'The professor,' he murmured—'it was she.' The maid is prepared to swear that those were the exact words. He tried desperately to say something else, and he held his right hand up in the air. Then he fell back dead.
 
-![His first action was to send Mortimer](/images/posts/his_first_action_was_to_send_mortimer.png)
+![His first action was to send Mortimer](../../../assets/images/posts/his_first_action_was_to_send_mortimer.png)
 
 "In the meantime the housekeeper had also arrived upon the scene, but she was just too late to catch the young man's dying words. Leaving Susan with the body, she hurried to the professor's room. He was sitting up in bed, horribly agitated, for he had heard enough to convince him that something terrible had occurred. Mrs. Marker is prepared to swear that the professor was still in his night-clothes, and indeed it was impossible for him to dress without the help of Mortimer, whose orders were to come at twelve o'clock. The professor declares that he heard the distant cry, but that he knows nothing more. He can give no explanation of the young man's last words, 'The professor—it was she,' but imagines that they were the outcome of delirium. He believes that Willoughby Smith had not an enemy in the world, and can give no reason for the crime. His first action was to send Mortimer, the gardener, for the local police. A little later the chief constable sent for me. Nothing was moved before I got there, and strict orders were given that no one should walk upon the paths leading to the house. It was a splendid chance of putting your theories into practice, Mr. Sherlock Holmes. There was really nothing wanting."
 
@@ -368,7 +368,7 @@ She had risen, but she fell back again with a little cry of pain.
 
 "Exactly! Exactly!" said Holmes. "The secretary came back, and told his employer of the woman he had met. Then, in his last breath, he tried to send a message that it was she—the she whom he had just discussed with him."
 
-![HOLMES HAD BOUNDED ACROSS THE ROOM AND HAD WRENCHED A SMALL PHIAL FROM HER HAND.](/images/posts/gold-08.jpg)
+![HOLMES HAD BOUNDED ACROSS THE ROOM AND HAD WRENCHED A SMALL PHIAL FROM HER HAND.](../../../assets/images/posts/gold-08.jpg)
 
 "You must let me speak," said the woman, in an imperative voice, and her face contracted as if in pain. "When he had fallen I rushed from the room, chose the wrong door, and found myself in my husband's room. He spoke of giving me up. I showed him that if he did so, his life was in my hands. If he gave me to the law, I could give him to the Brotherhood. It was not that I wished to live for my own sake, but it was that I desired to accomplish my purpose. He knew that I would do what I said—that his own fate was involved in mine. For that reason, and for no other, he shielded me. He thrust me into that dark hiding-place—a relic of old days, known only to himself. He took his meals in his own room, and so was able to give me part of his food. It was agreed that when the police left the house I should slip away by night and come back no more. But in some way you have read our plans." She tore from the bosom of her dress a small packet. "These are my last words," said she; "here is the packet which will save Alexis. I confide it to your honour and to your love of justice. Take it! You will deliver it at the Russian Embassy. Now, I have done my duty, and——"
 

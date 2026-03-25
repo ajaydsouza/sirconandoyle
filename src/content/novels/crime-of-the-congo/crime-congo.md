@@ -3,14 +3,14 @@ title: "The Crime of the Congo"
 date: 2013-06-05
 novel: "crime-of-the-congo"
 order: 1
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
 
 Written in 1909, in "The Crime of the Congo" Doyle documents the atrocities committed in the Congo Free State, the personal possession of Leopold II of Belgium.
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 ## Description (courtesy Amazon)
 

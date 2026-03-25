@@ -3,12 +3,12 @@ title: "Chapter XX: Mr. Hector O'Flaherty finds something in the Paper"
 date: 2014-04-22
 novel: "girdlestone"
 order: 21
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 Ezra Girdlestone had taken up his quarters in two private rooms at the Central Hotel, Kimberley, and had already gained a considerable reputation in the town by the engaging "abandon" of his manners, and by the munificent style in which he entertained the more prominent citizens of the little capital. His personal qualities of strength and beauty had also won him the respect which physical gifts usually command in primitive communities, and the smart young Londoner attracted custom to himself among the diggers in a way which excited the jealousy of the whole tribe of elderly Hebrews who had hitherto enjoyed a monopoly of the trade. Thus, he had already gained his object in making himself known, and his name was a familiar one in every camp from Waldeck's Plant to Cawood's Hope. Keeping his headquarters at Kimberley, he travelled perpetually along the line of the diggings. All the time he was chafing secretly and marvelling within himself how it was that no whisper of the expected news had arrived yet from England.
 

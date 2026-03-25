@@ -3,14 +3,14 @@ title: "III. HOME, 15th October, 1881"
 date: 2013-07-31
 novel: "stark-munro-letters"
 order: 4
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 Without any figure of speech I feel quite ashamed when I think of you, Bertie. I send you one or two enormously long letters, burdened, as far as I can remember them, with all sorts of useless detail. Then, in spite of your kindly answers and your sympathy, which I have done so little to deserve, I drop you completely for more than six months. By this J pen I swear that it shall not happen again; and this letter may serve to bridge the gap and to bring you up to date in my poor affairs, in which, of all outer mankind, you alone take an interest.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 To commence with what is of most moment, you may rest assured that what you said in your last letter about religion has had my most earnest attention. I am sorry that I have not got it by me to refer to (I lent it to Charlie), but I think I have the contents in my head. It is notorious, as you say, that an unbeliever may be as bigoted as any of the orthodox, and that a man may be very dogmatic in his opposition to dogma. Such men are the real enemies of free thought. If anything could persuade me to turn traitor to my reason, it would, for example, be the blasphemous and foolish pictures displayed in some of the agnostic journals.
 

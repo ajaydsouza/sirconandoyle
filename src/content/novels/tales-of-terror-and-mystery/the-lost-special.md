@@ -3,7 +3,7 @@ title: "The Lost Special"
 date: 2017-06-29
 novel: "tales-of-terror-and-mystery"
 order: 8
-coverImage: "/images/posts/Tales-of-Terror-and-Mystery.jpg"
+coverImage: "../../../assets/images/posts/Tales-of-Terror-and-Mystery.jpg"
 tags:
   - "mystery"
   - "tales-of-terror-and-mystery"

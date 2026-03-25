@@ -3,14 +3,14 @@ title: "The Adventure of the Abbey Grange"
 date: 2013-03-07
 collection: "return"
 order: 13
-coverImage: "/images/posts/abbe-08.jpg"
+coverImage: "../../../assets/images/posts/abbe-08.jpg"
 tags:
   - "the-return-of-sherlock-holmes"
 ---
 
 It was on a bitterly cold and frosty morning, towards the end of the winter of '97, that I was awakened by a tugging at my shoulder. It was Holmes. The candle in his hand shone upon his eager, stooping face, and told me at a glance that something was amiss.
 
-![“COME, WATSON, COME!” HE CRIED. “THE GAME IS AFOOT.”](/images/posts/abbe-01.jpg)
+![“COME, WATSON, COME!” HE CRIED. “THE GAME IS AFOOT.”](../../../assets/images/posts/abbe-01.jpg)
 
 "Come, Watson, come!" he cried. "The game is afoot. Not a word! Into your clothes and come!"
 
@@ -152,7 +152,7 @@ Hopkins pointed to a half-opened drawer. In it lay some table linen and a large 
 
 "Then there is an end of it. What more is to be said? And yet, you must admit, that the three glasses are very remarkable, Hopkins. What? You see nothing remarkable? Well, well, let it pass. Perhaps, when a man has special knowledge and special powers like my own, it rather encourages him to seek a complex explanation when a simpler one is at hand. Of course, it must be a mere chance about the glasses. Well, good-morning, Hopkins. I don't see that I can be of any use to you, and you appear to have your case very clear. You will let me know when Randall is arrested, and any further developments which may occur. I trust that I shall soon have to congratulate you upon a successful conclusion. Come, Watson, I fancy that we may employ ourselves more profitably at home."
 
-![I COULD SEE BY HOLMES’S FACE THAT HE WAS MUCH PUZZLED.](/images/posts/abbe-05.jpg)
+![I COULD SEE BY HOLMES’S FACE THAT HE WAS MUCH PUZZLED.](../../../assets/images/posts/abbe-05.jpg)
 
 During our return journey, I could see by Holmes's face that he was much puzzled by something which he had observed. Every now and then, by an effort, he would throw off the impression, and talk as if the matter were clear, but then his doubts would settle down upon him again, and his knitted brows and abstracted eyes would show that his thoughts had gone back once more to the great dining-room of the Abbey Grange, in which this midnight tragedy had been enacted. At last, by a sudden impulse, just as our train was crawling out of a suburban station, he sprang on to the platform and pulled me out after him.
 
@@ -316,7 +316,7 @@ Dinner was over, and the table cleared before Holmes alluded to the matter again
 
 "The time has come. You will now be present at the last scene of a remarkable little drama."
 
-![THE DOOR WAS OPENED TO ADMIT AS FINE A SPECIMEN OF MANHOOD AS EVER PASSED THROUGH IT.](/images/posts/abbe-08.jpg)
+![THE DOOR WAS OPENED TO ADMIT AS FINE A SPECIMEN OF MANHOOD AS EVER PASSED THROUGH IT.](../../../assets/images/posts/abbe-08.jpg)
 
 There was a sound upon the stairs, and our door was opened to admit as fine a specimen of manhood as ever passed through it. He was a very tall young man, golden-moustached, blue-eyed, with a skin which had been burned by tropical suns, and a springy step, which showed that the huge frame was as active as it was strong. He closed the door behind him, and then he stood with clenched hands and heaving breast, choking down some overmastering emotion.
 

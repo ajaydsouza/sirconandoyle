@@ -3,12 +3,12 @@ title: "The Captain Of The Polestar And Other Tales"
 date: 2013-03-20
 novel: "captain-of-the-polestar"
 order: 1
-coverImage: "/images/posts/The-Captain-of-the-Polestar.jpg"
+coverImage: "../../../assets/images/posts/The-Captain-of-the-Polestar.jpg"
 tags:
   - "captain-of-the-polestar"
 ---
 
-![The Captain of the Polestar](/images/posts/The-Captain-of-the-Polestar-195x300.jpg)
+![The Captain of the Polestar](../../../assets/images/posts/The-Captain-of-the-Polestar.jpg)
 
 To my friend major-general A. W. Drayson as a slight token of my admiration for his great and as yet unrecognised services to astronomy _this little volume_ is dedicated
 

@@ -3,12 +3,12 @@ title: "That Little Square Box"
 date: 2013-04-08
 novel: "captain-of-the-polestar"
 order: 6
-coverImage: "/images/posts/That-Little-Square-Box.png"
+coverImage: "../../../assets/images/posts/That-Little-Square-Box.png"
 tags:
   - "captain-of-the-polestar"
 ---
 
-[![That Little Square Box](/images/posts/That-Little-Square-Box-198x300.png)]
+[![That Little Square Box](../../../assets/images/posts/That-Little-Square-Box.png)]
 
 All aboard?" said the captain.
 

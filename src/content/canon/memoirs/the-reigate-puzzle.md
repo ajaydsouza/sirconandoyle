@@ -3,7 +3,7 @@ title: "The Reigate Puzzle"
 date: 2011-12-26
 collection: "memoirs"
 order: 7
-coverImage: "/images/posts/reigate.jpg"
+coverImage: "../../../assets/images/posts/reigate.jpg"
 tags:
   - "memoirs-2"
   - "sherlock-holmes"
@@ -275,7 +275,7 @@ A stone-flagged passage, with the kitchens branching away from it, led by a wood
 
 "If it is not too much trouble."
 
-![He deliberately knocked the whole thing over](/images/posts/reigate.jpg "He deliberately knocked the whole thing over") The J. P. shrugged his shoulders and led the way into his own chamber, which was a plainly furnished and commonplace room. As we moved across it in the direction of the window, Holmes fell back until he and I were the last of the group. Near the foot of the bed stood a dish of oranges and a carafe of water. As we passed it Holmes, to my unutterable astonishment, leaned over in front of me and deliberately knocked the whole thing over. The glass smashed into a thousand pieces and the fruit rolled about into every corner of the room.
+![He deliberately knocked the whole thing over](../../../assets/images/posts/reigate.jpg "He deliberately knocked the whole thing over") The J. P. shrugged his shoulders and led the way into his own chamber, which was a plainly furnished and commonplace room. As we moved across it in the direction of the window, Holmes fell back until he and I were the last of the group. Near the foot of the bed stood a dish of oranges and a carafe of water. As we passed it Holmes, to my unutterable astonishment, leaned over in front of me and deliberately knocked the whole thing over. The glass smashed into a thousand pieces and the fruit rolled about into every corner of the room.
 
 "You've done it now, Watson," said he coolly. "A pretty mess you've made of the carpet."
 

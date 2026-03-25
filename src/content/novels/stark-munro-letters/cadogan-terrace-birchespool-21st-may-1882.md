@@ -3,14 +3,14 @@ title: "X. CADOGAN TERRACE, BIRCHESPOOL, 21st May, 1882"
 date: 2013-08-07
 novel: "stark-munro-letters"
 order: 11
-coverImage: "/images/posts/Stark-Munro-Letters.jpg"
+coverImage: "../../../assets/images/posts/Stark-Munro-Letters.jpg"
 tags:
   - "stark-munro"
 ---
 
 My dear old chap, things have been happening, and I must tell you all about it. Sympathy is a strange thing; for though I never see you, the mere fact that you over there in New England are keenly interested in what I am doing and thinking, makes my own life in old England very much more interesting to me. The thought of you is like a good staff in my right hand.
 
-![Stark Munro Letters](/images/posts/Stark-Munro-Letters.jpg)
+![Stark Munro Letters](../../../assets/images/posts/Stark-Munro-Letters.jpg)
 
 The unexpected has happened so continually in my life that it has ceased to deserve the name. You remember that in my last I had received my dismissal, and was on the eve of starting for the little country town of Stockwell to see if there were any sign of a possible practice there. Well, in the morning, before I came down to breakfast, I was putting one or two things into a bag, when there came a timid knock at my door, and there was Mrs. Cullingworth in her dressing-jacket, with her hair down her back.
 

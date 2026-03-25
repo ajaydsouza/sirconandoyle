@@ -3,7 +3,7 @@ title: "The Adventure of the Red Circle"
 date: 2013-10-29
 collection: "last-bow"
 order: 5
-coverImage: "/images/posts/redc-01.jpg"
+coverImage: "../../../assets/images/posts/redc-01.jpg"
 tags:
   - "last-bow"
   - "sherlock-holmes"
@@ -57,7 +57,7 @@ Holmes leaned forward and laid his long, thin fingers upon the woman's shoulder.
 
 "Yes, sir; prints it in pencil. Just the word, nothing more. Here's the one I brought to show you--soap. Here's another--match. This is one he left the first morning--daily gazette. I leave that paper with his breakfast every morning."
 
-![“DEAR ME, WATSON,” SAID HOLMES, STARING WITH GREAT CURIOSITY AT THE SLIPS OF FOOLSCAP.](/images/posts/redc-01.jpg)
+![“DEAR ME, WATSON,” SAID HOLMES, STARING WITH GREAT CURIOSITY AT THE SLIPS OF FOOLSCAP.](../../../assets/images/posts/redc-01.jpg)
 
 "Dear me, Watson," said Homes, staring with great curiosity at the slips of foolscap which the landlady had handed to him, "this is certainly a little unusual. Seclusion I can understand; but why print? Printing is a clumsy process. Why not write? What would it suggest, Watson?"
 
@@ -145,7 +145,7 @@ Our client had suddenly burst into the room with an explosive energy which told 
 
 "But who used him roughly?"
 
-![TWO MEN CAME UP BEHIND HIM, THREW A COAT OVER HIS HEAD, AND BUNDLED HIM INTO A CAB.](/images/posts/redc-02.jpg)
+![TWO MEN CAME UP BEHIND HIM, THREW A COAT OVER HIS HEAD, AND BUNDLED HIM INTO A CAB.](../../../assets/images/posts/redc-02.jpg)
 
 "Ah! that's what we want to know! It was this morning, sir. Mr. Warren is a timekeeper at Morton and Waylight's, in Tottenham Court Road. He has to be out of the house before seven. Well, this morning he had not gone ten paces down the road when two men came up behind him, threw a coat over his head, and bundled him into a cab that was beside the curb. They drove him an hour, and then opened the door and shot him out. He lay in the roadway so shaken in his wits that he never saw what became of the cab. When he picked himself up he found he was on Hampstead Heath; so he took a bus home, and there he lies now on his sofa, while I came straight round to tell you what had happened."
 
@@ -185,7 +185,7 @@ At half-past twelve we found ourselves upon the steps of Mrs. Warren's house--a 
 
 It was an excellent hiding-place which she had arranged. The mirror was so placed that, seated in the dark, we could very plainly see the door opposite. We had hardly settled down in it, and Mrs. Warren left us, when a distant tinkle announced that our mysterious neighbour had rung. Presently the landlady appeared with the tray, laid it down upon a chair beside the closed door, and then, treading heavily, departed. Crouching together in the angle of the door, we kept our eyes fixed upon the mirror. Suddenly, as the landlady's footsteps died away, there was the creak of a turning key, the handle revolved, and two thin hands darted out and lifted the tray from the chair. An instant later it was hurriedly replaced, and I caught a glimpse of a dark, beautiful, horrified face glaring at the narrow opening of the box-room. Then the door crashed to, the key turned once more, and all was silence. Holmes twitched my sleeve, and together we stole down the stair.
 
-![I CAUGHT A GLIMPSE OF A DARK, BEAUTIFUL, HORRIFIED FACE.](/images/posts/redc-03.jpg)
+![I CAUGHT A GLIMPSE OF A DARK, BEAUTIFUL, HORRIFIED FACE.](../../../assets/images/posts/redc-03.jpg)
 
 "I will call again in the evening," said he to the expectant landlady. "I think, Watson, we can discuss this business better in our own quarters."
 
@@ -283,7 +283,7 @@ The door of the left-hand flat upon the third landing was standing ajar. Gregson
 
 In the middle of the floor of the empty room was huddled the figure of an enormous man, his clean-shaven, swarthy face grotesquely horrible in its contortion and his head encircled by a ghastly crimson halo of blood, lying in a broad wet circle upon the white woodwork. His knees were drawn up, his hands thrown out in agony, and from the centre of his broad, brown, upturned throat there projected the white haft of a knife driven blade-deep into his body. Giant as he was, the man must have gone down like a pole-axed ox before that terrific blow. Beside his right hand a most formidable horn-handled, two-edged dagger lay upon the floor, and near it a black kid glove.
 
-![“BY GEORGE! IT'S BLACK GORGIANO HIMSELF!” CRIED THE AMERICAN DETECTIVE.](/images/posts/redc-04.jpg)
+![“BY GEORGE! IT'S BLACK GORGIANO HIMSELF!” CRIED THE AMERICAN DETECTIVE.](../../../assets/images/posts/redc-04.jpg)
 
 "By George! it's Black Gorgiano himself!" cried the American detective. "Someone has got ahead of us this time."
 
@@ -307,7 +307,7 @@ Holmes had stepped across, had lit the candle, and was passing it backward and f
 
 We all turned round at the words. There, framed in the doorway, was a tall and beautiful woman--the mysterious lodger of Bloomsbury. Slowly she advanced, her face pale and drawn with a frightful apprehension, her eyes fixed and staring, her terrified gaze riveted upon the dark figure on the floor.
 
-![SLOWLY SHE ADVANCED, HER FACE PALE AND DRAWN WITH A FRIGHTFUL APPREHENSION.](/images/posts/redc-06.jpg)
+![SLOWLY SHE ADVANCED, HER FACE PALE AND DRAWN WITH A FRIGHTFUL APPREHENSION.](../../../assets/images/posts/redc-06.jpg)
 
 "You have killed him!" she muttered. "Oh, Dio mio, you have killed him!" Then I heard a sudden sharp intake of her breath, and she sprang into the air with a cry of joy. Round and round the room she danced, her hands clapping, her dark eyes gleaming with delighted wonder, and a thousand pretty Italian exclamations pouring from her lips. It was terrible and amazing to see such a woman so convulsed with joy at such a sight. Suddenly she stopped and gazed at us all with a questioning stare.
 

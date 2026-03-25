@@ -3,12 +3,12 @@ title: "Chapter XII: A Corner in Diamonds"
 date: 2014-03-25
 novel: "girdlestone"
 order: 13
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 John Girdlestone propounded his intention with such dignity and emphasis that he evidently expected the announcement to come as a surprise upon his son. If so, he was not disappointed, for the young man stared open-eyed.
 

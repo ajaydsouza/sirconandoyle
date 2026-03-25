@@ -3,12 +3,12 @@ title: "Chapter XXXI: A Crisis at Eccleston Square"
 date: 2014-06-17
 novel: "girdlestone"
 order: 32
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 His father's encouraging words had given Ezra Girdlestone fresh heart, and he had renewed his importunities with greater energy than ever. Never surely did any man devote every moment of his time more completely to the winning of a woman's heart. From morning until night the one idea was ever before his mind and every little want of Kate's was forestalled with a care and foresight which astonished her. The richest fruit and flowers found their way unexpectedly into her room; her table was littered with the latest books from Mudie's, and the newest pieces lay upon her music-stand. Nothing which attention and thoughtfulness could do was left undone either by the father or the son.
 

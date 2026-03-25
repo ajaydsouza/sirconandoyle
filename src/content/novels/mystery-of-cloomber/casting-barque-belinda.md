@@ -3,14 +3,14 @@ title: "Of the Casting Away of the Barque \"Belinda\""
 date: 2013-09-28
 novel: "mystery-of-cloomber"
 order: 12
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 The third of October had broken auspiciously with a bright sun and a cloudless sky. There had in the morning been a slight breeze, and a few little white wreaths of vapour drifted here and there like the scattered feathers of some gigantic bird, but, as the day wore on, such wind as there was fell completely away, and the air became close and stagnant.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 The sun blazed down with a degree of heat which was remarkable so late in the season, and a shimmering haze lay upon the upland moors and concealed the Irish mountains on the other side of the Channel.
 

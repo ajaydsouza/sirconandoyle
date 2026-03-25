@@ -3,14 +3,14 @@ title: "How I came to be enlisted as one of the Garrison of Cloomber"
 date: 2013-09-23
 novel: "mystery-of-cloomber"
 order: 7
-coverImage: "/images/posts/The-Mystery-of-Cloomber.jpg"
+coverImage: "../../../assets/images/posts/The-Mystery-of-Cloomber.jpg"
 tags:
   - "cloomber"
 ---
 
 "To your room, girl!" he cried in a hoarse, harsh voice, stepping in between us and pointing authoritatively towards the house.
 
-![The Mystery of Cloomber](/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
+![The Mystery of Cloomber](../../../assets/images/posts/The-Mystery-of-Cloomber.jpg "The Mystery of Cloomber")
 
 He waited until Gabriel, with a last frightened glance at me, had passed through the gap, and then he turned upon me with an expression so murderous that I stepped back a pace or two, and tightened my grasp upon my oak stick.
 

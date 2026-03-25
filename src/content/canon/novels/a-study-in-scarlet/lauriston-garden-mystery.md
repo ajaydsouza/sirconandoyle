@@ -3,13 +3,13 @@ title: "Part I – Chapter 3: The Lauriston Garden Mystery"
 date: 2012-09-02
 novel: "a-study-in-scarlet"
 order: 4
-coverImage: "/images/posts/scarlet13.gif"
+coverImage: "../../../../assets/images/posts/scarlet13.gif"
 tags:
   - "sherlock-holmes"
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 I confess that I was considerably startled by this fresh proof of the practical nature of my companion's theories. My respect for his powers of analysis increased wondrously. There still remained some lurking suspicion in my mind, however, that the whole thing was a prearranged episode, intended to dazzle me, though what earthly object he could have in taking me in was past my comprehension. When I looked at him, he had finished reading the note, and his eyes had assumed the vacant, lack-lustre expression which showed mental abstraction.
 
@@ -93,7 +93,7 @@ A short passage, bare-planked and dusty, led to the kitchen and offices. Two doo
 
 It was a large square room, looking all the larger from the absence of all furniture. A vulgar flaring paper adorned the walls, but it was blotched in places with mildew, and here and there great strips had become detached and hung down, exposing the yellow plaster beneath. Opposite the door was a showy fireplace, surmounted by a mantelpiece of imitation white marble. On one corner of this was stuck the stump of a red wax candle. The solitary window was so dirty that the light was hazy and uncertain, giving a dull gray tinge to everything, which was intensified by the thick layer of dust which coated the whole apartment.
 
-![MY ATTENTION WAS CENTRED UPON THE SINGLE, GRIM, MOTIONLESS FIGURE WHICH LAY STRETCHED UPON THE BOARDS](/images/posts/scarlet13.gif "MY ATTENTION WAS CENTRED UPON THE SINGLE, GRIM, MOTIONLESS FIGURE WHICH LAY STRETCHED UPON THE BOARDS")
+![MY ATTENTION WAS CENTRED UPON THE SINGLE, GRIM, MOTIONLESS FIGURE WHICH LAY STRETCHED UPON THE BOARDS](../../../../assets/images/posts/scarlet13.gif "MY ATTENTION WAS CENTRED UPON THE SINGLE, GRIM, MOTIONLESS FIGURE WHICH LAY STRETCHED UPON THE BOARDS")
 
 All these details I observed afterwards. At present my attention was centred upon the single, grim, motionless figure which lay stretched upon the boards, with vacant, sightless eyes staring up at the discoloured ceiling. It was that of a man about forty-three or forty-four years of age, middle-sized, broad-shouldered, with crisp curling black hair, and a short, stubbly beard. He was dressed in a heavy broadcloth frock coat and waistcoat, with light-coloured trousers, and immaculate collar and cuffs. A top hat, well brushed and trim, was placed upon the floor beside him. His hands were clenched and his arms thrown abroad, while his lower limbs were interlocked, as though his death struggle had been a grievous one. On his rigid face there stood an expression of horror, and, as it seemed to me, of hatred, such as I have never seen upon human features. This malignant and terrible contortion, combined with the low forehead, blunt nose, and prognathous jaw, gave the dead man a singularly simious and ape-like appearance, which was increased by. his writhing, unnatural posture. I have seen death in many forms, but never has it appeared to me in a more fearsome aspect than in that dark, grimy apartment, which looked out upon one of the main arteries of suburban London.
 

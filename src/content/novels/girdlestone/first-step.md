@@ -3,12 +3,12 @@ title: "Chapter XVI: The First Step"
 date: 2014-04-11
 novel: "girdlestone"
 order: 17
-coverImage: "/images/posts/Firm_of_Girdleston2-1.jpg"
+coverImage: "../../../assets/images/posts/Firm_of_Girdleston2-1.jpg"
 tags:
   - "girdlestone"
 ---
 
-![The Firm of Girdlestone](/images/posts/Firm_of_Girdleston2-1.jpg)
+![The Firm of Girdlestone](../../../assets/images/posts/Firm_of_Girdleston2-1.jpg)
 
 It was a proud day for the ex-medical student when he first entered the counting-house of the African firm and realized that he was one of the governing powers in that busy establishment. Tom Dimsdale's mind was an intensely practical one, and although he had found the study of science an irksome matter, he was able to throw himself into business with uncommon energy and devotion. The clerks soon found that the sunburnt, athletic-looking young man intended to be anything but a sleeping partner, and both they and old Gilray respected him accordingly.
 

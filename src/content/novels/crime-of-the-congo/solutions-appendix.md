@@ -3,7 +3,7 @@ title: "Solutions and Appendix"
 date: 2013-07-18
 novel: "crime-of-the-congo"
 order: 16
-coverImage: "/images/posts/The-Crime-of-the-Congo.jpg"
+coverImage: "../../../assets/images/posts/The-Crime-of-the-Congo.jpg"
 tags:
   - "crime-of-the-congo"
 ---
@@ -14,7 +14,7 @@ But what can be done? What course should we pursue? Let us consider a few possib
 
 There is one cardinal fact which dominates everything. It is that _any_ change must be for the better. Under their old savage _régime_ as Stanley found them the tribes were infinitely happier, richer and more advanced than they are to-day. If they should return undisturbed to such an existence, the situation would, at least, be free from all that lowering of the ideals of the white race which is implied by a Belgian occupation. We may start with a good heart, therefore, since whatever happens must be for the better.
 
-![The Crime of the Congo](/images/posts/The-Crime-of-the-Congo.jpg)
+![The Crime of the Congo](../../../assets/images/posts/The-Crime-of-the-Congo.jpg)
 
 Can a solution be found through Belgium?
 
