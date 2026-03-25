@@ -1,0 +1,41 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = 'The complete works of Sir Arthur Conan Doyle — Sherlock Holmes and beyond.' } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title} — Sir Arthur Conan Doyle</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet" />
+  </head>
+  <body class="min-h-screen flex flex-col">
+    <header class="border-b border-stone-200 bg-white">
+      <nav class="max-w-4xl mx-auto px-4 py-3 flex items-center gap-6 text-sm font-medium">
+        <a href="/" class="text-amber-800 font-semibold tracking-wide hover:text-amber-700">Sir Arthur Conan Doyle</a>
+        <div class="flex gap-5 text-stone-600">
+          <a href="/canon/" class="hover:text-stone-900">The Canon</a>
+          <a href="/novels/" class="hover:text-stone-900">Novels</a>
+          <a href="/about/" class="hover:text-stone-900">About</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="flex-1">
+      <slot />
+    </main>
+
+    <footer class="border-t border-stone-200 text-center text-sm text-stone-500 py-6 mt-12">
+      <p>Texts sourced from <a href="https://www.gutenberg.org" class="underline underline-offset-2 hover:text-stone-700">Project Gutenberg</a>. Site by Ajay D'Souza.</p>
+    </footer>
+  </body>
+</html>

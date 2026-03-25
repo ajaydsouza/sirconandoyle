@@ -1,0 +1,64 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const collections = [
+  { slug: 'adventures', title: 'The Adventures of Sherlock Holmes', stories: 12, year: '1891–1892', description: 'The first collection, originally published in the Strand Magazine.' },
+  { slug: 'memoirs',    title: 'The Memoirs of Sherlock Holmes',    stories: 11, year: '1892–1893', description: 'Includes "The Final Problem," in which Holmes appears to die at Reichenbach Falls.' },
+  { slug: 'return',     title: 'The Return of Sherlock Holmes',     stories: 13, year: '1903–1904', description: 'Holmes returns after his apparent death, with thirteen new cases.' },
+  { slug: 'last-bow',   title: 'His Last Bow',                      stories: 8,  year: '1908–1917', description: 'Eight stories spanning a decade, ending with Holmes\'s final wartime mission.' },
+  { slug: 'casebook',   title: 'The Case Book of Sherlock Holmes',  stories: 13, year: '1921–1927', description: 'The final collection, featuring Holmes in his twilight years.' },
+];
+
+const novels = [
+  { slug: 'novels/a-study-in-scarlet',        title: 'A Study in Scarlet',            year: '1887', description: 'The first appearance of Sherlock Holmes and Dr. Watson.' },
+  { slug: 'novels/sign-of-four',              title: 'The Sign of Four',              year: '1890', description: 'Holmes and Watson investigate a mystery of treasure and murder.' },
+  { slug: 'novels/hound-of-the-baskervilles', title: 'The Hound of the Baskervilles', year: '1902', description: 'A spectral hound haunts the moors of Dartmoor. Widely considered the finest Holmes novel.' },
+  { slug: 'novels/valley-of-fear',            title: 'The Valley of Fear',            year: '1915', description: 'A cipher leads Holmes to a tale of vengeance spanning two continents.' },
+];
+---
+<Base title="The Canon">
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <Breadcrumb crumbs={[{ label: 'Home', href: '/' }, { label: 'The Canon' }]} />
+
+    <h1 class="font-serif text-3xl font-semibold text-stone-900 mb-2">The Sherlock Holmes Canon</h1>
+    <p class="text-stone-600 mb-10">The complete works of Sherlock Holmes — four novels and five short story collections by Sir Arthur Conan Doyle.</p>
+
+    <section class="mb-10">
+      <h2 class="text-xs font-semibold uppercase tracking-widest text-stone-400 mb-4">Novels</h2>
+      <ul class="space-y-2">
+        {novels.map(n => (
+          <li>
+            <a href={`/canon/${n.slug}/`} class="flex gap-4 px-4 py-4 rounded-lg border border-stone-200 hover:border-amber-300 hover:bg-amber-50 transition-colors group">
+              <div class="flex-1">
+                <span class="font-serif text-lg text-stone-900 group-hover:text-amber-900">{n.title}</span>
+                <p class="text-sm text-stone-500 mt-0.5">{n.description}</p>
+              </div>
+              <span class="text-sm text-stone-400 shrink-0 pt-0.5">{n.year}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="text-xs font-semibold uppercase tracking-widest text-stone-400 mb-4">Short Story Collections</h2>
+      <ul class="space-y-2">
+        {collections.map(c => (
+          <li>
+            <a href={`/canon/${c.slug}/`} class="flex gap-4 px-4 py-4 rounded-lg border border-stone-200 hover:border-amber-300 hover:bg-amber-50 transition-colors group">
+              <div class="flex-1">
+                <span class="font-serif text-lg text-stone-900 group-hover:text-amber-900">{c.title}</span>
+                <p class="text-sm text-stone-500 mt-0.5">{c.description}</p>
+              </div>
+              <div class="text-right shrink-0 pt-0.5">
+                <div class="text-sm text-stone-400">{c.year}</div>
+                <div class="text-xs text-stone-400">{c.stories} stories</div>
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </div>
+</Base>

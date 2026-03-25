@@ -1,0 +1,68 @@
+---
+// Handles /canon/adventures/, /canon/memoirs/, /canon/return/, /canon/casebook/, /canon/last-bow/
+// (NOT /canon/novels/ — that has its own dedicated page)
+import { getCollection } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+
+export async function getStaticPaths() {
+  const LABELS: Record<string, string> = {
+    adventures: 'The Adventures of Sherlock Holmes',
+    memoirs:    'The Memoirs of Sherlock Holmes',
+    return:     'The Return of Sherlock Holmes',
+    'last-bow': 'His Last Bow',
+    casebook:   'The Case Book of Sherlock Holmes',
+  };
+
+  const allEntries = await getCollection('canon');
+
+  return Object.keys(LABELS).map(collection => {
+    const entries = allEntries
+      .filter(e => e.data.collection === collection)
+      .sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
+    return { params: { collection }, props: { entries, label: LABELS[collection] } };
+  });
+}
+
+const { collection } = Astro.params;
+const { entries, label } = Astro.props;
+
+// The first entry by order is typically the collection index post; remaining are stories.
+// We split: the "index" post is the one whose title matches the collection name (order=1, usually a TOC).
+const stories = entries.filter(e => !/^(the\s+)?(adventures|memoirs|return|case|last bow|his last bow)/i.test(e.data.title ?? ''));
+const indexEntry = entries.find(e => /^(the\s+)?(adventures|memoirs|return|case|last bow|his last bow)/i.test(e.data.title ?? ''));
+---
+<Base title={label}>
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <Breadcrumb crumbs={[
+      { label: 'Home', href: '/' },
+      { label: 'The Canon', href: '/canon/' },
+      { label: label },
+    ]} />
+
+    <h1 class="font-serif text-3xl font-semibold text-stone-900 mb-6">{label}</h1>
+
+    {indexEntry && (
+      <div class="prose max-w-none mb-8 text-stone-600 text-base border-b border-stone-200 pb-6">
+        <p>{indexEntry.data.title}</p>
+      </div>
+    )}
+
+    <ol class="space-y-1">
+      {(stories.length ? stories : entries).map((entry, i) => {
+        const slug = entry.id.split('/').pop();
+        return (
+          <li>
+            <a
+              href={`/canon/${collection}/${slug}/`}
+              class="flex items-baseline gap-3 px-4 py-3 rounded-lg hover:bg-amber-50 hover:text-amber-900 group transition-colors"
+            >
+              <span class="text-stone-400 text-sm w-6 shrink-0 text-right">{i + 1}.</span>
+              <span class="font-serif text-stone-800 group-hover:text-amber-900">{entry.data.title}</span>
+            </a>
+          </li>
+        );
+      })}
+    </ol>
+  </div>
+</Base>

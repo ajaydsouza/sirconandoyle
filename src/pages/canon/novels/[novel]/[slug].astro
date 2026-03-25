@@ -1,0 +1,62 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../../../layouts/Base.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import StoryNav from '../../../../components/StoryNav.astro';
+
+export async function getStaticPaths() {
+  const NOVEL_LABELS: Record<string, string> = {
+    'a-study-in-scarlet':        'A Study in Scarlet',
+    'sign-of-four':              'The Sign of Four',
+    'hound-of-the-baskervilles': 'The Hound of the Baskervilles',
+    'valley-of-fear':            'The Valley of Fear',
+  };
+
+  const allEntries = await getCollection('canon', e => e.id.startsWith('novels/'));
+
+  const paths = [];
+  for (const novel of Object.keys(NOVEL_LABELS)) {
+    const entries = allEntries
+      .filter(e => e.id.split('/')[1] === novel)
+      .sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
+
+    for (let i = 0; i < entries.length; i++) {
+      const entry = entries[i];
+      const slug = entry.id.split('/').pop()!;
+      paths.push({
+        params: { novel, slug },
+        props: {
+          entry,
+          novelLabel: NOVEL_LABELS[novel],
+          prev: i > 0 ? { title: entries[i - 1].data.title, href: `/canon/novels/${novel}/${entries[i - 1].id.split('/').pop()}/` } : null,
+          next: i < entries.length - 1 ? { title: entries[i + 1].data.title, href: `/canon/novels/${novel}/${entries[i + 1].id.split('/').pop()}/` } : null,
+        },
+      });
+    }
+  }
+  return paths;
+}
+
+const { novel } = Astro.params;
+const { entry, novelLabel, prev, next } = Astro.props;
+const { Content } = await render(entry);
+---
+<Base title={entry.data.title}>
+  <div class="max-w-[70ch] mx-auto px-4 py-10">
+    <Breadcrumb crumbs={[
+      { label: 'Home', href: '/' },
+      { label: 'The Canon', href: '/canon/' },
+      { label: 'Novels', href: '/canon/novels/' },
+      { label: novelLabel, href: `/canon/novels/${novel}/` },
+      { label: entry.data.title },
+    ]} />
+
+    <h1 class="font-serif text-3xl font-semibold text-stone-900 mb-8">{entry.data.title}</h1>
+
+    <article class="prose">
+      <Content />
+    </article>
+
+    <StoryNav prev={prev} next={next} />
+  </div>
+</Base>

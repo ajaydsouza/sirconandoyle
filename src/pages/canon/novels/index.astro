@@ -1,0 +1,37 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+
+const novels = [
+  { slug: 'a-study-in-scarlet',        title: 'A Study in Scarlet',            year: '1887', description: 'The case that introduced Sherlock Holmes and Dr. Watson to the world.' },
+  { slug: 'sign-of-four',              title: 'The Sign of Four',              year: '1890', description: 'A treasure, a mystery, and a pact sealed with four signatures.' },
+  { slug: 'hound-of-the-baskervilles', title: 'The Hound of the Baskervilles', year: '1902', description: 'A legendary curse, a spectral hound, and the moors of Dartmoor.' },
+  { slug: 'valley-of-fear',            title: 'The Valley of Fear',            year: '1915', description: 'A cipher leads Holmes to a tale of vengeance across two continents.' },
+];
+---
+<Base title="The Sherlock Holmes Novels">
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <Breadcrumb crumbs={[
+      { label: 'Home', href: '/' },
+      { label: 'The Canon', href: '/canon/' },
+      { label: 'Novels' },
+    ]} />
+
+    <h1 class="font-serif text-3xl font-semibold text-stone-900 mb-2">The Sherlock Holmes Novels</h1>
+    <p class="text-stone-600 mb-8">Four full-length novels featuring Sherlock Holmes and Dr. Watson.</p>
+
+    <ul class="space-y-3">
+      {novels.map(n => (
+        <li>
+          <a href={`/canon/novels/${n.slug}/`} class="flex gap-4 px-4 py-4 rounded-lg border border-stone-200 hover:border-amber-300 hover:bg-amber-50 transition-colors group">
+            <div class="flex-1">
+              <span class="font-serif text-lg text-stone-900 group-hover:text-amber-900">{n.title}</span>
+              <p class="text-sm text-stone-500 mt-0.5">{n.description}</p>
+            </div>
+            <span class="text-sm text-stone-400 shrink-0 pt-0.5">{n.year}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>

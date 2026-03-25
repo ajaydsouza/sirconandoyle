@@ -1,0 +1,41 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const novels = [
+  { slug: 'girdlestone',               title: 'The Firm of Girdlestone',                  year: '1890' },
+  { slug: 'beyond-the-city',           title: 'Beyond the City',                          year: '1892' },
+  { slug: 'mystery-of-cloomber',       title: 'The Mystery of Cloomber',                  year: '1889' },
+  { slug: 'stark-munro-letters',       title: 'The Stark Munro Letters',                  year: '1895' },
+  { slug: 'lost-world',                title: 'The Lost World',                           year: '1912' },
+  { slug: 'poison-belt',               title: 'The Poison Belt',                          year: '1913' },
+  { slug: 'crime-of-the-congo',        title: 'The Crime of the Congo',                   year: '1909' },
+  { slug: 'captain-of-the-polestar',   title: 'The Captain of the Polestar and Other Tales', year: '1890' },
+  { slug: 'captain-sharkey',           title: 'The Dealings of Captain Sharkey',          year: '1919' },
+  { slug: 'my-friend-the-murderer',    title: 'My Friend the Murderer and Other Stories', year: '1893' },
+  { slug: 'tales-of-terror-and-mystery', title: 'Tales of Terror and Mystery',            year: '1922' },
+  { slug: 'croxley-master',            title: 'The Croxley Master',                       year: '1907' },
+].sort((a, b) => a.year.localeCompare(b.year));
+---
+<Base title="Other Novels &amp; Collections">
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <Breadcrumb crumbs={[
+      { label: 'Home', href: '/' },
+      { label: 'Novels' },
+    ]} />
+
+    <h1 class="font-serif text-3xl font-semibold text-stone-900 mb-2">Other Novels &amp; Collections</h1>
+    <p class="text-stone-600 mb-8">Novels, novellas, and short story collections by Sir Arthur Conan Doyle beyond the Sherlock Holmes canon.</p>
+
+    <ul class="space-y-2">
+      {novels.map(n => (
+        <li>
+          <a href={`/novels/${n.slug}/`} class="flex justify-between items-baseline px-4 py-3 rounded-lg border border-stone-200 hover:border-amber-300 hover:bg-amber-50 transition-colors group">
+            <span class="font-serif text-stone-800 group-hover:text-amber-900">{n.title}</span>
+            <span class="text-sm text-stone-400 ml-4 shrink-0">{n.year}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>
