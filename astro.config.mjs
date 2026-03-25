@@ -8,7 +8,8 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://sirconandoyle.com',
+  site: 'https://ajay.social',
+  base: '/sirconandoyle/',
   output: 'static',
   adapter: cloudflare(),
 
