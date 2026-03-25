@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 @theme {
-  --font-serif: "EB Garamond", Georgia, serif;
-  --font-sans: system-ui, sans-serif;
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Inter", system-ui, sans-serif;
 
   --color-parchment-50: #faf8f3;
   --color-parchment-100: #f4f0e6;

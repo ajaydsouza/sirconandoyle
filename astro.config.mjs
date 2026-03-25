@@ -18,6 +18,9 @@ export default defineConfig({
   ],
 
   vite: {
-    plugins: [tailwindcss()]
+    plugins: [tailwindcss()],
+    ssr: {
+      external: ['@pagefind/default-ui']
+    }
   }
 });

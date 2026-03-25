@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { GoogleFontsOptimizer } from 'astro-google-fonts-optimizer';
 
 interface Props {
   title: string;
@@ -14,9 +15,8 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
     <title>{title} — Sir Arthur Conan Doyle</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=Great+Vibes&display=swap" rel="stylesheet" />
+    <GoogleFontsOptimizer url="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Great+Vibes&family=Inter:wght@400;500;600&display=swap" />
+    <slot name="head" />
   </head>
   <body class="min-h-screen flex flex-col bg-[#d4c5a9]" style="background-image: repeating-linear-gradient(90deg, transparent, transparent 2px, rgba(0,0,0,.03) 2px, rgba(0,0,0,.03) 4px), repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,.03) 2px, rgba(0,0,0,.03) 4px); background-size: 50px 50px;">
 
@@ -37,13 +37,31 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
           <a href="/canon/" class="hover:text-stone-900 transition-colors">The Canon</a>
           <a href="/novels/" class="hover:text-stone-900 transition-colors">Novels</a>
           <a href="/who-is-doyle/" class="hover:text-stone-900 transition-colors whitespace-nowrap">Who is Doyle?</a>
-          <!-- Search icon -->
-          <a href="/search/" aria-label="Search" class="hover:text-stone-900 transition-colors">
+          <!-- Search toggle button -->
+          <button id="search-toggle" aria-label="Search" class="hover:text-stone-900 transition-colors cursor-pointer">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z" />
             </svg>
-          </a>
+          </button>
         </nav>
+      </div>
+
+      <!-- Collapsible search bar -->
+      <div id="search-bar" class="hidden border-t border-stone-100">
+        <div class="max-w-5xl mx-auto px-4 py-2">
+          <form action="/search/" method="get" class="flex items-center gap-2">
+            <input
+              type="text"
+              name="q"
+              id="search-input"
+              placeholder="Search Sir Arthur Conan Doyle…"
+              autocomplete="off"
+              class="flex-1 border border-stone-300 rounded px-3 py-1.5 text-sm focus:outline-none focus:border-stone-500"
+            />
+            <button type="submit" class="px-3 py-1.5 bg-stone-800 text-white text-sm rounded hover:bg-stone-700 transition-colors">Search</button>
+            <button type="button" id="search-close" aria-label="Close search" class="text-stone-400 hover:text-stone-700 px-1 text-lg leading-none transition-colors">&times;</button>
+          </form>
+        </div>
       </div>
     </header>
 
@@ -72,3 +90,21 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
     </footer>
   </body>
 </html>
+
+<script>
+  const toggle = document.getElementById('search-toggle');
+  const bar = document.getElementById('search-bar');
+  const input = /** @type {HTMLInputElement|null} */ (document.getElementById('search-input'));
+  const closeBtn = document.getElementById('search-close');
+
+  toggle?.addEventListener('click', () => {
+    const hidden = bar?.classList.toggle('hidden');
+    if (!hidden) input?.focus();
+  });
+
+  closeBtn?.addEventListener('click', () => bar?.classList.add('hidden'));
+
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') bar?.classList.add('hidden');
+  });
+</script>
