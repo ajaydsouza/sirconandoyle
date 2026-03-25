@@ -1,5 +1,6 @@
 ---
 title: "The Adventures of Sherlock Holmes"
+description: "Explore the first collection of 12 short stories featuring Sherlock Holmes, originally published in the Strand Magazine from 1891-1892."
 date: 2011-08-25
 collection: "adventures"
 order: 1

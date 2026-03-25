@@ -1,5 +1,6 @@
 ---
 title: "The Sign of Four by Sir Arthur Conan Doyle"
+description: "Sherlock Holmes and Dr. Watson investigate a mysterious bequest and a treasure with a secret in Sir Arthur Conan Doyle's second Holmes novel, The Sign of Four."
 date: 2012-06-16
 novel: "sign-of-four"
 order: 1

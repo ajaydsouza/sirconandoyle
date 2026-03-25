@@ -1,5 +1,6 @@
 ---
 title: "The Case-Book of Sherlock Holmes"
+description: "The final collection of 12 Sherlock Holmes short stories by Sir Arthur Conan Doyle, featuring some of the detective's most unusual and atmospheric cases."
 date: 2011-08-26
 collection: "casebook"
 order: 2

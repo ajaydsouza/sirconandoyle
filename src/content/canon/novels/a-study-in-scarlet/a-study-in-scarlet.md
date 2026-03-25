@@ -1,5 +1,6 @@
 ---
 title: "A Study in Scarlet by Sir Arthur Conan Doyle"
+description: "Read the first Sherlock Holmes novel, A Study in Scarlet, where Sir Arthur Conan Doyle introduces the world-famous detective and his faithful friend Dr. Watson."
 date: 2012-06-19
 novel: "a-study-in-scarlet"
 order: 1

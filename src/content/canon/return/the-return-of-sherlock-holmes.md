@@ -1,5 +1,6 @@
 ---
 title: "The Return of Sherlock Holmes"
+description: "Discover the 13 stories that mark Sherlock Holmes's resurrection from his apparent death, in Sir Arthur Conan Doyle's The Return of Sherlock Holmes."
 date: 2011-08-25
 collection: "return"
 order: 1

@@ -1,5 +1,6 @@
 ---
 title: "The Valley of Fear by Sir Arthur Conan Doyle"
+description: "The fourth and final Sherlock Holmes novel, The Valley of Fear, sends Holmes and Watson to uncover a sinister conspiracy and a tale of revenge."
 date: 2012-06-21
 novel: "valley-of-fear"
 order: 1

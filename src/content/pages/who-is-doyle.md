@@ -1,5 +1,6 @@
 ---
 title: "Who is Doyle? - Sir Arthur Conan Doyle Biography"
+description: "Discover the fascinating life and legacy of Sir Arthur Conan Doyle, the Scottish writer best known for creating the legendary detective Sherlock Holmes."
 date: 2011-08-25
 ---
 

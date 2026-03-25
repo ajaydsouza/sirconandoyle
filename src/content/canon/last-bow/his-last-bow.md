@@ -1,5 +1,6 @@
 ---
 title: "His Last Bow"
+description: "A collection of eight Sherlock Holmes short stories by Sir Arthur Conan Doyle, culminating in the detective's final intelligence service during World War I."
 date: 2011-08-26
 collection: "last-bow"
 order: 1

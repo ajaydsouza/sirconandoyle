@@ -26,11 +26,12 @@ export async function getStaticPaths() {
 
 const { collection } = Astro.params;
 const { entries, label } = Astro.props;
+const description = `Read all the stories from "${label}", one of the classic Sherlock Holmes short story collections by Sir Arthur Conan Doyle.`;
 
 // Filter out the collection-overview post (its title equals the collection label)
 const stories = entries.filter(e => e.data.title !== label);
 ---
-<Base title={label}>
+<Base title={label} description={description}>
   <div class="max-w-3xl mx-auto px-4 py-10">
     <Breadcrumb crumbs={[
       { label: 'Home', href: import.meta.env.BASE_URL },

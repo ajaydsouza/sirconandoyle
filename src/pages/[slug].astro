@@ -12,8 +12,9 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+const { title, description, coverImage } = entry.data;
 ---
-<Base title={entry.data.title}>
+<Base title={title} description={description} image={coverImage?.src}>
   <div class="max-w-[70ch] mx-auto px-4 py-10">
     <h1 class="font-serif text-3xl font-semibold text-stone-900 mb-8">{entry.data.title}</h1>
     <article class="prose">

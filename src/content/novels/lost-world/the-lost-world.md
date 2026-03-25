@@ -1,5 +1,6 @@
 ---
 title: "The Lost World by Sir Arthur Conan Doyle"
+description: "Follow Professor Challenger on a thrilling expedition to a prehistoric plateau in the Amazon with Sir Arthur Conan Doyle's classic 1912 science fiction novel."
 date: 2011-09-22
 novel: "lost-world"
 order: 1

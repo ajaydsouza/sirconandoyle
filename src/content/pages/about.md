@@ -1,5 +1,6 @@
 ---
 title: "Sir Arthur Conan Doyle - His Life, All His Works and More"
+description: "About SirArthurConanDoyle.com - A leading resource dedicated to the life and complete works of Sir Arthur Conan Doyle, featuring Sherlock Holmes and beyond."
 date: 2011-08-25
 coverImage: "../../assets/images/pages/SACD.jpg"
 ---

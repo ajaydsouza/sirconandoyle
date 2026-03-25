@@ -1,5 +1,6 @@
 ---
 title: "The Memoirs of Sherlock Holmes"
+description: "The Memoirs of Sherlock Holmes is a collection of 11 short stories featuring the famous detective, including his apparent death in The Final Problem."
 date: 2011-08-26
 collection: "memoirs"
 order: 1
