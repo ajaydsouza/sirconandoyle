@@ -21,20 +21,20 @@ const novels = [
   <div class="max-w-3xl mx-auto px-4 py-10">
     <Breadcrumb crumbs={[{ label: 'Home', href: '/' }, { label: 'The Canon' }]} />
 
-    <h1 class="font-serif text-3xl font-semibold text-stone-900 mb-2">The Sherlock Holmes Canon</h1>
-    <p class="text-stone-600 mb-10">The complete works of Sherlock Holmes — four novels and five short story collections by Sir Arthur Conan Doyle.</p>
+    <h1 class="font-serif text-3xl font-semibold text-black mb-2">The Sherlock Holmes Canon</h1>
+    <p class="text-amber-900 mb-10">The complete works of Sherlock Holmes — four novels and five short story collections by Sir Arthur Conan Doyle.</p>
 
     <section class="mb-10">
-      <h2 class="text-xs font-semibold uppercase tracking-widest text-stone-400 mb-4">Novels</h2>
+      <h2 class="text-xs font-semibold uppercase tracking-widest text-amber-900 mb-4">Novels</h2>
       <ul class="space-y-2">
         {novels.map(n => (
           <li>
-            <a href={`/canon/${n.slug}/`} class="flex gap-4 px-4 py-4 rounded-lg border border-stone-200 hover:border-amber-300 hover:bg-amber-50 transition-colors group">
+            <a href={`/canon/${n.slug}/`} class="flex gap-4 px-4 py-4 rounded-lg border border-amber-300 hover:bg-amber-50 transition-colors group">
               <div class="flex-1">
-                <span class="font-serif text-lg text-stone-900 group-hover:text-amber-900">{n.title}</span>
-                <p class="text-sm text-stone-500 mt-0.5">{n.description}</p>
+                <span class="font-serif text-lg text-black group-hover:text-amber-900">{n.title}</span>
+                <p class="text-sm text-amber-800 mt-0.5">{n.description}</p>
               </div>
-              <span class="text-sm text-stone-400 shrink-0 pt-0.5">{n.year}</span>
+              <span class="text-sm text-amber-800 shrink-0 pt-0.5">{n.year}</span>
             </a>
           </li>
         ))}
@@ -42,18 +42,18 @@ const novels = [
     </section>
 
     <section>
-      <h2 class="text-xs font-semibold uppercase tracking-widest text-stone-400 mb-4">Short Story Collections</h2>
+      <h2 class="text-xs font-semibold uppercase tracking-widest text-amber-900 mb-4">Short Story Collections</h2>
       <ul class="space-y-2">
         {collections.map(c => (
           <li>
-            <a href={`/canon/${c.slug}/`} class="flex gap-4 px-4 py-4 rounded-lg border border-stone-200 hover:border-amber-300 hover:bg-amber-50 transition-colors group">
+            <a href={`/canon/${c.slug}/`} class="flex gap-4 px-4 py-4 rounded-lg border border-amber-300 hover:bg-amber-50 transition-colors group">
               <div class="flex-1">
-                <span class="font-serif text-lg text-stone-900 group-hover:text-amber-900">{c.title}</span>
-                <p class="text-sm text-stone-500 mt-0.5">{c.description}</p>
+                <span class="font-serif text-lg text-black group-hover:text-amber-900">{c.title}</span>
+                <p class="text-sm text-amber-800 mt-0.5">{c.description}</p>
               </div>
               <div class="text-right shrink-0 pt-0.5">
-                <div class="text-sm text-stone-400">{c.year}</div>
-                <div class="text-xs text-stone-400">{c.stories} stories</div>
+                <div class="text-sm text-amber-800">{c.year}</div>
+                <div class="text-xs text-amber-800">{c.stories} stories</div>
               </div>
             </a>
           </li>

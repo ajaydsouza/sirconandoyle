@@ -30,13 +30,21 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
       </nav>
     </header>
 
-    <main class="flex-1">
+    <main class="flex-1 bg-white bg-opacity-90">
       <slot />
     </main>
 
-    <footer class="border-t-2 border-amber-900 bg-white bg-opacity-90 text-center text-sm text-amber-900 py-6 mt-12">
+    <footer class="border-t-2 border-amber-900 bg-white bg-opacity-90 text-amber-900 py-8 mt-12">
       <div class="max-w-4xl mx-auto px-4">
-        <p class="leading-relaxed">This is an unofficial fan site dedicated to Sir Arthur Conan Doyle and his works. This site is not affiliated with, endorsed by, or connected to the Arthur Conan Doyle Estate Ltd. All Sherlock Holmes stories, characters, and related elements are the intellectual property of the Arthur Conan Doyle Estate Ltd and/or their respective copyright holders. Content from the original works is used under fair use principles for commentary, criticism, research, and appreciation purposes only. All original content created for this fan site is the property of sirconandoyle.com. This website is maintained by a fan for fans and is intended for informational and entertainment purposes only.</p>
+        <nav class="flex flex-wrap justify-center gap-6 text-sm mb-6 pb-6 border-b border-amber-200">
+          <a href="/" class="hover:text-amber-700">Home</a>
+          <a href="/canon/" class="hover:text-amber-700">The Canon</a>
+          <a href="/novels/" class="hover:text-amber-700">Novels</a>
+          <a href="/who-is-doyle/" class="hover:text-amber-700">Who is Doyle?</a>
+          <a href="/privacy-policy/" class="hover:text-amber-700">Privacy Policy</a>
+          <a href="/disclaimer/" class="hover:text-amber-700">Disclaimer</a>
+        </nav>
+        <p class="text-center text-xs leading-relaxed">This is an unofficial fan site dedicated to Sir Arthur Conan Doyle and his works. This site is not affiliated with, endorsed by, or connected to the Arthur Conan Doyle Estate Ltd. All Sherlock Holmes stories, characters, and related elements are the intellectual property of the Arthur Conan Doyle Estate Ltd and/or their respective copyright holders. Content from the original works is used under fair use principles for commentary, criticism, research, and appreciation purposes only. All original content created for this fan site is the property of sirconandoyle.com. This website is maintained by a fan for fans and is intended for informational and entertainment purposes only.</p>
       </div>
     </footer>
   </body>
