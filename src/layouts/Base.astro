@@ -19,22 +19,13 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
     <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet" />
   </head>
   <body class="min-h-screen flex flex-col">
-    <header class="border-b border-[#d4af37] bg-[#1a1410]">
-      <nav class="max-w-4xl mx-auto px-4 py-6 flex items-center justify-between text-sm font-medium">
-        <a href="/" class="text-[#d4af37] font-semibold tracking-widest text-lg hover:text-[#c9a961] transition-all duration-300 font-serif">Sir Arthur Conan Doyle</a>
-        <div class="flex gap-8 text-[#c9a961]">
-          <a href="/canon/" class="hover:text-[#d4af37] transition-all duration-300 relative group">
-            The Canon
-            <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-[#d4af37] group-hover:w-full transition-all duration-300"></span>
-          </a>
-          <a href="/novels/" class="hover:text-[#d4af37] transition-all duration-300 relative group">
-            Novels
-            <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-[#d4af37] group-hover:w-full transition-all duration-300"></span>
-          </a>
-          <a href="/about/" class="hover:text-[#d4af37] transition-all duration-300 relative group">
-            About
-            <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-[#d4af37] group-hover:w-full transition-all duration-300"></span>
-          </a>
+    <header class="border-b border-stone-200 bg-white">
+      <nav class="max-w-4xl mx-auto px-4 py-3 flex items-center gap-6 text-sm font-medium">
+        <a href="/" class="text-amber-800 font-semibold tracking-wide hover:text-amber-700">Sir Arthur Conan Doyle</a>
+        <div class="flex gap-5 text-stone-600">
+          <a href="/canon/" class="hover:text-stone-900">The Canon</a>
+          <a href="/novels/" class="hover:text-stone-900">Novels</a>
+          <a href="/about/" class="hover:text-stone-900">About</a>
         </div>
       </nav>
     </header>
@@ -43,13 +34,8 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
       <slot />
     </main>
 
-    <footer class="border-t-2 border-[#d4af37] bg-[#1a1410] text-center text-sm text-[#8b7355] py-8 mt-12">
-      <div class="max-w-4xl mx-auto px-4">
-        <div class="flex justify-center mb-6">
-          <div class="w-24 h-1 bg-gradient-to-r from-transparent via-[#d4af37] to-transparent"></div>
-        </div>
-        <p class="leading-relaxed">This is an unofficial fan site dedicated to Sir Arthur Conan Doyle and his works. This site is not affiliated with, endorsed by, or connected to the Arthur Conan Doyle Estate Ltd. All Sherlock Holmes stories, characters, and related elements are the intellectual property of the Arthur Conan Doyle Estate Ltd and/or their respective copyright holders. Content from the original works is used under fair use principles for commentary, criticism, research, and appreciation purposes only. All original content created for this fan site is the property of sirconandoyle.com. This website is maintained by a fan for fans and is intended for informational and entertainment purposes only.</p>
-      </div>
+    <footer class="border-t border-stone-200 text-center text-sm text-stone-500 py-6 mt-12">
+      <p>This is an unofficial fan site dedicated to Sir Arthur Conan Doyle and his works. This site is not affiliated with, endorsed by, or connected to the Arthur Conan Doyle Estate Ltd. All Sherlock Holmes stories, characters, and related elements are the intellectual property of the Arthur Conan Doyle Estate Ltd and/or their respective copyright holders. Content from the original works is used under fair use principles for commentary, criticism, research, and appreciation purposes only. All original content created for this fan site is the property of sirconandoyle.com. This website is maintained by a fan for fans and is intended for informational and entertainment purposes only.</p>
     </footer>
   </body>
 </html>
