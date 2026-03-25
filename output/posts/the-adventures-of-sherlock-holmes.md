@@ -1,0 +1,35 @@
+---
+title: "The Adventures of Sherlock Holmes"
+date: 2011-08-25
+categories: 
+  - "canon"
+  - "adventures"
+tags: 
+  - "adventures-2"
+  - "canon-2"
+  - "sherlock-holmes"
+coverImage: "Adventures_of_sherlock_holmes.jpg"
+---
+
+**The Adventures of Sherlock Holmes** is a collection of 12 stories by [Sir Arthur Conan Doyle](/oldsite/html/index.php) illustrated by [Sidney Paget](http://en.wikipedia.org/wiki/Sidney_Paget "Sidney Paget").
+
+They were originally published in the _[Strand Magazine](http://en.wikipedia.org/wiki/Strand_Magazine "Strand Magazine")_ from July 1891 to June 1892. The book was published on October 14, 1892 by George Newnes Ltd and on October 15 in a U.S. edition by Harper. The initial combined print run was 14,500 copies.
+
+**![The Adventures of Sherlock Holmes](images/Adventures_of_sherlock_holmes.jpg "The Adventures of Sherlock Holmes")**
+
+The 12 adventures are:
+
+1. [A Scandal in Bohemia](/a-scandal-in-bohemia/)
+2. [The Red-headed League](/the-red-headed-league/)
+3. [A Case of Mistaken Identity](/a-case-of-mistaken-identity/)
+4. [The Boscombe Valley Mystery](/the-boscombe-valley-mystery/)
+5. [The Five Orange Pips](/the-five-orange-pips/)
+6. [The Man with the Twisted Lip](/the-man-with-the-twisted-lips/)
+7. [The Adventure of the Blue Carbuncle](/the-adventure-of-the-blue-carbuncle/)
+8. [The Adventure of the Speckled Band](/the-adventure-of-the-speckled-band/)
+9. [The Adventure of the Engineer's Thumb](/the-adventure-of-the-engineers-thumb/)
+10. [The Adventure of the Noble Bachelor](/the-adventure-of-the-noble-bachelor/)
+11. [The Adventure of the Beryl Coronet](/the-adventure-of-the-beryl-coronet/)
+12. [The Adventure of the Copper Beeches](/the-adventure-of-the-copper-beeches/)
+
+\[Image source: [Wikipedia](http://en.wikipedia.org/wiki/File:Adventures_of_sherlock_holmes.jpg)\]

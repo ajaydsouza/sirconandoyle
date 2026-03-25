@@ -4,20 +4,23 @@
   --font-serif: "EB Garamond", Georgia, serif;
   --font-sans: system-ui, sans-serif;
 
-  --color-parchment-50: #faf8f3;
-  --color-parchment-100: #f4f0e6;
-  --color-ink-900: #1c1917;
-  --color-ink-700: #44403c;
-  --color-ink-500: #78716c;
-  --color-accent-700: #92400e;
-  --color-accent-600: #b45309;
+  /* Victorian/Steampunk Color Palette */
+  --color-dark-bg: #1a1410;
+  --color-dark-secondary: #2a241b;
+  --color-gold-primary: #d4af37;
+  --color-gold-secondary: #c9a961;
+  --color-cream: #e8dcc8;
+  --color-cream-dark: #d4c5a9;
+  --color-sepia: #8b7355;
+  --color-teal: #1a3a3a;
+  --color-deep-brown: #3d2817;
 }
 
 @layer base {
   html {
     font-family: var(--font-sans);
-    color: var(--color-ink-900);
-    background-color: var(--color-parchment-50);
+    color: var(--color-cream);
+    background-color: var(--color-dark-bg);
   }
 
   /* Reading typography for prose content */
@@ -25,17 +28,42 @@
     font-family: var(--font-serif);
     font-size: 1.125rem;
     line-height: 1.8;
-    color: var(--color-ink-900);
+    color: var(--color-cream);
+    letter-spacing: 0.5px;
   }
 
   .prose p { margin-bottom: 1.25em; }
-  .prose h1, .prose h2, .prose h3 { margin-top: 2em; margin-bottom: 0.5em; font-weight: 600; }
+  .prose h1, .prose h2, .prose h3 {
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+    font-weight: 600;
+    color: var(--color-gold-primary);
+    text-shadow: 0 2px 8px rgba(212, 175, 55, 0.3);
+  }
   .prose h2 { font-size: 1.35em; }
   .prose h3 { font-size: 1.15em; }
   .prose img { max-width: 100%; height: auto; margin: 1.5em auto; display: block; }
-  .prose a { color: var(--color-accent-700); text-decoration: underline; text-underline-offset: 3px; }
-  .prose a:hover { color: var(--color-accent-600); }
-  .prose blockquote { border-left: 3px solid var(--color-ink-500); padding-left: 1em; color: var(--color-ink-700); font-style: italic; margin: 1.5em 0; }
-  .prose hr { border: none; border-top: 1px solid var(--color-parchment-100); margin: 2.5em 0; }
-  .prose strong { font-weight: 600; }
+  .prose a {
+    color: var(--color-gold-primary);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    transition: all 300ms ease;
+  }
+  .prose a:hover {
+    color: var(--color-gold-secondary);
+    text-shadow: 0 0 12px rgba(212, 175, 55, 0.5);
+  }
+  .prose blockquote {
+    border-left: 3px solid var(--color-gold-primary);
+    padding-left: 1em;
+    color: var(--color-sepia);
+    font-style: italic;
+    margin: 1.5em 0;
+  }
+  .prose hr {
+    border: none;
+    border-top: 1px solid var(--color-gold-secondary);
+    margin: 2.5em 0;
+  }
+  .prose strong { font-weight: 600; color: var(--color-gold-primary); }
 }

@@ -6,19 +6,19 @@ interface Props {
 const { prev, next } = Astro.props;
 ---
 {(prev || next) && (
-  <nav aria-label="Chapter navigation" class="flex justify-between gap-4 mt-12 pt-6 border-t border-stone-200 text-sm">
+  <nav aria-label="Chapter navigation" class="flex justify-between gap-4 mt-12 pt-6 border-t border-[#c9a961] text-sm">
     <div class="flex-1">
       {prev && (
-        <a href={prev.href} class="group flex flex-col text-stone-600 hover:text-stone-900">
-          <span class="text-stone-400 text-xs mb-1">← Previous</span>
+        <a href={prev.href} class="group flex flex-col text-[#8b7355] hover:text-[#d4af37] transition-all duration-300">
+          <span class="text-[#c9a961] text-xs mb-1 group-hover:text-[#d4af37]">← Previous</span>
           <span class="group-hover:underline">{prev.title}</span>
         </a>
       )}
     </div>
     <div class="flex-1 text-right">
       {next && (
-        <a href={next.href} class="group flex flex-col items-end text-stone-600 hover:text-stone-900">
-          <span class="text-stone-400 text-xs mb-1">Next →</span>
+        <a href={next.href} class="group flex flex-col items-end text-[#8b7355] hover:text-[#d4af37] transition-all duration-300">
+          <span class="text-[#c9a961] text-xs mb-1 group-hover:text-[#d4af37]">Next →</span>
           <span class="group-hover:underline">{next.title}</span>
         </a>
       )}

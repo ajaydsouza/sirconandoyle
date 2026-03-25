@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "sirconandoyle",
+      "runtimeExecutable": "/Users/ajay/.nvm/versions/node/v24.14.0/bin/node",
+      "runtimeArgs": ["./node_modules/.bin/astro", "dev", "--host", "0.0.0.0"],
+      "port": 4321
+    }
+  ]
+}

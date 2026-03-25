@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/Users/ajay/.nvm/versions/node/v24.14.0/bin/npm create:*)",
+      "Bash(cp output/posts/images/* public/images/posts/)",
+      "Bash(cp output/pages/images/* public/images/pages/)",
+      "Bash(xargs -I{} head -15 {})",
+      "Bash(xargs -I{} head -12 {})",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(node -e \":*)"
+    ]
+  }
+}
