@@ -1,11 +1,21 @@
 ---
 import '../styles/global.css';
-import { GoogleFontsOptimizer } from 'astro-google-fonts-optimizer';
+
+// Local Font Imports (Fontsource)
+import '@fontsource/inter/400.css';
+import '@fontsource/inter/500.css';
+import '@fontsource/inter/600.css';
+import '@fontsource/cormorant-garamond/400.css';
+import '@fontsource/cormorant-garamond/600.css';
+import '@fontsource/cormorant-garamond/700.css';
+import '@fontsource/cormorant-garamond/400-italic.css';
+import '@fontsource/great-vibes';
 
 interface Props {
   title: string;
   description?: string;
 }
+
 const { title, description = 'The complete works of Sir Arthur Conan Doyle — Sherlock Holmes and beyond.' } = Astro.props;
 ---
 <!doctype html>
@@ -15,7 +25,6 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
     <title>{title} — Sir Arthur Conan Doyle</title>
-    <GoogleFontsOptimizer url="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Great+Vibes&family=Inter:wght@400;500;600&display=swap" />
     <slot name="head" />
   </head>
   <body class="min-h-screen flex flex-col bg-[#d4c5a9]" style="background-image: repeating-linear-gradient(90deg, transparent, transparent 2px, rgba(0,0,0,.03) 2px, rgba(0,0,0,.03) 4px), repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,.03) 2px, rgba(0,0,0,.03) 4px); background-size: 50px 50px;">
@@ -126,7 +135,7 @@ const { title, description = 'The complete works of Sir Arthur Conan Doyle — S
           <a href="/search/" class="hover:text-amber-700">Search</a>
           <a href="/privacy-policy/" class="hover:text-amber-700">Privacy Policy</a>
           <a href="/disclaimer/" class="hover:text-amber-700">Disclaimer</a>
-          <a href="/sitemap.xml" class="hover:text-amber-700">Sitemap</a>
+          <a href="/sitemap-index.xml" class="hover:text-amber-700">Sitemap</a>
         </nav>
         <p class="text-center text-xs leading-relaxed">This is an unofficial fan site dedicated to Sir Arthur Conan Doyle and his works. This site is not affiliated with, endorsed by, or connected to the Arthur Conan Doyle Estate Ltd. All Sherlock Holmes stories, characters, and related elements are the intellectual property of the Arthur Conan Doyle Estate Ltd and/or their respective copyright holders. Content from the original works is used under fair use principles for commentary, criticism, research, and appreciation purposes only. All original content created for this fan site is the property of sirconandoyle.com. This website is maintained by a fan for fans and is intended for informational and entertainment purposes only.</p>
       </div>
