@@ -1,5 +1,5 @@
 ---
-title: "The Valley of Fear – Part I – Chapter 6: A Dawning Light"
+title: "Part I – Chapter 6: A Dawning Light"
 date: 2012-11-09
 novel: "valley-of-fear"
 order: 7

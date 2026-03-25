@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles – Chapter 10: Extract from the Diary of Dr. Watson"
+title: "Chapter 10: Extract from the Diary of Dr. Watson"
 date: 2012-08-01
 novel: "hound-of-the-baskervilles"
 order: 10

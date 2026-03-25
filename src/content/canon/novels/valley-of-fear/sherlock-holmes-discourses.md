@@ -1,5 +1,5 @@
 ---
-title: "The Valley of Fear – Part I – Chapter 2: Sherlock Holmes Discourses"
+title: "Part I – Chapter 2: Sherlock Holmes Discourses"
 date: 2012-10-24
 novel: "valley-of-fear"
 order: 3

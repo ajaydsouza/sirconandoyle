@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles – Chapter 8: First Report of Dr. Watson"
+title: "Chapter 8: First Report of Dr. Watson"
 date: 2012-07-24
 novel: "hound-of-the-baskervilles"
 order: 8

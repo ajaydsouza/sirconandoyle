@@ -1,5 +1,5 @@
 ---
-title: "The Valley of Fear – Part I – Chapter 5: The People of the Drama"
+title: "Part I – Chapter 5: The People of the Drama"
 date: 2012-11-05
 novel: "valley-of-fear"
 order: 6

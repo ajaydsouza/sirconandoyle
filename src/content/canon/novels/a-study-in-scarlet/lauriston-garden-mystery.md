@@ -1,5 +1,5 @@
 ---
-title: "A Study in Scarlet – Part I – Chapter 3: The Lauriston Garden Mystery"
+title: "Part I – Chapter 3: The Lauriston Garden Mystery"
 date: 2012-09-02
 novel: "a-study-in-scarlet"
 order: 4

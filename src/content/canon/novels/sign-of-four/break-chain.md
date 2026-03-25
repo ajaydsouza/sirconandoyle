@@ -1,5 +1,5 @@
 ---
-title: "The Sign of Four - Chapter 9: Break in the Chain"
+title: "Chapter 9: Break in the Chain"
 date: 2013-01-16
 novel: "sign-of-four"
 order: 10

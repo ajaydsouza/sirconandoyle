@@ -1,5 +1,5 @@
 ---
-title: "The Sign of Four - Chapter 2: The Statement of the Case"
+title: "Chapter 2: The Statement of the Case"
 date: 2012-12-19
 novel: "sign-of-four"
 order: 3

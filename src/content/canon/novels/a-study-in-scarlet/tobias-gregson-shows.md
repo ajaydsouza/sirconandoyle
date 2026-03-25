@@ -1,5 +1,5 @@
 ---
-title: "A Study in Scarlet – Part I – Chapter 6: Tobias Gregson shows what he can do"
+title: "Part I – Chapter 6: Tobias Gregson shows what he can do"
 date: 2012-09-14
 novel: "a-study-in-scarlet"
 order: 7

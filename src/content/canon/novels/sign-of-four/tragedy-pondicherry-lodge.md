@@ -1,5 +1,5 @@
 ---
-title: "The Sign of Four - Chapter 5: The Tragedy of Pondicherry Lodge"
+title: "Chapter 5: The Tragedy of Pondicherry Lodge"
 date: 2012-12-31
 novel: "sign-of-four"
 order: 6

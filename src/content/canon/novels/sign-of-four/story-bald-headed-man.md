@@ -1,5 +1,5 @@
 ---
-title: "The Sign of Four - Chapter 4: The Story of the Bald-headed Man"
+title: "Chapter 4: The Story of the Bald-headed Man"
 date: 2012-12-27
 novel: "sign-of-four"
 order: 5

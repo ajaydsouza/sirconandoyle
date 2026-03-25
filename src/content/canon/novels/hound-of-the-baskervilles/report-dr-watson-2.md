@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles – Chapter 9: Second Report of Dr. Watson"
+title: "Chapter 9: Second Report of Dr. Watson"
 date: 2012-07-28
 novel: "hound-of-the-baskervilles"
 order: 9

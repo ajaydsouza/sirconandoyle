@@ -1,5 +1,5 @@
 ---
-title: "The Valley of Fear – Part II – Chapter 7: The Trapping of Birdy Edwards"
+title: "Part II – Chapter 7: The Trapping of Birdy Edwards"
 date: 2012-12-11
 novel: "valley-of-fear"
 order: 15

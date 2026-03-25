@@ -1,5 +1,5 @@
 ---
-title: "A Study in Scarlet – Part II – Chapter 2: The Flower of Utah"
+title: "Part II – Chapter 2: The Flower of Utah"
 date: 2012-09-26
 novel: "a-study-in-scarlet"
 order: 10

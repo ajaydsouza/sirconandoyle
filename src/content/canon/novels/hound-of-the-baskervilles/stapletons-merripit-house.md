@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles – Chapter 7: The Stapletons of Merripit House"
+title: "Chapter 7: The Stapletons of Merripit House"
 date: 2012-07-19
 novel: "hound-of-the-baskervilles"
 order: 7

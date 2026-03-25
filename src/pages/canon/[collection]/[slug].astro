@@ -17,21 +17,25 @@ export async function getStaticPaths() {
   const allEntries = await getCollection('canon', e => !e.id.startsWith('novels/'));
 
   const paths = [];
-  for (const collection of Object.keys(LABELS)) {
-    const entries = allEntries
+  for (const [collection, label] of Object.entries(LABELS)) {
+    const allInCollection = allEntries
       .filter(e => e.data.collection === collection)
       .sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
 
-    for (let i = 0; i < entries.length; i++) {
-      const entry = entries[i];
+    // Stories only (exclude the overview post whose title === collection label) — used for prev/next
+    const stories = allInCollection.filter(e => e.data.title !== label);
+
+    for (const entry of allInCollection) {
       const slug = entry.id.split('/').pop()!;
+      const storyIndex = stories.indexOf(entry);
       paths.push({
         params: { collection, slug },
         props: {
           entry,
-          collectionLabel: LABELS[collection],
-          prev: i > 0 ? { title: entries[i - 1].data.title, href: `/canon/${collection}/${entries[i - 1].id.split('/').pop()}/` } : null,
-          next: i < entries.length - 1 ? { title: entries[i + 1].data.title, href: `/canon/${collection}/${entries[i + 1].id.split('/').pop()}/` } : null,
+          collectionLabel: label,
+          // Overview post has storyIndex -1 — no prev/next
+          prev: storyIndex > 0 ? { title: stories[storyIndex - 1].data.title, href: `/canon/${collection}/${stories[storyIndex - 1].id.split('/').pop()}/` } : null,
+          next: storyIndex >= 0 && storyIndex < stories.length - 1 ? { title: stories[storyIndex + 1].data.title, href: `/canon/${collection}/${stories[storyIndex + 1].id.split('/').pop()}/` } : null,
         },
       });
     }

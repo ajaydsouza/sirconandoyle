@@ -1,5 +1,5 @@
 ---
-title: "The Valley of Fear – Part II – Chapter 3: Lodge 341, Vermissa"
+title: "Part II – Chapter 3: Lodge 341, Vermissa"
 date: 2012-11-25
 novel: "valley-of-fear"
 order: 11

@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles – Chapter 11: The Man on the Tor"
+title: "Chapter 11: The Man on the Tor"
 date: 2012-08-05
 novel: "hound-of-the-baskervilles"
 order: 11

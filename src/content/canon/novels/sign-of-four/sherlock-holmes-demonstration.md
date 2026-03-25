@@ -1,5 +1,5 @@
 ---
-title: "The Sign of Four - Chapter 6: Sherlock Holmes gives a Demonstration"
+title: "Chapter 6: Sherlock Holmes gives a Demonstration"
 date: 2013-01-04
 novel: "sign-of-four"
 order: 7

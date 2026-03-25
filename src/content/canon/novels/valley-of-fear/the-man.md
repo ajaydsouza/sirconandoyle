@@ -1,5 +1,5 @@
 ---
-title: "The Valley of Fear – Part II – Chapter 1: The Man"
+title: "Part II – Chapter 1: The Man"
 date: 2012-11-17
 novel: "valley-of-fear"
 order: 9

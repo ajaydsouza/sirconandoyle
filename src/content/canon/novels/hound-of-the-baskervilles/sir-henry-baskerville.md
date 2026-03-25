@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles – Chapter 4: Sir Henry Baskerville"
+title: "Chapter 4: Sir Henry Baskerville"
 date: 2012-07-07
 novel: "hound-of-the-baskervilles"
 order: 4

@@ -1,5 +1,5 @@
 ---
-title: "A Study in Scarlet – Part I – Chapter 7: Light in the Darkness"
+title: "Part I – Chapter 7: Light in the Darkness"
 date: 2012-09-18
 novel: "a-study-in-scarlet"
 order: 8

@@ -1,5 +1,5 @@
 ---
-title: "A Study in Scarlet – Part I – Chapter 4: What John Rance had to tell"
+title: "Part I – Chapter 4: What John Rance had to tell"
 date: 2012-09-06
 novel: "a-study-in-scarlet"
 order: 5

@@ -1,5 +1,5 @@
 ---
-title: "The Sign of Four - Chapter 3: In Quest of a Solution"
+title: "Chapter 3: In Quest of a Solution"
 date: 2012-12-23
 novel: "sign-of-four"
 order: 4

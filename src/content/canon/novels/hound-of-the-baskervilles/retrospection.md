@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles – Chapter 15: A Retrospection"
+title: "Chapter 15: A Retrospection"
 date: 2012-08-21
 novel: "hound-of-the-baskervilles"
 order: 15

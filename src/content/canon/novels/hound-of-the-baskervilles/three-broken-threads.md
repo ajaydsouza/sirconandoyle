@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles – Chapter 5: Three Broken Threads"
+title: "Chapter 5: Three Broken Threads"
 date: 2012-07-11
 novel: "hound-of-the-baskervilles"
 order: 5

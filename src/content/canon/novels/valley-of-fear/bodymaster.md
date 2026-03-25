@@ -1,5 +1,5 @@
 ---
-title: "The Valley of Fear – Part II – Chapter 2: The Bodymaster"
+title: "Part II – Chapter 2: The Bodymaster"
 date: 2012-11-21
 novel: "valley-of-fear"
 order: 10

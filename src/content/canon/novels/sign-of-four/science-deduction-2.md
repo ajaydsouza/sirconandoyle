@@ -1,5 +1,5 @@
 ---
-title: "The Sign of Four - Chapter 1: The Science of Deduction"
+title: "Chapter 1: The Science of Deduction"
 date: 2012-12-15
 novel: "sign-of-four"
 order: 2

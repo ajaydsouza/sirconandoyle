@@ -1,5 +1,5 @@
 ---
-title: "The Valley of Fear – Part I – Chapter 1: The Warning"
+title: "Part I – Chapter 1: The Warning"
 date: 2012-10-20
 novel: "valley-of-fear"
 order: 2

@@ -1,5 +1,5 @@
 ---
-title: "The Valley of Fear – Part II – Chapter 5: The Darkest Hour"
+title: "Part II – Chapter 5: The Darkest Hour"
 date: 2012-12-03
 novel: "valley-of-fear"
 order: 13

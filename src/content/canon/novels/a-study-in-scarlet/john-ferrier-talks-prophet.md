@@ -1,5 +1,5 @@
 ---
-title: "A Study in Scarlet – Part II – Chapter 3: John Ferrier talks with the Prophet"
+title: "Part II – Chapter 3: John Ferrier talks with the Prophet"
 date: 2012-09-30
 novel: "a-study-in-scarlet"
 order: 11

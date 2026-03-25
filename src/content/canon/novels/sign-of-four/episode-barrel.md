@@ -1,5 +1,5 @@
 ---
-title: "The Sign of Four - Chapter 7: The Episode of the Barrel"
+title: "Chapter 7: The Episode of the Barrel"
 date: 2013-01-08
 novel: "sign-of-four"
 order: 8

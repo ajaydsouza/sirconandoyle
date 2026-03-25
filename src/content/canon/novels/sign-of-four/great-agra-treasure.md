@@ -1,5 +1,5 @@
 ---
-title: "The Sign of Four - Chapter 11: The Great Agra Treasure"
+title: "Chapter 11: The Great Agra Treasure"
 date: 2013-01-24
 novel: "sign-of-four"
 order: 12

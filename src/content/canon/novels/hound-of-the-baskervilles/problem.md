@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles – Chapter 3: The Problem"
+title: "Chapter 3: The Problem"
 date: 2012-07-03
 novel: "hound-of-the-baskervilles"
 order: 3

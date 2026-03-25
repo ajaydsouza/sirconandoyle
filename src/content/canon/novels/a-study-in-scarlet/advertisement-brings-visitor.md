@@ -1,5 +1,5 @@
 ---
-title: "A Study in Scarlet – Part I – Chapter 5: Our Advertisement brings a visitor"
+title: "Part I – Chapter 5: Our Advertisement brings a visitor"
 date: 2012-09-10
 novel: "a-study-in-scarlet"
 order: 6

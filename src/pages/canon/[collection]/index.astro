@@ -27,10 +27,8 @@ export async function getStaticPaths() {
 const { collection } = Astro.params;
 const { entries, label } = Astro.props;
 
-// The first entry by order is typically the collection index post; remaining are stories.
-// We split: the "index" post is the one whose title matches the collection name (order=1, usually a TOC).
-const stories = entries.filter(e => !/^(the\s+)?(adventures|memoirs|return|case|last bow|his last bow)/i.test(e.data.title ?? ''));
-const indexEntry = entries.find(e => /^(the\s+)?(adventures|memoirs|return|case|last bow|his last bow)/i.test(e.data.title ?? ''));
+// Filter out the collection-overview post (its title equals the collection label)
+const stories = entries.filter(e => e.data.title !== label);
 ---
 <Base title={label}>
   <div class="max-w-3xl mx-auto px-4 py-10">
@@ -40,16 +38,10 @@ const indexEntry = entries.find(e => /^(the\s+)?(adventures|memoirs|return|case|
       { label: label },
     ]} />
 
-    <h1 class="font-serif text-3xl font-semibold text-stone-900 mb-6">{label}</h1>
-
-    {indexEntry && (
-      <div class="prose max-w-none mb-8 text-stone-600 text-base border-b border-stone-200 pb-6">
-        <p>{indexEntry.data.title}</p>
-      </div>
-    )}
+    <h1 class="font-serif text-3xl font-semibold text-stone-900 mb-8">{label}</h1>
 
     <ol class="space-y-1">
-      {(stories.length ? stories : entries).map((entry, i) => {
+      {stories.map((entry, i) => {
         const slug = entry.id.split('/').pop();
         return (
           <li>

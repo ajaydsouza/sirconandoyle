@@ -1,5 +1,5 @@
 ---
-title: "A Study in Scarlet – Part II – Chapter 4: A Flight of Life"
+title: "Part II – Chapter 4: A Flight of Life"
 date: 2012-10-04
 novel: "a-study-in-scarlet"
 order: 12

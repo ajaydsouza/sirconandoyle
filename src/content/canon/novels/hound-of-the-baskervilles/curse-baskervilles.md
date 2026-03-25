@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles – Chapter 2: The  Curse of Baskervilles"
+title: "Chapter 2: The  Curse of Baskervilles"
 date: 2012-06-29
 novel: "hound-of-the-baskervilles"
 order: 2

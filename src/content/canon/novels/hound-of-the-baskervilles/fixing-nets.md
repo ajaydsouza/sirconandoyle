@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles – Chapter 13: Fixing the Nets"
+title: "Chapter 13: Fixing the Nets"
 date: 2012-08-13
 novel: "hound-of-the-baskervilles"
 order: 13

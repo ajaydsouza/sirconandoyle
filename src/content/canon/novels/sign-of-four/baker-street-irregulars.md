@@ -1,5 +1,5 @@
 ---
-title: "The Sign of Four - Chapter 8: The Baker Street Irregulars"
+title: "Chapter 8: The Baker Street Irregulars"
 date: 2013-01-12
 novel: "sign-of-four"
 order: 9

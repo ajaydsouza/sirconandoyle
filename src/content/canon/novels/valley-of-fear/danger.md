@@ -1,5 +1,5 @@
 ---
-title: "The Valley of Fear – Part II – Chapter 6: Danger"
+title: "Part II – Chapter 6: Danger"
 date: 2012-12-07
 novel: "valley-of-fear"
 order: 14

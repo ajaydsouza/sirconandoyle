@@ -1,5 +1,5 @@
 ---
-title: "A Study in Scarlet – Part II – Chapter 1: On the Great Alkali Plain"
+title: "Part II – Chapter 1: On the Great Alkali Plain"
 date: 2012-09-22
 novel: "a-study-in-scarlet"
 order: 9

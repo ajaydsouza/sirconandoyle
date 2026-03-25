@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles - Chapter 1: Mr. Sherlock Holmes"
+title: "Chapter 1: Mr. Sherlock Holmes"
 date: 2012-06-25
 novel: "hound-of-the-baskervilles"
 order: 1

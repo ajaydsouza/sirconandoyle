@@ -1,5 +1,5 @@
 ---
-title: "The Sign of Four - Chapter 12: The Strange Story of Jonathan Small"
+title: "Chapter 12: The Strange Story of Jonathan Small"
 date: 2013-01-28
 novel: "sign-of-four"
 order: 13

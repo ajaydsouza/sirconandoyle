@@ -1,5 +1,5 @@
 ---
-title: "A Study in Scarlet – Part II – Chapter 7: The Conclusion"
+title: "Part II – Chapter 7: The Conclusion"
 date: 2012-10-16
 novel: "a-study-in-scarlet"
 order: 15

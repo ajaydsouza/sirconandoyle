@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles – Chapter 12: Death on the Moor"
+title: "Chapter 12: Death on the Moor"
 date: 2012-08-09
 novel: "hound-of-the-baskervilles"
 order: 12

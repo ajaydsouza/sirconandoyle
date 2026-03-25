@@ -1,5 +1,5 @@
 ---
-title: "A Study in Scarlet - Part I - Chapter 1: Mr. Sherlock Holmes"
+title: "Part I - Chapter 1: Mr. Sherlock Holmes"
 date: 2012-08-25
 novel: "a-study-in-scarlet"
 order: 2

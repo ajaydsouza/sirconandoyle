@@ -1,5 +1,5 @@
 ---
-title: "The Valley of Fear – Part II – Chapter 4: The Valley of Fear"
+title: "Part II – Chapter 4: The Valley of Fear"
 date: 2012-11-29
 novel: "valley-of-fear"
 order: 12

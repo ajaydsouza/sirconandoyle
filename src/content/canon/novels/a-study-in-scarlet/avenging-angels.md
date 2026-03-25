@@ -1,5 +1,5 @@
 ---
-title: "A Study in Scarlet – Part II – Chapter 5: The Avenging Angels"
+title: "Part II – Chapter 5: The Avenging Angels"
 date: 2012-10-08
 novel: "a-study-in-scarlet"
 order: 13

@@ -1,5 +1,5 @@
 ---
-title: "A Study in Scarlet – Part I – Chapter 2: The Science of Deduction"
+title: "Part I – Chapter 2: The Science of Deduction"
 date: 2012-08-29
 novel: "a-study-in-scarlet"
 order: 3

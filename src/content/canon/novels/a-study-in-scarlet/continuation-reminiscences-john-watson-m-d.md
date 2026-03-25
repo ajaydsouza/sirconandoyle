@@ -1,5 +1,5 @@
 ---
-title: "A Study in Scarlet – Part II – Chapter 6: A Continuation of the Reminiscences of John Watson, M.D."
+title: "Part II – Chapter 6: A Continuation of the Reminiscences of John Watson, M.D."
 date: 2012-10-12
 novel: "a-study-in-scarlet"
 order: 14

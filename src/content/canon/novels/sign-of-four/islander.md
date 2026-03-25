@@ -1,5 +1,5 @@
 ---
-title: "The Sign of Four - Chapter 10: The End of the Islander"
+title: "Chapter 10: The End of the Islander"
 date: 2013-01-20
 novel: "sign-of-four"
 order: 11

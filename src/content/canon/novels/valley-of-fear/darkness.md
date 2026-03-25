@@ -1,5 +1,5 @@
 ---
-title: "The Valley of Fear – Part I – Chapter 4: Darkness"
+title: "Part I – Chapter 4: Darkness"
 date: 2012-11-01
 novel: "valley-of-fear"
 order: 5

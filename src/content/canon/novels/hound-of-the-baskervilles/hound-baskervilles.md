@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles – Chapter 14: The Hound of the Baskervilles"
+title: "Chapter 14: The Hound of the Baskervilles"
 date: 2012-08-17
 novel: "hound-of-the-baskervilles"
 order: 14

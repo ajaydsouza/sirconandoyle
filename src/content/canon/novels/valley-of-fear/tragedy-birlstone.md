@@ -1,5 +1,5 @@
 ---
-title: "The Valley of Fear – Part I – Chapter 3: The Tragedy of Birlstone"
+title: "Part I – Chapter 3: The Tragedy of Birlstone"
 date: 2012-10-28
 novel: "valley-of-fear"
 order: 4

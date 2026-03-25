@@ -1,5 +1,5 @@
 ---
-title: "The Hound of the Baskervilles – Chapter 6: Baskerville Hall"
+title: "Chapter 6: Baskerville Hall"
 date: 2012-07-15
 novel: "hound-of-the-baskervilles"
 order: 6

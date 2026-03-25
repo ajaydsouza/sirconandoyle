@@ -1,5 +1,5 @@
 ---
-title: "The Valley of Fear – Part I – Chapter 7: The Solution"
+title: "Part I – Chapter 7: The Solution"
 date: 2012-11-13
 novel: "valley-of-fear"
 order: 8
