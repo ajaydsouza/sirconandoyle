@@ -3,7 +3,7 @@ title: "Disclaimer and Terms of Service"
 date: 2011-08-25
 ---
 
-This Disclaimer and Terms of Service is applicable to Sir Arthur Conan Doyle - His Life, All His Works and More ([http://sirconandoyle.com](/))
+This Disclaimer and Terms of Service is applicable to Sir Arthur Conan Doyle - His Life, All His Works and More ([https://sirconandoyle.com](/))
 
 The terms "we" ,"us", "I" ,"me" refer to all the sites belonging to 'Sir Arthur Conan Doyle - His Life, All His Works and More' and the terms "you" or "your" means any person or entity using these Websites ("Users"). Here onwards, a 'Sir Arthur Conan Doyle - His Life, All His Works and More' will be referred as SACD.
 
@@ -11,7 +11,7 @@ BY USING THIS WEB SITE, YOU INDICATE YOUR AGREEMENT WITH THESE TERMS AND CONDITI
 
 ## Acceptance of terms
 
-SACD provides its website services to you, subject to the following Terms of Service ("Terms of Service"), which may be updated by us from time to time without notice to you. You can review the most current version of the Terms of Service at [http://sirconandoyle.com/disclaimer](http://sirconandoyle.com/disclaimer). In addition, when using particular SACD services, you and SACD will be subject to any posted guidelines or rules applicable to such services which may be posted from time to time. All such guidelines or rules are hereby incorporated by reference into the Terms of Service. You are responsible for regularly reviewing these terms and conditions.
+SACD provides its website services to you, subject to the following Terms of Service ("Terms of Service"), which may be updated by us from time to time without notice to you. You can review the most current version of the Terms of Service at [https://sirconandoyle.com/disclaimer](https://sirconandoyle.com/disclaimer). In addition, when using particular SACD services, you and SACD will be subject to any posted guidelines or rules applicable to such services which may be posted from time to time. All such guidelines or rules are hereby incorporated by reference into the Terms of Service. You are responsible for regularly reviewing these terms and conditions.
 
 ## To The Guys Who Keep Shutting Down Fan Sites
 
