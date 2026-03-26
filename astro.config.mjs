@@ -1,7 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-import cloudflare from '@astrojs/cloudflare';
+// import cloudflare from '@astrojs/cloudflare';
 import sitemap from '@astrojs/sitemap';
 import pagefind from 'astro-pagefind';
 import tailwindcss from '@tailwindcss/vite';
@@ -11,7 +11,7 @@ export default defineConfig({
   site: 'https://ajay.social',
   base: '/sirconandoyle/',
   output: 'static',
-  adapter: cloudflare(),
+  // adapter: cloudflare(),
 
   integrations: [
     sitemap(),
