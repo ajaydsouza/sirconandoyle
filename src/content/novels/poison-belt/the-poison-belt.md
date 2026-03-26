@@ -17,9 +17,9 @@ The Poison Belt was the second story, a novella, that Sir Arthur Conan Doyle wro
 
 ## TABLE OF CONTENTS
 
-1. [THE BLURRING OF LINES](/sirconandoyle/novels/poison-belt/the-blurring-of-lines/)
-2. [THE TIDE OF DEATH](/sirconandoyle/novels/poison-belt/tide-of-death/)
-3. [SUBMERGED](/sirconandoyle/novels/poison-belt/poison-belt-submerged/)
-4. [A DIARY OF THE DYING](/sirconandoyle/novels/poison-belt/poisen-belt-diary-dying/)
-5. [THE DEAD WORLD](/sirconandoyle/novels/poison-belt/poison-belt-dead-world/)
-6. [THE GREAT AWAKENING](/sirconandoyle/novels/poison-belt/poison-belt-great-awakening/)
+1. [THE BLURRING OF LINES](/novels/poison-belt/the-blurring-of-lines/)
+2. [THE TIDE OF DEATH](/novels/poison-belt/tide-of-death/)
+3. [SUBMERGED](/novels/poison-belt/poison-belt-submerged/)
+4. [A DIARY OF THE DYING](/novels/poison-belt/poisen-belt-diary-dying/)
+5. [THE DEAD WORLD](/novels/poison-belt/poison-belt-dead-world/)
+6. [THE GREAT AWAKENING](/novels/poison-belt/poison-belt-great-awakening/)

@@ -9,7 +9,7 @@ tags:
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/sirconandoyle/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 So far I have been able to quote from the reports which I have forwarded during these early days to Sherlock Holmes. Now, however, I have arrived at a point in my narrative where I am compelled to abandon this method and to trust once more to my recollections, aided by the diary which I kept at the time. A few extracts from the latter will carry me on to those scenes which are indelibly fixed in every detail upon my memory. I proceed, then, from the morning which followed our abortive chase of the convict and our other strange experiences upon the moor.
 

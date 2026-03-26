@@ -8,7 +8,7 @@ tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/sirconandoyle/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 "What now?" I asked. "Toby has lost his character for infallibility. "
 

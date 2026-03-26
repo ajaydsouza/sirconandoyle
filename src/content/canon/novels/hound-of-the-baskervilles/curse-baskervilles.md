@@ -9,7 +9,7 @@ tags:
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/sirconandoyle/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 "I have in my pocket a manuscript," said Dr. James Mortimer.
 

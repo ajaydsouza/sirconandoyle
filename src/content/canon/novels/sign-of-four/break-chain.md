@@ -8,7 +8,7 @@ tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/sirconandoyle/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 It was late in the afternoon before I woke, strengthened and refreshed. Sherlock Holmes still sat exactly as I had left him save that he had laid aside his violin and was deep in a book. He looked across at me as I stirred, and I noticed that his face was dark and troubled.
 

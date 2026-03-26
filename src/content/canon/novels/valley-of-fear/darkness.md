@@ -9,7 +9,7 @@ tags:
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/sirconandoyle/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 At three in the morning the chief Sussex detective, obeying the urgent call from Sergeant Wilson of Birlstone, arrived from headquarters in a light dog-cart behind a breathless trotter. By the five-forty train in the morning he had sent his message to Scotland Yard, and he was at the Birlstone station at twelve o'clock to welcome us. White Mason was a quiet, comfortable-looking person in a loose tweed suit, with a clean-shaved, ruddy face, a stoutish body, and powerful bandy legs adorned with gaiters, looking like a small farmer, a retired gamekeeper, or anything upon earth except a very favourable specimen of the provincial criminal officer.
 

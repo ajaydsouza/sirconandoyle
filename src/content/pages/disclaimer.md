@@ -3,7 +3,7 @@ title: "Disclaimer and Terms of Service"
 date: 2011-08-25
 ---
 
-This Disclaimer and Terms of Service is applicable to Sir Arthur Conan Doyle - His Life, All His Works and More ([http://sirconandoyle.com](/sirconandoyle/))
+This Disclaimer and Terms of Service is applicable to Sir Arthur Conan Doyle - His Life, All His Works and More ([http://sirconandoyle.com](/))
 
 The terms "we" ,"us", "I" ,"me" refer to all the sites belonging to 'Sir Arthur Conan Doyle - His Life, All His Works and More' and the terms "you" or "your" means any person or entity using these Websites ("Users"). Here onwards, a 'Sir Arthur Conan Doyle - His Life, All His Works and More' will be referred as SACD.
 
@@ -79,4 +79,4 @@ You also may be subject to additional terms and conditions that may apply when y
 
 ## How to contact me
 
-Should you have other questions or concerns about the Disclaimer and Terms of Service, please [email us](/sirconandoyle/contact/).
+Should you have other questions or concerns about the Disclaimer and Terms of Service, please [email us](/contact/).

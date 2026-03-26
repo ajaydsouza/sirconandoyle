@@ -8,7 +8,7 @@ tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/sirconandoyle/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 A very patient man was that inspector in the cab, for it was a weary time before I rejoined him. His face clouded over when I showed him the empty box.
 

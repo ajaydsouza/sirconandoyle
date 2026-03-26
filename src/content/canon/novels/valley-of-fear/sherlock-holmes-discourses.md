@@ -9,7 +9,7 @@ tags:
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/sirconandoyle/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 It was one of those dramatic moments for which my friend existed. It would be an overstatement to say that he was shocked or even excited by the amazing announcement. Without having a tinge of cruelty in his singular composition, he was undoubtedly callous from long overstimulation. Yet, if his emotions were dulled, his intellectual perceptions were exceedingly active. There was no trace then of the horror which I had myself felt at this curt declaration; but his face showed rather the quiet and interested composure of the chemist who sees the crystals falling into position from his over-saturated solution.
 

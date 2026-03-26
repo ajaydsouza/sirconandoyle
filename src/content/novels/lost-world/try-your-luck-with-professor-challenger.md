@@ -8,7 +8,7 @@ tags:
   - "lost-world"
 ---
 
-[![The Lost World by Sir Arthur Conan Doyle](../../../assets/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/sirconandoyle/the-lost-world/)
+[![The Lost World by Sir Arthur Conan Doyle](../../../assets/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/the-lost-world/)
 
 I always liked McArdle, the crabbed, old, round-backed, red-headed news editor, and I rather hoped that he liked me. Of course, Beaumont was the real boss; but he lived in the rarefied atmosphere of some Olympian height from which he could distinguish nothing smaller than an international crisis or a split in the Cabinet. Sometimes we saw him passing in lonely majesty to his inner sanctum, with his eyes staring vaguely and his mind hovering over the Balkans or the Persian Gulf. He was above and beyond us. But McArdle was his first lieutenant, and it was he that we knew. The old man nodded as I entered the room, and he pushed his spectacles far up on his bald forehead.
 

@@ -9,7 +9,7 @@ tags:
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/sirconandoyle/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 Our prisoner's furious resistance did not apparently indicate any ferocity in his disposition towards ourselves, for on finding himself powerless, he smiled in an affable manner, and expressed his hopes that he had not hurt any of us in the scuffle. "I guess you're going to take me to the police-station," he remarked to Sherlock Holmes "My cab's at the door. If you'll loose my legs I'll walk down to it. I'm not so light to lift as I used to be."
 

@@ -78,6 +78,13 @@ walkDir(path.join(CONTENT_DIR, 'pages'), (filePath) => {
   // However, WordPress %postname% urls were /slug/ and Astro is /slug/ by default.
 });
 
+// Extract slugs already covered by manual redirects to avoid duplicates
+const manualSlugs = new Set(
+  manualRedirects
+    .filter(line => line.startsWith('/'))
+    .map(line => line.trim().split(/\s+/)[0].replace(/^\/|\/$/g, ''))
+);
+
 // Generate the file content
 const lines = [
   '# sirconandoyle.com redirects — generated on ' + new Date().toISOString(),
@@ -88,10 +95,9 @@ const lines = [
 // Add automated redirects, avoiding duplicates and no-ops
 for (const [slug, newPath] of redirects) {
   const oldPath = `/${slug}/`;
-  // Avoid no-ops and ensure 301
-  if (oldPath !== newPath) {
-    lines.push(`${oldPath.padEnd(40)} ${newPath.padEnd(50)} 301`);
-  }
+  // Skip if already covered by a manual redirect or if it's a no-op
+  if (manualSlugs.has(slug) || oldPath === newPath) continue;
+  lines.push(`${oldPath.padEnd(40)} ${newPath.padEnd(50)} 301`);
 }
 
 fs.writeFileSync(REDIRECTS_FILE, lines.join('\n') + '\n');

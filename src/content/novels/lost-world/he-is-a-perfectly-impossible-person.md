@@ -7,7 +7,7 @@ tags:
   - "lost-world"
 ---
 
-[![The Lost World by Sir Arthur Conan Doyle](../../../assets/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/sirconandoyle/the-lost-world/)
+[![The Lost World by Sir Arthur Conan Doyle](../../../assets/images/posts/The-Lost-World.jpg "The Lost World by Sir Arthur Conan Doyle")](/the-lost-world/)
 
 My friend's fear or hope was not destined to be realized. When I called on Wednesday there was a letter with the West Kensington postmark upon it, and my name scrawled across the envelope in a handwriting which looked like a barbed-wire railing. The contents were as follows:--
 

@@ -8,7 +8,7 @@ tags:
   - "sign-of-four"
 ---
 
-[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/sirconandoyle/canon/novels/sign-of-four/the-sign-of-four/)
+[![The Sign Of The Four](../../../../assets/images/posts/TheSignOfTheFour.jpg)](/canon/novels/sign-of-four/the-sign-of-four/)
 
 Miss Morstan entered the room with a firm step and an outward composure of manner. She was a blonde young lady, small, dainty, well gloved, and dressed in the most perfect taste. There was, however, a plainness and simplicity about her costume which bore with it a suggestion of limited means. The dress was a sombre grayish beige, untrimmed and unbraided, and she wore a small turban of the same dull hue, relieved only by a suspicion of white feather in the side. Her face had neither regularity of feature nor beauty of complexion, but her expression was sweet and amiable, and her large blue eyes were singularly spiritual and sympathetic. In an experience of women which extends over many nations and three separate continents, I have never looked upon a face which gave a clearer promise of a refined and sensitive nature. I could not but observe that as she took the seat which Sherlock Holmes placed for her, her lip trembled, her hand quivered, and she showed every sign of intense inward agitation.
 

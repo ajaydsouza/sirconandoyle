@@ -9,7 +9,7 @@ tags:
   - "sherlock-holmes"
 ---
 
-[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/sirconandoyle/canon/novels/hound-of-the-baskervilles/)
+[![The Hound of Baskervilles](../../../../assets/images/posts/hound.jpg "The Hound of Baskervilles")](/canon/novels/hound-of-the-baskervilles/)
 
 For a moment or two I sat breathless, hardly able to believe my ears. Then my senses and my voice came back to me, while a crushing weight of responsibility seemed in an instant to be lifted from my soul. That cold, incisive, ironical voice could belong to but one man in all the world.
 

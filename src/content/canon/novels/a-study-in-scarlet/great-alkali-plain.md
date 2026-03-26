@@ -9,7 +9,7 @@ tags:
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/sirconandoyle/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 In the central portion of the great North American Continent there lies an arid and repulsive desert, which for many a long year served as a barrier against the advance of civilization. From the Sierra Nevada to Nebraska, and from the Yellowstone River in the north to the Colorado upon the south, is a region of desolation and silence. Nor is Nature always in one mood throughout this grim district. It comprises snow-capped and lofty mountains, and dark and gloomy valleys. There are swift-flowing rivers which dash through jagged canons; and there are enormous plains, which in winter are white with snow, and in summer are gray with the saline alkali dust. They all preserve, however, the common characteristics of barrenness, inhospitality, and misery. There are no inhabitants of this land of despair. A band of Pawnees or of Blackfeet may occasionally traverse it in order to reach other hunting-grounds, but the hardiest of the braves are glad to lose sight of those awesome plains, and to find themselves once more upon their prairies. The coyote skulks among the scrub, the buzzard flaps heavily through the air, and the clumsy grizzly bear lumbers through the dark ravines, and picks up such sustenance as it can amongst the rocks. These are the sole dwellers in the wilderness.
 

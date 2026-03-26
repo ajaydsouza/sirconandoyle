@@ -9,7 +9,7 @@ tags:
   - "study-in-scarlet"
 ---
 
-[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/sirconandoyle/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
+[![A Study in Scarlet](../../../../assets/images/posts/scarlet1.jpg "A Study in Scarlet")](/canon/novels/a-study-in-scarlet/a-study-in-scarlet/)
 
 The papers next day were full of the "Brixton Mystery," as they termed it. Each had a long account of the affair, and some had leaders upon it in addition. There was some information in them which was new to me. I still retain in my scrapbook numerous clippings and extracts bearing upon the case. Here is a condensation of a few of them:
 

@@ -9,21 +9,21 @@ tags:
   - "sherlock-holmes"
 ---
 
-**The Memoirs of Sherlock Holmes** is a collection of 11 short stories by [Sir Arthur Conan Doyle](/sirconandoyle/oldsite/html/index.php), published in 1894.
+**The Memoirs of Sherlock Holmes** is a collection of 11 short stories by [Sir Arthur Conan Doyle](/oldsite/html/index.php), published in 1894.
 
 The stories are as follows:
 
-- [The Silver Blaze](/sirconandoyle/the-silver-blaze/)
-- [The Yellow Face](/sirconandoyle/the-yellow-face/)
-- [The Stock-broker's Clerk](/sirconandoyle/the-stockbrokers-clerk/)
-- [The "Gloria Scott"](/sirconandoyle/the-adventure-of-the-gloria-scott/)
-- [The Musgrave Ritual](/sirconandoyle/the-musgrave-ritual/)
-- [The Reigate Puzzle](/sirconandoyle/the-reigate-puzzle/)
-- [The Crooked Man](/sirconandoyle/the-crooked-man/)
-- [The Resident Patient](/sirconandoyle/the-resident-patient/)
-- [The Greek Interpreter](/sirconandoyle/the-greek-interpreter/)
-- [The Naval Treaty](/sirconandoyle/the-naval-treaty/)
-- [The Final Problem](/sirconandoyle/the-final-problem/)
+- [The Silver Blaze](/the-silver-blaze/)
+- [The Yellow Face](/the-yellow-face/)
+- [The Stock-broker's Clerk](/the-stockbrokers-clerk/)
+- [The "Gloria Scott"](/the-adventure-of-the-gloria-scott/)
+- [The Musgrave Ritual](/the-musgrave-ritual/)
+- [The Reigate Puzzle](/the-reigate-puzzle/)
+- [The Crooked Man](/the-crooked-man/)
+- [The Resident Patient](/the-resident-patient/)
+- [The Greek Interpreter](/the-greek-interpreter/)
+- [The Naval Treaty](/the-naval-treaty/)
+- [The Final Problem](/the-final-problem/)
 
 ## Trivia:
 
@@ -31,4 +31,4 @@ When first published in the Strand Edition in 1894, the Memoirs contained one ad
 
 It is believed that the story was removed on request by Sir Arthur Conan Doyle as it included adultery and was considered unsuitable for young readers. The US edition went on to publish a revised edition soon after this which excluded The Cardboard Box.
 
-However, the same was republished when it was added to [His Last Bow](/sirconandoyle/oldsite/canon/lastbow/index.php).
+However, the same was republished when it was added to [His Last Bow](/oldsite/canon/lastbow/index.php).

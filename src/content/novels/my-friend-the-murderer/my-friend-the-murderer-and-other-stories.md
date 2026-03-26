@@ -14,29 +14,29 @@ tags:
 
 ## Table of Contents
 
-[My Friend the Murderer](/sirconandoyle/novels/my-friend-the-murderer/my-friend-the-murderer/)
+[My Friend the Murderer](/novels/my-friend-the-murderer/my-friend-the-murderer/)
 
-[The Gully of Bluemansdyke](/sirconandoyle/novels/my-friend-the-murderer/the-gully-of-bluemansdyke/)
+[The Gully of Bluemansdyke](/novels/my-friend-the-murderer/the-gully-of-bluemansdyke/)
 
-[The Parson of Jackman’s Gulch](/sirconandoyle/novels/my-friend-the-murderer/the-parson-at-jackmans-gulch/)
+[The Parson of Jackman’s Gulch](/novels/my-friend-the-murderer/the-parson-at-jackmans-gulch/)
 
-[The Silver Hatchet](/sirconandoyle/novels/my-friend-the-murderer/the-silver-hatchet/)
+[The Silver Hatchet](/novels/my-friend-the-murderer/the-silver-hatchet/)
 
-[The Man from Archangel](/sirconandoyle/novels/my-friend-the-murderer/the-man-from-archangel/)
+[The Man from Archangel](/novels/my-friend-the-murderer/the-man-from-archangel/)
 
-[That Little Square Box](/sirconandoyle/novels/my-friend-the-murderer/that-little-square-box/)
+[That Little Square Box](/novels/my-friend-the-murderer/that-little-square-box/)
 
-[A Night among the Nihilists](/sirconandoyle/novels/my-friend-the-murderer/a-night-among-the-nihilists/)
+[A Night among the Nihilists](/novels/my-friend-the-murderer/a-night-among-the-nihilists/)
 
-[Bones, the April Fool of Harvey’s Sluice](/sirconandoyle/novels/my-friend-the-murderer/bones-the-april-fool-of-harveys-sluice/)
+[Bones, the April Fool of Harvey’s Sluice](/novels/my-friend-the-murderer/bones-the-april-fool-of-harveys-sluice/)
 
-[Selecting a Ghost](/sirconandoyle/novels/my-friend-the-murderer/selecting-a-ghost/)
+[Selecting a Ghost](/novels/my-friend-the-murderer/selecting-a-ghost/)
 
-[The Mystery of Sasassa Valley](/sirconandoyle/novels/my-friend-the-murderer/the-mystery-of-sasassa-valley/)
+[The Mystery of Sasassa Valley](/novels/my-friend-the-murderer/the-mystery-of-sasassa-valley/)
 
-[The American’s Tale](/sirconandoyle/novels/my-friend-the-murderer/the-americans-tale/)
+[The American’s Tale](/novels/my-friend-the-murderer/the-americans-tale/)
 
-[Our Derby Sweepstakes](/sirconandoyle/novels/my-friend-the-murderer/our-derby-sweepstakes/)
+[Our Derby Sweepstakes](/novels/my-friend-the-murderer/our-derby-sweepstakes/)
 
 ## Download or Purchase from Amazon
 

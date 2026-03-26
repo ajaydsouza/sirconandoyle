@@ -9,7 +9,7 @@ tags:
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/sirconandoyle/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 Now for a moment I will ask leave to remove my own insignificant personality and to describe events which occurred before we arrived upon the scene by the light of knowledge which came to us afterwards. Only in this way can I make the reader appreciate the people concerned and the strange setting in which their fate was cast.
 

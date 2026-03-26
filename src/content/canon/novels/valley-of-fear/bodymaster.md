@@ -9,7 +9,7 @@ tags:
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/sirconandoyle/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 McMurdo was a man who made his mark quickly. Wherever he was the folk around soon knew it. Within a week he had become infinitely the most important person at Shafter's. There were ten or a dozen boarders there; but they were honest foremen or commonplace clerks from the stores, of a very different calibre from the young Irishman. Of an evening when they gathered together his joke was always the readiest, his conversation the brightest, and his song the best. He was a born boon companion, with a magnetism which drew good humour from all around him.
 

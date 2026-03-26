@@ -9,7 +9,7 @@ tags:
   - "valley-of-fear"
 ---
 
-[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/sirconandoyle/canon/novels/valley-of-fear/the-valley-of-fear/)
+[![The Valley of Fear](../../../../assets/images/posts/Valley_of_fear.jpg "The Valley of Fear")](/canon/novels/valley-of-fear/the-valley-of-fear/)
 
 "Have you seen all you want of the study?" asked White Mason as we reentered the house.
 
