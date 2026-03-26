@@ -1,9 +1,25 @@
 ---
 // Handles /canon/adventures/, /canon/memoirs/, /canon/return/, /canon/casebook/, /canon/last-bow/
 // (NOT /canon/novels/ — that has its own dedicated page)
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import Base from '../../../layouts/Base.astro';
 import Breadcrumb from '../../../components/Breadcrumb.astro';
+
+const LABELS: Record<string, string> = {
+  adventures: 'The Adventures of Sherlock Holmes',
+  memoirs:    'The Memoirs of Sherlock Holmes',
+  return:     'The Return of Sherlock Holmes',
+  'last-bow': 'His Last Bow',
+  casebook:   'The Case-Book of Sherlock Holmes',
+};
+
+const INTRO_SLUGS: Record<string, string> = {
+  adventures: 'the-adventures-of-sherlock-holmes',
+  memoirs:    'the-memoirs-of-sherlock-holmes',
+  return:     'the-return-of-sherlock-holmes',
+  'last-bow': 'his-last-bow',
+  casebook:   'the-case-book-of-sherlock-holmes',
+};
 
 export async function getStaticPaths() {
   const LABELS: Record<string, string> = {
@@ -11,36 +27,52 @@ export async function getStaticPaths() {
     memoirs:    'The Memoirs of Sherlock Holmes',
     return:     'The Return of Sherlock Holmes',
     'last-bow': 'His Last Bow',
-    casebook:   'The Case Book of Sherlock Holmes',
+    casebook:   'The Case-Book of Sherlock Holmes',
+  };
+
+  const INTRO_SLUGS: Record<string, string> = {
+    adventures: 'the-adventures-of-sherlock-holmes',
+    memoirs:    'the-memoirs-of-sherlock-holmes',
+    return:     'the-return-of-sherlock-holmes',
+    'last-bow': 'his-last-bow',
+    casebook:   'the-case-book-of-sherlock-holmes',
   };
 
   const allEntries = await getCollection('canon');
 
   return Object.keys(LABELS).map(collection => {
+    const introSlug = INTRO_SLUGS[collection];
     const entries = allEntries
       .filter(e => e.data.collection === collection)
       .sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
-    return { params: { collection }, props: { entries, label: LABELS[collection] } };
+    const introEntry = entries.find(e => e.id.split('/').pop() === introSlug) ?? null;
+    const stories = entries.filter(e => e.id.split('/').pop() !== introSlug);
+    return { params: { collection }, props: { stories, introEntry, label: LABELS[collection] } };
   });
 }
 
 const { collection } = Astro.params;
-const { entries, label } = Astro.props;
-const description = `Read all the stories from "${label}", one of the classic Sherlock Holmes short story collections by Sir Arthur Conan Doyle.`;
-
-// Filter out the collection-overview post (its title equals the collection label)
-const stories = entries.filter(e => e.data.title !== label);
+const { stories, introEntry, label } = Astro.props;
+const description = introEntry?.data.description ?? `Read all the stories from "${label}", one of the classic Sherlock Holmes short story collections by Sir Arthur Conan Doyle.`;
+const { Content: IntroContent } = introEntry ? await render(introEntry) : { Content: null };
 ---
-<Base title={label} description={description}>
-  <div class="max-w-3xl mx-auto px-4 py-10">
+<Base title={label} description={description} image={introEntry?.data.coverImage?.src}>
+  <div class="max-w-[70ch] mx-auto px-4 py-10">
     <Breadcrumb crumbs={[
       { label: 'Home', href: import.meta.env.BASE_URL },
       { label: 'The Canon', href: `${import.meta.env.BASE_URL}canon/` },
       { label: label },
     ]} />
 
-    <h1 class="font-serif text-3xl font-semibold text-stone-900 mb-8">{label}</h1>
+    <h1 class="font-serif text-3xl font-semibold text-stone-900 mb-6">{label}</h1>
 
+    {IntroContent && (
+      <article class="prose mb-8">
+        <IntroContent />
+      </article>
+    )}
+
+    <h2 class="font-serif text-xl font-semibold text-stone-700 mb-4">Stories in this collection</h2>
     <ol class="space-y-1">
       {stories.map((entry, i) => {
         const slug = entry.id.split('/').pop();

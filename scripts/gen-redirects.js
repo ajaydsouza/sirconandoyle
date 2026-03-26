@@ -50,7 +50,12 @@ walkDir(path.join(CONTENT_DIR, 'canon'), (filePath) => {
     // Special case for canon novels which are nested deeper
     if (collection === 'novels' && parts.length >= 3) {
       const novelDir = parts[1];
-      redirects.set(slug, `/canon/novels/${novelDir}/${slug}/`);
+      // Intro file (slug matches novel dir) goes to novel index, not a sub-page
+      if (slug === novelDir || slug === `the-${novelDir}`) {
+        redirects.set(slug, `/canon/novels/${novelDir}/`);
+      } else {
+        redirects.set(slug, `/canon/novels/${novelDir}/${slug}/`);
+      }
     } else {
       redirects.set(slug, `/canon/${collection}/${slug}/`);
     }
@@ -65,7 +70,12 @@ walkDir(path.join(CONTENT_DIR, 'novels'), (filePath) => {
 
   if (parts.length >= 2) {
     const novel = parts[0];
-    redirects.set(slug, `/novels/${novel}/${slug}/`);
+    // Intro file (slug matches novel dir) goes to novel index, not a sub-page
+    if (slug === novel || slug === `the-${novel}`) {
+      redirects.set(slug, `/novels/${novel}/`);
+    } else {
+      redirects.set(slug, `/novels/${novel}/${slug}/`);
+    }
   }
 });
 

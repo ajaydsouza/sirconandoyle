@@ -37,10 +37,31 @@ All content is Markdown with YAML front matter. Front matter fields: `title`, `d
 File-based static routing; all paths are pre-rendered at build time via `getStaticPaths()`:
 
 - `/[slug]` → pages collection
+- `/canon/[collection]/` → Holmes short story collection index (intro content + TOC)
 - `/canon/[collection]/[slug]` → Holmes short stories
-- `/canon/novels/[novel]/[slug]` → Holmes novels
-- `/novels/[novel]/[slug]` → Non-Holmes novels
+- `/canon/novels/[novel]/` → Holmes novel index (intro content + chapter list)
+- `/canon/novels/[novel]/[slug]` → Holmes novel chapters
+- `/novels/[novel]/` → Non-Holmes novel index (intro content + chapter list)
+- `/novels/[novel]/[slug]` → Non-Holmes novel chapters
 - `/search` → Pagefind full-text search UI (noindex)
+
+### Intro Files
+
+Each novel directory and each short story collection has an **intro file** (the markdown file whose slug matches the novel/collection directory name, or `the-<dir>` for some). The intro file powers the index page — it is **not** given its own `[slug]` route.
+
+**Detection pattern** — for novels, `isIntroSlug(slug, dir)` checks `slug === dir || slug === 'the-' + dir`. For short story collections, explicit slug maps are used (`INTRO_SLUGS` in both `[collection]/index.astro` and `[collection]/[slug].astro`):
+
+```
+adventures → the-adventures-of-sherlock-holmes
+memoirs    → the-memoirs-of-sherlock-holmes
+return     → the-return-of-sherlock-holmes
+last-bow   → his-last-bow
+casebook   → the-case-book-of-sherlock-holmes
+```
+
+> Note: casebook's intro has `order: 2` (not 1) and a hyphenated title ("The Case-**Book**"). Do not use title matching to detect it — use the explicit slug map.
+
+**`getStaticPaths()` isolation** — functions defined at module level are not accessible inside `getStaticPaths()` in Astro. Define any helper (like `isIntroSlug`) inside `getStaticPaths()`, and again at module level if needed for the render section of the same file.
 
 ### Prebuild Script
 

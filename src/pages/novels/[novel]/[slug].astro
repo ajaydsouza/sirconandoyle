@@ -5,27 +5,38 @@ import Breadcrumb from '../../../components/Breadcrumb.astro';
 import StoryNav from '../../../components/StoryNav.astro';
 
 export async function getStaticPaths() {
+  function isIntroSlug(slug: string, novel: string): boolean {
+    return slug === novel || slug === `the-${novel}`;
+  }
   const allEntries = await getCollection('novels');
   const novelSlugs = [...new Set(allEntries.map(e => e.id.split('/')[0]))];
 
   const paths = [];
   for (const novel of novelSlugs) {
-    const entries = allEntries
+    const allNovelEntries = allEntries
       .filter(e => e.id.split('/')[0] === novel)
       .sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
 
-    const novelTitle = entries[0]?.data.title ?? novel;
+    const novelTitle = allNovelEntries.find(e => isIntroSlug(e.id.split('/').pop()!, novel))?.data.title
+      ?? allNovelEntries[0]?.data.title ?? novel;
 
-    for (let i = 0; i < entries.length; i++) {
-      const entry = entries[i];
+    // Exclude intro entry — rendered by [novel]/index.astro
+    const chapters = allNovelEntries.filter(e => !isIntroSlug(e.id.split('/').pop()!, novel));
+
+    for (let i = 0; i < chapters.length; i++) {
+      const entry = chapters[i];
       const slug = entry.id.split('/').pop()!;
       paths.push({
         params: { novel, slug },
         props: {
           entry,
           novelTitle,
-          prev: i > 0 ? { title: entries[i - 1].data.title, href: `${import.meta.env.BASE_URL}novels/${novel}/${entries[i - 1].id.split('/').pop()}/` } : null,
-          next: i < entries.length - 1 ? { title: entries[i + 1].data.title, href: `${import.meta.env.BASE_URL}novels/${novel}/${entries[i + 1].id.split('/').pop()}/` } : null,
+          prev: i > 0
+            ? { title: chapters[i - 1].data.title, href: `${import.meta.env.BASE_URL}novels/${novel}/${chapters[i - 1].id.split('/').pop()}/` }
+            : null,
+          next: i < chapters.length - 1
+            ? { title: chapters[i + 1].data.title, href: `${import.meta.env.BASE_URL}novels/${novel}/${chapters[i + 1].id.split('/').pop()}/` }
+            : null,
         },
       });
     }
@@ -41,8 +52,8 @@ const { title, description, coverImage } = entry.data;
 <Base title={title} description={description} image={coverImage?.src}>
   <div class="max-w-[70ch] mx-auto px-4 py-10">
     <Breadcrumb crumbs={[
-      { label: 'Home', href: import.meta.env.BASE_URL },
-      { label: 'Novels', href: `${import.meta.env.BASE_URL}novels/` },
+      { label: 'Home',    href: import.meta.env.BASE_URL },
+      { label: 'Novels',  href: `${import.meta.env.BASE_URL}novels/` },
       { label: novelTitle, href: `${import.meta.env.BASE_URL}novels/${novel}/` },
       { label: entry.data.title },
     ]} />

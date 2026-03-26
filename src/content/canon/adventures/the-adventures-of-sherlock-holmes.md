@@ -16,19 +16,4 @@ They were originally published in the _[Strand Magazine](http://en.wikipedia.org
 
 **![The Adventures of Sherlock Holmes](../../../assets/images/posts/Adventures_of_sherlock_holmes.jpg "The Adventures of Sherlock Holmes")**
 
-The 12 adventures are:
-
-1. [A Scandal in Bohemia](/a-scandal-in-bohemia/)
-2. [The Red-headed League](/the-red-headed-league/)
-3. [A Case of Mistaken Identity](/a-case-of-mistaken-identity/)
-4. [The Boscombe Valley Mystery](/the-boscombe-valley-mystery/)
-5. [The Five Orange Pips](/the-five-orange-pips/)
-6. [The Man with the Twisted Lip](/the-man-with-the-twisted-lips/)
-7. [The Adventure of the Blue Carbuncle](/the-adventure-of-the-blue-carbuncle/)
-8. [The Adventure of the Speckled Band](/the-adventure-of-the-speckled-band/)
-9. [The Adventure of the Engineer's Thumb](/the-adventure-of-the-engineers-thumb/)
-10. [The Adventure of the Noble Bachelor](/the-adventure-of-the-noble-bachelor/)
-11. [The Adventure of the Beryl Coronet](/the-adventure-of-the-beryl-coronet/)
-12. [The Adventure of the Copper Beeches](/the-adventure-of-the-copper-beeches/)
-
 \[Image source: [Wikipedia](http://en.wikipedia.org/wiki/File:Adventures_of_sherlock_holmes.jpg)\]

@@ -11,21 +11,30 @@ export async function getStaticPaths() {
     memoirs:    'The Memoirs of Sherlock Holmes',
     return:     'The Return of Sherlock Holmes',
     'last-bow': 'His Last Bow',
-    casebook:   'The Case Book of Sherlock Holmes',
+    casebook:   'The Case-Book of Sherlock Holmes',
+  };
+
+  const INTRO_SLUGS: Record<string, string> = {
+    adventures: 'the-adventures-of-sherlock-holmes',
+    memoirs:    'the-memoirs-of-sherlock-holmes',
+    return:     'the-return-of-sherlock-holmes',
+    'last-bow': 'his-last-bow',
+    casebook:   'the-case-book-of-sherlock-holmes',
   };
 
   const allEntries = await getCollection('canon', e => !e.id.startsWith('novels/'));
 
   const paths = [];
   for (const [collection, label] of Object.entries(LABELS)) {
+    const introSlug = INTRO_SLUGS[collection];
     const allInCollection = allEntries
       .filter(e => e.data.collection === collection)
       .sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
 
-    // Stories only (exclude the overview post whose title === collection label) — used for prev/next
-    const stories = allInCollection.filter(e => e.data.title !== label);
+    // Stories only — exclude the intro/overview post
+    const stories = allInCollection.filter(e => e.id.split('/').pop() !== introSlug);
 
-    for (const entry of allInCollection) {
+    for (const entry of stories) {
       const slug = entry.id.split('/').pop();
       if (!slug) continue;
       const storyIndex = stories.indexOf(entry);
@@ -34,9 +43,8 @@ export async function getStaticPaths() {
         props: {
           entry,
           collectionLabel: label,
-          // Overview post has storyIndex -1 — no prev/next
           prev: storyIndex > 0 ? { title: stories[storyIndex - 1].data.title, href: `${import.meta.env.BASE_URL}canon/${collection}/${stories[storyIndex - 1].id.split('/').pop()}/` } : null,
-          next: storyIndex >= 0 && storyIndex < stories.length - 1 ? { title: stories[storyIndex + 1].data.title, href: `${import.meta.env.BASE_URL}canon/${collection}/${stories[storyIndex + 1].id.split('/').pop()}/` } : null,
+          next: storyIndex < stories.length - 1 ? { title: stories[storyIndex + 1].data.title, href: `${import.meta.env.BASE_URL}canon/${collection}/${stories[storyIndex + 1].id.split('/').pop()}/` } : null,
         },
       });
     }

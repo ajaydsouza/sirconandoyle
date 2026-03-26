@@ -1,9 +1,12 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import Base from '../../../../layouts/Base.astro';
 import Breadcrumb from '../../../../components/Breadcrumb.astro';
 
 export async function getStaticPaths() {
+  function isIntroSlug(slug: string, novel: string): boolean {
+    return slug === novel || slug === `the-${novel}`;
+  }
   const NOVEL_LABELS: Record<string, string> = {
     'a-study-in-scarlet':        'A Study in Scarlet',
     'sign-of-four':              'The Sign of Four',
@@ -15,10 +18,7 @@ export async function getStaticPaths() {
 
   return Object.keys(NOVEL_LABELS).map(novel => {
     const entries = allEntries
-      .filter(e => {
-        const parts = e.id.split('/');
-        return parts[1] === novel;
-      })
+      .filter(e => e.id.split('/')[1] === novel)
       .sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
     return { params: { novel }, props: { entries, label: NOVEL_LABELS[novel] } };
   });
@@ -26,11 +26,24 @@ export async function getStaticPaths() {
 
 const { novel } = Astro.params;
 const { entries, label } = Astro.props;
+
+function isIntroSlug(slug: string, novelDir: string): boolean {
+  return slug === novelDir || slug === `the-${novelDir}`;
+}
+
+const introEntry = entries.find(e => isIntroSlug(e.id.split('/').pop()!, novel));
+const chapters   = entries.filter(e => !isIntroSlug(e.id.split('/').pop()!, novel));
+
+const { Content: IntroContent } = introEntry ? await render(introEntry) : { Content: null };
 ---
-<Base title={label}>
-  <div class="max-w-3xl mx-auto px-4 py-10">
+<Base
+  title={label}
+  description={introEntry?.data.description}
+  image={introEntry?.data.coverImage?.src}
+>
+  <div class="max-w-[70ch] mx-auto px-4 py-10">
     <Breadcrumb crumbs={[
-      { label: 'Home', href: import.meta.env.BASE_URL },
+      { label: 'Home',   href: import.meta.env.BASE_URL },
       { label: 'The Canon', href: `${import.meta.env.BASE_URL}canon/` },
       { label: 'Novels', href: `${import.meta.env.BASE_URL}canon/novels/` },
       { label: label },
@@ -38,22 +51,33 @@ const { entries, label } = Astro.props;
 
     <h1 class="font-serif text-3xl font-semibold text-stone-900 mb-8">{label}</h1>
 
-    <ol class="space-y-1">
-      {entries.map((entry, i) => {
-        const slug = entry.id.split('/').pop();
-        if (!slug) return null;
-        return (
-          <li>
-            <a
-              href={`${import.meta.env.BASE_URL}canon/novels/${novel}/${slug}/`}
-              class="flex items-baseline gap-3 px-4 py-3 rounded-lg hover:bg-amber-50 group transition-colors"
-            >
-              <span class="text-stone-400 text-sm w-6 shrink-0 text-right">{i + 1}.</span>
-              <span class="font-serif text-stone-800 group-hover:text-amber-900">{entry.data.title}</span>
-            </a>
-          </li>
-        );
-      })}
-    </ol>
+    {introEntry && IntroContent && (
+      <article class="prose mb-10">
+        <IntroContent />
+      </article>
+    )}
+
+    {chapters.length > 0 && (
+      <>
+        <h2 class="font-serif text-xl text-stone-700 mb-4 mt-2">Chapters</h2>
+        <ol class="space-y-1">
+          {chapters.map((entry, i) => {
+            const slug = entry.id.split('/').pop();
+            if (!slug) return null;
+            return (
+              <li>
+                <a
+                  href={`${import.meta.env.BASE_URL}canon/novels/${novel}/${slug}/`}
+                  class="flex items-baseline gap-3 px-4 py-3 rounded-lg hover:bg-amber-50 group transition-colors"
+                >
+                  <span class="text-stone-400 text-sm w-6 shrink-0 text-right">{i + 1}.</span>
+                  <span class="font-serif text-stone-800 group-hover:text-amber-900">{entry.data.title}</span>
+                </a>
+              </li>
+            );
+          })}
+        </ol>
+      </>
+    )}
   </div>
 </Base>
