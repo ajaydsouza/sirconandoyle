@@ -11,7 +11,7 @@ BY USING THIS WEB SITE, YOU INDICATE YOUR AGREEMENT WITH THESE TERMS AND CONDITI
 
 ## Acceptance of terms
 
-SACD provides its website services to you, subject to the following Terms of Service ("Terms of Service"), which may be updated by us from time to time without notice to you. You can review the most current version of the Terms of Service at _http://sirconandoyle.com/html/disclaimer.php_. In addition, when using particular SACD services, you and SACD will be subject to any posted guidelines or rules applicable to such services which may be posted from time to time. All such guidelines or rules are hereby incorporated by reference into the Terms of Service. You are responsible for regularly reviewing these terms and conditions.
+SACD provides its website services to you, subject to the following Terms of Service ("Terms of Service"), which may be updated by us from time to time without notice to you. You can review the most current version of the Terms of Service at [http://sirconandoyle.com/disclaimer](http://sirconandoyle.com/disclaimer). In addition, when using particular SACD services, you and SACD will be subject to any posted guidelines or rules applicable to such services which may be posted from time to time. All such guidelines or rules are hereby incorporated by reference into the Terms of Service. You are responsible for regularly reviewing these terms and conditions.
 
 ## To The Guys Who Keep Shutting Down Fan Sites
 
@@ -76,7 +76,3 @@ IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE SACD WEBSITE, OR WITH ANY OF THE
 Unless otherwise specified in these Terms of Service, this agreement constitutes the entire agreement between the user and SACD with respect to the SACD websites and it supersedes all prior or contemporaneous communications and proposals, whether electronic, oral or written, between the user and SACD with respect to the SACD websites.
 
 You also may be subject to additional terms and conditions that may apply when you use affiliate services, third-party content or third-party software.
-
-## How to contact me
-
-Should you have other questions or concerns about the Disclaimer and Terms of Service, please [email us](/contact/).
