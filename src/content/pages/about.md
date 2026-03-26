@@ -2,20 +2,7 @@
 title: "Sir Arthur Conan Doyle - His Life, All His Works and More"
 description: "About SirArthurConanDoyle.com - A leading resource dedicated to the life and complete works of Sir Arthur Conan Doyle, featuring Sherlock Holmes and beyond."
 date: 2011-08-25
-coverImage: "../../assets/images/pages/SACD.jpg"
 ---
-
-<figure>
-
-![Oil painting of Sir Arthur Conan Doyle](../../assets/images/pages/SACD.jpg)
-
-<figcaption>
-
-Oil painting of Sir Arthur Conan Doyle
-
-</figcaption>
-
-</figure>
 
 Welcome to **Sir Arthur Conan Doyle - His Life, All His Works and More**, a leading website bringing you the works of [Sir Arthur Conan Doyle](/about/) including his most popular creation Sherlock Holmes.
 
@@ -28,6 +15,10 @@ Doyle was a prolific writer; other than Holmes stories, his works include fantas
 You will also find the other novels of Sir Arthur Conan Doyle, including [The Lost World](/novels/lost-world/the-lost-world/).
 
 We are continuously updating and adding more stories and novels so do check back often. Alternatively, subscribe to our feed to get the updates in your favourite feed reader.
+
+## Biography of Sir Arthur Conan Doyle
+
+![Oil painting of Sir Arthur Conan Doyle](/images/posts/sir-arthur-conan-doyle.webp)
 
 ## Our history
 

@@ -2,7 +2,8 @@
 import { SEO } from 'astro-seo';
 import '../styles/global.css';
 import { Image } from 'astro:assets';
-import logo from '../assets/images/posts/SACD.jpg';
+import logoWebp from '../assets/images/posts/sir-arthur-conan-doyle.webp';
+import logoFallback from '../assets/images/posts/sir-arthur-conan-doyle.jpg';
 
 // Local Font Imports (Fontsource)
 import '@fontsource/inter/400.css';
@@ -26,7 +27,7 @@ interface Props {
 const {
   title,
   description = 'The complete works of Sir Arthur Conan Doyle — Sherlock Holmes and beyond.',
-  image = logo.src,
+  image = logoFallback.src,
   canonical = Astro.url.href,
   noindex = false,
   nofollow = false
@@ -86,7 +87,10 @@ const fullTitle = title.includes(siteTitle) ? title : `${title} — ${siteTitle}
       <div class="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
         <!-- Logo: portrait + site name + tagline -->
         <a href={import.meta.env.BASE_URL} class="flex items-center gap-3 shrink-0">
-          <img src={logo.src} alt="Sir Arthur Conan Doyle" class="h-16 w-16 object-cover rounded shadow-sm" loading="eager" fetchpriority="high" />
+          <picture>
+            <source srcset={logoWebp.src} type="image/webp" />
+            <img src={logoFallback.src} alt="Sir Arthur Conan Doyle" class="h-16 w-16 object-cover rounded shadow-sm" loading="eager" fetchpriority="high" />
+          </picture>
           <div class="hidden sm:block">
             <span class="block text-3xl leading-tight text-[#3a5f8a]" style="font-family: 'Great Vibes', cursive;">Sir Arthur Conan Doyle</span>
             <span class="block text-xs text-stone-500 tracking-wide mt-0.5">His Life, All His Works and more...</span>

@@ -2,7 +2,8 @@
 import Base from '../layouts/Base.astro';
 import { Image } from 'astro:assets';
 
-import sacdPortrait from '../assets/images/posts/SACD.jpg';
+import sacdPortraitWebp from '../assets/images/posts/sir-arthur-conan-doyle.webp';
+import sacdPortraitFallback from '../assets/images/posts/sir-arthur-conan-doyle.jpg';
 import imgAdventures from '../assets/images/posts/Adventures_of_sherlock_holmes.jpg';
 import imgMemoirs    from '../assets/images/posts/silver.jpg';
 import imgReturn     from '../assets/images/posts/TheReturnOfSherlockHolmes.jpg';
@@ -45,12 +46,15 @@ const novels = [
       </div>
     </div>
     <div class="hidden md:block border-l border-amber-200">
-      <Image
-        src={sacdPortrait}
-        alt="Sir Arthur Conan Doyle"
-        class="w-full h-full object-cover object-top"
-        loading="eager"
-      />
+      <picture>
+        <source srcset={sacdPortraitWebp.src} type="image/webp" />
+        <img
+          src={sacdPortraitFallback.src}
+          alt="Sir Arthur Conan Doyle"
+          class="w-full h-full object-cover object-top"
+          loading="eager"
+        />
+      </picture>
     </div>
   </div>
 

@@ -6,6 +6,8 @@ date: 2011-08-25
 
 ## Biography of Sir Arthur Conan Doyle
 
+<img src="/images/posts/sir-arthur-conan-doyle.webp" alt="Oil painting of Sir Arthur Conan Doyle" style="max-width: 100%; margin: 1.5rem 0;" />
+
 Sir Arthur Conan Doyle is the creator Sherlock Holmes, the best-known detective in literature and the embodiment of scientific thinking. Doyle himself was not a good example of rational personality: he believed in fairies and was interested in occultism. Sherlock Holmes stories have been translated into more than fifty languages, and made into plays, films, radio and television series, a musical comedy, a ballet, cartoons, comic books, and advertisement. By 1920 Doyle was one of the most highly paid writers in the world.
 
 Doyle was born on May 22, 1859 at Picardy Place, Edinburgh, as the son of Charles Altamont Doyle, a civil servant in the Edinburgh Office of Works, and Mary (Foley) Doyle. Both of Doyle's parents were Roman Catholics. His father suffered from epilepsy and alcoholism and was eventually institutionalized. Charles Altamont died in an asylum in 1893. In the same year Doyle decided to finish permanently the adventures of his master detective. Because of financial problems, Doyle's mother kept a boarding house. Dr. Tsukasa Kobayashi has suspected in an article, that Doyle's mother had a long affair with Bryan Charles Waller, a lodger and a student of pathology, who had a deep impact to Conan Doyle.
