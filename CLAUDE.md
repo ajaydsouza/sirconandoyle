@@ -18,6 +18,11 @@ To deploy manually to Cloudflare Workers:
 source ~/.zshrc 2>/dev/null && npx wrangler deploy
 ```
 
+## Git and Commits
+
+- **Do not add Co-Authored-By lines** to commits
+- **Do not git push** — you'll push manually yourself
+
 ## Architecture
 
 **Astro static site** (`output: 'static'`) about Sir Arthur Conan Doyle and Sherlock Holmes canon. Production site: `https://sirconandoyle.com`. Internal links must use `import.meta.env.BASE_URL` to support subpath deployments.
