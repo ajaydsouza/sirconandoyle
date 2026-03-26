@@ -1,5 +1,5 @@
 // @ts-check
-import { defineConfig, passthroughImageService } from 'astro/config';
+import { defineConfig } from 'astro/config';
 
 import cloudflare from '@astrojs/cloudflare';
 import sitemap from '@astrojs/sitemap';
@@ -10,10 +10,7 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig({
   site: 'https://sirconandoyle.com',
   output: 'static',
-  adapter: cloudflare(),
-  image: {
-    service: passthroughImageService(),
-  },
+  adapter: cloudflare({ imageService: 'passthrough' }),
 
   integrations: [
     sitemap(),
