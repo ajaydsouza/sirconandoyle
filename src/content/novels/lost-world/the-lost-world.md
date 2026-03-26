@@ -19,34 +19,34 @@ Mr. E. D. Malone desires to state that both the injunction for restraint and the
 
 ### Table of Contents
 
-Chapter 1 - [THERE ARE HEROISMS ALL ROUND US](/there-are-heroisms-all-round-us/%20%22The%20Lost%20World:%20Chapter%201%20%E2%80%93%20There%20Are%20Heroisms%20All%20Round%20Us%22/)
+Chapter 1 - [THERE ARE HEROISMS ALL ROUND US](/novels/lost-world/there-are-heroisms-all-round-us/)
 
-Chapter 2 - [TRY YOUR LUCK WITH PROFESSOR CHALLENGER](/try-your-luck-with-professor-challenger/%20%22The%20Lost%20World:%20Chapter%202%20%E2%80%93%20Try%20your%20luck%20with%20Professor%20Challenger%22/)
+Chapter 2 - [TRY YOUR LUCK WITH PROFESSOR CHALLENGER](/novels/lost-world/try-your-luck-with-professor-challenger/)
 
-Chapter 3 - [HE IS A PERFECTLY IMPOSSIBLE PERSON](/he-is-a-perfectly-impossible-person/%20%22The%20Lost%20World:%20Chapter%203%20%E2%80%93%20He%20is%20a%20Perfectly%20Impossible%20Person%22/)
+Chapter 3 - [HE IS A PERFECTLY IMPOSSIBLE PERSON](/novels/lost-world/he-is-a-perfectly-impossible-person/)
 
-Chapter 4 - [IT'S JUST THE VERY BIGGEST THING IN THE WORLD](/its-just-the-very-biggest-thing-in-the-world/%20%22The%20Lost%20World:%20Chapter%204%20%E2%80%93%20It%E2%80%99s%20just%20the%20very%20biggest%20thing%20in%20the%20World%22/)
+Chapter 4 - [IT'S JUST THE VERY BIGGEST THING IN THE WORLD](/novels/lost-world/its-just-the-very-biggest-thing-in-the-world/)
 
-Chapter 5 - [QUESTION!](/lw-question/%20%22The%20Lost%20World:%20Chapter%205%20%E2%80%93%20Question!%22/)
+Chapter 5 - [QUESTION!](/novels/lost-world/lw-question/)
 
-Chapter 6 - [I WAS THE FLAIL OF THE LORD](/i-was-the-flail-of-the-lord/%20%22The%20Lost%20World:%20Chapter%206%20%E2%80%93%20I%20was%20the%20Flail%20of%20the%20Lord%22/)
+Chapter 6 - [I WAS THE FLAIL OF THE LORD](/novels/lost-world/i-was-the-flail-of-the-lord/)
 
-Chapter 7 - [TOMORROW WE DISAPPEAR INTO THE UNKNOWN](/tomorrow-we-disappear-into-the-unknown/%20%22The%20Lost%20World:%20Chapter%207%20%E2%80%93%20Tomorrow%20we%20disappear%20into%20the%20Unknown%22/)
+Chapter 7 - [TOMORROW WE DISAPPEAR INTO THE UNKNOWN](/novels/lost-world/tomorrow-we-disappear-into-the-unknown/)
 
-Chapter 8 - [THE OUTLYING PICKETS OF THE NEW WORLD](/the-outlying-pickets-of-the-new-world/%20%22The%20Lost%20World:%20Chapter%208%20%E2%80%93%20The%20Outlying%20Pickets%20of%20the%20New%20World%22/)
+Chapter 8 - [THE OUTLYING PICKETS OF THE NEW WORLD](/novels/lost-world/the-outlying-pickets-of-the-new-world/)
 
-Chapter 9 - [WHO COULD HAVE FORESEEN IT?](/who-could-have-foreseen-it/%20%22The%20Lost%20World:%20Chapter%209%20%E2%80%93%20Who%20could%20have%20foreseen%20it/)
+Chapter 9 - [WHO COULD HAVE FORESEEN IT?](/novels/lost-world/who-could-have-foreseen-it/)
 
-Chapter 10 - [THE MOST WONDERFUL THINGS HAVE HAPPENED](/the-most-wonderful-things-have-happened/%20%22The%20Lost%20World:%20Chapter%2010%20%E2%80%93%20The%20most%20Wonderful%20Things%20have%20Happened%22/)
+Chapter 10 - [THE MOST WONDERFUL THINGS HAVE HAPPENED](/novels/lost-world/the-most-wonderful-things-have-happened/)
 
-Chapter 11 - [FOR ONCE I WAS THE HERO](/for-once-i-was-the-hero/%20%22The%20Lost%20World:%20Chapter%2011%20%E2%80%93%20For%20Once%20I%20was%20the%20Hero%22/)
+Chapter 11 - [FOR ONCE I WAS THE HERO](/novels/lost-world/for-once-i-was-the-hero/)
 
-Chapter 12 - [IT WAS DREADFUL IN THE FOREST](/it-was-dreadful-in-the-forest/%20%22The%20Lost%20World:%20Chapter%2012%20%E2%80%93%20It%20was%20dreadful%20in%20the%20Forest%22/)
+Chapter 12 - [IT WAS DREADFUL IN THE FOREST](/novels/lost-world/it-was-dreadful-in-the-forest/)
 
-Chapter 13 - [A SIGHT I SHALL NEVER FORGET](/a-sight-which-i-shall-never-forget/%20%22The%20Lost%20World:%20Chapter%2013%20%E2%80%93%20A%20Sight%20which%20I%20shall%20Never%20Forget%22/)
+Chapter 13 - [A SIGHT I SHALL NEVER FORGET](/novels/lost-world/a-sight-which-i-shall-never-forget/)
 
-Chapter 14 - [THOSE WERE THE REAL CONQUESTS](/real-conquests/%20%22The%20Lost%20World:%20Chapter%2014%20%E2%80%93%20Those%20were%20the%20Real%20Conquests%22/)
+Chapter 14 - [THOSE WERE THE REAL CONQUESTS](/novels/lost-world/real-conquests/)
 
-Chapter 15 - [OUR EYES HAVE SEEN GREAT WONDERS](/eyes-great-wonders/%20%22The%20Lost%20World:%20Chapter%2015%20%E2%80%93%20Our%20Eyes%20have%20seen%20Great%20Wonders%22/)
+Chapter 15 - [OUR EYES HAVE SEEN GREAT WONDERS](/novels/lost-world/eyes-great-wonders/)
 
-Chapter 16 - [A PROCESSION! A PROCESSION!](/procession-procession/%20%22The%20Lost%20World:%20Chapter%2016%20%E2%80%93%20A%20Procession!%20A%20Procession!%22/)
+Chapter 16 - [A PROCESSION! A PROCESSION!](/novels/lost-world/procession-procession/)
