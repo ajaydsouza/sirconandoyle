@@ -1,85 +1,126 @@
 ---
 import Base from '../layouts/Base.astro';
+import { Image } from 'astro:assets';
+
+import sacdPortrait from '../assets/images/posts/SACD.jpg';
+import imgAdventures from '../assets/images/posts/Adventures_of_sherlock_holmes.jpg';
+import imgMemoirs    from '../assets/images/posts/silver.jpg';
+import imgReturn     from '../assets/images/posts/TheReturnOfSherlockHolmes.jpg';
+import imgLastBow    from '../assets/images/posts/His-Last-Bow.jpg';
+import imgCasebook   from '../assets/images/posts/Case-book_of_sherlock_holmes.jpg';
+import imgScarlet    from '../assets/images/posts/scarlet1.jpg';
+import imgSignOfFour from '../assets/images/posts/TheSignOfTheFour.jpg';
+import imgHound      from '../assets/images/posts/hound.jpg';
+import imgValley     from '../assets/images/posts/Valley_of_fear.jpg';
 
 const collections = [
-  { slug: 'adventures', title: 'The Adventures of Sherlock Holmes', count: 12, year: '1892' },
-  { slug: 'memoirs',    title: 'The Memoirs of Sherlock Holmes',    count: 11, year: '1894' },
-  { slug: 'return',     title: 'The Return of Sherlock Holmes',     count: 13, year: '1905' },
-  { slug: 'last-bow',   title: 'His Last Bow',                      count: 8,  year: '1917' },
-  { slug: 'casebook',   title: 'The Case Book of Sherlock Holmes',  count: 13, year: '1927' },
+  { slug: 'adventures', title: 'The Adventures of Sherlock Holmes', count: 12, year: '1892', image: imgAdventures },
+  { slug: 'memoirs',    title: 'The Memoirs of Sherlock Holmes',    count: 11, year: '1894', image: imgMemoirs    },
+  { slug: 'return',     title: 'The Return of Sherlock Holmes',     count: 13, year: '1905', image: imgReturn     },
+  { slug: 'last-bow',   title: 'His Last Bow',                      count: 8,  year: '1917', image: imgLastBow   },
+  { slug: 'casebook',   title: 'The Case Book of Sherlock Holmes',  count: 13, year: '1927', image: imgCasebook  },
 ];
 
 const novels = [
-  { slug: 'novels/a-study-in-scarlet',        title: 'A Study in Scarlet',            year: '1887' },
-  { slug: 'novels/sign-of-four',              title: 'The Sign of Four',              year: '1890' },
-  { slug: 'novels/hound-of-the-baskervilles', title: 'The Hound of the Baskervilles', year: '1902' },
-  { slug: 'novels/valley-of-fear',            title: 'The Valley of Fear',            year: '1915' },
+  { slug: 'novels/a-study-in-scarlet',        title: 'A Study in Scarlet',            year: '1887', image: imgScarlet    },
+  { slug: 'novels/sign-of-four',              title: 'The Sign of Four',              year: '1890', image: imgSignOfFour },
+  { slug: 'novels/hound-of-the-baskervilles', title: 'The Hound of the Baskervilles', year: '1902', image: imgHound      },
+  { slug: 'novels/valley-of-fear',            title: 'The Valley of Fear',            year: '1915', image: imgValley     },
 ];
 ---
 <Base title="Sir Arthur Conan Doyle — His Life, All His Works and More" description="The ultimate resource for Sir Arthur Conan Doyle. Read the complete Sherlock Holmes canon, novels, short stories, and learn about the life of the prolific British writer.">
-  <div class="max-w-4xl mx-auto px-4 py-12">
-    <div class="text-center mb-14">
-      <h1 class="font-serif text-4xl font-semibold text-black mb-3">Sir Arthur Conan Doyle</h1>
-      <p class="text-amber-900 text-lg max-w-xl mx-auto">His Life, All His Works and More</p>
+
+  <!-- Hero -->
+  <div class="grid md:grid-cols-[1fr_260px] overflow-hidden">
+    <div class="p-8 md:p-12 flex flex-col justify-center">
+      <h1 class="font-serif text-4xl md:text-5xl font-semibold text-black mb-2">Sir Arthur Conan Doyle</h1>
+      <p class="text-amber-900 text-lg mb-6 italic">His Life, All His Works and More</p>
+      <div class="text-black text-base leading-relaxed space-y-4">
+        <p>Welcome to <strong>Sir Arthur Conan Doyle – His Life, All His Works and More</strong>, a leading website bringing you the works of <a href={`${import.meta.env.BASE_URL}who-is-doyle/`} class="text-amber-900 hover:underline">Sir Arthur Conan Doyle</a> including his most popular creation Sherlock Holmes.</p>
+        <p><strong>Sir Arthur Ignatius Conan Doyle</strong> (22 May 1859 – 7 July 1930) was a British writer and physician. He created the character <a href={`${import.meta.env.BASE_URL}canon/`} class="text-amber-900 hover:underline">Sherlock Holmes</a> in 1887 for <em><a href={`${import.meta.env.BASE_URL}canon/novels/a-study-in-scarlet/a-study-in-scarlet/`} class="text-amber-900 hover:underline">A Study in Scarlet</a></em>, the first of four novels and fifty-six short stories about Holmes and Dr. Watson. The Sherlock Holmes stories are milestones in the field of crime fiction.</p>
+        <p>Doyle was a prolific writer; other than Holmes stories, his works include fantasy and science fiction stories about <a href={`${import.meta.env.BASE_URL}try-your-luck-with-professor-challenger/`} class="text-amber-900 hover:underline">Professor Challenger</a> and humorous stories about the Napoleonic soldier Brigadier Gerard, as well as plays, romances, poetry, non-fiction, and historical novels.</p>
+      </div>
+    </div>
+    <div class="hidden md:block border-l border-amber-200">
+      <Image
+        src={sacdPortrait}
+        alt="Sir Arthur Conan Doyle"
+        class="w-full h-full object-cover object-top"
+        loading="eager"
+      />
+    </div>
+  </div>
+
+  <!-- Sherlock Holmes Canon -->
+  <div class="border-t border-amber-200 px-8 py-10">
+    <div class="mb-8">
+      <h2 class="font-serif text-2xl text-black mb-1">The Sherlock Holmes Canon</h2>
+      <p class="text-sm text-amber-900">4 novels · 56 short stories</p>
     </div>
 
-    <section class="mb-14 bg-white bg-opacity-80 rounded-lg p-8">
-      <h2 class="font-serif text-2xl text-black mb-4">About the Author</h2>
-      <div class="text-black text-base leading-relaxed space-y-4">
-        <p>Welcome to <strong>Sir Arthur Conan Doyle - His Life, All His Works and More</strong>, a leading website bringing you the works of <a href={`${import.meta.env.BASE_URL}biography-of-sir-arthur-conan-doyle/`}>Sir Arthur Conan Doyle</a> including his most popular creation Sherlock Holmes.</p>
+    <!-- Novels -->
+    <div class="mb-8">
+      <h3 class="text-xs font-semibold uppercase tracking-widest text-amber-900 mb-4">Novels</h3>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+        {novels.map(n => (
+          <li>
+            <a href={`${import.meta.env.BASE_URL}canon/${n.slug}/`} class="flex items-center gap-4 rounded-lg border border-amber-300 bg-white hover:bg-amber-50 transition-colors group overflow-hidden">
+              <div class="w-20 h-24 shrink-0 overflow-hidden bg-amber-100">
+                <Image
+                  src={n.image}
+                  alt={n.title}
+                  class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300"
+                  width={80}
+                  height={96}
+                />
+              </div>
+              <div class="py-2 pr-4 min-w-0">
+                <span class="block font-serif text-black group-hover:text-amber-900 leading-snug">{n.title}</span>
+                <span class="block text-xs text-amber-800 mt-1">{n.year}</span>
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
 
-        <p><strong>Sir Arthur Ignatius Conan Doyle</strong> (22 May 1859 – 7 July 1930) was a British writer and physician. He created the character <a href={`${import.meta.env.BASE_URL}canon/`}>Sherlock Holmes</a> in 1887 for <em><a href={`${import.meta.env.BASE_URL}novels/a-study-in-scarlet/`}>A Study in Scarlet</a></em>, the first of four novels and fifty-six short stories about Holmes and Dr. Watson. The Sherlock Holmes stories are milestones in the field of crime fiction.</p>
-
-        <p>Doyle was a prolific writer; other than Holmes stories, his works include fantasy and science fiction stories about <a href={`${import.meta.env.BASE_URL}try-your-luck-with-professor-challenger/`}>Professor Challenger</a> and humorous stories about the Napoleonic soldier Brigadier Gerard, as well as plays, romances, poetry, non-fiction, and historical novels. One of Doyle's early short stories, "<a href={`${import.meta.env.BASE_URL}j-habakuk-jephsons-statement/`}>J. Habakuk Jephson's Statement</a>" (1884), helped to popularise the mystery of the <em>Mary Celeste</em>.</p>
-
-        <p><a href={`${import.meta.env.BASE_URL}canon/`}>Sherlock Holmes</a> is the master detective created by Sir Arthur Conan Doyle. This site brings to you the four novels and several of the cases of Sherlock Holmes, written by Sir Arthur Conan Doyle.</p>
-
-        <p>You will also find the other novels of Sir Arthur Conan Doyle, including <a href={`${import.meta.env.BASE_URL}novels/hound-of-the-baskervilles/`}>The Hound of the Baskervilles</a> and <a href={`${import.meta.env.BASE_URL}novels/lost-world/`}>The Lost World</a>.</p>
-
-        <p>We are continuously updating and adding more stories and novels so do check back often. Alternatively, subscribe to our feed to get the updates in your favourite feed reader.</p>
-      </div>
-    </section>
-
-    <section class="mb-14">
-
-      <h2 class="font-serif text-2xl text-black mb-1">The Sherlock Holmes Canon</h2>
-      <p class="text-sm text-amber-900 mb-6">4 novels · 56 short stories</p>
-
-      <div class="mb-6">
-        <h3 class="text-xs font-semibold uppercase tracking-widest text-amber-900 mb-3">Novels</h3>
-        <ul class="grid grid-cols-1 sm:grid-cols-2 gap-2">
-          {novels.map(n => (
-            <li>
-              <a href={`${import.meta.env.BASE_URL}canon/${n.slug}/`} class="flex justify-between items-baseline px-4 py-3 rounded-lg border border-amber-300 bg-white hover:bg-amber-100 transition-colors group">
-                <span class="font-serif text-black group-hover:text-amber-900">{n.title}</span>
-                <span class="text-xs text-amber-800 ml-3 shrink-0">{n.year}</span>
-              </a>
-            </li>
-          ))}
-        </ul>
-      </div>
-
-      <div>
-        <h3 class="text-xs font-semibold uppercase tracking-widest text-amber-900 mb-3">Short Story Collections</h3>
-        <ul class="grid grid-cols-1 sm:grid-cols-2 gap-2">
-          {collections.map(c => (
-            <li>
-              <a href={`${import.meta.env.BASE_URL}canon/${c.slug}/`} class="flex justify-between items-baseline px-4 py-3 rounded-lg border border-amber-300 bg-white hover:bg-amber-100 transition-colors group">
-                <span class="font-serif text-black group-hover:text-amber-900">{c.title}</span>
-                <span class="text-xs text-amber-800 ml-3 shrink-0">{c.count} stories</span>
-              </a>
-            </li>
-          ))}
-        </ul>
-      </div>
-    </section>
-
-    <section class="bg-white bg-opacity-80 rounded-lg p-8">
-      <h2 class="font-serif text-2xl text-black mb-1">Other Works</h2>
-      <p class="text-sm text-amber-900 mb-4">Novels, novellas, and short story collections beyond Holmes</p>
-      <a href={`${import.meta.env.BASE_URL}novels/`} class="inline-block px-4 py-2 border border-amber-900 rounded-lg text-black hover:bg-amber-100 transition-colors text-sm font-medium">
-        Browse all novels &amp; collections →
-      </a>
-    </section>
+    <!-- Short Story Collections -->
+    <div>
+      <h3 class="text-xs font-semibold uppercase tracking-widest text-amber-900 mb-4">Short Story Collections</h3>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+        {collections.map(c => (
+          <li>
+            <a href={`${import.meta.env.BASE_URL}canon/${c.slug}/`} class="flex items-center gap-4 rounded-lg border border-amber-300 bg-white hover:bg-amber-50 transition-colors group overflow-hidden">
+              <div class="w-20 h-24 shrink-0 overflow-hidden bg-amber-100">
+                <Image
+                  src={c.image}
+                  alt={c.title}
+                  class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300"
+                  width={80}
+                  height={96}
+                />
+              </div>
+              <div class="py-2 pr-4 min-w-0">
+                <span class="block font-serif text-black group-hover:text-amber-900 leading-snug">{c.title}</span>
+                <span class="block text-xs text-amber-800 mt-1">{c.year} · {c.count} stories</span>
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
   </div>
+
+  <!-- Other Works -->
+  <div class="border-t border-amber-200 px-8 py-10">
+    <h2 class="font-serif text-2xl text-black mb-1">Other Works</h2>
+    <p class="text-sm text-amber-900 mb-4">Novels, novellas, and short story collections beyond Holmes</p>
+    <p class="text-black text-base leading-relaxed mb-6">
+      You will also find the other novels of Sir Arthur Conan Doyle, including <a href={`${import.meta.env.BASE_URL}novels/hound-of-the-baskervilles/`} class="text-amber-900 hover:underline">The Hound of the Baskervilles</a> and <a href={`${import.meta.env.BASE_URL}novels/lost-world/`} class="text-amber-900 hover:underline">The Lost World</a>. We are continuously updating and adding more stories and novels so do check back often.
+    </p>
+    <a href={`${import.meta.env.BASE_URL}novels/`} class="inline-block px-4 py-2 border border-amber-900 rounded-lg text-black hover:bg-amber-100 transition-colors text-sm font-medium">
+      Browse all novels &amp; collections →
+    </a>
+  </div>
+
 </Base>
