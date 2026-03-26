@@ -10,7 +10,7 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig({
   site: 'https://sirconandoyle.com',
   output: 'static',
-  adapter: cloudflare({ imageService: 'passthrough' }),
+  adapter: cloudflare({ imageService: 'passthrough', prerenderEnvironment: 'node' }),
 
   integrations: [
     sitemap(),
