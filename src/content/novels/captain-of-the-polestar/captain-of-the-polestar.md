@@ -20,16 +20,16 @@ A. Conan Doyle, M.D.
 
 ## Contents:
 
-- [The Captain Of The Pole-star](/captain-polestar/%20%22The%20Captain%20of%20the%20Polestar%22/)
-- [J. Habakuk Jephson's Statement](/f-habakuk-jephsons-statement/%20%22F.%20Habakuk%20Jephson%E2%80%99s%20Statement%22/)
-- [The Great Keinplatz Experiment](/great-keinplatz-experiment/%20%22The%20Great%20Keinplatz%20Experiment%22/)
-- [The Man From Archangel](/man-archangel/%20%22The%20Man%20From%20Archangel%22/)
-- [That Little Square Box](/square-box/%20%22That%20Little%20Square%20Box%22/)
-- [John Huxford's Hiatus](/john-huxfords-hiatus/%20%22John%20Huxford%E2%80%99s%20Hiatus%22/)
-- [A Literary Mosaic](/literary-mosaic/%20%22A%20Literary%20Mosaic%22/)
-- [John Barrington Cowles](/john-barrington-cowles/%20%22John%20Barrington%20Cowles%22/)
-- [The Parson Of Jackman's Gulch](/parson-jackmans-gulch/%20%22The%20Parson%20Of%20Jackman%E2%80%99s%20Gulch%22/)
-- [The Ring Of Thoth](/ring-thoth/%20%22The%20Ring%20Of%20Thoth%22/)
+- [The Captain Of The Pole-star](/novels/captain-of-the-polestar/captain-polestar/)
+- [J. Habakuk Jephson's Statement](/novels/captain-of-the-polestar/f-habakuk-jephsons-statement/)
+- [The Great Keinplatz Experiment](/novels/captain-of-the-polestar/great-keinplatz-experiment/)
+- [The Man From Archangel](/novels/captain-of-the-polestar/man-archangel/)
+- [That Little Square Box](/novels/captain-of-the-polestar/square-box/)
+- [John Huxford's Hiatus](/novels/captain-of-the-polestar/john-huxfords-hiatus/)
+- [A Literary Mosaic](/novels/captain-of-the-polestar/literary-mosaic/)
+- [John Barrington Cowles](/novels/captain-of-the-polestar/john-barrington-cowles/)
+- [The Parson Of Jackman's Gulch](/novels/captain-of-the-polestar/parson-jackmans-gulch/)
+- [The Ring Of Thoth](/novels/captain-of-the-polestar/ring-thoth/)
 
 ## Download or Purchase from Amazon
 
