@@ -3,18 +3,18 @@ import Base from '../../layouts/Base.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 
 const novels = [
-  { slug: 'girdlestone',               title: 'The Firm of Girdlestone',                  year: '1890' },
-  { slug: 'beyond-the-city',           title: 'Beyond the City',                          year: '1892' },
-  { slug: 'mystery-of-cloomber',       title: 'The Mystery of Cloomber',                  year: '1889' },
-  { slug: 'stark-munro-letters',       title: 'The Stark Munro Letters',                  year: '1895' },
-  { slug: 'lost-world',                title: 'The Lost World',                           year: '1912' },
-  { slug: 'poison-belt',               title: 'The Poison Belt',                          year: '1913' },
-  { slug: 'crime-of-the-congo',        title: 'The Crime of the Congo',                   year: '1909' },
-  { slug: 'captain-of-the-polestar',   title: 'The Captain of the Polestar and Other Tales', year: '1890' },
-  { slug: 'captain-sharkey',           title: 'The Dealings of Captain Sharkey',          year: '1919' },
-  { slug: 'my-friend-the-murderer',    title: 'My Friend the Murderer and Other Stories', year: '1893' },
-  { slug: 'tales-of-terror-and-mystery', title: 'Tales of Terror and Mystery',            year: '1922' },
-  { slug: 'croxley-master',            title: 'The Croxley Master',                       year: '1907' },
+  { slug: 'girdlestone',               title: 'The Firm of Girdlestone',                  year: '1890', description: 'A cynical father-and-son trading firm, facing ruin, conspire to murder their ward to seize her inheritance. An early Doyle thriller exploring greed and moral corruption.' },
+  { slug: 'beyond-the-city',           title: 'Beyond the City',                          year: '1892', description: 'A suburban comedy-drama set outside London, exploring the lives of three neighbouring families and the challenges posed by an unconventional widow championing women\'s independence.' },
+  { slug: 'mystery-of-cloomber',       title: 'The Mystery of Cloomber',                  year: '1889', description: 'A former British general, haunted for decades by avenging Buddhist priests for a wartime massacre in India, meets his inevitable fate on the Scottish moors.' },
+  { slug: 'stark-munro-letters',       title: 'The Stark Munro Letters',                  year: '1895', description: 'A semi-autobiographical epistolary novel following a young medical graduate through the trials of establishing a practice, drawing on Doyle\'s own early career.' },
+  { slug: 'lost-world',                title: 'The Lost World',                           year: '1912', description: 'The irascible Professor Challenger leads an expedition to a remote South American plateau where prehistoric creatures — including dinosaurs — still roam.' },
+  { slug: 'poison-belt',               title: 'The Poison Belt',                          year: '1913', description: 'Professor Challenger and his companions seal themselves in an airtight room with oxygen cylinders as the Earth passes through a belt of ether that renders all life unconscious.' },
+  { slug: 'crime-of-the-congo',        title: 'The Crime of the Congo',                   year: '1909', description: 'A non-fiction exposé condemning the brutal exploitation of the Congolese people under King Leopold II\'s rubber regime in the Congo Free State.' },
+  { slug: 'captain-of-the-polestar',   title: 'The Captain of the Polestar and Other Tales', year: '1890', description: 'A collection of ten varied tales including the chilling Arctic ghost story of the title, alongside adventure and the supernatural, drawing on Doyle\'s own time at sea.' },
+  { slug: 'captain-sharkey',           title: 'The Dealings of Captain Sharkey',          year: '1919', description: 'A collection of swashbuckling pirate tales featuring the cold-blooded and cunning buccaneer Captain Sharkey, the terror of the Caribbean seas.' },
+  { slug: 'my-friend-the-murderer',    title: 'My Friend the Murderer and Other Stories', year: '1893', description: 'An early collection of short stories spanning mystery, crime, and adventure, including the title tale of a doctor\'s conversations with a convicted turned-informer murderer.' },
+  { slug: 'tales-of-terror-and-mystery', title: 'Tales of Terror and Mystery',            year: '1922', description: 'Twelve stories divided between "Tales of Terror" (supernatural horrors) and "Tales of Mystery" (baffling, inexplicable crimes), showcasing Doyle\'s range beyond Holmes.' },
+  { slug: 'croxley-master',            title: 'The Croxley Master',                       year: '1907', description: 'A medical assistant with no money to complete his degree agrees to fight the fearsome local boxing champion, staking everything on the outcome of a single bout.' },
 ].sort((a, b) => a.year.localeCompare(b.year));
 ---
 <Base title="Other Novels &amp; Collections" description="Explore the wide range of novels and collections by Sir Arthur Conan Doyle beyond Sherlock Holmes, including science fiction, historical fiction, and mysteries.">
@@ -30,9 +30,12 @@ const novels = [
     <ul class="space-y-2">
       {novels.map(n => (
         <li>
-          <a href={`${import.meta.env.BASE_URL}novels/${n.slug}/`} class="flex justify-between items-baseline px-4 py-3 rounded-lg border border-stone-200 hover:border-amber-300 hover:bg-amber-50 transition-colors group">
-            <span class="font-serif text-stone-800 group-hover:text-amber-900">{n.title}</span>
-            <span class="text-sm text-stone-400 ml-4 shrink-0">{n.year}</span>
+          <a href={`${import.meta.env.BASE_URL}novels/${n.slug}/`} class="flex gap-4 px-4 py-4 rounded-lg border border-amber-300 hover:bg-amber-50 transition-colors group">
+            <div class="flex-1">
+              <span class="font-serif text-lg text-black group-hover:text-amber-900">{n.title}</span>
+              <p class="text-sm text-amber-800 mt-0.5">{n.description}</p>
+            </div>
+            <span class="text-sm text-amber-800 shrink-0 pt-0.5">{n.year}</span>
           </a>
         </li>
       ))}
