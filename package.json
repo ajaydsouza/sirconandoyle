@@ -9,6 +9,7 @@
     "dev": "astro dev",
     "prebuild": "node scripts/gen-redirects.js",
     "build": "astro build",
+    "postbuild": "node scripts/inject-sitemap-xsl.js",
     "preview": "astro preview",
     "astro": "astro",
     "generate-types": "wrangler types"
