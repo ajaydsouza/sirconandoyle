@@ -1,4 +1,4 @@
-# sirconandoyle.com redirects — generated on 2026-03-26T07:48:48.597Z
+# sirconandoyle.com redirects — generated on 2026-04-02T05:28:41.622Z
 
 # Collection indexes
 /the-adventures-of-sherlock-holmes/   /canon/adventures/   301
@@ -10,6 +10,21 @@
 /novels-sir-arthur-conan-doyle/       /novels/             301
 /the-canon/                           /canon/              301
 /biography-of-sir-arthur-conan-doyle/ /about/              301
+
+# Novel alias
+/the-hound-of-the-baskervilles/      /canon/novels/hound-of-the-baskervilles/ 301
+
+# Old blog posts (no equivalent in new site)
+/hello-world/                         /                    301
+/we-got-a-new-theme/                  /                    301
+/500/                                 /                    301
+/400-fans-on-facebook/                /                    301
+/300-fans-on-facebook-and-climbing/   /                    301
+/we-now-have-over-200-fans-on-facebook/ /                  301
+/sir-arthur-conan-doyle-on-facebook/  /                    301
+/follow-atsirconandoyle-on-twitter/   /                    301
+/the-save-undershaw-preservation-trust/ /                  301
+/sherlock-holmes-and-the-dead-boer-at-scotney-castle/ /    301
 
 # Individual content mappings
 /a-case-of-mistaken-identity/            /canon/adventures/a-case-of-mistaken-identity/     301
@@ -145,7 +160,7 @@
 /the-new-comers/                         /novels/beyond-the-city/the-new-comers/            301
 /venit-tandem-felicitas/                 /novels/beyond-the-city/venit-tandem-felicitas/    301
 /women-of-the-future/                    /novels/beyond-the-city/women-of-the-future/       301
-/captain-polestar-tales/                 /novels/captain-of-the-polestar/captain-polestar-tales/ 301
+/captain-of-the-polestar/                /novels/captain-of-the-polestar/                   301
 /captain-polestar/                       /novels/captain-of-the-polestar/captain-polestar/  301
 /f-habakuk-jephsons-statement/           /novels/captain-of-the-polestar/f-habakuk-jephsons-statement/ 301
 /great-keinplatz-experiment/             /novels/captain-of-the-polestar/great-keinplatz-experiment/ 301
@@ -159,9 +174,9 @@
 /blighting-sharkey/                      /novels/captain-sharkey/blighting-sharkey/         301
 /captain-polestar-2/                     /novels/captain-sharkey/captain-polestar-2/        301
 /captain-sharkey-governor-saint-kitts-home/ /novels/captain-sharkey/captain-sharkey-governor-saint-kitts-home/ 301
+/captain-sharkey/                        /novels/captain-sharkey/                           301
 /copley-banks-slew-captain-sharkey/      /novels/captain-sharkey/copley-banks-slew-captain-sharkey/ 301
 /dealings-captain-sharkey-stephen-craddock/ /novels/captain-sharkey/dealings-captain-sharkey-stephen-craddock/ 301
-/dealings-captain-sharkey-tales-pirates/ /novels/captain-sharkey/dealings-captain-sharkey-tales-pirates/ 301
 /fiend-cooperage/                        /novels/captain-sharkey/fiend-cooperage/           301
 /j-habakuk-jephsons-statement/           /novels/captain-sharkey/j-habakuk-jephsons-statement/ 301
 /jellands-voyage/                        /novels/captain-sharkey/jellands-voyage/           301
@@ -175,7 +190,7 @@
 /congolese-apologies/                    /novels/crime-of-the-congo/congolese-apologies/    301
 /consul-roger-casements-report/          /novels/crime-of-the-congo/consul-roger-casements-report/ 301
 /crime-congo-preface-introduction/       /novels/crime-of-the-congo/crime-congo-preface-introduction/ 301
-/crime-congo/                            /novels/crime-of-the-congo/crime-congo/            301
+/crime-of-the-congo/                     /novels/crime-of-the-congo/                        301
 /development-congo-state/                /novels/crime-of-the-congo/development-congo-state/ 301
 /evidence-date/                          /novels/crime-of-the-congo/evidence-date/          301
 /fruits-system-2/                        /novels/crime-of-the-congo/fruits-system-2/        301
@@ -207,9 +222,9 @@
 /dangerous-promise/                      /novels/girdlestone/dangerous-promise/             301
 /dwellers-bohemia/                       /novels/girdlestone/dwellers-bohemia/              301
 /faces-window/                           /novels/girdlestone/faces-window/                  301
-/firm-girdlestone/                       /novels/girdlestone/firm-girdlestone/              301
 /first-step/                             /novels/girdlestone/first-step/                    301
 /girdlestone-sends-doctor/               /novels/girdlestone/girdlestone-sends-doctor/      301
+/girdlestone/                            /novels/girdlestone/                               301
 /gleam-light/                            /novels/girdlestone/gleam-light/                   301
 /great-dance-morrisons/                  /novels/girdlestone/great-dance-morrisons/         301
 /incident-corridor/                      /novels/girdlestone/incident-corridor/             301
@@ -258,7 +273,6 @@
 /who-could-have-foreseen-it/             /novels/lost-world/who-could-have-foreseen-it/     301
 /a-night-among-the-nihilists/            /novels/my-friend-the-murderer/a-night-among-the-nihilists/ 301
 /bones-the-april-fool-of-harveys-sluice/ /novels/my-friend-the-murderer/bones-the-april-fool-of-harveys-sluice/ 301
-/my-friend-the-murderer-and-other-stories/ /novels/my-friend-the-murderer/my-friend-the-murderer-and-other-stories/ 301
 /my-friend-the-murderer/                 /novels/my-friend-the-murderer/                    301
 /our-derby-sweepstakes/                  /novels/my-friend-the-murderer/our-derby-sweepstakes/ 301
 /selecting-a-ghost/                      /novels/my-friend-the-murderer/selecting-a-ghost/  301
@@ -279,7 +293,7 @@
 /hole-cree/                              /novels/mystery-of-cloomber/hole-cree/             301
 /in-which-i-see-that-which-has-been-seen-by-few/ /novels/mystery-of-cloomber/in-which-i-see-that-which-has-been-seen-by-few/ 301
 /letter-hall/                            /novels/mystery-of-cloomber/letter-hall/           301
-/mystery-cloomber/                       /novels/mystery-of-cloomber/mystery-cloomber/      301
+/mystery-of-cloomber/                    /novels/mystery-of-cloomber/                       301
 /narrative-john-easterling-f-r-c-p-edin/ /novels/mystery-of-cloomber/narrative-john-easterling-f-r-c-p-edin/ 301
 /shadow-cloomber/                        /novels/mystery-of-cloomber/shadow-cloomber/       301
 /statement-israel-stakes/                /novels/mystery-of-cloomber/statement-israel-stakes/ 301
@@ -313,7 +327,7 @@
 /black-doctor/                           /novels/tales-of-terror-and-mystery/black-doctor/  301
 /case-lady-sannox/                       /novels/tales-of-terror-and-mystery/case-lady-sannox/ 301
 /jews-breastplate/                       /novels/tales-of-terror-and-mystery/jews-breastplate/ 301
-/tales-terror-mystery/                   /novels/tales-of-terror-and-mystery/tales-terror-mystery/ 301
+/tales-of-terror-and-mystery/            /novels/tales-of-terror-and-mystery/               301
 /terror-blue-john-gap/                   /novels/tales-of-terror-and-mystery/terror-blue-john-gap/ 301
 /the-beetle-hunter/                      /novels/tales-of-terror-and-mystery/the-beetle-hunter/ 301
 /the-brazilian-cat/                      /novels/tales-of-terror-and-mystery/the-brazilian-cat/ 301
