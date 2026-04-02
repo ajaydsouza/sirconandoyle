@@ -153,8 +153,10 @@
         <table>
           <thead>
             <tr>
-              <th style="width: 70%">URL</th>
-              <th style="width: 30%">Last Modified</th>
+              <th>URL</th>
+              <xsl:if test="sitemap:urlset/sitemap:url/sitemap:lastmod">
+                <th style="width: 150px">Last Modified</th>
+              </xsl:if>
             </tr>
           </thead>
           <tbody>
@@ -163,11 +165,13 @@
                 <td>
                   <a href="{sitemap:loc}"><xsl:value-of select="sitemap:loc"/></a>
                 </td>
-                <td class="lastmod">
-                  <xsl:if test="sitemap:lastmod">
-                    <xsl:value-of select="substring(sitemap:lastmod, 1, 10)"/>
-                  </xsl:if>
-                </td>
+                <xsl:if test="../../sitemap:url/sitemap:lastmod">
+                  <td class="lastmod">
+                    <xsl:if test="sitemap:lastmod">
+                      <xsl:value-of select="substring(sitemap:lastmod, 1, 10)"/>
+                    </xsl:if>
+                  </td>
+                </xsl:if>
               </tr>
             </xsl:for-each>
           </tbody>
